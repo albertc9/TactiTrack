@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437004,Home,David Raya,G,22,183,Spain,811123200,False,23,21,6.5
+12437004,Home,Thomas Partey,M,5,185,Ghana,739929600,False,74,70,7.7
+12437004,Home,William Saliba,D,2,193,France,985392000,False,92,89,7
+12437004,Home,Gabriel Magalhães,D,6,190,Brazil,882489600,False,61,58,6.8
+12437004,Home,Riccardo Calafiori,D,33,188,Italy,1021766400,False,45,37,7.4
+12437004,Home,Bukayo Saka,F,7,178,England,999648000,False,38,35,9.9
+12437004,Home,Jorginho,M,20,180,Italy,693187200,False,42,38,6.8
+12437004,Home,Declan Rice,M,41,188,England,916272000,False,44,41,7.3
+12437004,Home,Raheem Sterling,F,30,170,England,786844800,False,15,14,6.9
+12437004,Home,Kai Havertz,F,29,193,Germany,929059200,False,32,27,7.9
+12437004,Home,Gabriel Jesus,F,9,175,Brazil,860025600,False,13,9,7.3
+12437004,Home,Gabriel Martinelli,F,11,180,Brazil,992822400,True,20,16,7.4
+12437004,Home,Leandro Trossard,F,19,172,Belgium,786499200,True,16,13,7.1
+12437004,Home,Mikel Merino,M,23,188,Spain,835401600,True,13,10,7.2
+12437004,Home,Takehiro Tomiyasu,D,18,188,Japan,910224000,True,4,3,6.7
+12437004,Home,Jakub Kiwior,D,15,189,Poland,950572800,True,4,2,6.6
+12437004,Home,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown
+12437004,Home,Myles Lewis-Skelly,M,49,178,England,1159228800,True,Unknown,Unknown,Unknown
+12437004,Home,Ethan Nwaneri,F,53,176,England,1174435200,True,Unknown,Unknown,Unknown
+12437004,Home,Nathan Butler-Oyedeji,F,37,177,England,1041638400,True,Unknown,Unknown,Unknown
+12437004,Away,Aaron Ramsdale,G,30,191,England,895104000,False,45,34,6.7
+12437004,Away,Yukinari Sugawara,D,16,179,Japan,962150400,False,23,21,5.8
+12437004,Away,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,51,41,6.2
+12437004,Away,Jan Bednarek,D,35,189,Poland,829267200,False,78,72,6.8
+12437004,Away,Kyle Walker-Peters,D,2,173,England,860889600,False,53,51,6.4
+12437004,Away,Ryan Manning,D,3,172,Ireland,834710400,False,13,12,6.9
+12437004,Away,Tyler Dibling,M,33,178,England,1140134400,False,15,14,6.4
+12437004,Away,Joe Aribo,M,7,183,Nigeria,837907200,False,33,29,6.7
+12437004,Away,Flynn Downes,M,4,172,England,916790400,False,35,26,5.9
+12437004,Away,Mateus Fernandes,M,18,178,Portugal,1089417600,False,18,14,7
+12437004,Away,Ross Stewart,F,9,188,Scotland,841536000,False,4,1,6.4
+12437004,Away,Cameron Archer,F,19,181,England,1007856000,True,12,9,7.1
+12437004,Away,Paul Onuachu,F,32,201,Nigeria,770083200,True,5,5,6.6
+12437004,Away,Adam Armstrong,F,32,172,England,855532800,True,5,5,6.5
+12437004,Away,Charlie Taylor,D,21,183,England,748310400,True,5,3,6.5
+12437004,Away,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown
+12437004,Away,James Bree,D,14,178,England,876528000,True,Unknown,Unknown,Unknown
+12437004,Away,Adam Lallana,M,10,172,England,579225600,True,Unknown,Unknown,Unknown
+12437004,Away,Lesley Ugochukwu,M,26,188,France,1080259200,True,Unknown,Unknown,Unknown
+12437004,Away,Ben Brereton Díaz,F,20,188,Chile,924393600,True,Unknown,Unknown,Unknown

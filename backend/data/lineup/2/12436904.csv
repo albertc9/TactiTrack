@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436904,Home,José Sá,G,1,192,Portugal,727228800,False,28,17,5.9
+12436904,Home,Matt Doherty,D,2,182,Ireland,695520000,False,33,26,6.3
+12436904,Home,Yerson Mosquera,D,14,188,Colombia,988761600,False,48,37,5.8
+12436904,Home,Toti Gomes,D,24,187,Portugal,916444800,False,37,32,6.3
+12436904,Home,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,15,14,6.4
+12436904,Home,João Gomes,M,8,176,Brazil,981936000,False,39,33,6.4
+12436904,Home,Mario Lemina,M,99,184,Gabon,746841600,False,22,22,6.6
+12436904,Home,Hee-Chan Hwang,F,11,177,South Korea,822614400,False,11,9,6.1
+12436904,Home,Matheus Cunha,F,10,184,Brazil,927763200,False,18,13,7.3
+12436904,Home,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,6,3,6.2
+12436904,Home,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,13,7,7.3
+12436904,Home,Daniel Podence,M,56,165,Portugal,814233600,True,12,9,6.7
+12436904,Home,Craig Dawson,D,15,188,England,641952000,True,9,9,6.5
+12436904,Home,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,3,2,6.3
+12436904,Home,Pablo Sarabia,F,21,176,Spain,705542400,True,17,11,7
+12436904,Home,Tommy Doyle,M,20,172,England,1003276800,True,9,9,6.6
+12436904,Home,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown
+12436904,Home,Santiago Bueno,D,4,189,Uruguay,910569600,True,Unknown,Unknown,Unknown
+12436904,Home,Boubacar Traoré,M,6,183,Mali,998265600,True,Unknown,Unknown,Unknown
+12436904,Home,Gonçalo Guedes,F,29,179,Portugal,849225600,True,Unknown,Unknown,Unknown
+12436904,Away,Robert Sánchez,G,1,197,Spain,879811200,False,43,35,6.6
+12436904,Away,Malo Gusto,D,27,179,France,1053302400,False,48,42,7
+12436904,Away,Wesley Fofana,D,29,186,France,977011200,False,47,42,6.2
+12436904,Away,Levi Colwill,D,6,187,England,1046217600,False,77,71,6.9
+12436904,Away,Marc Cucurella,D,3,175,Spain,901065600,False,47,44,7
+12436904,Away,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,37,32,6.8
+12436904,Away,Enzo Fernández,M,8,177,Argentina,979689600,False,56,43,6.8
+12436904,Away,Noni Madueke,M,11,182,England,1015718400,False,18,15,9.7
+12436904,Away,Cole Palmer,M,80,188,England,1020643200,False,31,23,9
+12436904,Away,Mykhaylo Mudryk,M,10,175,Ukraine,978652800,False,8,5,6.2
+12436904,Away,Nicolas Jackson,F,15,186,Senegal,992995200,False,21,18,7.8
+12436904,Away,Pedro Neto,F,7,172,Portugal,952560000,True,21,20,7.1
+12436904,Away,João Félix,F,79,181,Portugal,942192000,True,13,10,7.4
+12436904,Away,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,12,10,6.1
+12436904,Away,Renato Veiga,D,12,190,Portugal,1059436800,True,15,15,6.7
+12436904,Away,Christopher Nkunku,F,18,175,France,879465600,True,1,1,6.9
+12436904,Away,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown
+12436904,Away,Tosin Adarabioyo,D,4,196,England,875059200,True,Unknown,Unknown,Unknown
+12436904,Away,Benoît Badiashile,D,5,194,France,985564800,True,Unknown,Unknown,Unknown
+12436904,Away,Marc Guiu,F,38,187,Spain,1136332800,True,Unknown,Unknown,Unknown

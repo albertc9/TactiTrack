@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436530,Home,Emiliano Martínez,G,23,195,Argentina,715392000,False,33,27,6.8
+12436530,Home,Ezri Konsa,D,4,183,England,877564800,False,57,46,6.8
+12436530,Home,Diego Carlos,D,3,185,Brazil,732153600,False,65,58,6.7
+12436530,Home,Pau Torres,D,14,192,Spain,853372800,False,14,13,6.4
+12436530,Home,Lucas Digne,D,12,178,France,743126400,False,41,35,7
+12436530,Home,Boubacar Kamara,M,44,184,France,943315200,False,51,44,6.8
+12436530,Home,Youri Tielemans,M,8,177,Belgium,862963200,False,52,44,6.9
+12436530,Home,Leon Bailey,M,31,178,Jamaica,871084800,False,25,22,8.1
+12436530,Home,John McGinn,M,7,175,Scotland,782438400,False,34,31,7.1
+12436530,Home,Morgan Rogers,M,27,187,England,1027641600,False,32,24,7.8
+12436530,Home,Ollie Watkins,F,11,179,England,820281600,False,17,13,8.5
+12436530,Home,Tyrone Mings,D,5,195,England,731980800,True,43,37,6.9
+12436530,Home,Jacob Ramsey,M,41,180,England,991008000,True,5,5,6.4
+12436530,Home,Ian Maatsen,D,22,178,Netherlands,1015718400,True,5,3,6.7
+12436530,Home,Ross Barkley,M,6,188,England,755049600,True,8,6,6.9
+12436530,Home,Amadou Onana,M,24,195,Belgium,997920000,True,4,4,6.5
+12436530,Home,Robin Olsen,G,25,198,Sweden,631756800,True,Unknown,Unknown,Unknown
+12436530,Home,Kosta Nedeljković,D,21,184,Serbia,1134691200,True,Unknown,Unknown,Unknown
+12436530,Home,Emiliano Buendía,M,16,170,Argentina,851472000,True,Unknown,Unknown,Unknown
+12436530,Home,Jaden Philogene-Bidace,M,29,181,England,1013126400,True,Unknown,Unknown,Unknown
+12436530,Away,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,32,25,7
+12436530,Away,Tariq Lamptey,D,2,165,Ghana,970272000,False,23,17,6.8
+12436530,Away,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,40,35,6.7
+12436530,Away,Lewis Dunk,D,5,190,England,690681600,False,59,54,7.3
+12436530,Away,Igor Júlio,D,3,185,Brazil,886809600,False,36,33,6.5
+12436530,Away,Carlos Baleba,M,20,179,Cameroon,1073088000,False,19,16,7.2
+12436530,Away,Yasin Ayari,M,26,172,Sweden,1065398400,False,21,20,6.8
+12436530,Away,Brajan Gruda,F,8,174,Germany,1085961600,False,10,6,6.2
+12436530,Away,Julio Enciso,M,9,173,Paraguay,1074729600,False,9,3,6.1
+12436530,Away,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,False,13,7,7
+12436530,Away,João Pedro,F,9,188,Brazil,1001462400,False,24,18,7.8
+12436530,Away,Georginio Rutter,M,14,182,France,1019260800,True,3,3,6.9
+12436530,Away,Kaoru Mitoma,M,22,178,Japan,864086400,True,16,10,6.3
+12436530,Away,Yankuba Minteh,F,17,180,Gambia,1090454400,True,9,4,6.5
+12436530,Away,Matt O'Riley,M,33,187,Denmark,974764800,True,7,6,6.7
+12436530,Away,Jakub Moder,M,7,191,Poland,923443200,True,8,6,6.9
+12436530,Away,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown
+12436530,Away,Joël Veltman,D,34,184,Netherlands,695433600,True,Unknown,Unknown,Unknown
+12436530,Away,Ruairi McConville,D,44,193,Northern Ireland,1114905600,True,Unknown,Unknown,Unknown
+12436530,Away,Solly March,M,7,180,England,774662400,True,Unknown,Unknown,Unknown

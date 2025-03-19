@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436460,Home,Martin Dúbravka,G,1,190,Slovakia,600825600,False,28,26,7.2
+12436460,Home,Valentino Livramento,D,21,181,England,1037059200,False,24,20,6.6
+12436460,Home,Fabian Schär,D,5,186,Switzerland,693187200,False,77,63,6.9
+12436460,Home,Dan Burn,D,33,201,England,705369600,False,73,69,7.1
+12436460,Home,Lewis Hall,D,20,179,England,1094601600,False,89,75,9
+12436460,Home,Bruno Guimarães,M,39,182,Brazil,879638400,False,27,22,7.5
+12436460,Home,Sandro Tonali,M,8,181,Italy,957744000,False,80,73,7.5
+12436460,Home,Joelinton,M,7,186,Brazil,839980800,False,42,39,7.6
+12436460,Home,Jacob Murphy,F,23,176,England,793584000,False,18,13,8.3
+12436460,Home,Alexander Isak,F,14,193,Sweden,937872000,False,21,15,9
+12436460,Home,Anthony Gordon,F,10,183,England,982972800,False,39,37,8
+12436460,Home,Kieran Trippier,D,2,174,England,653702400,True,59,56,6.6
+12436460,Home,Sean Longstaff,M,36,187,England,878169600,True,23,17,6.8
+12436460,Home,Harvey Barnes,M,11,181,England,881625600,True,24,20,7.3
+12436460,Home,William Osula,F,18,186,Denmark,1059955200,True,1,1,6.6
+12436460,Home,Joe Willock,M,28,186,England,935107200,True,8,7,6.9
+12436460,Home,Odysseas Vlachodimos,G,19,191,Greece,767318400,True,Unknown,Unknown,Unknown
+12436460,Home,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown
+12436460,Home,Lloyd Kelly,D,6,191,England,907200000,True,Unknown,Unknown,Unknown
+12436460,Home,Miguel Almirón,M,10,174,Paraguay,760838400,True,Unknown,Unknown,Unknown
+12436460,Away,Mads Hermansen,G,30,187,Denmark,963273600,False,15,6,7.3
+12436460,Away,James Justin,D,2,183,England,888192000,False,37,29,6.5
+12436460,Away,Conor Coady,D,4,184,England,730598400,False,50,42,5.7
+12436460,Away,Jannik Vestergaard,D,23,199,Denmark,712800000,False,58,51,6.8
+12436460,Away,Victor Kristiansen,D,16,181,Denmark,1039996800,False,37,24,6.2
+12436460,Away,Oliver Skipp,M,22,175,England,969062400,False,53,46,6.2
+12436460,Away,Hamza Choudhury,M,24,178,Bangladesh,875664000,False,33,28,6.5
+12436460,Away,Kasey McAteer,M,35,177,Ireland,1006387200,False,19,15,6.4
+12436460,Away,Bilal El Khannouss,M,11,180,Morocco,1084147200,False,40,32,6.9
+12436460,Away,Stephy Mavididi,M,10,182,England,896572800,False,27,21,6.5
+12436460,Away,Jamie Vardy,F,9,178,England,537321600,False,10,6,6.7
+12436460,Away,Danny Ward,G,1,191,Wales,740707200,True,18,10,6.5
+12436460,Away,Caleb Okoli,D,5,191,Italy,994982400,True,18,15,6.5
+12436460,Away,Facundo Buonanotte,M,40,174,Argentina,1103760000,True,3,3,6
+12436460,Away,Patson Daka,F,20,185,Zambia,907891200,True,3,Unknown,6.6
+12436460,Away,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,True,3,3,6.5
+12436460,Away,Wout Faes,D,3,185,Belgium,891561600,True,Unknown,Unknown,Unknown
+12436460,Away,Luke Thomas,D,33,178,England,992131200,True,Unknown,Unknown,Unknown
+12436460,Away,Henry Cartwright,M,6,177,England,1102723200,True,Unknown,Unknown,Unknown
+12436460,Away,Jordan Ayew,F,18,182,Ghana,684547200,True,Unknown,Unknown,Unknown

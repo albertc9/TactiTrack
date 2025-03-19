@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437025,Home,Alex Palmer,G,31,190,England,839635200,False,19,13,6.3
+12437025,Home,Dara O'Shea,D,26,188,Ireland,920505600,False,41,34,6.6
+12437025,Home,Luke Woolfenden,D,6,193,England,908928000,False,61,54,6.3
+12437025,Home,Jacob Greaves,D,24,193,England,968716800,False,48,44,6.3
+12437025,Home,Leif Davis,D,3,182,England,946598400,False,43,35,6.2
+12437025,Home,Kalvin Phillips,M,8,177,England,817862400,False,38,31,6.5
+12437025,Home,Jens Cajuste,M,12,188,Sweden,934243200,False,37,33,7.7
+12437025,Home,Jaden Philogene-Bidace,M,29,181,England,1013126400,False,17,9,6.6
+12437025,Home,Omari Hutchinson,M,20,174,England,1067385600,False,33,30,6.6
+12437025,Home,Julio Enciso,M,9,173,Paraguay,1074729600,False,24,17,6.3
+12437025,Home,Liam Delap,F,19,186,England,1044662400,False,11,9,7
+12437025,Home,Cameron Burgess,D,15,194,Australia,814233600,True,42,38,6.7
+12437025,Home,George Hirst,F,27,191,England,919036800,True,3,3,7.4
+12437025,Home,Nathan Broadhead,M,33,178,Wales,891734400,True,8,7,6.4
+12437025,Home,Jack Clarke,M,47,181,England,974937600,True,7,7,7
+12437025,Home,Jack Taylor,M,14,185,Ireland,898560000,True,6,5,6.4
+12437025,Home,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown
+12437025,Home,Ben Johnson,D,18,182,England,948672000,True,Unknown,Unknown,Unknown
+12437025,Home,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown
+12437025,Home,Sam Morsy,M,5,175,Egypt,684460800,True,Unknown,Unknown,Unknown
+12437025,Away,Matz Sels,G,26,188,Belgium,699062400,False,26,11,5.9
+12437025,Away,Ola Aina,D,34,182,Nigeria,844732800,False,24,22,6.5
+12437025,Away,Nikola Milenković,D,31,195,Serbia,876614400,False,21,17,8.8
+12437025,Away,Murillo,D,5,183,Brazil,1025740800,False,38,27,6.3
+12437025,Away,Neco Williams,D,7,183,Wales,987120000,False,40,30,6.9
+12437025,Away,Nicolás Domínguez,M,16,179,Argentina,898992000,False,25,22,6.6
+12437025,Away,Elliot Anderson,M,8,175,England,1036540800,False,42,37,6.5
+12437025,Away,Anthony Elanga,M,21,178,Sweden,1019865600,False,15,13,8.5
+12437025,Away,Morgan Gibbs-White,M,10,171,England,948931200,False,45,30,7.3
+12437025,Away,Callum Hudson-Odoi,M,14,177,England,973555200,False,24,24,6.9
+12437025,Away,Chris Wood,F,11,191,New Zealand,692064000,False,12,9,7
+12437025,Away,Morato,D,4,190,Brazil,993859200,True,10,8,6.2
+12437025,Away,Ryan Yates,M,22,190,England,880070400,True,18,16,6.6
+12437025,Away,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,5,4,6.5
+12437025,Away,Jota Silva,F,20,179,Portugal,933465600,True,3,3,7.5
+12437025,Away,Danilo,M,28,177,Brazil,988502400,True,8,7,Unknown
+12437025,Away,Wayne Hennessey,G,13,198,Wales,538444800,True,Unknown,Unknown,Unknown
+12437025,Away,Álex Moreno,D,19,179,Spain,739497600,True,Unknown,Unknown,Unknown
+12437025,Away,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown
+12437025,Away,Ibrahim Sangaré,M,6,191,Côte d'Ivoire,881020800,True,Unknown,Unknown,Unknown

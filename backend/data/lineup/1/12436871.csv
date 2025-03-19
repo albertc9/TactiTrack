@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436871,Home,Christian Walton,G,28,196,England,815875200,False,35,26,6.8
+12436871,Home,Axel Tuanzebe,D,40,185,DR Congo,879465600,False,24,22,6.5
+12436871,Home,Luke Woolfenden,D,6,193,England,908928000,False,52,47,7
+12436871,Home,Jacob Greaves,D,24,193,England,968716800,False,30,25,7.2
+12436871,Home,Leif Davis,D,3,182,England,946598400,False,29,24,6.6
+12436871,Home,Sam Morsy,M,5,175,Egypt,684460800,False,45,36,6.9
+12436871,Home,Massimo Luongo,M,25,174,Australia,717379200,False,19,16,6.9
+12436871,Home,Wes Burns,M,21,173,Wales,784684800,False,13,8,6.4
+12436871,Home,Conor Chaplin,M,10,170,England,856051200,False,23,16,6.8
+12436871,Home,Omari Hutchinson,M,20,174,England,1067385600,False,18,10,6.8
+12436871,Home,Liam Delap,F,19,186,England,1044662400,False,12,6,6.6
+12436871,Home,Ben Johnson,D,18,182,England,948672000,True,9,7,6.4
+12436871,Home,Jack Taylor,M,14,185,Ireland,898560000,True,19,15,6.5
+12436871,Home,Marcus Harness,M,18,182,England,825120000,True,14,9,6.3
+12436871,Home,Sammie Szmodics,M,23,168,Ireland,811900800,True,4,4,6.6
+12436871,Home,Ali Al-Hamadi,F,9,187,Iraq,1014940800,True,1,1,6.6
+12436871,Home,Cieran Slicker,G,13,187,Scotland,1032048000,True,Unknown,Unknown,Unknown
+12436871,Home,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown
+12436871,Home,Cameron Burgess,D,15,194,Australia,814233600,True,Unknown,Unknown,Unknown
+12436871,Home,Kalvin Phillips,M,8,177,England,817862400,True,Unknown,Unknown,Unknown
+12436871,Away,Alisson,G,1,191,Brazil,717984000,False,48,41,7.1
+12436871,Away,Trent Alexander-Arnold,D,66,180,England,907718400,False,46,32,7.7
+12436871,Away,Jarell Quansah,D,78,190,England,1043798400,False,28,25,7.1
+12436871,Away,Virgil van Dijk,D,4,193,Netherlands,678931200,False,85,80,7
+12436871,Away,Andrew Robertson,D,26,178,Scotland,763344000,False,56,50,6.8
+12436871,Away,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,59,51,7.2
+12436871,Away,Alexis Mac Allister,M,10,176,Argentina,914457600,False,49,42,6.6
+12436871,Away,Mohamed Salah,M,11,175,Egypt,708566400,False,33,25,8.1
+12436871,Away,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,46,42,7.8
+12436871,Away,Luis Díaz,F,7,178,Colombia,853113600,False,34,29,7.6
+12436871,Away,Diogo Jota,F,20,178,Portugal,849657600,False,14,8,7.2
+12436871,Away,Ibrahima Konaté,D,5,195,France,927590400,True,30,28,7
+12436871,Away,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,22,20,6.9
+12436871,Away,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,13,12,6.6
+12436871,Away,Cody Gakpo,F,18,193,Netherlands,926035200,True,7,7,6.6
+12436871,Away,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown
+12436871,Away,Harvey Elliott,M,19,170,England,1049414400,True,Unknown,Unknown,Unknown
+12436871,Away,Curtis Jones,M,17,185,England,980812800,True,Unknown,Unknown,Unknown
+12436871,Away,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown
+12436871,Away,Darwin Núñez,F,9,188,Uruguay,930182400,True,Unknown,Unknown,Unknown

@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436988,Home,Alisson,G,1,191,Brazil,717984000,False,29,27,7.1
+12436988,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,70,56,7.1
+12436988,Home,Ibrahima Konaté,D,5,195,France,927590400,False,72,66,7
+12436988,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,107,102,7.5
+12436988,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,False,61,56,7.7
+12436988,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,39,33,6.9
+12436988,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,38,33,7.1
+12436988,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,32,28,7.2
+12436988,Home,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,38,34,8.4
+12436988,Home,Luis Díaz,F,7,178,Colombia,853113600,False,37,33,7.8
+12436988,Home,Diogo Jota,F,20,178,Portugal,849657600,False,13,11,6.5
+12436988,Home,Cody Gakpo,F,18,193,Netherlands,926035200,True,13,12,6.8
+12436988,Home,Jarell Quansah,D,78,190,England,1043798400,True,13,13,6.8
+12436988,Home,Wataru Endo,M,3,178,Japan,729216000,True,16,16,6.7
+12436988,Home,Curtis Jones,M,17,185,England,980812800,True,11,10,6.8
+12436988,Home,Darwin Núñez,F,9,188,Uruguay,930182400,True,5,3,6.6
+12436988,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown
+12436988,Home,Andrew Robertson,D,26,178,Scotland,763344000,True,Unknown,Unknown,Unknown
+12436988,Home,Harvey Elliott,M,19,170,England,1049414400,True,Unknown,Unknown,Unknown
+12436988,Home,Federico Chiesa,F,14,175,Italy,877737600,True,Unknown,Unknown,Unknown
+12436988,Away,Nick Pope,G,22,198,England,703641600,False,17,9,6.3
+12436988,Away,Valentino Livramento,D,21,181,England,1037059200,False,28,25,6.5
+12436988,Away,Fabian Schär,D,5,186,Switzerland,693187200,False,49,42,6.3
+12436988,Away,Dan Burn,D,33,201,England,705369600,False,33,31,6.6
+12436988,Away,Lewis Hall,D,20,179,England,1094601600,False,38,30,6.9
+12436988,Away,Bruno Guimarães,M,39,182,Brazil,879638400,False,45,39,6.7
+12436988,Away,Sandro Tonali,M,8,181,Italy,957744000,False,34,30,6.8
+12436988,Away,Jacob Murphy,F,23,176,England,793584000,False,29,23,6.6
+12436988,Away,Anthony Gordon,F,10,183,England,982972800,False,22,18,6
+12436988,Away,Joe Willock,M,28,186,England,935107200,False,13,11,6.4
+12436988,Away,Callum Wilson,F,9,180,England,699148800,False,10,8,6.4
+12436988,Away,Harvey Barnes,M,11,181,England,881625600,True,7,6,6.7
+12436988,Away,Kieran Trippier,D,2,174,England,653702400,True,19,18,6.9
+12436988,Away,Lewis Miley,M,67,188,England,1146441600,True,18,17,6.6
+12436988,Away,William Osula,F,18,186,Denmark,1059955200,True,1,Unknown,6.3
+12436988,Away,Sean Longstaff,M,36,187,England,878169600,True,3,2,6.6
+12436988,Away,Martin Dúbravka,G,1,190,Slovakia,600825600,True,Unknown,Unknown,Unknown
+12436988,Away,John Ruddy,G,26,193,England,530496000,True,Unknown,Unknown,Unknown
+12436988,Away,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown
+12436988,Away,Emil Krafth,D,17,184,Sweden,775785600,True,Unknown,Unknown,Unknown

@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436485,Home,José Sá,G,1,192,Portugal,727228800,False,23,10,6.5
+12436485,Home,Nélson Semedo,M,22,177,Portugal,753408000,False,22,19,7.3
+12436485,Home,Santiago Bueno,D,4,189,Uruguay,910569600,False,31,27,7
+12436485,Home,Craig Dawson,D,15,188,England,641952000,False,38,35,7.3
+12436485,Home,Toti Gomes,D,24,187,Portugal,916444800,False,39,32,7.1
+12436485,Home,Mario Lemina,M,99,184,Gabon,746841600,False,22,17,6.9
+12436485,Home,João Gomes,M,8,176,Brazil,981936000,False,30,19,6.8
+12436485,Home,Pablo Sarabia,F,21,176,Spain,705542400,False,9,6,7.4
+12436485,Home,Matheus Cunha,F,10,184,Brazil,927763200,False,17,15,8.5
+12436485,Home,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,28,21,7
+12436485,Home,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,9,6,6.6
+12436485,Home,Jean-Ricner Bellegarde,M,27,170,France,898905600,True,5,4,6.6
+12436485,Home,Gonçalo Guedes,F,29,179,Portugal,849225600,True,3,Unknown,6.5
+12436485,Home,Matt Doherty,D,2,182,Ireland,695520000,True,Unknown,Unknown,Unknown
+12436485,Home,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,2,2,Unknown
+12436485,Home,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown
+12436485,Home,Alfie Pond,D,5,191,England,1076544000,True,Unknown,Unknown,Unknown
+12436485,Home,André,M,7,176,Brazil,995241600,True,Unknown,Unknown,Unknown
+12436485,Home,Tommy Doyle,M,20,172,England,1003276800,True,Unknown,Unknown,Unknown
+12436485,Home,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown
+12436485,Away,Aaron Ramsdale,G,30,191,England,895104000,False,37,33,6.2
+12436485,Away,Kyle Walker-Peters,D,2,173,England,860889600,False,66,61,7
+12436485,Away,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,114,106,6.3
+12436485,Away,Jan Bednarek,D,35,189,Poland,829267200,False,122,118,6.7
+12436485,Away,Jack Stephens,D,5,185,England,759628800,False,63,61,6.2
+12436485,Away,Ryan Manning,D,3,172,Ireland,834710400,False,29,23,7.2
+12436485,Away,Adam Armstrong,F,32,172,England,855532800,False,28,24,6.4
+12436485,Away,Joe Aribo,M,7,183,Nigeria,837907200,False,34,29,6.6
+12436485,Away,Adam Lallana,M,10,172,England,579225600,False,53,47,6.6
+12436485,Away,Mateus Fernandes,M,18,178,Portugal,1089417600,False,51,42,7.3
+12436485,Away,Cameron Archer,F,19,181,England,1007856000,False,6,5,6.3
+12436485,Away,Tyler Dibling,M,33,178,England,1140134400,True,18,15,7.4
+12436485,Away,Yukinari Sugawara,D,16,179,Japan,962150400,True,21,20,6.7
+12436485,Away,Lesley Ugochukwu,M,26,188,France,1080259200,True,24,19,6.6
+12436485,Away,Ben Brereton Díaz,F,20,188,Chile,924393600,True,3,1,6.5
+12436485,Away,Paul Onuachu,F,32,201,Nigeria,770083200,True,4,2,6.6
+12436485,Away,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown
+12436485,Away,James Bree,D,14,178,England,876528000,True,Unknown,Unknown,Unknown
+12436485,Away,Nathan Wood,D,15,188,England,1022803200,True,Unknown,Unknown,Unknown
+12436485,Away,Samuel Amo-Ameyaw,M,27,174,England,1153180800,True,Unknown,Unknown,Unknown

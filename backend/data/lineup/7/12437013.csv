@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437013,Home,Robert Sánchez,G,1,197,Spain,879811200,False,21,16,8.5
+12437013,Home,Malo Gusto,D,27,179,France,1053302400,False,79,70,7.3
+12437013,Home,Wesley Fofana,D,29,186,France,977011200,False,76,66,6.9
+12437013,Home,Levi Colwill,D,6,187,England,1046217600,False,78,73,7
+12437013,Home,Marc Cucurella,D,3,175,Spain,901065600,False,52,51,6.6
+12437013,Home,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,67,59,7
+12437013,Home,Enzo Fernández,M,8,177,Argentina,979689600,False,43,37,7.4
+12437013,Home,Noni Madueke,M,11,182,England,1015718400,False,32,27,8.7
+12437013,Home,Cole Palmer,M,80,188,England,1020643200,False,59,50,8.8
+12437013,Home,Jadon Sancho,M,19,180,England,953942400,False,38,30,7.6
+12437013,Home,Nicolas Jackson,F,15,186,Senegal,992995200,False,15,13,6.7
+12437013,Home,João Félix,F,79,181,Portugal,942192000,True,9,8,6.5
+12437013,Home,Christopher Nkunku,F,18,175,France,879465600,True,5,3,6.4
+12437013,Home,Tosin Adarabioyo,D,4,196,England,875059200,True,8,8,6.5
+12437013,Home,Mykhaylo Mudryk,M,10,175,Ukraine,978652800,True,3,2,6.8
+12437013,Home,Pedro Neto,F,7,172,Portugal,952560000,True,6,6,6.9
+12437013,Home,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown
+12437013,Home,Axel Disasi,D,3,190,France,889574400,True,Unknown,Unknown,Unknown
+12437013,Home,Renato Veiga,D,12,190,Portugal,1059436800,True,Unknown,Unknown,Unknown
+12437013,Home,Roméo Lavia,M,45,181,Belgium,1073347200,True,Unknown,Unknown,Unknown
+12437013,Away,Matz Sels,G,26,188,Belgium,699062400,False,31,11,8
+12437013,Away,Ola Aina,D,34,182,Nigeria,844732800,False,33,29,7.1
+12437013,Away,Nikola Milenković,D,31,195,Serbia,876614400,False,18,11,7.3
+12437013,Away,Murillo,D,5,183,Brazil,1025740800,False,30,21,6.3
+12437013,Away,Álex Moreno,D,19,179,Spain,739497600,False,17,15,6.7
+12437013,Away,Ryan Yates,M,22,190,England,880070400,False,24,21,6.8
+12437013,Away,James Ward-Prowse,M,8,177,England,783648000,False,40,35,6.4
+12437013,Away,Callum Hudson-Odoi,M,14,177,England,973555200,False,25,25,7.1
+12437013,Away,Morgan Gibbs-White,M,10,171,England,948931200,False,30,22,7
+12437013,Away,Elliot Anderson,M,8,175,England,1036540800,False,33,28,6.8
+12437013,Away,Chris Wood,F,11,191,New Zealand,692064000,False,7,4,7.2
+12437013,Away,Jota Silva,F,20,179,Portugal,933465600,True,4,3,6.5
+12437013,Away,Nicolás Domínguez,M,16,179,Argentina,898992000,True,4,4,6.7
+12437013,Away,Morato,D,4,190,Brazil,993859200,True,2,1,6.7
+12437013,Away,Neco Williams,D,7,183,Wales,987120000,True,3,1,6.8
+12437013,Away,Anthony Elanga,M,21,178,Sweden,1019865600,True,5,2,6.8
+12437013,Away,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown
+12437013,Away,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown
+12437013,Away,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,Unknown,Unknown,Unknown
+12437013,Away,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown

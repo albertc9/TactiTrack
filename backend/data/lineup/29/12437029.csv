@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437029,Home,Stefan Ortega,G,18,186,Germany,721008000,False,38,26,6.5
+12437029,Home,Rico Lewis,D,82,170,England,1100995200,False,51,42,6.6
+12437029,Home,Abdukodir Khusanov,D,45,186,Uzbekistan,1078012800,False,66,59,6.4
+12437029,Home,Rúben Dias,D,3,188,Portugal,863568000,False,85,73,6.6
+12437029,Home,Joško Gvardiol,D,24,186,Croatia,1011744000,False,52,44,7.3
+12437029,Home,Nico González,M,14,186,Spain,1010016000,False,62,52,6.4
+12437029,Home,İlkay Gündoğan,M,19,180,Germany,656726400,False,42,38,7.6
+12437029,Home,Savinho,M,26,176,Brazil,1081555200,False,13,11,6
+12437029,Home,Omar Marmoush,F,7,183,Egypt,918345600,False,27,22,8.4
+12437029,Home,Jérémy Doku,F,11,173,Belgium,1022457600,False,27,20,7.2
+12437029,Home,Erling Haaland,F,9,194,Norway,964137600,False,15,12,7.1
+12437029,Home,Bernardo Silva,M,20,173,Portugal,776476800,True,11,9,6.9
+12437029,Home,Phil Foden,M,47,171,England,959472000,True,10,8,6.6
+12437029,Home,Kevin De Bruyne,M,17,181,Belgium,678067200,True,3,2,6.5
+12437029,Home,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown
+12437029,Home,Vitor Reis,D,22,186,Brazil,1137024000,True,Unknown,Unknown,Unknown
+12437029,Home,Mateo Kovačić,M,8,178,Croatia,768182400,True,Unknown,Unknown,Unknown
+12437029,Home,Jack Grealish,M,10,180,England,810691200,True,Unknown,Unknown,Unknown
+12437029,Home,Matheus Nunes,M,27,183,Portugal,904176000,True,Unknown,Unknown,Unknown
+12437029,Home,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown
+12437029,Away,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,38,23,6.2
+12437029,Away,Jack Hinshelwood,D,41,182,England,1113177600,False,23,17,7.3
+12437029,Away,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,28,24,6.6
+12437029,Away,Adam Webster,D,4,191,England,789177600,False,55,44,6.4
+12437029,Away,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,33,27,7.5
+12437029,Away,Carlos Baleba,M,20,179,Cameroon,1073088000,False,31,23,6.2
+12437029,Away,Diego Gómez,M,25,185,Paraguay,1048723200,False,31,23,6.8
+12437029,Away,Yankuba Minteh,F,17,180,Gambia,1090454400,False,16,9,6.4
+12437029,Away,Georginio Rutter,M,14,182,France,1019260800,False,13,10,6.2
+12437029,Away,Kaoru Mitoma,M,22,178,Japan,864086400,False,15,11,6.6
+12437029,Away,João Pedro,F,9,188,Brazil,1001462400,False,29,20,6.6
+12437029,Away,Yasin Ayari,M,26,172,Sweden,1065398400,True,6,6,6.4
+12437029,Away,Danny Welbeck,F,18,185,England,659577600,True,2,Unknown,6.7
+12437029,Away,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,3,3,6.6
+12437029,Away,Brajan Gruda,F,8,174,Germany,1085961600,True,1,1,6.6
+12437029,Away,Mats Wieffer,M,27,188,Netherlands,942710400,True,4,4,6.4
+12437029,Away,Carl Rushworth,G,39,191,England,994032000,True,Unknown,Unknown,Unknown
+12437029,Away,Eiran Joe Cashin,D,16,184,Ireland,1005264000,True,Unknown,Unknown,Unknown
+12437029,Away,Jacob Slater,D,53,180,Ireland,1096934400,True,Unknown,Unknown,Unknown
+12437029,Away,Joe Knight,M,57,Unknown,England,1127260800,True,Unknown,Unknown,Unknown

@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436970,Home,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,39,20,7.1
+12436970,Home,Tariq Lamptey,D,2,165,Ghana,970272000,False,26,22,7.2
+12436970,Home,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,52,35,6.9
+12436970,Home,Adam Webster,D,4,191,England,789177600,False,36,28,7.1
+12436970,Home,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,26,23,6.6
+12436970,Home,Carlos Baleba,M,20,179,Cameroon,1073088000,False,43,38,6.6
+12436970,Home,Diego Gómez,M,25,185,Paraguay,1048723200,False,36,31,7.1
+12436970,Home,Yankuba Minteh,F,17,180,Gambia,1090454400,False,20,12,7.4
+12436970,Home,Georginio Rutter,M,14,182,France,1019260800,False,19,10,6.8
+12436970,Home,Kaoru Mitoma,M,22,178,Japan,864086400,False,20,13,5.7
+12436970,Home,João Pedro,F,9,188,Brazil,1001462400,False,19,12,7.6
+12436970,Home,Jack Hinshelwood,D,41,182,England,1113177600,True,6,2,6.6
+12436970,Home,Yasin Ayari,M,26,172,Sweden,1065398400,True,8,5,6.5
+12436970,Home,Danny Welbeck,F,18,185,England,659577600,True,6,5,7.4
+12436970,Home,Mats Wieffer,M,27,188,Netherlands,942710400,True,12,10,6.6
+12436970,Home,Solly March,M,7,180,England,774662400,True,Unknown,Unknown,Unknown
+12436970,Home,Carl Rushworth,G,39,191,England,994032000,True,Unknown,Unknown,Unknown
+12436970,Home,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,Unknown,Unknown,Unknown
+12436970,Home,Matt O'Riley,M,33,187,Denmark,974764800,True,Unknown,Unknown,Unknown
+12436970,Home,Brajan Gruda,F,8,174,Germany,1085961600,True,Unknown,Unknown,Unknown
+12436970,Away,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,33,23,6.3
+12436970,Away,Lewis Cook,M,4,175,England,854928000,False,44,38,7
+12436970,Away,James Hill,D,23,184,England,1010620800,False,55,40,6.7
+12436970,Away,Dean Huijsen,D,2,195,Spain,1113436800,False,74,62,7.1
+12436970,Away,Miloš Kerkez,D,3,180,Hungary,1068163200,False,41,32,7.1
+12436970,Away,Ryan Christie,M,10,178,Scotland,793411200,False,4,4,6.8
+12436970,Away,Tyler Adams,M,12,175,USA,918950400,False,73,60,6.7
+12436970,Away,David Brooks,F,7,173,Wales,868320000,False,8,6,6.3
+12436970,Away,Justin Kluivert,M,19,171,Netherlands,925862400,False,36,30,7.9
+12436970,Away,Antoine Semenyo,M,24,178,Ghana,947203200,False,28,26,6.6
+12436970,Away,Dango Ouattara,F,11,177,Burkina Faso,1013385600,False,15,11,7.1
+12436970,Away,Alex Scott,M,8,178,England,1061596800,True,29,21,6.9
+12436970,Away,Marcus Tavernier,M,16,178,England,922060800,True,20,15,7
+12436970,Away,Evanilson,F,9,181,Brazil,939168000,True,2,1,6.7
+12436970,Away,Luis Sinisterra,F,17,176,Colombia,929577600,True,5,3,6.9
+12436970,Away,Will Dennis,G,40,188,England,963187200,True,Unknown,Unknown,Unknown
+12436970,Away,Julio Soler,D,20,175,Argentina,1108512000,True,Unknown,Unknown,Unknown
+12436970,Away,Matai Akinmboni,D,45,191,USA,1161043200,True,Unknown,Unknown,Unknown
+12436970,Away,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown
+12436970,Away,Daniel Jebbison,F,21,190,Canada,1057881600,True,Unknown,Unknown,Unknown

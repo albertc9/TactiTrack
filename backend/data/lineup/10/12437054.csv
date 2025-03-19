@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437054,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,23,18,6.9
+12437054,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,46,30,7.8
+12437054,Home,Ibrahima Konaté,D,5,195,France,927590400,False,27,25,6.6
+12437054,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,83,73,6.9
+12437054,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,False,54,49,8.4
+12437054,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,41,33,7
+12437054,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,38,27,6.5
+12437054,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,20,13,7.3
+12437054,Home,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,28,25,6.8
+12437054,Home,Cody Gakpo,F,18,193,Netherlands,926035200,False,21,19,7.7
+12437054,Home,Darwin Núñez,F,9,188,Uruguay,930182400,False,10,6,7
+12437054,Home,Joe Gomez,D,2,188,England,864345600,True,25,22,7.3
+12437054,Home,Curtis Jones,M,17,185,England,980812800,True,10,10,7
+12437054,Home,Luis Díaz,F,7,178,Colombia,853113600,True,10,10,6.2
+12437054,Home,Wataru Endo,M,3,178,Japan,729216000,True,6,6,6.7
+12437054,Home,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,1,1,Unknown
+12437054,Home,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown
+12437054,Home,Andrew Robertson,D,26,178,Scotland,763344000,True,Unknown,Unknown,Unknown
+12437054,Home,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown
+12437054,Home,Tyler Morton,M,80,178,England,1036022400,True,Unknown,Unknown,Unknown
+12437054,Away,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,35,24,7.6
+12437054,Away,Joël Veltman,D,34,184,Netherlands,695433600,False,37,30,6.3
+12437054,Away,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,62,56,7
+12437054,Away,Igor Júlio,D,3,185,Brazil,886809600,False,64,60,6.8
+12437054,Away,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,55,49,6.5
+12437054,Away,Ferdi Kadıoğlu,D,24,174,Türkiye,939254400,False,22,20,7.4
+12437054,Away,Jack Hinshelwood,D,41,182,England,1113177600,False,57,52,6.8
+12437054,Away,Yasin Ayari,M,26,172,Sweden,1065398400,False,35,31,7.9
+12437054,Away,Kaoru Mitoma,M,22,178,Japan,864086400,False,35,29,6.6
+12437054,Away,Georginio Rutter,M,14,182,France,1019260800,False,13,8,6.4
+12437054,Away,Danny Welbeck,F,18,185,England,659577600,False,23,20,7.1
+12437054,Away,Mats Wieffer,M,27,188,Netherlands,942710400,True,13,10,6.8
+12437054,Away,Brajan Gruda,F,8,174,Germany,1085961600,True,6,6,6.5
+12437054,Away,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,3,3,6.5
+12437054,Away,Jakub Moder,M,7,191,Poland,923443200,True,9,9,6.7
+12437054,Away,Evan Ferguson,F,28,188,Ireland,1098144000,True,Unknown,Unknown,6.4
+12437054,Away,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown
+12437054,Away,Tariq Lamptey,D,2,165,Ghana,970272000,True,Unknown,Unknown,Unknown
+12437054,Away,Julio Enciso,M,9,173,Paraguay,1074729600,True,Unknown,Unknown,Unknown
+12437054,Away,Carlos Baleba,M,20,179,Cameroon,1073088000,True,Unknown,Unknown,Unknown

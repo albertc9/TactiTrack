@@ -1,0 +1,11 @@
+Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
+12436930,24,Ended,1738413000,Nottingham Forest,Brighton & Hove Albion,7,0,False,True,brighton-and-hove-albion-nottingham-forest
+12436911,24,Ended,1738422000,Bournemouth,Liverpool,0,2,False,True,bournemouth-liverpool
+12436921,24,Ended,1738422000,Everton,Leicester City,4,0,False,True,everton-leicester-city
+12436924,24,Ended,1738422000,Ipswich Town,Southampton,1,2,False,True,southampton-ipswich-town
+12436928,24,Ended,1738422000,Newcastle United,Fulham,1,2,False,True,fulham-newcastle-united
+12436932,24,Ended,1738431000,Wolverhampton,Aston Villa,2,0,False,True,aston-villa-wolverhampton
+12436916,24,Ended,1738504800,Brentford,Tottenham Hotspur,0,2,False,True,brentford-tottenham-hotspur
+12436925,24,Ended,1738504800,Manchester United,Crystal Palace,0,2,False,True,manchester-united-crystal-palace
+12436913,24,Ended,1738513800,Arsenal,Manchester City,5,1,False,True,arsenal-manchester-city
+12436919,24,Ended,1738612800,Chelsea,West Ham United,2,1,False,True,chelsea-west-ham-united

@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436481,Home,Stefan Ortega,G,18,186,Germany,721008000,False,20,19,6.7
+12436481,Home,Rico Lewis,D,82,170,England,1100995200,False,77,72,7.3
+12436481,Home,Manuel Akanji,D,25,187,Switzerland,806112000,False,69,64,6.3
+12436481,Home,Nathan Aké,D,6,180,Netherlands,793065600,False,67,61,7
+12436481,Home,Joško Gvardiol,D,24,186,Croatia,1011744000,False,71,66,7.1
+12436481,Home,Mateo Kovačić,M,8,178,Croatia,768182400,False,117,107,7.3
+12436481,Home,Savinho,M,26,176,Brazil,1081555200,False,36,32,8.2
+12436481,Home,Phil Foden,M,47,171,England,959472000,False,50,45,8.2
+12436481,Home,Bernardo Silva,M,20,173,Portugal,776476800,False,68,62,7.4
+12436481,Home,Jérémy Doku,F,11,173,Belgium,1022457600,False,22,18,7.1
+12436481,Home,Erling Haaland,F,9,194,Norway,964137600,False,13,10,6.5
+12436481,Home,Kevin De Bruyne,M,17,181,Belgium,678067200,True,14,11,6.8
+12436481,Home,Jahmai Simpson-Pusey,D,4,184,England,1131062400,True,8,8,6.5
+12436481,Home,İlkay Gündoğan,M,19,180,Germany,656726400,True,13,11,6.7
+12436481,Home,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown
+12436481,Home,Spike Brits,G,13,Unknown,England,1182643200,True,Unknown,Unknown,Unknown
+12436481,Home,Max Alleyne,D,3,185,England,1121904000,True,Unknown,Unknown,Unknown
+12436481,Home,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown
+12436481,Home,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown
+12436481,Home,Divin Mubama,F,9,183,England,1098662400,True,Unknown,Unknown,Unknown
+12436481,Away,Jordan Pickford,G,1,185,England,762998400,False,52,34,7.6
+12436481,Away,Séamus Coleman,D,23,177,Ireland,592531200,False,21,15,6.9
+12436481,Away,James Tarkowski,D,6,185,England,722131200,False,31,28,7.4
+12436481,Away,Jarrad Branthwaite,D,32,195,England,1025136000,False,30,24,7
+12436481,Away,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,27,23,6.4
+12436481,Away,Orel Mangala,M,8,178,Belgium,890179200,False,37,34,6.8
+12436481,Away,Idrissa Gueye,M,27,174,Senegal,622771200,False,35,31,7.1
+12436481,Away,Abdoulaye Doucouré,M,16,182,Mali,725846400,False,25,24,6.7
+12436481,Away,Jack Harrison,M,11,175,England,848448000,False,12,9,6.7
+12436481,Away,Dominic Calvert-Lewin,F,9,187,England,858470400,False,12,5,6.6
+12436481,Away,Iliman Ndiaye,F,10,180,Senegal,952300800,False,23,21,7.2
+12436481,Away,Armando Broja,F,22,191,Albania,1000080000,True,7,7,6.8
+12436481,Away,Jesper Lindstrøm,M,29,182,Denmark,951782400,True,4,3,6.6
+12436481,Away,Nathan Patterson,D,2,189,Scotland,1003190400,True,2,1,Unknown
+12436481,Away,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown
+12436481,Away,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown
+12436481,Away,Jake O'Brien,D,15,197,Ireland,989884800,True,Unknown,Unknown,Unknown
+12436481,Away,Harrison Armstrong,M,28,185,England,1169164800,True,Unknown,Unknown,Unknown
+12436481,Away,Beto,F,14,194,Guinea-Bissau,886204800,True,Unknown,Unknown,Unknown
+12436481,Away,Youssef Chermiti,F,17,192,Portugal,1085356800,True,Unknown,Unknown,Unknown

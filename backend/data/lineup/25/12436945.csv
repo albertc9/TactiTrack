@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436945,Home,Alisson,G,1,191,Brazil,717984000,False,26,15,6.5
+12436945,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,42,33,6.9
+12436945,Home,Ibrahima Konaté,D,5,195,France,927590400,False,23,21,6.7
+12436945,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,72,65,7.2
+12436945,Home,Andrew Robertson,D,26,178,Scotland,763344000,False,46,37,6.5
+12436945,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,38,34,7
+12436945,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,35,30,7.4
+12436945,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,28,16,7.2
+12436945,Home,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,32,26,6.4
+12436945,Home,Luis Díaz,F,7,178,Colombia,853113600,False,26,21,7.6
+12436945,Home,Diogo Jota,F,20,178,Portugal,849657600,False,13,10,6.9
+12436945,Home,Jarell Quansah,D,78,190,England,1043798400,True,30,30,6.9
+12436945,Home,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,19,17,6.4
+12436945,Home,Darwin Núñez,F,9,188,Uruguay,930182400,True,8,4,6.4
+12436945,Home,Wataru Endo,M,3,178,Japan,729216000,True,5,5,6.6
+12436945,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown
+12436945,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,Unknown,Unknown,Unknown
+12436945,Home,Harvey Elliott,M,19,170,England,1049414400,True,Unknown,Unknown,Unknown
+12436945,Home,James McConnell,M,53,175,England,1095033600,True,Unknown,Unknown,Unknown
+12436945,Home,Federico Chiesa,F,14,175,Italy,877737600,True,Unknown,Unknown,Unknown
+12436945,Away,José Sá,G,1,192,Portugal,727228800,False,27,20,6
+12436945,Away,Matt Doherty,D,2,182,Ireland,695520000,False,56,48,6.7
+12436945,Away,Emmanuel Agbadou,D,12,192,Côte d'Ivoire,866505600,False,53,49,6.8
+12436945,Away,Toti Gomes,D,24,187,Portugal,916444800,False,47,43,6.7
+12436945,Away,Nélson Semedo,M,22,177,Portugal,753408000,False,27,19,6.8
+12436945,Away,André,M,7,176,Brazil,995241600,False,36,32,6.9
+12436945,Away,João Gomes,M,8,176,Brazil,981936000,False,38,36,6.8
+12436945,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,41,37,7
+12436945,Away,Pablo Sarabia,F,21,176,Spain,705542400,False,12,9,6.5
+12436945,Away,Matheus Cunha,F,10,184,Brazil,927763200,False,51,38,8.2
+12436945,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,False,7,7,6.6
+12436945,Away,Marshall Munetsi,M,5,187,Zimbabwe,835401600,True,4,3,6.8
+12436945,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,True,24,20,7.4
+12436945,Away,Santiago Bueno,D,4,189,Uruguay,910569600,True,25,20,6.5
+12436945,Away,Tommy Doyle,M,20,172,England,1003276800,True,7,5,6.5
+12436945,Away,Pedro Lima,D,37,174,Brazil,1151712000,True,3,2,Unknown
+12436945,Away,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown
+12436945,Away,Nasser Djiga,D,34,187,Burkina Faso,1037318400,True,Unknown,Unknown,Unknown
+12436945,Away,Boubacar Traoré,M,6,183,Mali,998265600,True,Unknown,Unknown,Unknown
+12436945,Away,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown

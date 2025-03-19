@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436946,Home,Ederson,G,31,188,Brazil,745545600,False,42,31,7.6
+12436946,Home,Kyle Walker,D,32,183,England,643852800,False,56,51,7
+12436946,Home,John Stones,D,5,188,England,770083200,False,47,41,6.1
+12436946,Home,Manuel Akanji,D,25,187,Switzerland,806112000,False,64,63,7
+12436946,Home,Rico Lewis,D,82,170,England,1100995200,False,17,17,7.2
+12436946,Home,Mateo Kovačić,M,8,178,Croatia,768182400,False,34,33,6.6
+12436946,Home,İlkay Gündoğan,M,19,180,Germany,656726400,False,58,55,7.3
+12436946,Home,Savinho,M,26,176,Brazil,1081555200,False,39,31,7.1
+12436946,Home,Kevin De Bruyne,M,17,181,Belgium,678067200,False,56,48,7.4
+12436946,Home,Jack Grealish,M,10,180,England,810691200,False,41,36,7.5
+12436946,Home,Erling Haaland,F,9,194,Norway,964137600,False,11,6,8.4
+12436946,Home,Joško Gvardiol,D,24,186,Croatia,1011744000,True,27,24,7
+12436946,Home,Rodri,M,16,191,Spain,835401600,True,48,45,7.3
+12436946,Home,Rúben Dias,D,3,188,Portugal,863568000,True,2,2,6.6
+12436946,Home,Bernardo Silva,M,20,173,Portugal,776476800,True,2,2,6.5
+12436946,Home,Matheus Nunes,M,27,183,Portugal,904176000,True,Unknown,Unknown,Unknown
+12436946,Home,Stefan Ortega,G,18,186,Germany,721008000,True,Unknown,Unknown,Unknown
+12436946,Home,Phil Foden,M,47,171,England,959472000,True,Unknown,Unknown,Unknown
+12436946,Home,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown
+12436946,Home,Jérémy Doku,F,11,173,Belgium,1022457600,True,Unknown,Unknown,Unknown
+12436946,Away,Mark Flekken,G,1,194,Netherlands,739929600,False,65,54,7.9
+12436946,Away,Kristoffer Ajer,D,20,196,Norway,892771200,False,37,30,6.6
+12436946,Away,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,49,44,6.9
+12436946,Away,Ethan Pinnock,D,5,194,Jamaica,738633600,False,68,64,7.1
+12436946,Away,Nathan Collins,D,22,193,Ireland,988588800,False,47,41,6.9
+12436946,Away,Keane Lewis-Potter,F,23,170,England,982800000,False,19,14,6.1
+12436946,Away,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,36,31,6.8
+12436946,Away,Christian Nørgaard,M,6,185,Denmark,763257600,False,47,43,7.5
+12436946,Away,Vitaly Janelt,M,27,184,Germany,894758400,False,33,28,6.6
+12436946,Away,Yoane Wissa,F,11,176,DR Congo,841708800,False,17,12,7.2
+12436946,Away,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,24,21,7
+12436946,Away,Kevin Schade,F,7,183,Germany,1006819200,True,11,5,6.9
+12436946,Away,Mads Roerslev,D,5,184,Denmark,930182400,True,7,5,6.7
+12436946,Away,Fabio Carvalho,F,14,170,Portugal,1030665600,True,5,3,6.6
+12436946,Away,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,3,3,6.5
+12436946,Away,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown
+12436946,Away,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown
+12436946,Away,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown
+12436946,Away,Ryan Trevitt,M,21,170,England,1047427200,True,Unknown,Unknown,Unknown
+12436946,Away,Jayden Meghoma,M,3,176,England,1151452800,True,Unknown,Unknown,Unknown

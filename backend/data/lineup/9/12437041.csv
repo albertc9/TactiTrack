@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437041,Home,Emiliano Martínez,G,23,195,Argentina,715392000,False,50,38,7
+12437041,Home,Matty Cash,D,2,185,Poland,870912000,False,35,31,7.1
+12437041,Home,Ezri Konsa,D,4,183,England,877564800,False,67,59,7.2
+12437041,Home,Pau Torres,D,14,192,Spain,853372800,False,37,34,6.9
+12437041,Home,Lucas Digne,D,12,178,France,743126400,False,26,23,7.2
+12437041,Home,John McGinn,M,7,175,Scotland,782438400,False,17,14,6.6
+12437041,Home,Amadou Onana,M,24,195,Belgium,997920000,False,32,28,6.6
+12437041,Home,Youri Tielemans,M,8,177,Belgium,862963200,False,67,53,7.4
+12437041,Home,Jacob Ramsey,M,41,180,England,991008000,False,38,30,7.2
+12437041,Home,Morgan Rogers,M,27,187,England,1027641600,False,12,10,6.5
+12437041,Home,Ollie Watkins,F,11,179,England,820281600,False,12,8,7.3
+12437041,Home,Ross Barkley,M,6,188,England,755049600,True,23,18,7.2
+12437041,Home,Jhon Durán,F,9,185,Colombia,1071273600,True,10,7,7.1
+12437041,Home,Ian Maatsen,D,22,178,Netherlands,1015718400,True,5,4,6.4
+12437041,Home,Leon Bailey,M,31,178,Jamaica,871084800,True,2,1,6.9
+12437041,Home,Boubacar Kamara,M,44,184,France,943315200,True,5,4,6.5
+12437041,Home,Robin Olsen,G,25,198,Sweden,631756800,True,Unknown,Unknown,Unknown
+12437041,Home,Tyrone Mings,D,5,195,England,731980800,True,Unknown,Unknown,Unknown
+12437041,Home,Diego Carlos,D,33,185,Brazil,732153600,True,Unknown,Unknown,Unknown
+12437041,Home,Emiliano Buendía,M,16,170,Argentina,851472000,True,Unknown,Unknown,Unknown
+12437041,Away,Mark Travers,G,32,191,Ireland,926985600,False,15,10,8.6
+12437041,Away,Julián Araujo,D,22,175,Mexico,997660800,False,8,8,6.4
+12437041,Away,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,35,30,7
+12437041,Away,Marcos Senesi,D,5,184,Argentina,863222400,False,64,51,7.2
+12437041,Away,Miloš Kerkez,D,3,180,Hungary,1068163200,False,21,19,7
+12437041,Away,Ryan Christie,M,10,178,Scotland,793411200,False,43,39,7.1
+12437041,Away,Lewis Cook,M,4,175,England,854928000,False,48,43,7
+12437041,Away,Dango Ouattara,F,11,177,Burkina Faso,1013385600,False,9,5,6.7
+12437041,Away,Justin Kluivert,M,19,171,Netherlands,925862400,False,10,9,6.8
+12437041,Away,Antoine Semenyo,M,24,178,Ghana,947203200,False,22,17,7.1
+12437041,Away,Enes Ünal,F,26,185,Türkiye,863222400,False,11,8,6.7
+12437041,Away,Adam Smith,D,15,180,England,672883200,True,19,15,6.3
+12437041,Away,Marcus Tavernier,M,16,178,England,922060800,True,10,8,7.1
+12437041,Away,Evanilson,F,9,181,Brazil,939168000,True,5,3,7.2
+12437041,Away,Tyler Adams,M,12,175,USA,918950400,True,3,3,6.5
+12437041,Away,David Brooks,F,7,173,Wales,868320000,True,2,2,6.6
+12437041,Away,Will Dennis,G,40,188,England,963187200,True,Unknown,Unknown,Unknown
+12437041,Away,Dean Huijsen,D,2,195,Spain,1113436800,True,Unknown,Unknown,Unknown
+12437041,Away,James Hill,D,23,184,England,1010620800,True,Unknown,Unknown,Unknown
+12437041,Away,Max Aarons,D,19,178,England,946944000,True,Unknown,Unknown,Unknown

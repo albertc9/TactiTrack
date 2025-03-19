@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436883,Home,André Onana,G,24,190,Cameroon,828403200,False,26,14,5.5
+12436883,Home,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,54,47,6.8
+12436883,Home,Harry Maguire,D,5,194,England,731289600,False,63,55,6.4
+12436883,Home,Leny Yoro,D,15,190,France,1131840000,False,53,49,6.4
+12436883,Home,Noussair Mazraoui,D,3,183,Morocco,879465600,False,30,25,6.3
+12436883,Home,Manuel Ugarte,M,25,182,Uruguay,986947200,False,26,22,6
+12436883,Home,Kobbie Mainoo,M,37,180,England,1113868800,False,35,32,6.3
+12436883,Home,Diogo Dalot,D,20,184,Portugal,921715200,False,46,35,6.5
+12436883,Home,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,26,20,7.2
+12436883,Home,Bruno Fernandes,M,8,179,Portugal,778982400,False,61,47,7.5
+12436883,Home,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,15,12,7.1
+12436883,Home,Toby Collyer,M,43,180,England,1073088000,True,19,18,6.7
+12436883,Home,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,6,4,6.3
+12436883,Home,Rasmus Højlund,F,9,191,Denmark,1044316800,True,1,1,6.5
+12436883,Home,Antony,F,7,172,Brazil,951350400,True,2,1,6.6
+12436883,Home,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown
+12436883,Home,Lisandro Martínez,D,6,175,Argentina,885081600,True,Unknown,Unknown,Unknown
+12436883,Home,Tyrell Malacia,D,3,169,Netherlands,934848000,True,Unknown,Unknown,Unknown
+12436883,Home,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown
+12436883,Home,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown
+12436883,Away,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,36,22,6.5
+12436883,Away,Joël Veltman,D,34,184,Netherlands,695433600,False,40,27,6.7
+12436883,Away,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,67,57,7.1
+12436883,Away,Lewis Dunk,D,5,190,England,690681600,False,73,68,6.9
+12436883,Away,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,37,34,6.7
+12436883,Away,Yankuba Minteh,F,17,180,Gambia,1090454400,False,13,8,8.5
+12436883,Away,Carlos Baleba,M,20,179,Cameroon,1073088000,False,28,22,6.4
+12436883,Away,Yasin Ayari,M,26,172,Sweden,1065398400,False,52,45,6.9
+12436883,Away,Kaoru Mitoma,M,22,178,Japan,864086400,False,28,21,8
+12436883,Away,João Pedro,F,9,188,Brazil,1001462400,False,24,18,6.6
+12436883,Away,Danny Welbeck,F,18,185,England,659577600,False,21,20,6.7
+12436883,Away,Solly March,M,7,180,England,774662400,True,8,5,7.1
+12436883,Away,Georginio Rutter,M,14,182,France,1019260800,True,5,4,7.5
+12436883,Away,Tariq Lamptey,D,2,165,Ghana,970272000,True,2,2,6.6
+12436883,Away,Julio Enciso,M,9,173,Paraguay,1074729600,True,1,1,Unknown
+12436883,Away,Diego Gómez,M,25,185,Paraguay,1048723200,True,2,1,Unknown
+12436883,Away,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown
+12436883,Away,Adam Webster,D,4,191,England,789177600,True,Unknown,Unknown,Unknown
+12436883,Away,Ruairi McConville,D,44,193,Northern Ireland,1114905600,True,Unknown,Unknown,Unknown
+12436883,Away,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,Unknown,Unknown,Unknown

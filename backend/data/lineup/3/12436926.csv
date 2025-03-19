@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436926,Home,Matz Sels,G,26,188,Belgium,699062400,False,20,9,6.4
+12436926,Home,Neco Williams,D,7,183,Wales,987120000,False,26,17,6.6
+12436926,Home,Nikola Milenković,D,31,195,Serbia,876614400,False,42,38,6.8
+12436926,Home,Murillo,D,5,183,Brazil,1025740800,False,62,50,7.5
+12436926,Home,Ola Aina,D,34,182,Nigeria,844732800,False,40,31,6.9
+12436926,Home,Ibrahim Sangaré,M,6,191,Côte d'Ivoire,881020800,False,24,21,7
+12436926,Home,Elliot Anderson,M,8,175,England,1036540800,False,42,35,7.5
+12436926,Home,Anthony Elanga,M,21,178,Sweden,1019865600,False,15,15,6.8
+12436926,Home,Morgan Gibbs-White,M,10,171,England,948931200,False,36,30,7.5
+12436926,Home,Callum Hudson-Odoi,M,14,177,England,973555200,False,19,16,7.1
+12436926,Home,Chris Wood,F,11,191,New Zealand,692064000,False,19,15,7.5
+12436926,Home,Ryan Yates,M,22,190,England,880070400,True,15,12,6.6
+12436926,Home,Ramón Sosa,F,24,178,Paraguay,936057600,True,6,3,6.7
+12436926,Home,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,Unknown,Unknown,6.4
+12436926,Home,Jota Silva,F,20,179,Portugal,933465600,True,1,1,6.3
+12436926,Home,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown
+12436926,Home,Álex Moreno,D,19,179,Spain,739497600,True,Unknown,Unknown,Unknown
+12436926,Home,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown
+12436926,Home,Eric da Silva Moreira,M,2,185,Germany,1146614400,True,Unknown,Unknown,Unknown
+12436926,Home,Nicolás Domínguez,M,16,179,Argentina,898992000,True,Unknown,Unknown,Unknown
+12436926,Away,Sam Johnstone,G,31,193,England,733017600,False,32,16,6.9
+12436926,Away,Nélson Semedo,M,22,177,Portugal,753408000,False,28,22,6.8
+12436926,Away,Yerson Mosquera,D,14,188,Colombia,988761600,False,39,34,7.2
+12436926,Away,Craig Dawson,D,15,188,England,641952000,False,52,42,7.3
+12436926,Away,Toti Gomes,D,24,187,Portugal,916444800,False,34,26,6.7
+12436926,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,21,18,6.6
+12436926,Away,João Gomes,M,8,176,Brazil,981936000,False,20,18,6.4
+12436926,Away,Mario Lemina,M,99,184,Gabon,746841600,False,33,26,7.8
+12436926,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,16,15,6.4
+12436926,Away,Matheus Cunha,F,10,184,Brazil,927763200,False,30,25,8.1
+12436926,Away,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,13,9,6.6
+12436926,Away,Tommy Doyle,M,20,172,England,1003276800,True,22,14,6.6
+12436926,Away,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,6,5,6.7
+12436926,Away,Matt Doherty,D,2,182,Ireland,695520000,True,7,4,6.8
+12436926,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,True,1,1,6.7
+12436926,Away,André,M,7,176,Brazil,995241600,True,5,4,6.5
+12436926,Away,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown
+12436926,Away,Santiago Bueno,D,4,189,Uruguay,910569600,True,Unknown,Unknown,Unknown
+12436926,Away,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown
+12436926,Away,Pablo Sarabia,F,21,176,Spain,705542400,True,Unknown,Unknown,Unknown

@@ -1,0 +1,39 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437049,Home,Ederson,G,31,188,Brazil,745545600,False,21,18,7.2
+12437049,Home,Rico Lewis,D,82,170,England,1100995200,False,42,41,7
+12437049,Home,Manuel Akanji,D,25,187,Switzerland,806112000,False,85,79,7.7
+12437049,Home,Rúben Dias,D,3,188,Portugal,863568000,False,93,90,7.6
+12437049,Home,Joško Gvardiol,D,24,186,Croatia,1011744000,False,103,96,8.5
+12437049,Home,Mateo Kovačić,M,8,178,Croatia,768182400,False,62,56,7.5
+12437049,Home,Savinho,M,26,176,Brazil,1081555200,False,48,41,8.6
+12437049,Home,Phil Foden,M,47,171,England,959472000,False,47,45,8.1
+12437049,Home,Bernardo Silva,M,20,173,Portugal,776476800,False,49,44,7.4
+12437049,Home,Matheus Nunes,M,27,183,Portugal,904176000,False,58,53,8.1
+12437049,Home,Erling Haaland,F,9,194,Norway,964137600,False,5,5,6.6
+12437049,Home,İlkay Gündoğan,M,19,180,Germany,656726400,True,3,3,6.7
+12437049,Home,John Stones,D,5,188,England,770083200,True,Unknown,Unknown,Unknown
+12437049,Home,Stefan Ortega,G,18,186,Germany,721008000,True,Unknown,Unknown,Unknown
+12437049,Home,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown
+12437049,Home,Nathan Aké,D,6,180,Netherlands,793065600,True,Unknown,Unknown,Unknown
+12437049,Home,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown
+12437049,Home,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown
+12437049,Away,Aaron Ramsdale,G,30,191,England,895104000,False,56,48,7.7
+12437049,Away,Kyle Walker-Peters,D,2,173,England,860889600,False,58,55,6.4
+12437049,Away,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,71,68,8.1
+12437049,Away,Jan Bednarek,D,35,189,Poland,829267200,False,78,74,6.9
+12437049,Away,Jack Stephens,D,5,185,England,759628800,False,36,34,6.9
+12437049,Away,Ryan Manning,D,3,172,Ireland,834710400,False,19,17,6.5
+12437049,Away,Tyler Dibling,M,33,178,England,1140134400,False,15,10,6.6
+12437049,Away,Flynn Downes,M,4,172,England,916790400,False,36,34,6.6
+12437049,Away,Adam Lallana,M,10,172,England,579225600,False,29,26,6.7
+12437049,Away,Mateus Fernandes,M,18,178,Portugal,1089417600,False,45,38,6.7
+12437049,Away,Cameron Archer,F,19,181,England,1007856000,False,3,3,6.3
+12437049,Away,Adam Armstrong,F,32,172,England,855532800,True,4,4,6.8
+12437049,Away,Joe Aribo,M,7,183,Nigeria,837907200,True,16,14,6.8
+12437049,Away,James Bree,D,14,178,England,876528000,True,10,8,6.7
+12437049,Away,Kamaldeen Sulemana,F,20,174,Ghana,1013731200,True,Unknown,Unknown,6.3
+12437049,Away,Paul Onuachu,F,32,201,Nigeria,770083200,True,3,1,7
+12437049,Away,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown
+12437049,Away,Yukinari Sugawara,D,16,179,Japan,962150400,True,Unknown,Unknown,Unknown
+12437049,Away,Lesley Ugochukwu,M,26,188,France,1080259200,True,Unknown,Unknown,Unknown
+12437049,Away,Maxwel Cornet,F,70,179,Côte d'Ivoire,843782400,True,Unknown,Unknown,Unknown

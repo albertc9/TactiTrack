@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436947,Home,Jordan Pickford,G,1,185,England,762998400,False,44,27,7.4
+12436947,Home,Ashley Young,D,18,180,England,489715200,False,39,29,8.5
+12436947,Home,James Tarkowski,D,6,185,England,722131200,False,30,26,7.8
+12436947,Home,Jarrad Branthwaite,D,32,195,England,1025136000,False,40,36,7.4
+12436947,Home,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,30,21,7.2
+12436947,Home,Idrissa Gueye,M,27,174,Senegal,622771200,False,45,43,6.8
+12436947,Home,Orel Mangala,M,8,178,Belgium,890179200,False,29,28,7.6
+12436947,Home,Iliman Ndiaye,F,10,180,Senegal,952300800,False,16,16,6.3
+12436947,Home,Abdoulaye Doucouré,M,16,182,Mali,725846400,False,32,24,6.7
+12436947,Home,Dwight McNeil,M,7,183,England,943228800,False,30,18,7.3
+12436947,Home,Dominic Calvert-Lewin,F,9,187,England,858470400,False,17,13,6.6
+12436947,Home,Jack Harrison,M,11,175,England,848448000,True,2,1,6.2
+12436947,Home,Jesper Lindstrøm,M,29,182,Denmark,951782400,True,8,7,6.7
+12436947,Home,Armando Broja,F,22,191,Albania,1000080000,True,3,2,6.3
+12436947,Home,Harrison Armstrong,M,28,185,England,1169164800,True,1,1,Unknown
+12436947,Home,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown
+12436947,Home,Nathan Patterson,D,2,189,Scotland,1003190400,True,Unknown,Unknown,Unknown
+12436947,Home,Jake O'Brien,D,15,197,Ireland,989884800,True,Unknown,Unknown,Unknown
+12436947,Home,Séamus Coleman,D,23,177,Ireland,592531200,True,Unknown,Unknown,Unknown
+12436947,Home,Beto,F,14,194,Guinea-Bissau,886204800,True,Unknown,Unknown,Unknown
+12436947,Away,José Sá,G,1,192,Portugal,727228800,False,24,12,5.4
+12436947,Away,Mario Lemina,M,99,184,Gabon,746841600,False,46,36,6.6
+12436947,Away,Craig Dawson,D,15,188,England,641952000,False,46,41,5.8
+12436947,Away,Santiago Bueno,D,4,189,Uruguay,910569600,False,54,41,5.9
+12436947,Away,Matt Doherty,D,2,182,Ireland,695520000,False,45,38,6.7
+12436947,Away,André,M,7,176,Brazil,995241600,False,72,66,7.3
+12436947,Away,João Gomes,M,8,176,Brazil,981936000,False,63,49,6.8
+12436947,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,30,28,6.9
+12436947,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,False,11,6,6.3
+12436947,Away,Matheus Cunha,F,10,184,Brazil,927763200,False,28,19,6.6
+12436947,Away,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,12,8,5.7
+12436947,Away,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,17,16,6.7
+12436947,Away,Toti Gomes,D,24,187,Portugal,916444800,True,8,5,6.9
+12436947,Away,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,9,8,6.9
+12436947,Away,Tommy Doyle,M,20,172,England,1003276800,True,8,7,6.5
+12436947,Away,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown
+12436947,Away,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown
+12436947,Away,Pedro Lima,D,37,174,Brazil,1151712000,True,Unknown,Unknown,Unknown
+12436947,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,True,Unknown,Unknown,Unknown
+12436947,Away,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown

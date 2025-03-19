@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436906,Home,David Raya,G,22,183,Spain,811123200,False,37,16,7.6
+12436906,Home,Ben White,D,4,186,England,876268800,False,21,16,7.2
+12436906,Home,William Saliba,D,2,193,France,985392000,False,51,48,7.2
+12436906,Home,Gabriel Magalhães,D,6,190,Brazil,882489600,False,33,31,7.5
+12436906,Home,Jurriën Timber,D,12,179,Netherlands,992736000,False,15,12,6.6
+12436906,Home,Martin Ødegaard,M,8,178,Norway,913852800,False,19,9,6.7
+12436906,Home,Thomas Partey,M,5,185,Ghana,739929600,False,25,19,6.9
+12436906,Home,Declan Rice,M,41,188,England,916272000,False,13,13,5.8
+12436906,Home,Bukayo Saka,F,7,178,England,999648000,False,23,13,7.3
+12436906,Home,Kai Havertz,F,29,193,Germany,929059200,False,12,10,7.1
+12436906,Home,Leandro Trossard,F,19,172,Belgium,786499200,False,11,7,6.9
+12436906,Home,Riccardo Calafiori,D,33,188,Italy,1021766400,True,4,3,6.5
+12436906,Home,Gabriel Martinelli,F,11,180,Brazil,992822400,True,4,3,6.5
+12436906,Home,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,True,2,Unknown,6.5
+12436906,Home,Tommy Setford,G,36,185,England,1142208000,True,Unknown,Unknown,Unknown
+12436906,Home,Jakub Kiwior,D,15,189,Poland,950572800,True,Unknown,Unknown,Unknown
+12436906,Home,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown
+12436906,Home,Myles Lewis-Skelly,M,49,178,England,1159228800,True,Unknown,Unknown,Unknown
+12436906,Home,Salah Oulad M'Hand,M,10,183,Netherlands,1061337600,True,Unknown,Unknown,Unknown
+12436906,Home,Ethan Nwaneri,F,53,176,England,1174435200,True,Unknown,Unknown,Unknown
+12436906,Away,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,28,23,8.1
+12436906,Away,Joël Veltman,D,34,184,Netherlands,695433600,False,32,21,6.6
+12436906,Away,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,68,65,7.4
+12436906,Away,Lewis Dunk,D,5,190,England,690681600,False,103,99,7.8
+12436906,Away,Jack Hinshelwood,D,41,182,England,1113177600,False,52,43,6.9
+12436906,Away,James Milner,M,6,175,England,505180800,False,2,2,6.5
+12436906,Away,Carlos Baleba,M,20,179,Cameroon,1073088000,False,37,32,6.8
+12436906,Away,Yankuba Minteh,F,17,180,Gambia,1090454400,False,8,6,6.6
+12436906,Away,João Pedro,F,9,188,Brazil,1001462400,False,42,35,8.1
+12436906,Away,Kaoru Mitoma,M,22,178,Japan,864086400,False,31,27,6.9
+12436906,Away,Danny Welbeck,F,18,185,England,659577600,False,10,7,6.6
+12436906,Away,Yasin Ayari,M,26,172,Sweden,1065398400,True,25,19,6.6
+12436906,Away,Georginio Rutter,M,14,182,France,1019260800,True,2,Unknown,6.9
+12436906,Away,Pervis Estupiñán,D,30,175,Ecuador,885340800,True,19,17,7.2
+12436906,Away,Julio Enciso,M,9,173,Paraguay,1074729600,True,7,4,6.8
+12436906,Away,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,5,4,6.3
+12436906,Away,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown
+12436906,Away,Tariq Lamptey,D,2,165,Ghana,970272000,True,Unknown,Unknown,Unknown
+12436906,Away,Igor Júlio,D,3,185,Brazil,886809600,True,Unknown,Unknown,Unknown
+12436906,Away,Adam Webster,D,4,191,England,789177600,True,Unknown,Unknown,Unknown

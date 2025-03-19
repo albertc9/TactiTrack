@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436897,Home,Dean Henderson,G,1,188,England,858124800,False,29,17,7.1
+12436897,Home,Chris Richards,D,26,188,USA,954201600,False,28,23,6.7
+12436897,Home,Maxence Lacroix,D,5,192,France,954979200,False,45,33,6.5
+12436897,Home,Marc Guéhi,D,5,182,England,963446400,False,44,35,6.8
+12436897,Home,Daniel Muñoz,M,23,183,Colombia,833068800,False,27,17,7.6
+12436897,Home,Will Hughes,M,19,185,England,798076800,False,28,22,6.7
+12436897,Home,Jefferson Lerma,M,8,179,Colombia,783043200,False,32,18,7
+12436897,Home,Tyrick Mitchell,M,3,174,England,936144000,False,22,17,6.3
+12436897,Home,Ismaïla Sarr,F,23,185,Senegal,888364800,False,13,8,6.5
+12436897,Home,Eberechi Eze,F,10,178,England,899078400,False,24,19,7.9
+12436897,Home,Jean-Philippe Mateta,F,14,192,France,867456000,False,10,5,6.4
+12436897,Home,Edward Nketiah,F,9,175,England,928022400,True,6,4,6.6
+12436897,Home,Romain Esse,M,21,178,England,1115942400,True,4,3,7.5
+12436897,Home,Daichi Kamada,M,18,184,Japan,839203200,True,3,2,6.4
+12436897,Home,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown
+12436897,Home,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown
+12436897,Home,Caleb Kporha,D,58,Unknown,England,1152921600,True,Unknown,Unknown,Unknown
+12436897,Home,Jeffrey Schlupp,M,15,178,Ghana,725068800,True,Unknown,Unknown,Unknown
+12436897,Home,Justin Devenny,M,55,184,Northern Ireland,1065830400,True,Unknown,Unknown,Unknown
+12436897,Home,Franco Umeh,F,7,185,Ireland,1106697600,True,Unknown,Unknown,Unknown
+12436897,Away,Mark Flekken,G,1,194,Netherlands,739929600,False,42,25,7
+12436897,Away,Mads Roerslev,D,5,184,Denmark,930182400,False,27,23,7
+12436897,Away,Nathan Collins,D,22,193,Ireland,988588800,False,42,37,7.1
+12436897,Away,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,34,28,7.2
+12436897,Away,Keane Lewis-Potter,F,23,170,England,982800000,False,26,18,6.6
+12436897,Away,Christian Nørgaard,M,6,185,Denmark,763257600,False,32,19,6.8
+12436897,Away,Vitaly Janelt,M,27,184,Germany,894758400,False,35,28,6.8
+12436897,Away,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,20,11,7.1
+12436897,Away,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,39,28,7.4
+12436897,Away,Kevin Schade,F,7,183,Germany,1006819200,False,16,9,7.6
+12436897,Away,Yoane Wissa,F,11,176,DR Congo,841708800,False,17,8,7.4
+12436897,Away,Mathias Jensen,M,8,180,Denmark,820454400,True,21,17,6.8
+12436897,Away,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,1,Unknown,6.4
+12436897,Away,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,6.6
+12436897,Away,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown
+12436897,Away,Kristoffer Ajer,D,20,196,Norway,892771200,True,Unknown,Unknown,Unknown
+12436897,Away,Kim Ji-Soo,D,36,192,South Korea,1103846400,True,Unknown,Unknown,Unknown
+12436897,Away,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown
+12436897,Away,Edmond-Paris Maghoma,M,32,178,England,989280000,True,Unknown,Unknown,Unknown
+12436897,Away,Fabio Carvalho,F,14,170,Portugal,1030665600,True,Unknown,Unknown,Unknown

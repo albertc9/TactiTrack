@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12437002,Home,Sam Johnstone,G,31,193,England,733017600,False,34,26,7.4
+12437002,Home,Nélson Semedo,M,22,177,Portugal,753408000,False,36,30,6.1
+12437002,Home,Santiago Bueno,D,4,189,Uruguay,910569600,False,48,46,6.7
+12437002,Home,Toti Gomes,D,24,187,Portugal,916444800,False,54,51,6.6
+12437002,Home,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,41,37,7.5
+12437002,Home,André,M,7,176,Brazil,995241600,False,34,32,6.6
+12437002,Home,Matheus Cunha,F,10,184,Brazil,927763200,False,24,17,7.2
+12437002,Home,Mario Lemina,M,99,184,Gabon,746841600,False,54,42,6.9
+12437002,Home,João Gomes,M,8,176,Brazil,981936000,False,41,31,6.4
+12437002,Home,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,22,17,6.9
+12437002,Home,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,17,12,6.6
+12437002,Home,Carlos Forbs,F,26,169,Portugal,1079654400,True,8,5,6.5
+12437002,Home,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,3,3,6.6
+12437002,Home,Tommy Doyle,M,20,172,England,1003276800,True,10,8,6.6
+12437002,Home,José Sá,G,1,192,Portugal,727228800,True,Unknown,Unknown,Unknown
+12437002,Home,Matt Doherty,D,2,182,Ireland,695520000,True,Unknown,Unknown,Unknown
+12437002,Home,Alfie Pond,D,5,191,England,1076544000,True,Unknown,Unknown,Unknown
+12437002,Home,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown
+12437002,Home,Pablo Sarabia,F,21,176,Spain,705542400,True,Unknown,Unknown,Unknown
+12437002,Home,Gonçalo Guedes,F,29,179,Portugal,849225600,True,Unknown,Unknown,Unknown
+12437002,Away,Alisson,G,1,191,Brazil,717984000,False,29,24,7
+12437002,Away,Trent Alexander-Arnold,D,66,180,England,907718400,False,54,39,6.6
+12437002,Away,Ibrahima Konaté,D,5,195,France,927590400,False,67,59,7.1
+12437002,Away,Virgil van Dijk,D,4,193,Netherlands,678931200,False,85,79,6.9
+12437002,Away,Andrew Robertson,D,26,178,Scotland,763344000,False,64,57,7.1
+12437002,Away,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,62,57,7.3
+12437002,Away,Alexis Mac Allister,M,10,176,Argentina,914457600,False,47,40,6.8
+12437002,Away,Mohamed Salah,M,11,175,Egypt,708566400,False,27,19,7.5
+12437002,Away,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,31,26,6.4
+12437002,Away,Luis Díaz,F,7,178,Colombia,853113600,False,27,24,6.6
+12437002,Away,Diogo Jota,F,20,178,Portugal,849657600,False,24,17,7.2
+12437002,Away,Curtis Jones,M,17,185,England,980812800,True,6,4,6.9
+12437002,Away,Cody Gakpo,F,18,193,Netherlands,926035200,True,8,7,6.8
+12437002,Away,Joe Gomez,D,2,188,England,864345600,True,3,3,6.7
+12437002,Away,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown
+12437002,Away,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,Unknown,Unknown,Unknown
+12437002,Away,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown
+12437002,Away,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,Unknown,Unknown,Unknown
+12437002,Away,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown
+12437002,Away,Federico Chiesa,F,14,175,Italy,877737600,True,Unknown,Unknown,Unknown

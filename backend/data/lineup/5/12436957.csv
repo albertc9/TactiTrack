@@ -1,0 +1,41 @@
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
+12436957,Home,Emiliano Martínez,G,23,195,Argentina,715392000,False,26,22,6.8
+12436957,Home,Ezri Konsa,D,4,183,England,877564800,False,58,56,7.7
+12436957,Home,Diego Carlos,D,33,185,Brazil,732153600,False,68,60,6.4
+12436957,Home,Pau Torres,D,14,192,Spain,853372800,False,56,50,6.7
+12436957,Home,Lucas Digne,D,12,178,France,743126400,False,18,16,6.8
+12436957,Home,Amadou Onana,M,24,195,Belgium,997920000,False,26,22,7
+12436957,Home,Youri Tielemans,M,8,177,Belgium,862963200,False,60,51,8.2
+12436957,Home,John McGinn,M,7,175,Scotland,782438400,False,16,13,6.6
+12436957,Home,Morgan Rogers,M,27,187,England,1027641600,False,33,27,7.6
+12436957,Home,Jacob Ramsey,M,41,180,England,991008000,False,20,16,6.8
+12436957,Home,Ollie Watkins,F,11,179,England,820281600,False,10,8,6.9
+12436957,Home,Ian Maatsen,D,22,178,Netherlands,1015718400,True,15,13,6.6
+12436957,Home,Leon Bailey,M,31,178,Jamaica,871084800,True,17,15,7.2
+12436957,Home,Ross Barkley,M,6,188,England,755049600,True,16,16,6.6
+12436957,Home,Jhon Durán,F,9,185,Colombia,1071273600,True,4,4,6.9
+12436957,Home,Emiliano Buendía,M,16,170,Argentina,851472000,True,4,4,Unknown
+12436957,Home,Joe Gauci,G,18,194,Australia,962668800,True,Unknown,Unknown,Unknown
+12436957,Home,Kosta Nedeljković,D,21,184,Serbia,1134691200,True,Unknown,Unknown,Unknown
+12436957,Home,Kadan Young,M,11,176,England,1137628800,True,Unknown,Unknown,Unknown
+12436957,Home,Lamare Bogarde,M,26,183,Netherlands,1073260800,True,Unknown,Unknown,Unknown
+12436957,Away,Sam Johnstone,G,31,193,England,733017600,False,30,20,6
+12436957,Away,Nélson Semedo,M,22,177,Portugal,753408000,False,39,32,6.1
+12436957,Away,Yerson Mosquera,D,14,188,Colombia,988761600,False,50,48,7.8
+12436957,Away,Craig Dawson,D,15,188,England,641952000,False,56,50,6.7
+12436957,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,40,34,6.3
+12436957,Away,André,M,7,176,Brazil,995241600,False,39,37,7.2
+12436957,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,17,16,6.6
+12436957,Away,João Gomes,M,8,176,Brazil,981936000,False,44,42,6.9
+12436957,Away,Mario Lemina,M,99,184,Gabon,746841600,False,19,14,6.5
+12436957,Away,Matheus Cunha,F,10,184,Brazil,927763200,False,34,30,7.4
+12436957,Away,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,8,6,6.9
+12436957,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,True,5,3,6.5
+12436957,Away,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,5,2,6.6
+12436957,Away,Santiago Bueno,D,4,189,Uruguay,910569600,True,7,4,5.9
+12436957,Away,Tommy Doyle,M,20,172,England,1003276800,True,5,3,6.3
+12436957,Away,José Sá,G,1,192,Portugal,727228800,True,Unknown,Unknown,Unknown
+12436957,Away,Matt Doherty,D,2,182,Ireland,695520000,True,Unknown,Unknown,Unknown
+12436957,Away,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,Unknown,Unknown,Unknown
+12436957,Away,Pablo Sarabia,F,21,176,Spain,705542400,True,Unknown,Unknown,Unknown
+12436957,Away,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown
