@@ -1,0 +1,39 @@
+// https://www.sofascore.com/api/v1/event/12436870/managers
+{
+  "homeManager": {
+    "id": 53013,
+    "name": "Erik ten Hag",
+    "slug": "erik-ten-hag",
+    "shortName": "E. t. Hag",
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "إريك تين هاج",
+        "hi": "एरिक टेन हैग",
+        "bn": "এরিক টেন হ্যাগ"
+      },
+      "shortNameTranslation": {
+        "ar": "إ. ت. هاج",
+        "hi": "ई. टेन हैग",
+        "bn": "ই. টি. হ্যাগ"
+      }
+    }
+  },
+  "awayManager": {
+    "id": 205808,
+    "name": "Marco Silva",
+    "slug": "marco-silva",
+    "shortName": "M. Silva",
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "ماركو سيلفا",
+        "hi": "मार्को सिल्वा",
+        "bn": "মার্কো সিলভা"
+      },
+      "shortNameTranslation": {
+        "ar": "م. سيلفا",
+        "hi": "एम. सिल्वा",
+        "bn": "এম. সিলভা"
+      }
+    }
+  }
+}
