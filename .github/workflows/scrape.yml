@@ -1,37 +1,47 @@
-name: Daily Game Data Acquisition
+name: Daily Scheduled Web Scraping and Commit
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # UTC 23:00  = BJT 7:00
-  workflow_dispatch:  # allow manual trigger
+    - cron: '0 23 * * *'  # Runs daily at 23:00 UTC (07:00 Beijing Time)
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   scrape_and_commit:
-    runs-on: ubuntu-latest  # use ubuntu supported by github
+    runs-on: ubuntu-latest
     steps:
-      - name: 📥 check repository code
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 set python venv
+      - name: 🐍 Set up Python environment
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'  # my venv
+          python-version: '3.13'  # Match the Python version used in your venv
 
-      - name: 📦 install requirements
-        run: pip install -r backend/requirements.txt  # install requirements
+      - name: 📦 Install dependencies
+        run: pip install -r backend/requirements.txt  # Updated path
 
-      - name: 🚀 run scraper scripts
-        run: python backend/run_scrapers.py
+      - name: 🚀 Run scraper scripts
+        run: python backend/run_scrapers.py  # Runs the main scraper script
 
-      - name: 📝 git user
+      - name: 📝 Configure Git user
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: 🔄 push update
+      - name: 🔍 Check for changes
+        id: check_changes
         run: |
           git add .
-          git commit -m "📌 update data automatically $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          if git diff --staged --quiet; then
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
+          else
+            echo "NO_CHANGES=false" >> $GITHUB_ENV
+          fi
+
+      - name: 🔄 Commit and push changes (if any)
+        if: env.NO_CHANGES == 'false'
+        run: |
+          git commit -m "📌 Auto-update scraped data $(date '+%Y-%m-%d %H:%M:%S')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
