@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436459,Home,Bernd Leno,G,1,190,Germany,699667200,False,41,25,7.5,Unknown,Unknown
-12436459,Home,Kenny Tete,D,2,180,Netherlands,813196800,False,22,19,7.1,Unknown,Unknown
-12436459,Home,Issa Diop,D,31,194,France,852768000,False,33,26,6.9,Unknown,Unknown
-12436459,Home,Calvin Bassey,D,3,185,Nigeria,946598400,False,37,33,6.7,Unknown,Unknown
-12436459,Home,Antonee Robinson,D,33,183,USA,870998400,False,40,20,6.7,Unknown,Unknown
-12436459,Home,Sander Berge,M,16,195,Norway,887414400,False,30,26,7.2,Unknown,Unknown
-12436459,Home,Saša Lukić,M,20,183,Serbia,839894400,False,23,22,7.1,Unknown,Unknown
-12436459,Home,Alex Iwobi,M,17,183,Nigeria,831081600,False,18,12,6.5,Unknown,Unknown
-12436459,Home,Emile Smith Rowe,M,32,182,England,964742400,False,13,12,6.4,Unknown,Unknown
-12436459,Home,Adama Traoré,F,11,178,Spain,822528000,False,16,10,6.4,Unknown,Unknown
-12436459,Home,Raúl Jiménez,F,7,189,Mexico,673401600,False,19,10,7.4,Unknown,Unknown
-12436459,Home,Andreas Pereira,M,18,177,Brazil,820454400,True,2,Unknown,6.7,Unknown,Unknown
-12436459,Home,Harry Wilson,M,8,173,Wales,858988800,True,4,2,6.5,Unknown,Unknown
-12436459,Home,Rodrigo Muniz,F,9,184,Brazil,988934400,True,2,Unknown,6.7,Unknown,Unknown
-12436459,Home,Jorge Cuenca,D,15,190,Spain,942796800,True,2,1,Unknown,Unknown,Unknown
-12436459,Home,Steven Benda,G,23,192,Germany,907200000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Home,Joshua King,D,24,172,England,1167782400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Home,Timothy Castagne,D,21,185,Belgium,818121600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Home,Ryan Sessegnon,M,30,178,England,958608000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Home,Martial Godo,F,47,169,England,1047600000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Away,David Raya,G,22,183,Spain,811123200,False,19,18,6.7,Unknown,Unknown
-12436459,Away,Thomas Partey,M,5,185,Ghana,739929600,False,84,78,6.6,Unknown,Unknown
-12436459,Away,William Saliba,D,2,193,France,985392000,False,99,89,7.5,Unknown,Unknown
-12436459,Away,Jakub Kiwior,D,15,189,Poland,950572800,False,69,62,6.7,Unknown,Unknown
-12436459,Away,Jurriën Timber,D,12,179,Netherlands,992736000,False,48,44,6.6,Unknown,Unknown
-12436459,Away,Martin Ødegaard,M,8,178,Norway,913852800,False,55,48,6.7,Unknown,Unknown
-12436459,Away,Jorginho,M,20,180,Italy,693187200,False,58,52,7.1,Unknown,Unknown
-12436459,Away,Declan Rice,M,41,188,England,916272000,False,53,52,8.2,Unknown,Unknown
-12436459,Away,Bukayo Saka,F,7,178,England,999648000,False,34,30,7.5,Unknown,Unknown
-12436459,Away,Kai Havertz,F,29,193,Germany,929059200,False,17,15,6.9,Unknown,Unknown
-12436459,Away,Leandro Trossard,F,19,172,Belgium,786499200,False,22,15,7.3,Unknown,Unknown
-12436459,Away,Gabriel Martinelli,F,11,180,Brazil,992822400,True,10,8,6.4,Unknown,Unknown
-12436459,Away,Mikel Merino,M,23,188,Spain,835401600,True,9,6,6.3,Unknown,Unknown
-12436459,Away,Gabriel Jesus,F,9,175,Brazil,860025600,True,6,1,6.6,Unknown,Unknown
-12436459,Away,Ethan Nwaneri,F,53,176,England,1174435200,True,4,4,6.7,Unknown,Unknown
-12436459,Away,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Away,Kieran Tierney,D,3,178,Scotland,865468800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Away,Ayden Heaven,D,26,189,England,1158883200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Away,Myles Lewis-Skelly,M,49,178,England,1159228800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436459,Away,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436459,Home,103335,Bernd Leno,G,1,190,Germany,699667200,False,41,25,7.5,Unknown,Unknown
+12436459,Home,190877,Kenny Tete,D,2,180,Netherlands,813196800,False,22,19,7.1,Unknown,Unknown
+12436459,Home,825719,Issa Diop,D,31,194,France,852768000,False,33,26,6.9,Unknown,Unknown
+12436459,Home,861972,Calvin Bassey,D,3,185,Nigeria,946598400,False,37,33,6.7,Unknown,Unknown
+12436459,Home,803174,Antonee Robinson,D,33,183,USA,870998400,False,40,20,6.7,Unknown,Unknown
+12436459,Home,793167,Sander Berge,M,16,195,Norway,887414400,False,30,26,7.2,Unknown,Unknown
+12436459,Home,371222,Saša Lukić,M,20,183,Serbia,839894400,False,23,22,7.1,Unknown,Unknown
+12436459,Home,352770,Alex Iwobi,M,17,183,Nigeria,831081600,False,18,12,6.5,Unknown,Unknown
+12436459,Home,867445,Emile Smith Rowe,M,32,182,England,964742400,False,13,12,6.4,Unknown,Unknown
+12436459,Home,286165,Adama Traoré,F,11,178,Spain,822528000,False,16,10,6.4,Unknown,Unknown
+12436459,Home,192442,Raúl Jiménez,F,7,189,Mexico,673401600,False,19,10,7.4,Unknown,Unknown
+12436459,Home,285949,Andreas Pereira,M,18,177,Brazil,820454400,True,2,Unknown,6.7,Unknown,Unknown
+12436459,Home,355528,Harry Wilson,M,8,173,Wales,858988800,True,4,2,6.5,Unknown,Unknown
+12436459,Home,1015256,Rodrigo Muniz,F,9,184,Brazil,988934400,True,2,Unknown,6.7,Unknown,Unknown
+12436459,Home,868715,Jorge Cuenca,D,15,190,Spain,942796800,True,2,1,Unknown,Unknown,Unknown
+12436459,Home,860764,Steven Benda,G,23,192,Germany,907200000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Home,1546231,Joshua King,D,24,172,England,1167782400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Home,329417,Timothy Castagne,D,21,185,Belgium,818121600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Home,836698,Ryan Sessegnon,M,30,178,England,958608000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Home,1190938,Martial Godo,F,47,169,England,1047600000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Away,581310,David Raya,G,22,183,Spain,811123200,False,19,18,6.7,Unknown,Unknown
+12436459,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,False,84,78,6.6,Unknown,Unknown
+12436459,Away,941168,William Saliba,D,2,193,France,985392000,False,99,89,7.5,Unknown,Unknown
+12436459,Away,976037,Jakub Kiwior,D,15,189,Poland,950572800,False,69,62,6.7,Unknown,Unknown
+12436459,Away,958959,Jurriën Timber,D,12,179,Netherlands,992736000,False,48,44,6.6,Unknown,Unknown
+12436459,Away,547410,Martin Ødegaard,M,8,178,Norway,913852800,False,55,48,6.7,Unknown,Unknown
+12436459,Away,132874,Jorginho,M,20,180,Italy,693187200,False,58,52,7.1,Unknown,Unknown
+12436459,Away,856714,Declan Rice,M,41,188,England,916272000,False,53,52,8.2,Unknown,Unknown
+12436459,Away,934235,Bukayo Saka,F,7,178,England,999648000,False,34,30,7.5,Unknown,Unknown
+12436459,Away,836705,Kai Havertz,F,29,193,Germany,929059200,False,17,15,6.9,Unknown,Unknown
+12436459,Away,135666,Leandro Trossard,F,19,172,Belgium,786499200,False,22,15,7.3,Unknown,Unknown
+12436459,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,10,8,6.4,Unknown,Unknown
+12436459,Away,592010,Mikel Merino,M,23,188,Spain,835401600,True,9,6,6.3,Unknown,Unknown
+12436459,Away,794839,Gabriel Jesus,F,9,175,Brazil,860025600,True,6,1,6.6,Unknown,Unknown
+12436459,Away,1401702,Ethan Nwaneri,F,53,176,England,1174435200,True,4,4,6.7,Unknown,Unknown
+12436459,Away,84844,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Away,366592,Kieran Tierney,D,3,178,Scotland,865468800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Away,1445799,Ayden Heaven,D,26,189,England,1158883200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Away,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436459,Away,138534,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown

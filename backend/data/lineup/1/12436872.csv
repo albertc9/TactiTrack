@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436872,Home,David Raya,G,22,183,Spain,811123200,False,32,23,7.6,Unknown,Unknown
-12436872,Home,Ben White,D,4,186,England,876268800,False,40,32,6.8,Unknown,Unknown
-12436872,Home,William Saliba,D,2,193,France,985392000,False,62,54,7,Unknown,Unknown
-12436872,Home,Gabriel Magalhães,D,6,190,Brazil,882489600,False,66,54,7.2,Unknown,Unknown
-12436872,Home,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,False,53,46,7,Unknown,Unknown
-12436872,Home,Martin Ødegaard,M,8,178,Norway,913852800,False,32,28,7.2,Unknown,Unknown
-12436872,Home,Thomas Partey,M,5,185,Ghana,739929600,False,37,33,7.3,Unknown,Unknown
-12436872,Home,Declan Rice,M,41,188,England,916272000,False,26,26,7.3,Unknown,Unknown
-12436872,Home,Bukayo Saka,F,7,178,England,999648000,False,20,18,8.9,Unknown,Unknown
-12436872,Home,Kai Havertz,F,29,193,Germany,929059200,False,18,14,8.3,Unknown,Unknown
-12436872,Home,Gabriel Martinelli,F,11,180,Brazil,992822400,False,21,17,7.5,Unknown,Unknown
-12436872,Home,Jurriën Timber,D,12,179,Netherlands,992736000,True,7,6,6.4,Unknown,Unknown
-12436872,Home,Leandro Trossard,F,19,172,Belgium,786499200,True,2,2,6.6,Unknown,Unknown
-12436872,Home,Gabriel Jesus,F,9,175,Brazil,860025600,True,4,4,6.5,Unknown,Unknown
-12436872,Home,Aaron Ramsdale,G,30,191,England,895104000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Home,Riccardo Calafiori,D,33,188,Italy,1021766400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Home,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Home,Ethan Nwaneri,F,53,176,England,1174435200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Home,Reiss Nelson,F,19,175,England,944784000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Home,Edward Nketiah,F,9,175,England,928022400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Away,José Sá,G,1,192,Portugal,727228800,False,39,22,7.1,Unknown,Unknown
-12436872,Away,Matt Doherty,D,2,182,Ireland,695520000,False,33,26,7,Unknown,Unknown
-12436872,Away,Yerson Mosquera,D,14,188,Colombia,988761600,False,46,39,6.9,Unknown,Unknown
-12436872,Away,Toti Gomes,D,24,187,Portugal,916444800,False,57,51,6.2,Unknown,Unknown
-12436872,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,39,37,6.5,Unknown,Unknown
-12436872,Away,João Gomes,M,8,176,Brazil,981936000,False,37,32,6.6,Unknown,Unknown
-12436872,Away,Mario Lemina,M,99,184,Gabon,746841600,False,38,32,7.1,Unknown,Unknown
-12436872,Away,Hee-Chan Hwang,F,11,177,South Korea,822614400,False,21,16,6.7,Unknown,Unknown
-12436872,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,16,14,6.4,Unknown,Unknown
-12436872,Away,Rodrigo Gomes,M,19,171,Portugal,1057536000,False,15,10,6.6,Unknown,Unknown
-12436872,Away,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,12,8,6.3,Unknown,Unknown
-12436872,Away,Matheus Cunha,F,10,184,Brazil,927763200,True,8,8,7.1,Unknown,Unknown
-12436872,Away,Daniel Podence,M,56,165,Portugal,814233600,True,3,2,6.5,Unknown,Unknown
-12436872,Away,Craig Dawson,D,15,188,England,641952000,True,3,3,6.5,Unknown,Unknown
-12436872,Away,Chiquinho,M,20,179,Portugal,949708800,True,2,2,6.6,Unknown,Unknown
-12436872,Away,Pablo Sarabia,F,21,176,Spain,705542400,True,6,5,6.9,Unknown,Unknown
-12436872,Away,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Away,Santiago Bueno,D,4,189,Uruguay,910569600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Away,Tommy Doyle,M,20,172,England,1003276800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436872,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436872,Home,581310,David Raya,G,22,183,Spain,811123200,False,32,23,7.6,Unknown,Unknown
+12436872,Home,846036,Ben White,D,4,186,England,876268800,False,40,32,6.8,Unknown,Unknown
+12436872,Home,941168,William Saliba,D,2,193,France,985392000,False,62,54,7,Unknown,Unknown
+12436872,Home,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,False,66,54,7.2,Unknown,Unknown
+12436872,Home,287643,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,False,53,46,7,Unknown,Unknown
+12436872,Home,547410,Martin Ødegaard,M,8,178,Norway,913852800,False,32,28,7.2,Unknown,Unknown
+12436872,Home,316148,Thomas Partey,M,5,185,Ghana,739929600,False,37,33,7.3,Unknown,Unknown
+12436872,Home,856714,Declan Rice,M,41,188,England,916272000,False,26,26,7.3,Unknown,Unknown
+12436872,Home,934235,Bukayo Saka,F,7,178,England,999648000,False,20,18,8.9,Unknown,Unknown
+12436872,Home,836705,Kai Havertz,F,29,193,Germany,929059200,False,18,14,8.3,Unknown,Unknown
+12436872,Home,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,False,21,17,7.5,Unknown,Unknown
+12436872,Home,958959,Jurriën Timber,D,12,179,Netherlands,992736000,True,7,6,6.4,Unknown,Unknown
+12436872,Home,135666,Leandro Trossard,F,19,172,Belgium,786499200,True,2,2,6.6,Unknown,Unknown
+12436872,Home,794839,Gabriel Jesus,F,9,175,Brazil,860025600,True,4,4,6.5,Unknown,Unknown
+12436872,Home,839410,Aaron Ramsdale,G,30,191,England,895104000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Home,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Home,132874,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Home,1401702,Ethan Nwaneri,F,53,176,England,1174435200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Home,826139,Reiss Nelson,F,19,175,England,944784000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Home,858194,Edward Nketiah,F,9,175,England,928022400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Away,252669,José Sá,G,1,192,Portugal,727228800,False,39,22,7.1,Unknown,Unknown
+12436872,Away,143047,Matt Doherty,D,2,182,Ireland,695520000,False,33,26,7,Unknown,Unknown
+12436872,Away,1014835,Yerson Mosquera,D,14,188,Colombia,988761600,False,46,39,6.9,Unknown,Unknown
+12436872,Away,973418,Toti Gomes,D,24,187,Portugal,916444800,False,57,51,6.2,Unknown,Unknown
+12436872,Away,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,39,37,6.5,Unknown,Unknown
+12436872,Away,1015267,João Gomes,M,8,176,Brazil,981936000,False,37,32,6.6,Unknown,Unknown
+12436872,Away,307284,Mario Lemina,M,99,184,Gabon,746841600,False,38,32,7.1,Unknown,Unknown
+12436872,Away,786186,Hee-Chan Hwang,F,11,177,South Korea,822614400,False,21,16,6.7,Unknown,Unknown
+12436872,Away,845273,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,16,14,6.4,Unknown,Unknown
+12436872,Away,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,False,15,10,6.6,Unknown,Unknown
+12436872,Away,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,12,8,6.3,Unknown,Unknown
+12436872,Away,886363,Matheus Cunha,F,10,184,Brazil,927763200,True,8,8,7.1,Unknown,Unknown
+12436872,Away,308764,Daniel Podence,M,56,165,Portugal,814233600,True,3,2,6.5,Unknown,Unknown
+12436872,Away,50027,Craig Dawson,D,15,188,England,641952000,True,3,3,6.5,Unknown,Unknown
+12436872,Away,1015826,Chiquinho,M,20,179,Portugal,949708800,True,2,2,6.6,Unknown,Unknown
+12436872,Away,138573,Pablo Sarabia,F,21,176,Spain,705542400,True,6,5,6.9,Unknown,Unknown
+12436872,Away,101367,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Away,846308,Santiago Bueno,D,4,189,Uruguay,910569600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Away,932628,Tommy Doyle,M,20,172,England,1003276800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436872,Away,280979,Gonçalo Guedes,F,29,179,Portugal,849225600,True,Unknown,Unknown,Unknown,Unknown,Unknown

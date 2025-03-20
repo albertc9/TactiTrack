@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436927,Home,Alphonse Aréola,G,23,195,France,730771200,False,16,13,6.9,Unknown,Unknown
-12436927,Home,Aaron Wan-Bissaka,D,29,183,England,880502400,False,32,26,6.7,Unknown,Unknown
-12436927,Home,Konstantinos Mavropanos,D,15,194,Greece,881798400,False,35,32,6.3,Unknown,Unknown
-12436927,Home,Max Kilman,D,26,192,England,864345600,False,30,28,6.3,Unknown,Unknown
-12436927,Home,Emerson Palmieri,D,33,176,Italy,775872000,False,21,17,6.3,Unknown,Unknown
-12436927,Home,Guido Rodríguez,M,24,185,Argentina,766108800,False,36,31,6.9,Unknown,Unknown
-12436927,Home,Edson Álvarez,M,19,185,Mexico,877651200,False,35,32,6.7,Unknown,Unknown
-12436927,Home,Jarrod Bowen,M,20,174,England,851040000,False,18,11,6.8,Unknown,Unknown
-12436927,Home,Lucas Paquetá,M,10,180,Brazil,872640000,False,67,57,6.5,Unknown,Unknown
-12436927,Home,Mohammed Kudus,M,14,176,Ghana,965174400,False,21,18,6.6,Unknown,Unknown
-12436927,Home,Michail Antonio,F,9,180,Jamaica,638582400,False,6,3,6.5,Unknown,Unknown
-12436927,Home,Łukasz Fabiański,G,1,190,Poland,482630400,True,5,2,6.9,Unknown,Unknown
-12436927,Home,Vladimír Coufal,D,5,179,Czechia,714441600,True,3,2,6.2,Unknown,Unknown
-12436927,Home,Niclas Füllkrug,F,11,188,Germany,729216000,True,5,5,6.6,Unknown,Unknown
-12436927,Home,Tomáš Souček,M,28,192,Czechia,793843200,True,8,6,6.6,Unknown,Unknown
-12436927,Home,Crysencio Summerville,M,7,174,Netherlands,1004400000,True,2,1,6.9,Unknown,Unknown
-12436927,Home,Jean-Clair Todibo,D,25,189,France,946512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Home,Kaelan Casey,D,6,185,England,1098921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Home,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Home,Andy Irving,M,39,186,Scotland,958176000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Away,Ederson,G,31,188,Brazil,745545600,False,36,31,6.9,Unknown,Unknown
-12436927,Away,Manuel Akanji,D,25,187,Switzerland,806112000,False,101,97,7.2,Unknown,Unknown
-12436927,Away,Rúben Dias,D,3,188,Portugal,863568000,False,82,76,7.1,Unknown,Unknown
-12436927,Away,Joško Gvardiol,D,24,186,Croatia,1011744000,False,57,54,7.8,Unknown,Unknown
-12436927,Away,Rico Lewis,D,82,170,England,1100995200,False,59,55,7.6,Unknown,Unknown
-12436927,Away,Mateo Kovačić,M,8,178,Croatia,768182400,False,97,93,7.6,Unknown,Unknown
-12436927,Away,Jérémy Doku,F,11,173,Belgium,1022457600,False,32,30,7.5,Unknown,Unknown
-12436927,Away,Bernardo Silva,M,20,173,Portugal,776476800,False,76,71,8.3,Unknown,Unknown
-12436927,Away,Kevin De Bruyne,M,17,181,Belgium,678067200,False,80,68,8.4,Unknown,Unknown
-12436927,Away,Jack Grealish,M,10,180,England,810691200,False,39,36,7.5,Unknown,Unknown
-12436927,Away,Erling Haaland,F,9,194,Norway,964137600,False,12,8,9.6,Unknown,Unknown
-12436927,Away,İlkay Gündoğan,M,19,180,Germany,656726400,True,26,26,7,Unknown,Unknown
-12436927,Away,Matheus Nunes,M,27,183,Portugal,904176000,True,14,12,7.7,Unknown,Unknown
-12436927,Away,Nathan Aké,D,6,180,Netherlands,793065600,True,5,4,6.8,Unknown,Unknown
-12436927,Away,Kyle Walker,D,32,183,England,643852800,True,10,9,6.3,Unknown,Unknown
-12436927,Away,Stefan Ortega,G,18,186,Germany,721008000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Away,John Stones,D,5,188,England,770083200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Away,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Away,Rodri,M,16,191,Spain,835401600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436927,Away,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436927,Home,96531,Alphonse Aréola,G,23,195,France,730771200,False,16,13,6.9,Unknown,Unknown
+12436927,Home,863653,Aaron Wan-Bissaka,D,29,183,England,880502400,False,32,26,6.7,Unknown,Unknown
+12436927,Home,829022,Konstantinos Mavropanos,D,15,194,Greece,881798400,False,35,32,6.3,Unknown,Unknown
+12436927,Home,894474,Max Kilman,D,26,192,England,864345600,False,30,28,6.3,Unknown,Unknown
+12436927,Home,155997,Emerson Palmieri,D,33,176,Italy,775872000,False,21,17,6.3,Unknown,Unknown
+12436927,Home,609752,Guido Rodríguez,M,24,185,Argentina,766108800,False,36,31,6.9,Unknown,Unknown
+12436927,Home,847151,Edson Álvarez,M,19,185,Mexico,877651200,False,35,32,6.7,Unknown,Unknown
+12436927,Home,552884,Jarrod Bowen,M,20,174,England,851040000,False,18,11,6.8,Unknown,Unknown
+12436927,Home,839981,Lucas Paquetá,M,10,180,Brazil,872640000,False,67,57,6.5,Unknown,Unknown
+12436927,Home,905163,Mohammed Kudus,M,14,176,Ghana,965174400,False,21,18,6.6,Unknown,Unknown
+12436927,Home,47772,Michail Antonio,F,9,180,Jamaica,638582400,False,6,3,6.5,Unknown,Unknown
+12436927,Home,15479,Łukasz Fabiański,G,1,190,Poland,482630400,True,5,2,6.9,Unknown,Unknown
+12436927,Home,138024,Vladimír Coufal,D,5,179,Czechia,714441600,True,3,2,6.2,Unknown,Unknown
+12436927,Home,132645,Niclas Füllkrug,F,11,188,Germany,729216000,True,5,5,6.6,Unknown,Unknown
+12436927,Home,799041,Tomáš Souček,M,28,192,Czechia,793843200,True,8,6,6.6,Unknown,Unknown
+12436927,Home,917005,Crysencio Summerville,M,7,174,Netherlands,1004400000,True,2,1,6.9,Unknown,Unknown
+12436927,Home,945217,Jean-Clair Todibo,D,25,189,France,946512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Home,1142343,Kaelan Casey,D,6,185,England,1098921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Home,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Home,845464,Andy Irving,M,39,186,Scotland,958176000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Away,254491,Ederson,G,31,188,Brazil,745545600,False,36,31,6.9,Unknown,Unknown
+12436927,Away,383560,Manuel Akanji,D,25,187,Switzerland,806112000,False,101,97,7.2,Unknown,Unknown
+12436927,Away,318941,Rúben Dias,D,3,188,Portugal,863568000,False,82,76,7.1,Unknown,Unknown
+12436927,Away,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,57,54,7.8,Unknown,Unknown
+12436927,Away,1136731,Rico Lewis,D,82,170,England,1100995200,False,59,55,7.6,Unknown,Unknown
+12436927,Away,136710,Mateo Kovačić,M,8,178,Croatia,768182400,False,97,93,7.6,Unknown,Unknown
+12436927,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,32,30,7.5,Unknown,Unknown
+12436927,Away,331209,Bernardo Silva,M,20,173,Portugal,776476800,False,76,71,8.3,Unknown,Unknown
+12436927,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,80,68,8.4,Unknown,Unknown
+12436927,Away,189061,Jack Grealish,M,10,180,England,810691200,False,39,36,7.5,Unknown,Unknown
+12436927,Away,839956,Erling Haaland,F,9,194,Norway,964137600,False,12,8,9.6,Unknown,Unknown
+12436927,Away,45853,İlkay Gündoğan,M,19,180,Germany,656726400,True,26,26,7,Unknown,Unknown
+12436927,Away,945122,Matheus Nunes,M,27,183,Portugal,904176000,True,14,12,7.7,Unknown,Unknown
+12436927,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,True,5,4,6.8,Unknown,Unknown
+12436927,Away,44614,Kyle Walker,D,32,183,England,643852800,True,10,9,6.3,Unknown,Unknown
+12436927,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Away,152077,John Stones,D,5,188,England,770083200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Away,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Away,827606,Rodri,M,16,191,Spain,835401600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436927,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown

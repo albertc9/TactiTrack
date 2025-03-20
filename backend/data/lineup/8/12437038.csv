@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437038,Home,Guglielmo Vicario,G,1,194,Italy,844646400,False,33,30,7,Unknown,Unknown
-12437038,Home,Pedro Porro,D,23,173,Spain,937180800,False,47,37,7.5,Unknown,Unknown
-12437038,Home,Cristian Romero,D,17,185,Argentina,893635200,False,79,67,7.1,Unknown,Unknown
-12437038,Home,Micky van de Ven,D,37,193,Netherlands,987638400,False,67,61,7.2,Unknown,Unknown
-12437038,Home,Destiny Udogie,D,13,186,Italy,1038441600,False,31,27,7.7,Unknown,Unknown
-12437038,Home,Dejan Kulusevski,M,21,186,Sweden,956620800,False,34,29,7.7,Unknown,Unknown
-12437038,Home,Yves Bissouma,M,8,181,Mali,841363200,False,40,37,7.6,Unknown,Unknown
-12437038,Home,James Maddison,M,10,175,England,848707200,False,35,32,7.2,Unknown,Unknown
-12437038,Home,Brennan Johnson,F,22,186,Wales,990576000,False,18,15,7,Unknown,Unknown
-12437038,Home,Dominic Solanke,F,19,186,England,874195200,False,11,9,6.6,Unknown,Unknown
-12437038,Home,Heung-min Son,F,7,184,South Korea,710553600,False,31,26,8,Unknown,Unknown
-12437038,Home,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,19,19,7.2,Unknown,Unknown
-12437038,Home,Timo Werner,F,16,180,Germany,826070400,True,4,1,6.5,Unknown,Unknown
-12437038,Home,Rodrigo Bentancur,M,30,187,Uruguay,867196800,True,12,12,6.7,Unknown,Unknown
-12437038,Home,Richarlison,F,9,184,Brazil,863222400,True,4,2,6.7,Unknown,Unknown
-12437038,Home,Archie Gray,D,14,187,England,1142121600,True,12,10,6.7,Unknown,Unknown
-12437038,Home,Fraser Forster,G,20,201,England,574560000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Home,Radu Drăguşin,D,6,191,Romania,1012694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Home,Lucas Bergvall,M,15,186,Sweden,1138838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Home,Mikey Moore,F,11,180,England,1186790400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Away,Alphonse Aréola,G,23,195,France,730771200,False,36,20,6.4,Unknown,Unknown
-12437038,Away,Aaron Wan-Bissaka,D,29,183,England,880502400,False,47,39,7.5,Unknown,Unknown
-12437038,Away,Jean-Clair Todibo,D,25,189,France,946512000,False,36,33,6.4,Unknown,Unknown
-12437038,Away,Max Kilman,D,26,192,England,864345600,False,28,27,6.8,Unknown,Unknown
-12437038,Away,Emerson Palmieri,D,33,176,Italy,775872000,False,37,31,6.9,Unknown,Unknown
-12437038,Away,Guido Rodríguez,M,24,185,Argentina,766108800,False,30,22,7.1,Unknown,Unknown
-12437038,Away,Jarrod Bowen,M,20,174,England,851040000,False,30,21,6,Unknown,Unknown
-12437038,Away,Tomáš Souček,M,28,192,Czechia,793843200,False,22,18,6.4,Unknown,Unknown
-12437038,Away,Lucas Paquetá,M,10,180,Brazil,872640000,False,19,14,6.1,Unknown,Unknown
-12437038,Away,Mohammed Kudus,M,14,176,Ghana,965174400,False,28,26,7.1,Unknown,Unknown
-12437038,Away,Michail Antonio,F,9,180,Jamaica,638582400,False,7,6,6.4,Unknown,Unknown
-12437038,Away,Carlos Soler,M,4,180,Spain,852163200,True,12,9,6.5,Unknown,Unknown
-12437038,Away,Crysencio Summerville,M,7,174,Netherlands,1004400000,True,6,5,6.5,Unknown,Unknown
-12437038,Away,Edson Álvarez,M,19,185,Mexico,877651200,True,15,12,6.6,Unknown,Unknown
-12437038,Away,Konstantinos Mavropanos,D,15,194,Greece,881798400,True,13,12,6.5,Unknown,Unknown
-12437038,Away,Łukasz Fabiański,G,1,190,Poland,482630400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Away,Aaron Cresswell,D,3,170,England,629683200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Away,Vladimír Coufal,D,5,179,Czechia,714441600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Away,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437038,Away,Danny Ings,F,18,178,England,711849600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12437038,Home,553606,Guglielmo Vicario,G,1,194,Italy,844646400,False,33,30,7,Unknown,Unknown
+12437038,Home,913654,Pedro Porro,D,23,173,Spain,937180800,False,47,37,7.5,Unknown,Unknown
+12437038,Home,829932,Cristian Romero,D,17,185,Argentina,893635200,False,79,67,7.1,Unknown,Unknown
+12437038,Home,998247,Micky van de Ven,D,37,193,Netherlands,987638400,False,67,61,7.2,Unknown,Unknown
+12437038,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,False,31,27,7.7,Unknown,Unknown
+12437038,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,False,34,29,7.7,Unknown,Unknown
+12437038,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,40,37,7.6,Unknown,Unknown
+12437038,Home,356398,James Maddison,M,10,175,England,848707200,False,35,32,7.2,Unknown,Unknown
+12437038,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,18,15,7,Unknown,Unknown
+12437038,Home,361420,Dominic Solanke,F,19,186,England,874195200,False,11,9,6.6,Unknown,Unknown
+12437038,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,31,26,8,Unknown,Unknown
+12437038,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,19,19,7.2,Unknown,Unknown
+12437038,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,4,1,6.5,Unknown,Unknown
+12437038,Home,791190,Rodrigo Bentancur,M,30,187,Uruguay,867196800,True,12,12,6.7,Unknown,Unknown
+12437038,Home,840217,Richarlison,F,9,184,Brazil,863222400,True,4,2,6.7,Unknown,Unknown
+12437038,Home,1142335,Archie Gray,D,14,187,England,1142121600,True,12,10,6.7,Unknown,Unknown
+12437038,Home,19314,Fraser Forster,G,20,201,England,574560000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Home,1403192,Mikey Moore,F,11,180,England,1186790400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Away,96531,Alphonse Aréola,G,23,195,France,730771200,False,36,20,6.4,Unknown,Unknown
+12437038,Away,863653,Aaron Wan-Bissaka,D,29,183,England,880502400,False,47,39,7.5,Unknown,Unknown
+12437038,Away,945217,Jean-Clair Todibo,D,25,189,France,946512000,False,36,33,6.4,Unknown,Unknown
+12437038,Away,894474,Max Kilman,D,26,192,England,864345600,False,28,27,6.8,Unknown,Unknown
+12437038,Away,155997,Emerson Palmieri,D,33,176,Italy,775872000,False,37,31,6.9,Unknown,Unknown
+12437038,Away,609752,Guido Rodríguez,M,24,185,Argentina,766108800,False,30,22,7.1,Unknown,Unknown
+12437038,Away,552884,Jarrod Bowen,M,20,174,England,851040000,False,30,21,6,Unknown,Unknown
+12437038,Away,799041,Tomáš Souček,M,28,192,Czechia,793843200,False,22,18,6.4,Unknown,Unknown
+12437038,Away,839981,Lucas Paquetá,M,10,180,Brazil,872640000,False,19,14,6.1,Unknown,Unknown
+12437038,Away,905163,Mohammed Kudus,M,14,176,Ghana,965174400,False,28,26,7.1,Unknown,Unknown
+12437038,Away,47772,Michail Antonio,F,9,180,Jamaica,638582400,False,7,6,6.4,Unknown,Unknown
+12437038,Away,832427,Carlos Soler,M,4,180,Spain,852163200,True,12,9,6.5,Unknown,Unknown
+12437038,Away,917005,Crysencio Summerville,M,7,174,Netherlands,1004400000,True,6,5,6.5,Unknown,Unknown
+12437038,Away,847151,Edson Álvarez,M,19,185,Mexico,877651200,True,15,12,6.6,Unknown,Unknown
+12437038,Away,829022,Konstantinos Mavropanos,D,15,194,Greece,881798400,True,13,12,6.5,Unknown,Unknown
+12437038,Away,15479,Łukasz Fabiański,G,1,190,Poland,482630400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Away,43443,Aaron Cresswell,D,3,170,England,629683200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Away,138024,Vladimír Coufal,D,5,179,Czechia,714441600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Away,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437038,Away,130181,Danny Ings,F,18,178,England,711849600,True,Unknown,Unknown,Unknown,Unknown,Unknown
