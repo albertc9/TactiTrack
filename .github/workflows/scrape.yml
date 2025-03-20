@@ -1,0 +1,37 @@
+name: Daily Game Data Acquisition
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # UTC 23:00  = BJT 7:00
+  workflow_dispatch:  # allow manual trigger
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest  # use ubuntu supported by github
+    steps:
+      - name: 📥 check repository code
+        uses: actions/checkout@v4
+
+      - name: 🐍 set python venv
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'  # my venv
+
+      - name: 📦 install requirements
+        run: pip install -r requirements.txt  # install requirements
+
+      - name: 🚀 run scraper scripts
+        run: python backend/run_scrapers.py
+
+      - name: 📝 git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 🔄 push update
+        run: |
+          git add .
+          git commit -m "📌 update data automatically $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
