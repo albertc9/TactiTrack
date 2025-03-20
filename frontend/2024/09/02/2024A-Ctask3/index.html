@@ -1,0 +1,1179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Hexo Theme Redefine">
+    
+    <meta name="author" content="Albert Cheung">
+    <!-- preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    
+        
+        
+        
+            <link rel="preconnect" href="https://registry.npmmirror.com" crossorigin>
+        
+    
+    <!--- Seo Part-->
+    
+    <link rel="canonical" href="http://example.com/2024/09/02/2024a-ctask3/"/>
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="revisit-after" content="1 days">
+    
+        <meta name="description" content="Tasks1、从下面的链接中下载root文件，打开其中的”r_strip(TH2D)”，选取X方向前5个bin，将其投影到Y方向作为新的”TH1D”，这是粒子经过300微米硅微条探测器收集到的信号，指出其服从什么分布并拟合，并以论文的标准作图。  提示1：投影操作选取前5个的代码为r_strip projectionY（””，5,0） 提示2：提示1也许不那么可靠 提示3：作图可以参考分享文件中”">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A&amp;C_task 1.3">
+<meta property="og:url" content="http://example.com/2024/09/02/2024A-Ctask3/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="Tasks1、从下面的链接中下载root文件，打开其中的”r_strip(TH2D)”，选取X方向前5个bin，将其投影到Y方向作为新的”TH1D”，这是粒子经过300微米硅微条探测器收集到的信号，指出其服从什么分布并拟合，并以论文的标准作图。  提示1：投影操作选取前5个的代码为r_strip projectionY（””，5,0） 提示2：提示1也许不那么可靠 提示3：作图可以参考分享文件中”">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://example.com/image/240908.1.png">
+<meta property="og:image" content="http://example.com/image/240908.2.png">
+<meta property="og:image" content="http://example.com/image/240825.2.png">
+<meta property="og:image" content="http://example.com/image/240826.2.png">
+<meta property="og:image" content="http://example.com/image/240826.3.png">
+<meta property="og:image" content="http://example.com/image/240826.4.png">
+<meta property="article:published_time" content="2024-09-02T09:08:33.000Z">
+<meta property="article:modified_time" content="2024-09-10T10:28:09.526Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="Tasks">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/image/240908.1.png">
+    
+    
+        <!-- Google tag (gtag.js) -->
+        <script src="https://www.googletagmanager.com/gtag/js?id=G-ZQ6EEL4C6N"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZQ6EEL4C6N');
+        </script>
+    
+    <!--- Icon Part-->
+    <link rel="icon" type="image/png" href="/images/icons8-physics-24.png" sizes="192x192">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons8-physics-24.png">
+    <meta name="theme-color" content="#A31F34">
+    <link rel="shortcut icon" href="/images/icons8-physics-24.png">
+    <!--- Page Info-->
+    
+    <title>
+        
+            A&amp;C_task 1.3 -
+        
+        Any%
+    </title>
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fonts/Chillax/chillax.css">
+
+    <!--- Inject Part-->
+    
+
+    
+<link rel="stylesheet" href="/css/style.css">
+
+
+    
+        
+<link rel="stylesheet" href="/assets/build/styles.css">
+
+    
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fonts/GeistMono/geist-mono.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fonts/Geist/geist.css">
+    <!--- Font Part-->
+    
+    
+    
+    
+    
+    
+        <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/anime.min.js"></script>
+    
+
+    <script id="hexo-configurations">
+    window.config = {"hostname":"example.com","root":"/","language":"en","path":"search.xml"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":false,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":true,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null},"title":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":true,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":true,"site_pv":true,"site_uv":false,"post_pv":false},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-ZQ6EEL4C6N"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/pillars_of_creation.webp","dark":"/images/pillars_of_creation.webp"},"title":"我们不只是星尘。","subtitle":{"text":["静止总有一丝响动，那是灵魂沉沉浮浮。","将您扼杀的就是您以为面前还有无尽的时间。","就这样将自己搁浅在夜的礁上，昨天已成过去，今天尚未开始。","雨天，我走进水坑里，不小心踩碎了天空。","把地球倒置，我用撒哈拉记时。","血液的作用之一，是为信仰付出代价。","人之所以言之凿凿，是因为知道的太少。","不要做永远都合群的人。做异见者，做一会儿孤松，独自度过漫长冬日。","水流是鱼的风。","无限风光在险峰。","在坚冰还覆盖着北海的时候，我看到了怒放的梅花。","于暴雨中行走，伞是倒划天空的船。"],"hitokoto":{"enable":false,"show_author":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/albertc9/","instagram":"https://www.instagram.com/albert_cheung9/","zhihu":null,"twitter":"https://x.com/albert_chg9/","email":"albert.chg9@gmail.com"},"qrs":{"weixin":"https://github.com/albertc9/albertc9.github.io/blob/main/image/QRcode.jpg?raw=true"}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.7.0","navbar":{"auto_hide":false,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"https://albertc9.github.io","icon":"fa-regular fa-house"},"Links":{"icon":"fa-regular fa-link","submenus":{"AMS&CEPC Twiki":"https://twiki.cern.ch/twiki/bin/view/Main/AMSCEPCDev","AMS Official Website":"https://ams02.space/","AMS Official Internal Website":"https://ams.cern.ch/","Web of Science":"https://www.webofscience.com","arXiv":"https://arxiv.org","D. Tong":"https://www.damtp.cam.ac.uk/user/tong/teaching.html"}}},"search":{"enable":true,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"info","announcement":"Email：albert.chg9@gmail.com    WeChat Official Account：PyRLetter","show_on_mobile":true,"links":{"Tags":{"path":"/tags","icon":"fa-regular fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"}}},"article_date_format":"MMM D, YYYY","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2024/7/7 04:10:28"};
+    window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
+    window.data = {"masonry":false};
+  </script>
+    
+    <!--- Fontawesome Part-->
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/fontawesome.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/brands.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/solid.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/regular.min.css">
+    
+    
+    
+    
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
+
+
+<body>
+<div class="progress-bar-container">
+    
+        <span class="scroll-progress-bar"></span>
+    
+
+    
+        <span class="pjax-progress-bar"></span>
+<!--        <span class="swup-progress-icon">-->
+<!--            <i class="fa-solid fa-circle-notch fa-spin"></i>-->
+<!--        </span>-->
+    
+</div>
+
+
+
+    <style>
+    :root {
+        --preloader-background-color: #fff;
+        --preloader-text-color: #000;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --preloader-background-color: #202124;
+            --preloader-text-color: #fff;
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        :root {
+            --preloader-background-color: #fff;
+            --preloader-text-color: #000;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .ml13 {
+            font-size: 2.6rem !important; /* Adjust this value as needed */
+        }
+    }
+
+    .preloader {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem; /* Tailwind 'gap-4' is 1rem */
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        padding: 12px;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh; /* 'h-screen' is 100% of the viewport height */
+        background-color: var(--preloader-background-color);
+        z-index: 1100; /* 'z-[1100]' sets the z-index */
+        transition: opacity 0.2s ease-in-out;
+    }
+
+    .ml13 {
+        font-size: 3.2rem;
+        /* text-transform: uppercase; */
+        color: var(--preloader-text-color);
+        letter-spacing: -1px;
+        font-weight: 500;
+        font-family: 'Chillax-Variable', sans-serif;
+        text-align: center;
+    }
+
+    .ml13 .word {
+        display: inline-flex;
+        flex-wrap: wrap;
+        white-space: nowrap;
+    }
+
+    .ml13 .letter {
+        display: inline-block;
+        line-height: 1em;
+    }
+</style>
+
+<div class="preloader">
+    <h2 class="ml13">
+        Any%
+    </h2>
+    <script>
+        var textWrapper = document.querySelector('.ml13');
+        // Split text into words
+        var words = textWrapper.textContent.trim().split(' ');
+
+        // Clear the existing content
+        textWrapper.innerHTML = '';
+
+        // Wrap each word and its letters in spans
+        words.forEach(function(word) {
+            var wordSpan = document.createElement('span');
+            wordSpan.classList.add('word');
+            wordSpan.innerHTML = word.replace(/\S/g, "<span class='letter'>$&</span>");
+            textWrapper.appendChild(wordSpan);
+            textWrapper.appendChild(document.createTextNode(' ')); // Add space between words
+        });
+
+        var animation = anime.timeline({loop: true})
+            .add({
+                targets: '.ml13 .letter',
+                translateY: [40,0],
+                translateZ: 0,
+                opacity: [0,1],
+                filter: ['blur(5px)', 'blur(0px)'], // Starting from blurred to unblurred
+                easing: "easeOutExpo",
+                duration: 1400,
+                delay: (el, i) => 300 + 30 * i,
+            }).add({
+                targets: '.ml13 .letter',
+                translateY: [0,-40],
+                opacity: [1,0],
+                filter: ['blur(0px)', 'blur(5px)'], // Ending from unblurred to blurred
+                easing: "easeInExpo",
+                duration: 1200,
+                delay: (el, i) => 100 + 30 * i,
+                complete: function() {
+                    hidePreloader(); // Call hidePreloader after the animation completes
+                }
+            });
+
+        let themeStatus = JSON.parse(localStorage.getItem('REDEFINE-THEME-STATUS'))?.isDark;
+
+        // If the theme status is not found in local storage, check the preferred color scheme
+        if (themeStatus === undefined || themeStatus === null) {
+            if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                themeStatus = 'dark';
+            } else {
+                themeStatus = 'light';
+            }
+        }
+
+        // Now you can use the themeStatus variable in your code
+        if (themeStatus) {
+            document.documentElement.style.setProperty('--preloader-background-color', '#202124');
+            document.documentElement.style.setProperty('--preloader-text-color', '#fff');
+        } else {
+            document.documentElement.style.setProperty('--preloader-background-color', '#fff');
+            document.documentElement.style.setProperty('--preloader-text-color', '#000');
+        }
+
+        window.addEventListener('load', function () {
+            setTimeout(hidePreloader, 5000); // Call hidePreloader after 5000 milliseconds if not already called by animation
+        });
+
+        function hidePreloader() {
+            var preloader = document.querySelector('.preloader');
+            preloader.style.opacity = '0';
+            setTimeout(function () {
+                preloader.style.display = 'none';
+            }, 200);
+        }
+    </script>
+</div>
+
+<main class="page-container" id="swup">
+
+    
+
+    <div class="main-content-container">
+
+
+        <div class="main-content-header">
+            <header class="navbar-container px-6 md:px-12">
+
+    <div class="navbar-content ">
+        <div class="left">
+            
+            <a class="logo-title" href="/">
+                
+                Any%
+                
+            </a>
+        </div>
+
+        <div class="right">
+            <!-- PC -->
+            <div class="desktop">
+                <ul class="navbar-list">
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   target="_blank" rel="noopener" href="https://albertc9.github.io"
+                                        >
+                                    <i class="fa-regular fa-house fa-fw"></i>
+                                    HOME
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class="has-dropdown"
+                                   href="#"
+                                        onClick=&#34;return false;&#34;>
+                                    <i class="fa-regular fa-link fa-fw"></i>
+                                    LINKS
+                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                                    <ul class="sub-menu">
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://twiki.cern.ch/twiki/bin/view/Main/AMSCEPCDev">
+                                                    AMS&amp;CEPC TWIKI
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://ams02.space/">
+                                                    AMS OFFICIAL WEBSITE
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://ams.cern.ch/">
+                                                    AMS OFFICIAL INTERNAL WEBSITE
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://www.webofscience.com">
+                                                    WEB OF SCIENCE
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://arxiv.org">
+                                                    ARXIV
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://www.damtp.cam.ac.uk/user/tong/teaching.html">
+                                                    D. TONG
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                    
+                    
+                        <li class="navbar-item search search-popup-trigger">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                
+                <div class="icon-item navbar-bar">
+                    <div class="navbar-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile sheet -->
+    <div class="navbar-drawer h-screen w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
+        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           target="_blank" rel="noopener" href="https://albertc9.github.io"
+                        >
+                            <span>
+                                HOME
+                            </span>
+                            
+                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
+                        
+                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                             navbar-data-toggle="submenu-Links"
+                        >
+                            <span>
+                                LINKS
+                            </span>
+                            
+                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
+                            
+                        </div>
+                        
+
+                        
+                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-Links">
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://twiki.cern.ch/twiki/bin/view/Main/AMSCEPCDev">AMS&amp;CEPC TWIKI</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://ams02.space/">AMS OFFICIAL WEBSITE</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://ams.cern.ch/">AMS OFFICIAL INTERNAL WEBSITE</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://www.webofscience.com">WEB OF SCIENCE</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://arxiv.org">ARXIV</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://www.damtp.cam.ac.uk/user/tong/teaching.html">D. TONG</a>
+                                    </div>
+                                
+                            </div>
+                        
+                    </li>
+            
+
+            
+            
+                
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/tags"
+                        >
+                            <span>Tags</span>
+                            <i class="fa-regular fa-tags fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/categories"
+                        >
+                            <span>Categories</span>
+                            <i class="fa-regular fa-folder fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+            
+        </ul>
+
+        <div class="statistics flex justify-around my-2.5">
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
+        <div class="label text-third-text-color text-sm">Tags</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
+        <div class="label text-third-text-color text-sm">Categories</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">41</div>
+        <div class="label text-third-text-color text-sm">Posts</div>
+    </a>
+</div>
+    </div>
+
+    <div class="window-mask"></div>
+
+</header>
+
+
+        </div>
+
+        <div class="main-content-body">
+
+            
+
+            <div class="main-content">
+
+                
+                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
+    <div class="article-content-container">
+
+        <div class="article-title relative w-full">
+            
+                <div class="w-full flex items-center pt-6 justify-start">
+                    <h1 class="article-title-regular text-second-text-color tracking-tight text-4xl md:text-6xl font-semibold px-2 sm:px-6 md:px-8 py-3">A&amp;C_task 1.3</h1>
+                </div>
+            
+            </div>
+
+        
+            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
+                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
+                    <img src="/images/avatar.JPG">
+                </div>
+                <div class="info flex flex-col justify-between">
+                    <div class="author flex items-center">
+                        <span class="name text-default-text-color text-lg font-semibold">Albert Cheung</span>
+                        
+                    </div>
+                    <div class="meta-info">
+                        <div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="desktop">2024-09-02 17:08:33</span>
+        <span class="mobile">2024-09-02 17:08:33</span>
+        <span class="hover-info">Created</span>
+    </span>
+    
+        <span class="article-date article-meta-item">
+            <i class="fa-regular fa-wrench"></i>&nbsp;
+            <span class="desktop">2024-09-10 18:28:09</span>
+            <span class="mobile">2024-09-10 18:28:09</span>
+            <span class="hover-info">Updated</span>
+        </span>
+    
+
+    
+        <span class="article-categories article-meta-item">
+            <i class="fa-regular fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/A-CTask1/">A&amp;CTask1</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/tags/Tasks/">Tasks</a>&nbsp;
+                    </li>
+                
+            </ul>
+        </span>
+    
+
+    
+    
+        <span class="article-wordcount article-meta-item">
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>4.2k Words</span>
+        </span>
+    
+    
+        <span class="article-min2read article-meta-item">
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>16 Mins</span>
+        </span>
+    
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+        
+
+        
+
+
+        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
+            <h3 id="Tasks"><a href="#Tasks" class="headerlink" title="Tasks"></a>Tasks</h3><p>1、从下面的链接中下载root文件，打开其中的”r_strip(TH2D)”，选取X方向前5个bin，将其投影到Y方向作为新的”TH1D”，这是粒子经过300微米硅微条探测器收集到的信号，指出其服从什么分布并拟合，并以论文的标准作图。</p>
+<ul>
+<li>提示1：投影操作选取前5个的代码为r_strip projectionY（””，5,0）</li>
+<li>提示2：提示1也许不那么可靠</li>
+<li>提示3：作图可以参考分享文件中”style.h”，在绘图程序中加入其头文件后</li>
+</ul>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#include &lt;YOUR_DIR/style.h&gt;</span></span><br><span class="line">...</span><br><span class="line">void <span class="function"><span class="title">test</span></span>(){</span><br><span class="line">...</span><br><span class="line">MyStyle();</span><br><span class="line">...</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+<p>分享文件:result.root等[批量分享]</p>
+<p>云盘链接:<a class="link" target="_blank" rel="noopener" href="https://pan.cstcloud.cn/s/vMvhmHm4TPI">https://pan.cstcloud.cn/s/vMvhmHm4TPI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> </p>
+<p>过期时间:2025-09-09 16:36:03</p>
+<h3 id="One-Possible-Solution"><a href="#One-Possible-Solution" class="headerlink" title="One Possible Solution"></a>One Possible Solution</h3><p><strong>注意：硅微条探测器的知识放在<a class="link" target="_blank" rel="noopener" href="https://albertc9.github.io/2024/09/10/2024A-Ctask4/">task 1.4 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>中展开讲解。另外，在提供的电子材料中也有相关课件与资料，详见”<a class="link" target="_blank" rel="noopener" href="https://albertc9.github.io/2024/08/13/AMS-CEPC-Guide/">Beginner’s Guide：Possible Starting Pathway <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>“部分。</strong></p>
+<p>首先，硅微条探测器是一种基于半导体硅材料的粒子探测器。它可以通过探测带电粒子穿过硅材料时产生的电荷进而测量粒子的路径、能量和其他相关物理量。硅微条探测器的基本工作原理依赖于硅的电离效应：当高能带电粒子穿过硅材料时，会与硅原子发生相互作用，产生电子-空穴对。这些电子和空穴在电场作用下分别向不同的电极移动，从而形成可检测的电信号。</p>
+<p>硅微条探测器中的能量损失分布和粒子在穿越探测器时的电离过程的能量损失分布相似，这其实和上一次作业中粒子穿越不同厚度的介质产生不同电离能量损失的分布的相关。事实上，它们的原理几乎是一样的，都是依赖于粒子通过材料时产生的电离效应。不同的是，硅微条探测器将这种能量损失通过半导体中的电荷收集过程转化为可测量的电信号。题目中提到的投影到Y上的信号实际上就是粒子的能量沉积。</p>
+<p>可以粗略地依靠直觉首先判断出投影后的结果服从何种分布。正常情况下，带电粒子穿过硅时的平均自由程通常依赖于粒子的类型、能量以及硅材料的密度。题目中没有提到被测粒子是何种粒子，可以暂且假设它不具有太高的能量。对于高能带电粒子，如质子或电子，穿过硅时的平均自由程大致在几微米到几十微米的范围内；具体数值取决于粒子的能量水平：能量越高，自由程越长。这样的硅条具有300微米的厚度，可以显然地断言我们得到的分布不应当是高斯分布或者不应当具有太对称的结构，毕竟厚度和自由程的数量级差异并不大；同时，我们也可以发现它不太应该满足完美的朗道分布，因为硅微条其实并不太薄。不过从直觉上而言，高斯分布产生的原因是大数碰撞的中心极限定理的结果，在厚度仅比自由程大一个数量级的情况下，朗道分布应当能够得到更好的拟合结果。</p>
+<p>不过一般情况下，Vavilov修正的Landau显然能够满足大部分的分布拟合，无论是薄片还是较厚的微条，唯一的缺点就是有时可能较为复杂，不好处理。所以不妨最后再添加一个Vavilov分布的拟合，用来比较朗道分布和高斯分布在不同位置的拟合结果（例如峰值的两侧的低点，左侧可能更符合高斯分布，而右侧在朗道分布的拟合下表现可能更好。<strong>为什么？</strong>）</p>
+<p>写出代码如下：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#include "/home/albert/rootdoc/actask3/style.h"</span></span><br><span class="line"></span><br><span class="line">void <span class="function"><span class="title">task1_3</span></span>(){</span><br><span class="line">    </span><br><span class="line">    MyStyle(); // 应该是头文件中的内容</span><br><span class="line"></span><br><span class="line">    TFile *file = TFile::Open(<span class="string">"result.root"</span>);</span><br><span class="line">    TH2D *r_strip = (TH2D*)file -&gt;Get(<span class="string">"r_strip"</span>); </span><br><span class="line"></span><br><span class="line">    // 先输出原有数据的图像，可以作为一个简单的快速参考</span><br><span class="line">    TCanvas *c0 = new TCanvas(<span class="string">"c0"</span>, <span class="string">"r_strip_output"</span>, 600, 800);</span><br><span class="line">    r_strip -&gt; Draw();</span><br><span class="line"></span><br><span class="line">    gStyle -&gt; SetOptStat(1111);</span><br><span class="line">    r_strip -&gt; SetStats(1);</span><br><span class="line"></span><br><span class="line">    c0 -&gt; SaveAs(<span class="string">"r_strip_output.png"</span>);</span><br><span class="line">    delete c0;</span><br><span class="line"></span><br><span class="line">    TH1D *h1a = r_strip -&gt; ProjectionY(<span class="string">"TemTitle1"</span>, 1, 5);</span><br><span class="line">    TH1D *h1b = r_strip -&gt; ProjectionY(<span class="string">"TemTitle2"</span>, 1, 5);</span><br><span class="line">    TH1D *h1c = r_strip -&gt; ProjectionY(<span class="string">"TemTitle3"</span>, 1, 5);</span><br><span class="line"></span><br><span class="line">    /*</span><br><span class="line">    * 似乎调用h1a -&gt; Fit(<span class="string">"vavilov"</span>, <span class="string">"R"</span>);之后，ROOT会创建一个新的TF1对象并附加到h1a中。因此，需要使用h1a -&gt; GetFunction(<span class="string">"vavilov"</span>)来获取这个新的拟合对象。</span><br><span class="line">	* 修改后的代码首先执行拟合操作，然后通过GetFunction()获取实际的拟合对象，再对这个对象设置参数名和其他属性。</span><br><span class="line">    */</span><br><span class="line"></span><br><span class="line">    TF1 *fitResultVavilov = new TF1(<span class="string">"vavilov"</span>, <span class="string">"[0]*TMath::Gaus(x, [1], [2]) + [3]*TMath::Landau(x, [4], [5])"</span>, 0, 200); </span><br><span class="line">    fitResultVavilov -&gt; SetParameters(1, 20, 5, 1, 10, 2);  // 初始参数</span><br><span class="line">    h1a -&gt; Fit(<span class="string">"vavilov"</span>, <span class="string">"R"</span>); // Vavilov分布拟合</span><br><span class="line"></span><br><span class="line">    // 获取实际的拟合函数对象</span><br><span class="line">    TF1 *fitResultVavilovFitted = h1a -&gt; GetFunction(<span class="string">"vavilov"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetParName(0, <span class="string">"Gauss_Amplitude"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetParName(1, <span class="string">"Gauss_Mean"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetParName(2, <span class="string">"Gauss_Sigma"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetParName(3, <span class="string">"Landau_Amplitude"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetParName(4, <span class="string">"Landau_Mean"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetParName(5, <span class="string">"Landau_Sigma"</span>);</span><br><span class="line">    fitResultVavilovFitted -&gt; SetLineColor(kBlue);</span><br><span class="line"></span><br><span class="line">    h1b -&gt; Fit(<span class="string">"landau"</span>);</span><br><span class="line">    TF1 *fitResultLandau = h1b -&gt; GetFunction(<span class="string">"landau"</span>);</span><br><span class="line">    fitResultLandau -&gt; SetLineColor(kRed);</span><br><span class="line"></span><br><span class="line">    h1c -&gt; Fit(<span class="string">"gaus"</span>, <span class="string">"q"</span>);</span><br><span class="line">    TF1 *fitResult = h1c -&gt; GetFunction(<span class="string">"gaus"</span>);</span><br><span class="line">    fitResult -&gt; SetLineColor(kGreen);</span><br><span class="line"></span><br><span class="line">    // 创建 root 文件, 后续再输出图像文件</span><br><span class="line">    TFile *outFile = new TFile(<span class="string">"output1_3.root"</span>, <span class="string">"RECREATE"</span>); </span><br><span class="line">    h1a -&gt; Write();</span><br><span class="line">    h1b -&gt; Write();</span><br><span class="line">    h1c -&gt; Write();</span><br><span class="line">    fitResult -&gt; Write(<span class="string">"gauseFit"</span>);</span><br><span class="line">    fitResultLandau -&gt; Write(<span class="string">"landauFit"</span>);</span><br><span class="line">    fitResultVavilov -&gt; Write(<span class="string">"vavilovFit"</span>);</span><br><span class="line">    outFile -&gt; Close();</span><br><span class="line">    file -&gt; Close();</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    // 接下来通过 output1_3.root 生成输出的图片</span><br><span class="line">    TFile *inFile = TFile::Open(<span class="string">"output1_3.root"</span>);</span><br><span class="line"></span><br><span class="line">    TH1D *h2 = (TH1D*)inFile -&gt; Get(<span class="string">"TemTitle1"</span>);</span><br><span class="line">    TF1 *fitResult2 = (TF1*)inFile -&gt; Get(<span class="string">"gauseFit"</span>);</span><br><span class="line">    TF1 *fitResultLandau2 = (TF1*)inFile -&gt; Get(<span class="string">"landauFit"</span>);</span><br><span class="line">    TF1 *fitResultVavilov2 = (TF1*)inFile -&gt; Get(<span class="string">"vavilovFit"</span>);</span><br><span class="line"></span><br><span class="line">    TColor *colorGray = new TColor(2000, 145/255.0, 146/255.0, 171/255.0);</span><br><span class="line">    TColor *colorBlue = new TColor(2001, 99/255.0, 178/255.0, 238/255.0);</span><br><span class="line">    TColor *colorRed = new TColor(2002, 248/255.0, 149/255.0, 136/255.0);</span><br><span class="line">    TColor *colorGreen = new TColor(2003, 118/255.0, 218/255.0, 145/255.0);</span><br><span class="line">    h2 -&gt; SetLineColor(2000);</span><br><span class="line">    fitResult2 -&gt; SetLineColor(2001);</span><br><span class="line">    fitResultLandau2 -&gt; SetLineColor(2002);</span><br><span class="line">    fitResultVavilov2 -&gt; SetLineColor(2003);</span><br><span class="line">    </span><br><span class="line">    TCanvas *c1 = new TCanvas(<span class="string">"c1"</span>, <span class="string">"Histogram"</span>, 800, 600);</span><br><span class="line">    h2 -&gt; GetXaxis() -&gt; SetLabelSize(0.04);</span><br><span class="line">    h2 -&gt; GetYaxis() -&gt; SetLabelSize(0.04);</span><br><span class="line">    h2 -&gt; Draw();</span><br><span class="line">    fitResult2 -&gt; Draw(<span class="string">"same"</span>);</span><br><span class="line">    fitResultLandau2 -&gt; Draw(<span class="string">"same"</span>);</span><br><span class="line">    fitResultVavilov2 -&gt; Draw(<span class="string">"same"</span>);</span><br><span class="line"></span><br><span class="line">    TLegend *legend = new TLegend(0.67, 0.5, 0.92, 0.63);</span><br><span class="line">    legend -&gt; AddEntry(h2, <span class="string">"Origin Data"</span>, <span class="string">"l"</span>);</span><br><span class="line">    legend -&gt; AddEntry(fitResult2, <span class="string">"Gaussian Fit"</span>, <span class="string">"l"</span>);</span><br><span class="line">    legend -&gt; AddEntry(fitResultLandau2, <span class="string">"Landau Fit"</span>, <span class="string">"l"</span>);</span><br><span class="line">    legend -&gt; AddEntry(fitResultVavilov2, <span class="string">"Vavilov Fit"</span>, <span class="string">"l"</span>);</span><br><span class="line">    legend -&gt; SetTextSize(0.03);</span><br><span class="line">    legend -&gt; Draw();</span><br><span class="line"></span><br><span class="line">    gStyle-&gt; SetOptStat(<span class="string">"eMRSK"</span>);</span><br><span class="line">    gStyle-&gt; SetOptFit(); // 这样能显示所有的参数</span><br><span class="line">    h2 -&gt; SetStats(1);</span><br><span class="line"></span><br><span class="line">    TPaveStats *stats = (TPaveStats*)h2 -&gt; FindObject(<span class="string">"stats"</span>);</span><br><span class="line">        stats -&gt; SetX1NDC(0.65);</span><br><span class="line">        stats -&gt; SetY1NDC(0.65);</span><br><span class="line">        stats -&gt; SetX2NDC(0.9);</span><br><span class="line">        stats -&gt; SetY2NDC(0.9);</span><br><span class="line"></span><br><span class="line">    TLatex *title = new TLatex();</span><br><span class="line">    title -&gt; SetTextAlign(22);</span><br><span class="line">    title -&gt; SetTextSize(0.032);</span><br><span class="line">    title -&gt; DrawLatexNDC(0.495, 0.047, <span class="string">"Fig 1. First 5-bin Y-projection and Fitting of Particle Signal Distribution in a 300 #mum Silicon Strip Detector"</span>); // 当然在实际撰写论文时，标题一般在word中添加而不是在图像中添加</span><br><span class="line">    gPad -&gt; Update();</span><br><span class="line"></span><br><span class="line">    c1 -&gt; SaveAs(<span class="string">"task1_3_output.png"</span>);</span><br><span class="line">    c1 -&gt; SaveAs(<span class="string">"task1_3_output.pdf"</span>);</span><br><span class="line"></span><br><span class="line">    // 写入其余两个函数拟合的统计值用于对比</span><br><span class="line">    ofstream outfile(<span class="string">"fit_statistics.txt"</span>);</span><br><span class="line"></span><br><span class="line">    outfile &lt;&lt; <span class="string">"Gaussian Fit Results:\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Amplitude: "</span> &lt;&lt; <span class="string">fitResult2-&gt;GetParameter(0) &lt;&lt; " ± " &lt;&lt; fitResult2</span>-&gt;GetParError(0) &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Mean: "</span> &lt;&lt; <span class="string">fitResult2-&gt;GetParameter(1) &lt;&lt; " ± " &lt;&lt; fitResult2</span>-&gt;GetParError(1) &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Sigma: "</span> &lt;&lt; <span class="string">fitResult2-&gt;GetParameter(2) &lt;&lt; " ± " &lt;&lt; fitResult2</span>-&gt;GetParError(2) &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Chi-square: "</span> &lt;&lt; <span class="string">fitResult2-&gt;GetChisquare() &lt;&lt; "\n";</span></span><br><span class="line"><span class="string">    outfile &lt;&lt; "NDF: " &lt;&lt; fitResult2</span>-&gt;GetNDF() &lt;&lt; <span class="string">"\n\n"</span>;</span><br><span class="line"></span><br><span class="line">    outfile &lt;&lt; <span class="string">"Landau Fit Results:\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Amplitude: "</span> &lt;&lt; <span class="string">fitResultLandau2-&gt;GetParameter(0) &lt;&lt; " ± " &lt;&lt; fitResultLandau2</span>-&gt;GetParError(0) &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"MPV: "</span> &lt;&lt; <span class="string">fitResultLandau2-&gt;GetParameter(1) &lt;&lt; " ± " &lt;&lt; fitResultLandau2</span>-&gt;GetParError(1) &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Sigma: "</span> &lt;&lt; <span class="string">fitResultLandau2-&gt;GetParameter(2) &lt;&lt; " ± " &lt;&lt; fitResultLandau2</span>-&gt;GetParError(2) &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line">    outfile &lt;&lt; <span class="string">"Chi-square: "</span> &lt;&lt; <span class="string">fitResultLandau2-&gt;GetChisquare() &lt;&lt; "\n";</span></span><br><span class="line"><span class="string">    outfile &lt;&lt; "NDF: " &lt;&lt; fitResultLandau2</span>-&gt;GetNDF() &lt;&lt; <span class="string">"\n"</span>;</span><br><span class="line"></span><br><span class="line">    outfile.close();</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+<details class="[red]" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>[Question：如何指定在图例中显示Vavilov分布的拟合统计数据？] </summary>
+              <div class="content">
+              <p>因为同时显示三个拟合数据会让绘制的图像显得杂乱，所以我希望在图例中显示且仅显示Vavilov分布的拟合统计数据，不过一直没有找到方法。但是我发现，默认的输出拟合数据是第一个进行拟合的函数的数据，所以我能够通过调整 <code>p class='h1'a</code> <code>h1b</code> <code>h1c</code>对应的拟合函数更换需要统计的函数，并且选择在txt中输出其它的参数。不过必然有简单的方法，是什么方法？</p>
+              </div>
+            </details>
+
+<p>代码输出了两个结果：</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/240908.1.png" alt="img1"></p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/240908.2.png" alt="img2"></p>
+<p>第一幅图粗略地生成了所给源数据中的二维分布。很明显地看到它具有偏态分布（虽然并没有给出color bar）。</p>
+<p>第二幅图给出了前5个bin在Y轴的TH1D投影，同样可以观察出偏态分布的痕迹（<strong>注意：图中的拟合统计数据是Vavilov分布的数据；其它两条曲线在后文中输出为txt文件供比较。</strong>）。不过注意峰值两侧的底端变化，左侧的变化较为平滑，不如朗道分布的左侧阶梯骤升；右侧的变化较为平缓，不如高斯分布的骤降（当然可以直接联想到高斯分布的<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="2.423ex" height="1.554ex" role="img" focusable="false" viewBox="0 -665 1071 687"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"></path></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D70E" d="M184 -11Q116 -11 74 34T31 147Q31 247 104 333T274 430Q275 431 414 431H552Q553 430 555 429T559 427T562 425T565 422T567 420T569 416T570 412T571 407T572 401Q572 357 507 357Q500 357 490 357T476 358H416L421 348Q439 310 439 263Q439 153 359 71T184 -11ZM361 278Q361 358 276 358Q152 358 115 184Q114 180 114 178Q106 141 106 117Q106 67 131 47T188 26Q242 26 287 73Q316 103 334 153T356 233T361 278Z"></path></g></g></g></svg></mjx-container>原理，所有合理的分布点都位于<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="2.423ex" height="1.554ex" role="img" focusable="false" viewBox="0 -665 1071 687"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"></path></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D70E" d="M184 -11Q116 -11 74 34T31 147Q31 247 104 333T274 430Q275 431 414 431H552Q553 430 555 429T559 427T562 425T565 422T567 420T569 416T570 412T571 407T572 401Q572 357 507 357Q500 357 490 357T476 358H416L421 348Q439 310 439 263Q439 153 359 71T184 -11ZM361 278Q361 358 276 358Q152 358 115 184Q114 180 114 178Q106 141 106 117Q106 67 131 47T188 26Q242 26 287 73Q316 103 334 153T356 233T361 278Z"></path></g></g></g></svg></mjx-container>的范围内，不具备偏态分布的长尾巴。）因此可以断定，虽然数据点具有很明显的偏态分布（甚至可以直接说朗道分布）特征，但是在一些局部不能简单地使用高斯分布或者朗道分布来进行拟合。</p>
+<p>于是代码中分别将高斯分布、朗道分布与Vavilov分布进行了拟合，得到了不同颜色的三条曲线。能够很明显地看出上一段提到的三点内容：左侧服从高斯分布，右侧服从朗道分布，而峰值服从朗道分布的偏态性（当然，位于高斯分布和朗道分布的两峰之间！）。</p>
+<p>比较原始数据曲线和Vavilov分布，我们可以发现，Vavilov分布几乎在所有部分很完美地拟合了数据的结果。不过唯一令人困惑的是，无论是高斯分布还是朗道分布，甚至是Vavilov分布，都不能很好地拟合峰值的结果。原始数据的峰值令人诧异地高出三个拟合曲线（<strong>为什么？</strong>可能是因为数据点较少的原因？）。</p>
+<p>例如，这是教材中给出的电离过程分布以及拟合的朗道分布（路径很短，例如薄层气体），它在峰值处没有明显的差别：</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/240825.2.png" alt="img3"></p>
+<p>在<a class="link" target="_blank" rel="noopener" href="https://albertc9.github.io/2024/08/20/2024A-Ctask2/">Task1_2 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>中提到的这些实验中，峰值的数据点也贴合地非常完美（虽然我暂时不清楚是该论文的作者如何进行拟合的）：</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/240826.2.png" alt="img4"></p>
+<p>这是能量不变，将厚度增加一个数量级，偏态性明显地降低，得到的更趋向于正态分布的结果：</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/240826.3.png" alt="img5"></p>
+<p>在另一种情况下，对于45.3MeV的质子，穿过0.265<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="6.139ex" height="2.71ex" role="img" focusable="false" viewBox="0 -948 2713.6 1198"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mtext"><path data-c="67" d="M329 409Q373 453 429 453Q459 453 472 434T485 396Q485 382 476 371T449 360Q416 360 412 390Q410 404 415 411Q415 412 416 414V415Q388 412 363 393Q355 388 355 386Q355 385 359 381T368 369T379 351T388 325T392 292Q392 230 343 187T222 143Q172 143 123 171Q112 153 112 133Q112 98 138 81Q147 75 155 75T227 73Q311 72 335 67Q396 58 431 26Q470 -13 470 -72Q470 -139 392 -175Q332 -206 250 -206Q167 -206 107 -175Q29 -140 29 -75Q29 -39 50 -15T92 18L103 24Q67 55 67 108Q67 155 96 193Q52 237 52 292Q52 355 102 398T223 442Q274 442 318 416L329 409ZM299 343Q294 371 273 387T221 404Q192 404 171 388T145 343Q142 326 142 292Q142 248 149 227T179 192Q196 182 222 182Q244 182 260 189T283 207T294 227T299 242Q302 258 302 292T299 343ZM403 -75Q403 -50 389 -34T348 -11T299 -2T245 0H218Q151 0 138 -6Q118 -15 107 -34T95 -74Q95 -84 101 -97T122 -127T170 -155T250 -167Q319 -167 361 -139T403 -75Z"></path><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z" transform="translate(500,0)"></path><path data-c="63" d="M370 305T349 305T313 320T297 358Q297 381 312 396Q317 401 317 402T307 404Q281 408 258 408Q209 408 178 376Q131 329 131 219Q131 137 162 90Q203 29 272 29Q313 29 338 55T374 117Q376 125 379 127T395 129H409Q415 123 415 120Q415 116 411 104T395 71T366 33T318 2T249 -11Q163 -11 99 53T34 214Q34 318 99 383T250 448T370 421T404 357Q404 334 387 320Z" transform="translate(1000,0)"></path><path data-c="6D" d="M41 46H55Q94 46 102 60V68Q102 77 102 91T102 122T103 161T103 203Q103 234 103 269T102 328V351Q99 370 88 376T43 385H25V408Q25 431 27 431L37 432Q47 433 65 434T102 436Q119 437 138 438T167 441T178 442H181V402Q181 364 182 364T187 369T199 384T218 402T247 421T285 437Q305 442 336 442Q351 442 364 440T387 434T406 426T421 417T432 406T441 395T448 384T452 374T455 366L457 361L460 365Q463 369 466 373T475 384T488 397T503 410T523 422T546 432T572 439T603 442Q729 442 740 329Q741 322 741 190V104Q741 66 743 59T754 49Q775 46 803 46H819V0H811L788 1Q764 2 737 2T699 3Q596 3 587 0H579V46H595Q656 46 656 62Q657 64 657 200Q656 335 655 343Q649 371 635 385T611 402T585 404Q540 404 506 370Q479 343 472 315T464 232V168V108Q464 78 465 68T468 55T477 49Q498 46 526 46H542V0H534L510 1Q487 2 460 2T422 3Q319 3 310 0H302V46H318Q379 46 379 62Q380 64 380 200Q379 335 378 343Q372 371 358 385T334 402T308 404Q263 404 229 370Q202 343 195 315T187 232V168V108Q187 78 188 68T191 55T200 49Q221 46 249 46H265V0H257L234 1Q210 2 183 2T145 3Q42 3 33 0H25V46H41Z" transform="translate(1444,0)"></path></g><g data-mml-node="mn" transform="translate(2310,477.1) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g></g></svg></mjx-container>的硅片，得到一个几乎满足正态分布的能量损失分布：</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/240826.4.png" alt="img6"></p>
+<p>它们也都在峰值处具有很高的精确性。</p>
+<details class="[red]" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>[Question：分布拟合的选择] </summary>
+              <div class="content">
+              <p>虽然选择了高斯、朗道和Vavilov分布进行拟合，但这些分布的物理基础和适用范围都值得深入探讨。为什么朗道分布在大部分情况下表现较好？这当然与粒子通过材料时的电离效应密切相关。而高斯分布的适用场景主要是在累积的随机过程（如碰撞次数多的情况）。Vavilov分布则提供了朗道和高斯分布之间的一个过渡区域，适用于粒子能量损失较复杂的情况。</p><p>实际操作中，使用标准的Vavilov分布或许太过麻烦；甚至我们在代码中使用的Vavilov分布也只是一种近似：我们采用的是高斯分布与朗道分布混合的公式描述Vavilov分布，而不是标准的</p><p><mjx-container class="MathJax" jax="SVG" display="true" width="full" style="min-width: 50.275ex;"><svg style="vertical-align: -2.16ex; min-width: 50.275ex;" xmlns="http://www.w3.org/2000/svg" width="100%" height="5.451ex" role="img" focusable="false"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(0.0181,-0.0181) translate(0, -1454.8)"><g data-mml-node="math"><g data-mml-node="mtable" transform="translate(2078,0) translate(-2078,0)"><g transform="translate(0 1454.8) matrix(1 0 0 -1 0 0) scale(55.25)"><svg data-table="true" preserveAspectRatio="xMidYMid" viewBox="9032.7 -1454.8 1 2409.5"><g transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="mlabeledtr" transform="translate(0,-5.2)"><g data-mml-node="mtd"><g data-mml-node="mi"><path data-c="1D453" d="M118 -162Q120 -162 124 -164T135 -167T147 -168Q160 -168 171 -155T187 -126Q197 -99 221 27T267 267T289 382V385H242Q195 385 192 387Q188 390 188 397L195 425Q197 430 203 430T250 431Q298 431 298 432Q298 434 307 482T319 540Q356 705 465 705Q502 703 526 683T550 630Q550 594 529 578T487 561Q443 561 443 603Q443 622 454 636T478 657L487 662Q471 668 457 668Q445 668 434 658T419 630Q412 601 403 552T387 469T380 433Q380 431 435 431Q480 431 487 430T498 424Q499 420 496 407T491 391Q489 386 482 386T428 385H372L349 263Q301 15 282 -47Q255 -132 212 -173Q175 -205 139 -205Q107 -205 81 -186T55 -132Q55 -95 76 -78T118 -61Q162 -61 162 -103Q162 -122 151 -136T127 -157L118 -162Z"></path></g><g data-mml-node="mo" transform="translate(550,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(939,0)"><path data-c="394" d="M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z"></path></g><g data-mml-node="mi" transform="translate(1772,0)"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g><g data-mml-node="mo" transform="translate(2536,0)"><path data-c="3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></g><g data-mml-node="mi" transform="translate(2980.7,0)"><path data-c="1D705" d="M83 -11Q70 -11 62 -4T51 8T49 17Q49 30 96 217T147 414Q160 442 193 442Q205 441 213 435T223 422T225 412Q225 401 208 337L192 270Q193 269 208 277T235 292Q252 304 306 349T396 412T467 431Q489 431 500 420T512 391Q512 366 494 347T449 327Q430 327 418 338T405 368Q405 370 407 380L397 375Q368 360 315 315L253 266L240 257H245Q262 257 300 251T366 230Q422 203 422 150Q422 140 417 114T411 67Q411 26 437 26Q484 26 513 137Q516 149 519 151T535 153Q554 153 554 144Q554 121 527 64T457 -7Q447 -10 431 -10Q386 -10 360 17T333 90Q333 108 336 122T339 146Q339 170 320 186T271 209T222 218T185 221H180L155 122Q129 22 126 16Q113 -11 83 -11Z"></path></g><g data-mml-node="mo" transform="translate(3556.7,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="msup" transform="translate(4001.3,0)"><g data-mml-node="mi"><path data-c="1D6FD" d="M29 -194Q23 -188 23 -186Q23 -183 102 134T186 465Q208 533 243 584T309 658Q365 705 429 705H431Q493 705 533 667T573 570Q573 465 469 396L482 383Q533 332 533 252Q533 139 448 65T257 -10Q227 -10 203 -2T165 17T143 40T131 59T126 65L62 -188Q60 -194 42 -194H29ZM353 431Q392 431 427 419L432 422Q436 426 439 429T449 439T461 453T472 471T484 495T493 524T501 560Q503 569 503 593Q503 611 502 616Q487 667 426 667Q384 667 347 643T286 582T247 514T224 455Q219 439 186 308T152 168Q151 163 151 147Q151 99 173 68Q204 26 260 26Q302 26 349 51T425 137Q441 171 449 214T457 279Q457 337 422 372Q380 358 347 358H337Q258 358 258 389Q258 396 261 403Q275 431 353 431Z"></path></g><g data-mml-node="mn" transform="translate(599,413) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g><g data-mml-node="mo" transform="translate(5003.9,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g><g data-mml-node="mo" transform="translate(5670.7,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mfrac" transform="translate(6726.4,0)"><g data-mml-node="mn" transform="translate(220,676)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mi" transform="translate(251,-686)"><path data-c="1D709" d="M268 632Q268 704 296 704Q314 704 314 687Q314 682 311 664T308 635T309 620V616H315Q342 619 360 619Q443 619 443 586Q439 548 358 546H344Q326 546 317 549T290 566Q257 550 226 505T195 405Q195 381 201 364T211 342T218 337Q266 347 298 347Q375 347 375 314Q374 297 359 288T327 277T280 275Q234 275 208 283L195 286Q149 260 119 214T88 130Q88 116 90 108Q101 79 129 63T229 20Q238 17 243 15Q337 -21 354 -33Q383 -53 383 -94Q383 -137 351 -171T273 -205Q240 -205 202 -190T158 -167Q156 -163 156 -159Q156 -151 161 -146T176 -140Q182 -140 189 -143Q232 -168 274 -168Q286 -168 292 -165Q313 -151 313 -129Q313 -112 301 -104T232 -75Q214 -68 204 -64Q198 -62 171 -52T136 -38T107 -24T78 -8T56 12T36 37T26 66T21 103Q21 149 55 206T145 301L154 307L148 313Q141 319 136 323T124 338T111 358T103 382T99 413Q99 471 143 524T259 602L271 607Q268 618 268 632Z"></path></g><rect width="700" height="60" x="120" y="220"></rect></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(7666.4,0)"><g data-mml-node="mi"><path data-c="56" d="M25 633Q25 647 47 665T100 683Q291 683 291 306Q291 264 288 213T282 132L279 102Q281 102 308 126T378 191T464 279T545 381T596 479Q600 490 600 502Q600 527 581 550T523 577Q505 577 505 601Q505 622 516 647T542 681Q546 683 558 683Q605 679 631 645T658 559Q658 423 487 215Q409 126 308 37T190 -52Q177 -52 177 -28Q177 -26 183 15T196 127T203 270Q203 356 192 421T165 523T126 583T83 613T41 620Q25 620 25 633Z"></path></g></g><g data-mml-node="mrow" transform="translate(8491.1,0)"><g data-mml-node="mo" transform="translate(0 -0.5)"><path data-c="28" d="M701 -940Q701 -943 695 -949H664Q662 -947 636 -922T591 -879T537 -818T475 -737T412 -636T350 -511T295 -362T250 -186T221 17T209 251Q209 962 573 1361Q596 1386 616 1405T649 1437T664 1450H695Q701 1444 701 1441Q701 1436 681 1415T629 1356T557 1261T476 1118T400 927T340 675T308 359Q306 321 306 250Q306 -139 400 -430T690 -924Q701 -936 701 -940Z"></path></g><g data-mml-node="mfrac" transform="translate(736,0)"><g data-mml-node="mrow" transform="translate(220,710)"><g data-mml-node="mi"><path data-c="394" d="M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z"></path></g><g data-mml-node="mi" transform="translate(833,0)"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g><g data-mml-node="mo" transform="translate(1819.2,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mo" transform="translate(2819.4,0)"><path data-c="27E8" d="M333 -232Q332 -239 327 -244T313 -250Q303 -250 296 -240Q293 -233 202 6T110 250T201 494T296 740Q299 745 306 749L309 750Q312 750 313 750Q331 750 333 732Q333 727 243 489Q152 252 152 250T243 11Q333 -227 333 -232Z"></path></g><g data-mml-node="mi" transform="translate(3208.4,0)"><path data-c="394" d="M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z"></path></g><g data-mml-node="mi" transform="translate(4041.4,0)"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g><g data-mml-node="mo" transform="translate(4805.4,0)"><path data-c="27E9" d="M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z"></path></g></g><g data-mml-node="mi" transform="translate(2598.2,-686)"><path data-c="1D709" d="M268 632Q268 704 296 704Q314 704 314 687Q314 682 311 664T308 635T309 620V616H315Q342 619 360 619Q443 619 443 586Q439 548 358 546H344Q326 546 317 549T290 566Q257 550 226 505T195 405Q195 381 201 364T211 342T218 337Q266 347 298 347Q375 347 375 314Q374 297 359 288T327 277T280 275Q234 275 208 283L195 286Q149 260 119 214T88 130Q88 116 90 108Q101 79 129 63T229 20Q238 17 243 15Q337 -21 354 -33Q383 -53 383 -94Q383 -137 351 -171T273 -205Q240 -205 202 -190T158 -167Q156 -163 156 -159Q156 -151 161 -146T176 -140Q182 -140 189 -143Q232 -168 274 -168Q286 -168 292 -165Q313 -151 313 -129Q313 -112 301 -104T232 -75Q214 -68 204 -64Q198 -62 171 -52T136 -38T107 -24T78 -8T56 12T36 37T26 66T21 103Q21 149 55 206T145 301L154 307L148 313Q141 319 136 323T124 338T111 358T103 382T99 413Q99 471 143 524T259 602L271 607Q268 618 268 632Z"></path></g><rect width="5394.4" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(6370.4,0)"><path data-c="3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></g><g data-mml-node="mi" transform="translate(6815.1,0)"><path data-c="1D705" d="M83 -11Q70 -11 62 -4T51 8T49 17Q49 30 96 217T147 414Q160 442 193 442Q205 441 213 435T223 422T225 412Q225 401 208 337L192 270Q193 269 208 277T235 292Q252 304 306 349T396 412T467 431Q489 431 500 420T512 391Q512 366 494 347T449 327Q430 327 418 338T405 368Q405 370 407 380L397 375Q368 360 315 315L253 266L240 257H245Q262 257 300 251T366 230Q422 203 422 150Q422 140 417 114T411 67Q411 26 437 26Q484 26 513 137Q516 149 519 151T535 153Q554 153 554 144Q554 121 527 64T457 -7Q447 -10 431 -10Q386 -10 360 17T333 90Q333 108 336 122T339 146Q339 170 320 186T271 209T222 218T185 221H180L155 122Q129 22 126 16Q113 -11 83 -11Z"></path></g><g data-mml-node="mo" transform="translate(7391.1,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="msup" transform="translate(7835.8,0)"><g data-mml-node="mi"><path data-c="1D6FD" d="M29 -194Q23 -188 23 -186Q23 -183 102 134T186 465Q208 533 243 584T309 658Q365 705 429 705H431Q493 705 533 667T573 570Q573 465 469 396L482 383Q533 332 533 252Q533 139 448 65T257 -10Q227 -10 203 -2T165 17T143 40T131 59T126 65L62 -188Q60 -194 42 -194H29ZM353 431Q392 431 427 419L432 422Q436 426 439 429T449 439T461 453T472 471T484 495T493 524T501 560Q503 569 503 593Q503 611 502 616Q487 667 426 667Q384 667 347 643T286 582T247 514T224 455Q219 439 186 308T152 168Q151 163 151 147Q151 99 173 68Q204 26 260 26Q302 26 349 51T425 137Q441 171 449 214T457 279Q457 337 422 372Q380 358 347 358H337Q258 358 258 389Q258 396 261 403Q275 431 353 431Z"></path></g><g data-mml-node="mn" transform="translate(599,413) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g><g data-mml-node="mo" transform="translate(8838.3,0) translate(0 -0.5)"><path data-c="29" d="M34 1438Q34 1446 37 1448T50 1450H56H71Q73 1448 99 1423T144 1380T198 1319T260 1238T323 1137T385 1013T440 864T485 688T514 485T526 251Q526 134 519 53Q472 -519 162 -860Q139 -885 119 -904T86 -936T71 -949H56Q43 -949 39 -947T34 -937Q88 -883 140 -813Q428 -430 428 251Q428 453 402 628T338 922T245 1146T145 1309T46 1425Q44 1427 42 1429T39 1433T36 1436L34 1438Z"></path></g></g></g></g></g></svg><svg data-labels="true" preserveAspectRatio="xMaxYMid" viewBox="1278 -1454.8 1 2409.5"><g data-labels="true" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="mtd" id="mjx-eqn:1" transform="translate(0,744.8)"><text data-id-align="true"></text><g data-idbox="true" transform="translate(0,-750)"><g data-mml-node="mtext"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="translate(389,0)"></path><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z" transform="translate(889,0)"></path></g></g></g></g></svg></g></g></g></g></svg></mjx-container></p><p>其中</p><ul><li><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="3.613ex" height="1.62ex" role="img" focusable="false" viewBox="0 -716 1597 716"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="394" d="M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z"></path></g><g data-mml-node="mi" transform="translate(833,0)"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g></g></g></svg></mjx-container>是粒子在介质中损失的能量，</li><li><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="5.373ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2375 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="27E8" d="M333 -232Q332 -239 327 -244T313 -250Q303 -250 296 -240Q293 -233 202 6T110 250T201 494T296 740Q299 745 306 749L309 750Q312 750 313 750Q331 750 333 732Q333 727 243 489Q152 252 152 250T243 11Q333 -227 333 -232Z"></path></g><g data-mml-node="mi" transform="translate(389,0)"><path data-c="394" d="M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z"></path></g><g data-mml-node="mi" transform="translate(1222,0)"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g><g data-mml-node="mo" transform="translate(1986,0)"><path data-c="27E9" d="M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z"></path></g></g></g></svg></mjx-container>是能量损失的期望值，</li><li><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="0.991ex" height="2.057ex" role="img" focusable="false" viewBox="0 -704 438 909"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D709" d="M268 632Q268 704 296 704Q314 704 314 687Q314 682 311 664T308 635T309 620V616H315Q342 619 360 619Q443 619 443 586Q439 548 358 546H344Q326 546 317 549T290 566Q257 550 226 505T195 405Q195 381 201 364T211 342T218 337Q266 347 298 347Q375 347 375 314Q374 297 359 288T327 277T280 275Q234 275 208 283L195 286Q149 260 119 214T88 130Q88 116 90 108Q101 79 129 63T229 20Q238 17 243 15Q337 -21 354 -33Q383 -53 383 -94Q383 -137 351 -171T273 -205Q240 -205 202 -190T158 -167Q156 -163 156 -159Q156 -151 161 -146T176 -140Q182 -140 189 -143Q232 -168 274 -168Q286 -168 292 -165Q313 -151 313 -129Q313 -112 301 -104T232 -75Q214 -68 204 -64Q198 -62 171 -52T136 -38T107 -24T78 -8T56 12T36 37T26 66T21 103Q21 149 55 206T145 301L154 307L148 313Q141 319 136 323T124 338T111 358T103 382T99 413Q99 471 143 524T259 602L271 607Q268 618 268 632Z"></path></g></g></g></svg></mjx-container>是特征能量损失尺度，</li><li><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.118ex;" xmlns="http://www.w3.org/2000/svg" width="1.489ex" height="1.663ex" role="img" focusable="false" viewBox="0 -683 658 735"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="56" d="M25 633Q25 647 47 665T100 683Q291 683 291 306Q291 264 288 213T282 132L279 102Q281 102 308 126T378 191T464 279T545 381T596 479Q600 490 600 502Q600 527 581 550T523 577Q505 577 505 601Q505 622 516 647T542 681Q546 683 558 683Q605 679 631 645T658 559Q658 423 487 215Q409 126 308 37T190 -52Q177 -52 177 -28Q177 -26 183 15T196 127T203 270Q203 356 192 421T165 523T126 583T83 613T41 620Q25 620 25 633Z"></path></g></g></g></g></svg></mjx-container>表示Vavilov分布的无量纲形式。</li></ul><p>当 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.303ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 576 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D705" d="M83 -11Q70 -11 62 -4T51 8T49 17Q49 30 96 217T147 414Q160 442 193 442Q205 441 213 435T223 422T225 412Q225 401 208 337L192 270Q193 269 208 277T235 292Q252 304 306 349T396 412T467 431Q489 431 500 420T512 391Q512 366 494 347T449 327Q430 327 418 338T405 368Q405 370 407 380L397 375Q368 360 315 315L253 266L240 257H245Q262 257 300 251T366 230Q422 203 422 150Q422 140 417 114T411 67Q411 26 437 26Q484 26 513 137Q516 149 519 151T535 153Q554 153 554 144Q554 121 527 64T457 -7Q447 -10 431 -10Q386 -10 360 17T333 90Q333 108 336 122T339 146Q339 170 320 186T271 209T222 218T185 221H180L155 122Q129 22 126 16Q113 -11 83 -11Z"></path></g></g></g></svg></mjx-container> 很小时（<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="5.954ex" height="1.557ex" role="img" focusable="false" viewBox="0 -666 2631.6 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D705" d="M83 -11Q70 -11 62 -4T51 8T49 17Q49 30 96 217T147 414Q160 442 193 442Q205 441 213 435T223 422T225 412Q225 401 208 337L192 270Q193 269 208 277T235 292Q252 304 306 349T396 412T467 431Q489 431 500 420T512 391Q512 366 494 347T449 327Q430 327 418 338T405 368Q405 370 407 380L397 375Q368 360 315 315L253 266L240 257H245Q262 257 300 251T366 230Q422 203 422 150Q422 140 417 114T411 67Q411 26 437 26Q484 26 513 137Q516 149 519 151T535 153Q554 153 554 144Q554 121 527 64T457 -7Q447 -10 431 -10Q386 -10 360 17T333 90Q333 108 336 122T339 146Q339 170 320 186T271 209T222 218T185 221H180L155 122Q129 22 126 16Q113 -11 83 -11Z"></path></g><g data-mml-node="mo" transform="translate(853.8,0)"><path data-c="2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></g><g data-mml-node="mn" transform="translate(2131.6,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></svg></mjx-container>），Vavilov分布趋近于Landau分布; 当 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.303ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 576 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D705" d="M83 -11Q70 -11 62 -4T51 8T49 17Q49 30 96 217T147 414Q160 442 193 442Q205 441 213 435T223 422T225 412Q225 401 208 337L192 270Q193 269 208 277T235 292Q252 304 306 349T396 412T467 431Q489 431 500 420T512 391Q512 366 494 347T449 327Q430 327 418 338T405 368Q405 370 407 380L397 375Q368 360 315 315L253 266L240 257H245Q262 257 300 251T366 230Q422 203 422 150Q422 140 417 114T411 67Q411 26 437 26Q484 26 513 137Q516 149 519 151T535 153Q554 153 554 144Q554 121 527 64T457 -7Q447 -10 431 -10Q386 -10 360 17T333 90Q333 108 336 122T339 146Q339 170 320 186T271 209T222 218T185 221H180L155 122Q129 22 126 16Q113 -11 83 -11Z"></path></g></g></g></svg></mjx-container> 较大时（通常 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.09ex;" xmlns="http://www.w3.org/2000/svg" width="6.583ex" height="1.597ex" role="img" focusable="false" viewBox="0 -666 2909.6 706"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D705" d="M83 -11Q70 -11 62 -4T51 8T49 17Q49 30 96 217T147 414Q160 442 193 442Q205 441 213 435T223 422T225 412Q225 401 208 337L192 270Q193 269 208 277T235 292Q252 304 306 349T396 412T467 431Q489 431 500 420T512 391Q512 366 494 347T449 327Q430 327 418 338T405 368Q405 370 407 380L397 375Q368 360 315 315L253 266L240 257H245Q262 257 300 251T366 230Q422 203 422 150Q422 140 417 114T411 67Q411 26 437 26Q484 26 513 137Q516 149 519 151T535 153Q554 153 554 144Q554 121 527 64T457 -7Q447 -10 431 -10Q386 -10 360 17T333 90Q333 108 336 122T339 146Q339 170 320 186T271 209T222 218T185 221H180L155 122Q129 22 126 16Q113 -11 83 -11Z"></path></g><g data-mml-node="mo" transform="translate(853.8,0)"><path data-c="3E" d="M84 520Q84 528 88 533T96 539L99 540Q106 540 253 471T544 334L687 265Q694 260 694 250T687 235Q685 233 395 96L107 -40H101Q83 -38 83 -20Q83 -19 83 -17Q82 -10 98 -1Q117 9 248 71Q326 108 378 132L626 250L378 368Q90 504 86 509Q84 513 84 520Z"></path></g><g data-mml-node="mn" transform="translate(1909.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g></svg></mjx-container>），分布逐渐接近高斯分布。</p>
+              </div>
+            </details>
+
+<p>我们在代码的最后，还将高斯分布和朗道分布的统计数据输出，用于比较拟合的质量（图中显示的是Vavilov分布的统计数据）：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">Gaussian Fit Results:</span><br><span class="line">Amplitude: 4411.59 ± 18.5964</span><br><span class="line">Mean: 60.5593 ± 0.0410882</span><br><span class="line">Sigma: 10.6075 ± 0.0322276</span><br><span class="line">Chi-square: 21055.5</span><br><span class="line">NDF: 187</span><br><span class="line"></span><br><span class="line">Landau Fit Results:</span><br><span class="line">Amplitude: 27436.4 ± 117.785</span><br><span class="line">MPV: 54.9014 ± 0.0326169</span><br><span class="line">Sigma: 4.9042 ± 0.0166868</span><br><span class="line">Chi-square: 8819.68</span><br><span class="line">NDF: 187</span><br></pre></td></tr></table></figure></div>
+
+<p>根据以上数据可以发现，对于高斯分布，其卡方约为21055，而对于郎道分布而言，卡方值约为8819；而在图中输出的Vavilov分布中，卡方只有1813（事实上相当不错）。可以明显地看出，郎道分布具有比高斯分布更优秀的拟合结果，这在绘制出的图像中也可以明显地看出：橙色的郎道分布很好地贴合了数据曲线，而高斯分布的偏差比较明显。当然，最优秀的拟合结果是Vavilov分布，在图像中以绿色曲线表示：它无论是在上升与下降部分的贴合程度。还是在峰值两侧最低部分的贴合程度都十分好，唯一有缺陷的是在峰值上的贴合情况。这有可能是因为数据点较少，噪声的影响比较大（当然，具体的原因必须进一步讨论分析）。</p>
+<details class="[red]" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>[Question：为什么峰值附近的拟合效果较差？] </summary>
+              <div class="content">
+              <p>为什么峰值附近的拟合效果较差？这可能是由于噪声、探测器分辨率限制、数据量少等多种因素的共同影响。对峰值附近的数据进行进一步研究（如提高采样精度或使用不同的探测器）或许可以为实验设计提供参考。</p>
+              </div>
+            </details>
+
+<details class="[red]" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>[Question：拟合结果的物理解释] </summary>
+              <div class="content">
+              <p>高斯、朗道和Vavilov分布的拟合参数，如振幅、平均值（或MPV）、标准差（或宽度），可能与探测器的性能和粒子本身的物理性质或能量等运动量相对应。例如，朗道分布的最可能值（MPV）通常与粒子的能量损失密切相关，进一步分析这些参数可以帮助理解探测器对不同能量粒子的响应。特别是，我们在之前的讨论中提到了对自由程的估计–对于高能带电粒子，如质子或电子，穿过硅时的平均自由程大致在几微米到几十微米的范围内；具体数值取决于粒子的能量水平：能量越高，自由程越长。我们在估计时假定了粒子不具有太高或太低的能量，以及假定粒子可能是这里提到的电子或质子：问题是，我们在得到了实验结果，无论是图一中的二维图，还是图二中的投影图后，如何能够凭借这样的图像甚至结合不同的实验数据结果，得到对粒子种类以及能量大小估计？我们在之前提到，对于具有较低能量的同一粒子，它可能具有相对较小的自由程，从而更符合高斯分布；对于具有较高能量的粒子，它可能更符合高斯分布：这也解释了为什么我们在代码中选择了使用高斯分布和朗道分布的组合作为近似的Vavilov分布充当拟合函数，因为拟合得到的比例（权重）必然在一定程度上反映了能量的相对大小。另外，是否有可能进一步结合其它拟合参数（如朗道分布的MPV值）中定量估算粒子的能量？因此，尽管卡方能够在一定程度上很好地评估拟合的质量，对其它参数的分析也是很重要的一环。 </p>
+              </div>
+            </details>
+
+<details class="[red]" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>[Question：拟合峰值的误差] </summary>
+              <div class="content">
+              <p>上文中已经指出了峰值拟合偏差可能是由于噪声或数据点较少。但实际上，可以进一步探讨如何减小噪声的影响。例如，是否可以通过增加数据采集点或采用更复杂的去噪算法来改善峰值附近的拟合效果？ </p>
+              </div>
+            </details>
+        </div>
+
+        
+            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
+                <div class="article-copyright-info-container">
+    <ul>
+        <li><strong>Title:</strong> A&amp;C_task 1.3</li>
+        <li><strong>Author:</strong> Albert Cheung</li>
+        <li><strong>Created at
+                :</strong> 2024-09-02 17:08:33</li>
+        
+            <li>
+                <strong>Updated at
+                    :</strong> 2024-09-10 18:28:09
+            </li>
+        
+        <li>
+            <strong>Link:</strong> https://www.albertc9.github.io/2024/09/02/2024A-Ctask3/
+        </li>
+        <li>
+            <strong>
+                License:
+            </strong>
+            
+
+            
+                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
+            
+        </li>
+    </ul>
+</div>
+
+            </div>
+        
+
+        
+            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
+                
+                    <li class="tag-item mx-0.5">
+                        <a href="/tags/Tasks/">#Tasks</a>&nbsp;
+                    </li>
+                
+            </ul>
+        
+
+        
+  <div class="recommended-article px-2 sm:px-6 md:px-8">
+   <div class="recommended-desktop">
+    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+    </div>
+    <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/08/20/2024A-Ctask2/" title="A&C_task 1.2" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.2" class="!max-w-none">
+  <span class="title">A&C_task 1.2</span>
+</a><a class="recommended-article-item" href="/2024/09/10/2024A-Ctask4/" title="A&C_task 1.4" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.4" class="!max-w-none">
+  <span class="title">A&C_task 1.4</span>
+</a><a class="recommended-article-item" href="/2024/09/20/2024A-Ctask5/" title="A&C_task 1.5" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.5" class="!max-w-none">
+  <span class="title">A&C_task 1.5</span>
+</a></div>
+   </div>
+   <div class="recommended-mobile">
+   <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+   </div>
+   <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/08/20/2024A-Ctask2/" title="A&C_task 1.2" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.2" class="!max-w-none">
+  <span class="title">A&C_task 1.2</span>
+</a><a class="recommended-article-item" href="/2024/09/10/2024A-Ctask4/" title="A&C_task 1.4" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.4" class="!max-w-none">
+  <span class="title">A&C_task 1.4</span>
+</a></div>
+   </div>
+  </div>
+
+        
+            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
+                
+                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+                        <a class="prev"
+                        rel="prev"
+                        href="/2024/09/10/2024A-Ctask4/"
+                        >
+                            <span class="left arrow-icon flex justify-center items-center">
+                                <i class="fa-solid fa-chevron-left"></i>
+                            </span>
+                            <span class="title flex justify-center items-center">
+                                <span class="post-nav-title-item">A&amp;C_task 1.4</span>
+                                <span class="post-nav-item">Prev posts</span>
+                            </span>
+                        </a>
+                    </div>
+                
+                
+                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+                        <a class="next"
+                        rel="next"
+                        href="/2024/08/20/2024A-Ctask2/"
+                        >
+                            <span class="title flex justify-center items-center">
+                                <span class="post-nav-title-item">A&amp;C_task 1.2</span>
+                                <span class="post-nav-item">Next posts</span>
+                            </span>
+                            <span class="right arrow-icon flex justify-center items-center">
+                                <i class="fa-solid fa-chevron-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                
+            </div>
+        
+
+
+        
+    </div>
+
+    
+        <div class="toc-content-container">
+            <div class="post-toc-wrap">
+    <div class="post-toc">
+        <div class="toc-title">On this page</div>
+        <div class="page-title">A&amp;C_task 1.3</div>
+        <ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#Tasks"><span class="nav-text">Tasks</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#One-Possible-Solution"><span class="nav-text">One Possible Solution</span></a></li></ol>
+
+    </div>
+</div>
+        </div>
+    
+</div>
+
+
+
+                
+
+            </div>
+
+            
+
+        </div>
+
+        <div class="main-content-footer">
+            <footer class="footer mt-5 py-5 h-auto text-base text-third-text-color relative border-t-2 border-t-border-color">
+    <div class="info-container py-3 text-center">
+        
+            <div class="customize-info my-1">v1.3.2</div>
+        
+        <div class="text-center">
+            &copy;
+            
+              <span>2024</span>
+              -
+            
+            2025&nbsp;&nbsp;<i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i>&nbsp;&nbsp;<a href="/">Albert Cheung</a>
+            
+                
+                <p class="post-count space-x-0.5">
+                    <span>
+                        41 posts in total
+                    </span>
+                    
+                        <span>
+                            234.3k words in total
+                        </span>
+                    
+                </p>
+            
+        </div>
+        
+            <script data-swup-reload-script src="https://cn.vercount.one/js"></script>
+            <div class="relative text-center lg:absolute lg:right-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-right">
+                
+                
+                    <span id="busuanzi_container_site_pv" class="lg:!block">
+                        <span class="text-sm">TOTAL PAGE VIEWS</span>
+                        <span id="busuanzi_value_site_pv"></span>
+                    </span>
+                
+            </div>
+        
+        <div class="relative text-center lg:absolute lg:left-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-left">
+            <span class="lg:block text-sm">POWERED BY <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg class="relative top-[2px] inline-block align-baseline" version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1rem" height="1rem" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path fill="#0E83CD" d="M256.4,25.8l-200,115.5L56,371.5l199.6,114.7l200-115.5l0.4-230.2L256.4,25.8z M349,354.6l-18.4,10.7l-18.6-11V275H200v79.6l-18.4,10.7l-18.6-11v-197l18.5-10.6l18.5,10.8V237h112v-79.6l18.5-10.6l18.5,10.8V354.6z"/></svg><a target="_blank" class="text-base" href="https://hexo.io">Hexo</a></span>
+            <span class="text-sm lg:block">THEME&nbsp;<a class="text-base" target="_blank" href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine v2.7.0</a></span>
+        </div>
+        
+        
+            <div>
+                Blog up for <span class="odometer" id="runtime_days" ></span> days <span class="odometer" id="runtime_hours"></span> hrs <span class="odometer" id="runtime_minutes"></span> Min <span class="odometer" id="runtime_seconds"></span> Sec
+            </div>
+        
+        
+            <script data-swup-reload-script>
+                try {
+                    function odometer_init() {
+                    const elements = document.querySelectorAll('.odometer');
+                    elements.forEach(el => {
+                        new Odometer({
+                            el,
+                            format: '( ddd).dd',
+                            duration: 200
+                        });
+                    });
+                    }
+                    odometer_init();
+                } catch (error) {}
+            </script>
+        
+        
+        
+    </div>  
+</footer>
+        </div>
+    </div>
+
+    
+        <div class="post-tools">
+            <div class="post-tools-container">
+    <ul class="article-tools-list">
+        <!-- TOC aside toggle -->
+        
+            <li class="right-bottom-tools page-aside-toggle">
+                <i class="fa-regular fa-outdent"></i>
+            </li>
+        
+
+        <!-- go comment -->
+        
+    </ul>
+</div>
+
+        </div>
+    
+
+    <div class="right-side-tools-container">
+        <div class="side-tools-container">
+    <ul class="hidden-tools-list">
+        <li class="right-bottom-tools tool-font-adjust-plus flex justify-center items-center">
+            <i class="fa-regular fa-magnifying-glass-plus"></i>
+        </li>
+
+        <li class="right-bottom-tools tool-font-adjust-minus flex justify-center items-center">
+            <i class="fa-regular fa-magnifying-glass-minus"></i>
+        </li>
+
+        <li class="right-bottom-tools tool-dark-light-toggle flex justify-center items-center">
+            <i class="fa-regular fa-moon"></i>
+        </li>
+
+        <!-- rss -->
+        
+
+        
+
+        <li class="right-bottom-tools tool-scroll-to-bottom flex justify-center items-center">
+            <i class="fa-regular fa-arrow-down"></i>
+        </li>
+    </ul>
+
+    <ul class="visible-tools-list">
+        <li class="right-bottom-tools toggle-tools-list flex justify-center items-center">
+            <i class="fa-regular fa-cog fa-spin"></i>
+        </li>
+        
+            <li class="right-bottom-tools tool-scroll-to-top flex justify-center items-center">
+                <i class="arrow-up fas fa-arrow-up"></i>
+                <span class="percent"></span>
+            </li>
+        
+        
+    </ul>
+</div>
+
+    </div>
+
+    <div class="image-viewer-container">
+    <img src="">
+</div>
+
+
+    
+        <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-input-field-pre">
+            <i class="fa-solid fa-keyboard"></i>
+          </span>
+            <div class="search-input-container">
+                <input autocomplete="off"
+                       autocorrect="off"
+                       autocapitalize="off"
+                       placeholder="Search..."
+                       spellcheck="false"
+                       type="search"
+                       class="search-input"
+                >
+            </div>
+            <span class="popup-btn-close">
+                <i class="fa-solid fa-times"></i>
+            </span>
+        </div>
+        <div id="search-result">
+            <div id="no-result">
+                <i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+</main>
+
+
+    <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/Swup.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupSlideTheme.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupScriptsPlugin.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupProgressPlugin.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupScrollPlugin.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupPreloadPlugin.min.js"></script>
+<script>
+    const swup = new Swup({
+        plugins: [
+            new SwupScriptsPlugin({
+                optin: true,
+            }),
+            new SwupProgressPlugin(),
+            new SwupScrollPlugin({
+                offset: 80,
+            }),
+            new SwupSlideTheme({
+                mainElement: ".main-content-body",
+            }),
+            new SwupPreloadPlugin(),
+        ],
+        containers: ["#swup"],
+    });
+</script>
+
+
+
+
+
+
+<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/imageViewer.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/utils.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/main.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/navbarShrink.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/scrollTopBottom.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/lightDarkSwitch.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/categoryList.js"></script>
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/localSearch.js"></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/codeBlock.js"></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/lazyload.js"></script>
+
+
+
+    <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/runtime.js"></script>
+    <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/odometer.min.js"></script>
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/assets/odometer-theme-minimal.css">
+
+
+
+  <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/Typed.min.js"></script>
+  <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/plugins/typed.js"></script>
+
+
+
+
+
+
+
+
+<div class="post-scripts" data-swup-reload-script>
+    
+        <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/tocToggle.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/toc.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/plugins/tabs.js"></script>
+    
+</div>
+
+
+</body>
+</html>

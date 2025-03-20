@@ -1,0 +1,1188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Hexo Theme Redefine">
+    
+    <meta name="author" content="Albert Cheung">
+    <!-- preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    
+        
+        
+        
+            <link rel="preconnect" href="https://registry.npmmirror.com" crossorigin>
+        
+    
+    <!--- Seo Part-->
+    
+    <link rel="canonical" href="http://example.com/2024/09/26/2024a-ctask6/"/>
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="revisit-after" content="1 days">
+    
+        <meta name="description" content="Tasks 现有一探测器用于测量宇宙线事例，已知触发率约为60 Hz，而探测器的死时间为 3 ms，求事例堆积的概率  下面代码给定一宇宙线的触发事例能谱，以及从中挑选满足一定条件的用于分析的事例能谱，画出不同能段的效率   示例代码： 12345678910111213141516void test(){int num&#x3D;100;&#x2F;&#x2F;存储的原始触发事例能谱 bin 从 0-100TH1D* all">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A&amp;C_task 1.6">
+<meta property="og:url" content="http://example.com/2024/09/26/2024A-Ctask6/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="Tasks 现有一探测器用于测量宇宙线事例，已知触发率约为60 Hz，而探测器的死时间为 3 ms，求事例堆积的概率  下面代码给定一宇宙线的触发事例能谱，以及从中挑选满足一定条件的用于分析的事例能谱，画出不同能段的效率   示例代码： 12345678910111213141516void test(){int num&#x3D;100;&#x2F;&#x2F;存储的原始触发事例能谱 bin 从 0-100TH1D* all">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://example.com/image/241009.1.png">
+<meta property="og:image" content="http://example.com/image/241009.2.jpg">
+<meta property="og:image" content="http://example.com/image/241009.3.png">
+<meta property="og:image" content="http://example.com/image/241009.4.png">
+<meta property="og:image" content="http://example.com/image/241009.5.png">
+<meta property="article:published_time" content="2024-09-25T18:40:11.000Z">
+<meta property="article:modified_time" content="2024-10-09T10:45:40.982Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="Tasks">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/image/241009.1.png">
+    
+    
+        <!-- Google tag (gtag.js) -->
+        <script src="https://www.googletagmanager.com/gtag/js?id=G-ZQ6EEL4C6N"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZQ6EEL4C6N');
+        </script>
+    
+    <!--- Icon Part-->
+    <link rel="icon" type="image/png" href="/images/icons8-physics-24.png" sizes="192x192">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons8-physics-24.png">
+    <meta name="theme-color" content="#A31F34">
+    <link rel="shortcut icon" href="/images/icons8-physics-24.png">
+    <!--- Page Info-->
+    
+    <title>
+        
+            A&amp;C_task 1.6 -
+        
+        Any%
+    </title>
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fonts/Chillax/chillax.css">
+
+    <!--- Inject Part-->
+    
+
+    
+<link rel="stylesheet" href="/css/style.css">
+
+
+    
+        
+<link rel="stylesheet" href="/assets/build/styles.css">
+
+    
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fonts/GeistMono/geist-mono.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fonts/Geist/geist.css">
+    <!--- Font Part-->
+    
+    
+    
+    
+    
+    
+        <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/anime.min.js"></script>
+    
+
+    <script id="hexo-configurations">
+    window.config = {"hostname":"example.com","root":"/","language":"en","path":"search.xml"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":false,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":true,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null},"title":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":true,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":true,"site_pv":true,"site_uv":false,"post_pv":false},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-ZQ6EEL4C6N"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/pillars_of_creation.webp","dark":"/images/pillars_of_creation.webp"},"title":"我们不只是星尘。","subtitle":{"text":["静止总有一丝响动，那是灵魂沉沉浮浮。","将您扼杀的就是您以为面前还有无尽的时间。","就这样将自己搁浅在夜的礁上，昨天已成过去，今天尚未开始。","雨天，我走进水坑里，不小心踩碎了天空。","把地球倒置，我用撒哈拉记时。","血液的作用之一，是为信仰付出代价。","人之所以言之凿凿，是因为知道的太少。","不要做永远都合群的人。做异见者，做一会儿孤松，独自度过漫长冬日。","水流是鱼的风。","无限风光在险峰。","在坚冰还覆盖着北海的时候，我看到了怒放的梅花。","于暴雨中行走，伞是倒划天空的船。"],"hitokoto":{"enable":false,"show_author":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/albertc9/","instagram":"https://www.instagram.com/albert_cheung9/","zhihu":null,"twitter":"https://x.com/albert_chg9/","email":"albert.chg9@gmail.com"},"qrs":{"weixin":"https://github.com/albertc9/albertc9.github.io/blob/main/image/QRcode.jpg?raw=true"}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.7.0","navbar":{"auto_hide":false,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"https://albertc9.github.io","icon":"fa-regular fa-house"},"Links":{"icon":"fa-regular fa-link","submenus":{"AMS&CEPC Twiki":"https://twiki.cern.ch/twiki/bin/view/Main/AMSCEPCDev","AMS Official Website":"https://ams02.space/","AMS Official Internal Website":"https://ams.cern.ch/","Web of Science":"https://www.webofscience.com","arXiv":"https://arxiv.org","D. Tong":"https://www.damtp.cam.ac.uk/user/tong/teaching.html"}}},"search":{"enable":true,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"info","announcement":"Email：albert.chg9@gmail.com    WeChat Official Account：PyRLetter","show_on_mobile":true,"links":{"Tags":{"path":"/tags","icon":"fa-regular fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"}}},"article_date_format":"MMM D, YYYY","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2024/7/7 04:10:28"};
+    window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
+    window.data = {"masonry":false};
+  </script>
+    
+    <!--- Fontawesome Part-->
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/fontawesome.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/brands.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/solid.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/fontawesome/regular.min.css">
+    
+    
+    
+    
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
+
+
+<body>
+<div class="progress-bar-container">
+    
+        <span class="scroll-progress-bar"></span>
+    
+
+    
+        <span class="pjax-progress-bar"></span>
+<!--        <span class="swup-progress-icon">-->
+<!--            <i class="fa-solid fa-circle-notch fa-spin"></i>-->
+<!--        </span>-->
+    
+</div>
+
+
+
+    <style>
+    :root {
+        --preloader-background-color: #fff;
+        --preloader-text-color: #000;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --preloader-background-color: #202124;
+            --preloader-text-color: #fff;
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        :root {
+            --preloader-background-color: #fff;
+            --preloader-text-color: #000;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .ml13 {
+            font-size: 2.6rem !important; /* Adjust this value as needed */
+        }
+    }
+
+    .preloader {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem; /* Tailwind 'gap-4' is 1rem */
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        padding: 12px;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh; /* 'h-screen' is 100% of the viewport height */
+        background-color: var(--preloader-background-color);
+        z-index: 1100; /* 'z-[1100]' sets the z-index */
+        transition: opacity 0.2s ease-in-out;
+    }
+
+    .ml13 {
+        font-size: 3.2rem;
+        /* text-transform: uppercase; */
+        color: var(--preloader-text-color);
+        letter-spacing: -1px;
+        font-weight: 500;
+        font-family: 'Chillax-Variable', sans-serif;
+        text-align: center;
+    }
+
+    .ml13 .word {
+        display: inline-flex;
+        flex-wrap: wrap;
+        white-space: nowrap;
+    }
+
+    .ml13 .letter {
+        display: inline-block;
+        line-height: 1em;
+    }
+</style>
+
+<div class="preloader">
+    <h2 class="ml13">
+        Any%
+    </h2>
+    <script>
+        var textWrapper = document.querySelector('.ml13');
+        // Split text into words
+        var words = textWrapper.textContent.trim().split(' ');
+
+        // Clear the existing content
+        textWrapper.innerHTML = '';
+
+        // Wrap each word and its letters in spans
+        words.forEach(function(word) {
+            var wordSpan = document.createElement('span');
+            wordSpan.classList.add('word');
+            wordSpan.innerHTML = word.replace(/\S/g, "<span class='letter'>$&</span>");
+            textWrapper.appendChild(wordSpan);
+            textWrapper.appendChild(document.createTextNode(' ')); // Add space between words
+        });
+
+        var animation = anime.timeline({loop: true})
+            .add({
+                targets: '.ml13 .letter',
+                translateY: [40,0],
+                translateZ: 0,
+                opacity: [0,1],
+                filter: ['blur(5px)', 'blur(0px)'], // Starting from blurred to unblurred
+                easing: "easeOutExpo",
+                duration: 1400,
+                delay: (el, i) => 300 + 30 * i,
+            }).add({
+                targets: '.ml13 .letter',
+                translateY: [0,-40],
+                opacity: [1,0],
+                filter: ['blur(0px)', 'blur(5px)'], // Ending from unblurred to blurred
+                easing: "easeInExpo",
+                duration: 1200,
+                delay: (el, i) => 100 + 30 * i,
+                complete: function() {
+                    hidePreloader(); // Call hidePreloader after the animation completes
+                }
+            });
+
+        let themeStatus = JSON.parse(localStorage.getItem('REDEFINE-THEME-STATUS'))?.isDark;
+
+        // If the theme status is not found in local storage, check the preferred color scheme
+        if (themeStatus === undefined || themeStatus === null) {
+            if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                themeStatus = 'dark';
+            } else {
+                themeStatus = 'light';
+            }
+        }
+
+        // Now you can use the themeStatus variable in your code
+        if (themeStatus) {
+            document.documentElement.style.setProperty('--preloader-background-color', '#202124');
+            document.documentElement.style.setProperty('--preloader-text-color', '#fff');
+        } else {
+            document.documentElement.style.setProperty('--preloader-background-color', '#fff');
+            document.documentElement.style.setProperty('--preloader-text-color', '#000');
+        }
+
+        window.addEventListener('load', function () {
+            setTimeout(hidePreloader, 5000); // Call hidePreloader after 5000 milliseconds if not already called by animation
+        });
+
+        function hidePreloader() {
+            var preloader = document.querySelector('.preloader');
+            preloader.style.opacity = '0';
+            setTimeout(function () {
+                preloader.style.display = 'none';
+            }, 200);
+        }
+    </script>
+</div>
+
+<main class="page-container" id="swup">
+
+    
+
+    <div class="main-content-container">
+
+
+        <div class="main-content-header">
+            <header class="navbar-container px-6 md:px-12">
+
+    <div class="navbar-content ">
+        <div class="left">
+            
+            <a class="logo-title" href="/">
+                
+                Any%
+                
+            </a>
+        </div>
+
+        <div class="right">
+            <!-- PC -->
+            <div class="desktop">
+                <ul class="navbar-list">
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   target="_blank" rel="noopener" href="https://albertc9.github.io"
+                                        >
+                                    <i class="fa-regular fa-house fa-fw"></i>
+                                    HOME
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class="has-dropdown"
+                                   href="#"
+                                        onClick=&#34;return false;&#34;>
+                                    <i class="fa-regular fa-link fa-fw"></i>
+                                    LINKS
+                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                                    <ul class="sub-menu">
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://twiki.cern.ch/twiki/bin/view/Main/AMSCEPCDev">
+                                                    AMS&amp;CEPC TWIKI
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://ams02.space/">
+                                                    AMS OFFICIAL WEBSITE
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://ams.cern.ch/">
+                                                    AMS OFFICIAL INTERNAL WEBSITE
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://www.webofscience.com">
+                                                    WEB OF SCIENCE
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://arxiv.org">
+                                                    ARXIV
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://www.damtp.cam.ac.uk/user/tong/teaching.html">
+                                                    D. TONG
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                    
+                    
+                        <li class="navbar-item search search-popup-trigger">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                
+                <div class="icon-item navbar-bar">
+                    <div class="navbar-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile sheet -->
+    <div class="navbar-drawer h-screen w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
+        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           target="_blank" rel="noopener" href="https://albertc9.github.io"
+                        >
+                            <span>
+                                HOME
+                            </span>
+                            
+                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
+                        
+                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                             navbar-data-toggle="submenu-Links"
+                        >
+                            <span>
+                                LINKS
+                            </span>
+                            
+                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
+                            
+                        </div>
+                        
+
+                        
+                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-Links">
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://twiki.cern.ch/twiki/bin/view/Main/AMSCEPCDev">AMS&amp;CEPC TWIKI</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://ams02.space/">AMS OFFICIAL WEBSITE</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://ams.cern.ch/">AMS OFFICIAL INTERNAL WEBSITE</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://www.webofscience.com">WEB OF SCIENCE</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://arxiv.org">ARXIV</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://www.damtp.cam.ac.uk/user/tong/teaching.html">D. TONG</a>
+                                    </div>
+                                
+                            </div>
+                        
+                    </li>
+            
+
+            
+            
+                
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/tags"
+                        >
+                            <span>Tags</span>
+                            <i class="fa-regular fa-tags fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/categories"
+                        >
+                            <span>Categories</span>
+                            <i class="fa-regular fa-folder fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+            
+        </ul>
+
+        <div class="statistics flex justify-around my-2.5">
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
+        <div class="label text-third-text-color text-sm">Tags</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
+        <div class="label text-third-text-color text-sm">Categories</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">41</div>
+        <div class="label text-third-text-color text-sm">Posts</div>
+    </a>
+</div>
+    </div>
+
+    <div class="window-mask"></div>
+
+</header>
+
+
+        </div>
+
+        <div class="main-content-body">
+
+            
+
+            <div class="main-content">
+
+                
+                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
+    <div class="article-content-container">
+
+        <div class="article-title relative w-full">
+            
+                <div class="w-full flex items-center pt-6 justify-start">
+                    <h1 class="article-title-regular text-second-text-color tracking-tight text-4xl md:text-6xl font-semibold px-2 sm:px-6 md:px-8 py-3">A&amp;C_task 1.6</h1>
+                </div>
+            
+            </div>
+
+        
+            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
+                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
+                    <img src="/images/avatar.JPG">
+                </div>
+                <div class="info flex flex-col justify-between">
+                    <div class="author flex items-center">
+                        <span class="name text-default-text-color text-lg font-semibold">Albert Cheung</span>
+                        
+                    </div>
+                    <div class="meta-info">
+                        <div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="desktop">2024-09-26 02:40:11</span>
+        <span class="mobile">2024-09-26 02:40:11</span>
+        <span class="hover-info">Created</span>
+    </span>
+    
+        <span class="article-date article-meta-item">
+            <i class="fa-regular fa-wrench"></i>&nbsp;
+            <span class="desktop">2024-10-09 18:45:40</span>
+            <span class="mobile">2024-10-09 18:45:40</span>
+            <span class="hover-info">Updated</span>
+        </span>
+    
+
+    
+        <span class="article-categories article-meta-item">
+            <i class="fa-regular fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/A-CTask1/">A&amp;CTask1</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/tags/Tasks/">Tasks</a>&nbsp;
+                    </li>
+                
+            </ul>
+        </span>
+    
+
+    
+    
+        <span class="article-wordcount article-meta-item">
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>5.6k Words</span>
+        </span>
+    
+    
+        <span class="article-min2read article-meta-item">
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>23 Mins</span>
+        </span>
+    
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+        
+
+        
+
+
+        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
+            <h3 id="Tasks"><a href="#Tasks" class="headerlink" title="Tasks"></a>Tasks</h3><ol>
+<li><p>现有一探测器用于测量宇宙线事例，已知触发率约为60 Hz，而探测器的死时间为 3 ms，求事例堆积的概率</p>
+</li>
+<li><p>下面代码给定一宇宙线的触发事例能谱，以及从中挑选满足一定条件的用于分析的事例能谱，画出不同能段的效率</p>
+</li>
+</ol>
+<p>示例代码：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">void <span class="function"><span class="title">test</span></span>(){</span><br><span class="line">int num=100;</span><br><span class="line"></span><br><span class="line">//存储的原始触发事例能谱 bin 从 0-100</span><br><span class="line">TH1D* all=new TH1D(<span class="string">"all"</span>,<span class="string">"all entries"</span>,num,0,num);</span><br><span class="line"></span><br><span class="line">//挑选好的事例能谱</span><br><span class="line">TH1D* sel=new TH1D(<span class="string">"sel"</span>,<span class="string">"select entries"</span>,num,0,num);</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span>(int i=0;i&lt;num;++i){</span><br><span class="line">int raw_temp=int(gRandom-&gt;Gaus(0,6))+200;</span><br><span class="line">all-&gt;SetBinContent(i+1,raw_temp);</span><br><span class="line">int temp=(1-i*0.007)*gRandom-&gt;Uniform(0.8,1.)*raw_temp;</span><br><span class="line">sel-&gt;SetBinContent(i+1,temp);</span><br><span class="line">}</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<ol start="3">
+<li><p>优化上次作业的代码，绘出经过增益标定前后总能谱的变化，用以证明增益标定结果的准确性</p>
+</li>
+<li><p>*（选做题）已知上次作业能谱中第一个峰为单电荷的峰，增益标定的原理是什么？用第一个峰可能存在哪些问题？根据图中数据寻找改进的办法</p>
+</li>
+</ol>
+<h3 id="One-Possible-Solution"><a href="#One-Possible-Solution" class="headerlink" title="One Possible Solution"></a>One Possible Solution</h3><h4 id="Task-1"><a href="#Task-1" class="headerlink" title="Task 1"></a>Task 1</h4><p>可以先简单地对<em>事件堆积</em>进行介绍。事件堆积指的是在某次实验中，由于粒子探测器的分辨率有限，不能分辨出几个在极短时间内同时发生的几个时间的情况，导致不同事件的信号相互重叠。这种事件常见于高探测频率或者说高粒子碰撞率的实验中，例如在LHC或者某些高亮度的探测实验中。这些实验的典型共同之处就是产生的粒子频率特别高，多个粒子事件会在短时间内产生，并同时到达探测器。由于之前提到的探测器的分辨率有限，于是无法在时间上准确识别这些不同的事件，于是会导致它们的信号混合在一起，产生“事件堆积”。</p>
+<p>事件堆积可以分为时域堆积和空域堆积两大类。时域堆积和空域堆积的区别点实际在于事件发生的时间和探测器的响应过程之间的关系。时域堆积的简单描述是两个或多个事件几乎发生在同一时间，由于探测器的分辨率不足导致的堆积；空域堆积的简单描述是两个或多个事件发生的间隔十分相近，由于探测器的死时间或者较长读出时间的因素导致的事件堆积。二者看上去十分相似，不过它们有一个本质的不同：时域堆积中，两个事件发生在同一个时间窗内，例如通常在一次粒子束撞击或一次触发过程中，由于这些事件发生的时间间隔太近，从而在分辨率上导致事件堆积；空域堆积中，事件实际上发生在不同的时间窗口内，它们的时间间隔一般比时域堆积更长，但是由于探测器有较长的死时间或者读出时间时，会导致事件堆积。换句话说，它的关键特征是探测器还在处理前一个事件时，新的事件已经发生了，导致时间上（时间窗上）分开的不同信号被堆积认为成同一个信号。例如，当一个粒子穿过探测器后，探测器还在收集和处理信号，而第二个粒子在探测器恢复之前已经穿过了探测器，这就会导致信号重叠；死时间的情况也是类似的，只不过此时不会导致“堆积”，而是会产生遗漏，不过我们依然称它为事件堆积。</p>
+<p>为了计算事件堆积的效率，可以利用探测器的死时间和触发率计算。在这里我们采用泊松分布。对于泊松过程，在时间<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="0.817ex" height="1.441ex" role="img" focusable="false" viewBox="0 -626 361 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D461" d="M26 385Q19 392 19 395Q19 399 22 411T27 425Q29 430 36 430T87 431H140L159 511Q162 522 166 540T173 566T179 586T187 603T197 615T211 624T229 626Q247 625 254 615T261 596Q261 589 252 549T232 470L222 433Q222 431 272 431H323Q330 424 330 420Q330 398 317 385H210L174 240Q135 80 135 68Q135 26 162 26Q197 26 230 60T283 144Q285 150 288 151T303 153H307Q322 153 322 145Q322 142 319 133Q314 117 301 95T267 48T216 6T155 -11Q125 -11 98 4T59 56Q57 64 57 83V101L92 241Q127 382 128 383Q128 385 77 385H26Z"></path></g></g></g></svg></mjx-container>内没有事件发生的概率为<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="3.997ex" height="1.956ex" role="img" focusable="false" viewBox="0 -853.7 1766.6 864.7"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="TeXAtom" transform="translate(499,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mo"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mi" transform="translate(778,0)"><path data-c="1D706" d="M166 673Q166 685 183 694H202Q292 691 316 644Q322 629 373 486T474 207T524 67Q531 47 537 34T546 15T551 6T555 2T556 -2T550 -11H482Q457 3 450 18T399 152L354 277L340 262Q327 246 293 207T236 141Q211 112 174 69Q123 9 111 -1T83 -12Q47 -12 47 20Q47 37 61 52T199 187Q229 216 266 252T321 306L338 322Q338 323 288 462T234 612Q214 657 183 657Q166 657 166 673Z"></path></g><g data-mml-node="mi" transform="translate(1361,0)"><path data-c="1D461" d="M26 385Q19 392 19 395Q19 399 22 411T27 425Q29 430 36 430T87 431H140L159 511Q162 522 166 540T173 566T179 586T187 603T197 615T211 624T229 626Q247 625 254 615T261 596Q261 589 252 549T232 470L222 433Q222 431 272 431H323Q330 424 330 420Q330 398 317 385H210L174 240Q135 80 135 68Q135 26 162 26Q197 26 230 60T283 144Q285 150 288 151T303 153H307Q322 153 322 145Q322 142 319 133Q314 117 301 95T267 48T216 6T155 -11Q125 -11 98 4T59 56Q57 64 57 83V101L92 241Q127 382 128 383Q128 385 77 385H26Z"></path></g></g></g></g></g></svg></mjx-container>，所以堆积效率可以用以下公式得到：</p>
+<p><mjx-container class="MathJax" jax="SVG" display="true" width="full" style="min-width: 27.716ex;"><svg style="vertical-align: -0.782ex; min-width: 27.716ex;" xmlns="http://www.w3.org/2000/svg" width="100%" height="2.694ex" role="img" focusable="false"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(0.0181,-0.0181) translate(0, -845.5)"><g data-mml-node="math"><g data-mml-node="mtable" transform="translate(2078,0) translate(-2078,0)"><g transform="translate(0 845.5) matrix(1 0 0 -1 0 0) scale(55.25)"><svg data-table="true" preserveAspectRatio="xMidYMid" viewBox="4047.3 -845.5 1 1190.9"><g transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="mlabeledtr" transform="translate(0,-58.3)"><g data-mml-node="mtd"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D443" d="M287 628Q287 635 230 637Q206 637 199 638T192 648Q192 649 194 659Q200 679 203 681T397 683Q587 682 600 680Q664 669 707 631T751 530Q751 453 685 389Q616 321 507 303Q500 302 402 301H307L277 182Q247 66 247 59Q247 55 248 54T255 50T272 48T305 46H336Q342 37 342 35Q342 19 335 5Q330 0 319 0Q316 0 282 1T182 2Q120 2 87 2T51 1Q33 1 33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM645 554Q645 567 643 575T634 597T609 619T560 635Q553 636 480 637Q463 637 445 637T416 636T404 636Q391 635 386 627Q384 621 367 550T332 412T314 344Q314 342 395 342H407H430Q542 342 590 392Q617 419 631 471T645 554Z"></path></g><g data-mml-node="TeXAtom" transform="translate(675,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="70" d="M36 -148H50Q89 -148 97 -134V-126Q97 -119 97 -107T97 -77T98 -38T98 6T98 55T98 106Q98 140 98 177T98 243T98 296T97 335T97 351Q94 370 83 376T38 385H20V408Q20 431 22 431L32 432Q42 433 61 434T98 436Q115 437 135 438T165 441T176 442H179V416L180 390L188 397Q247 441 326 441Q407 441 464 377T522 216Q522 115 457 52T310 -11Q242 -11 190 33L182 40V-45V-101Q182 -128 184 -134T195 -145Q216 -148 244 -148H260V-194H252L228 -193Q205 -192 178 -192T140 -191Q37 -191 28 -194H20V-148H36ZM424 218Q424 292 390 347T305 402Q234 402 182 337V98Q222 26 294 26Q345 26 384 80T424 218Z"></path><path data-c="69" d="M69 609Q69 637 87 653T131 669Q154 667 171 652T188 609Q188 579 171 564T129 549Q104 549 87 564T69 609ZM247 0Q232 3 143 3Q132 3 106 3T56 1L34 0H26V46H42Q70 46 91 49Q100 53 102 60T104 102V205V293Q104 345 102 359T88 378Q74 385 41 385H30V408Q30 431 32 431L42 432Q52 433 70 434T106 436Q123 437 142 438T171 441T182 442H185V62Q190 52 197 50T232 46H255V0H247Z" transform="translate(556,0)"></path><path data-c="6C" d="M42 46H56Q95 46 103 60V68Q103 77 103 91T103 124T104 167T104 217T104 272T104 329Q104 366 104 407T104 482T104 542T103 586T103 603Q100 622 89 628T44 637H26V660Q26 683 28 683L38 684Q48 685 67 686T104 688Q121 689 141 690T171 693T182 694H185V379Q185 62 186 60Q190 52 198 49Q219 46 247 46H263V0H255L232 1Q209 2 183 2T145 3T107 3T57 1L34 0H26V46H42Z" transform="translate(834,0)"></path><path data-c="65" d="M28 218Q28 273 48 318T98 391T163 433T229 448Q282 448 320 430T378 380T406 316T415 245Q415 238 408 231H126V216Q126 68 226 36Q246 30 270 30Q312 30 342 62Q359 79 369 104L379 128Q382 131 395 131H398Q415 131 415 121Q415 117 412 108Q393 53 349 21T250 -11Q155 -11 92 58T28 218ZM333 275Q322 403 238 411H236Q228 411 220 410T195 402T166 381T143 340T127 274V267H333V275Z" transform="translate(1112,0)"></path></g><g data-mml-node="mo" transform="translate(1556,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mi" transform="translate(2334,0)"><path data-c="75" d="M383 58Q327 -10 256 -10H249Q124 -10 105 89Q104 96 103 226Q102 335 102 348T96 369Q86 385 36 385H25V408Q25 431 27 431L38 432Q48 433 67 434T105 436Q122 437 142 438T172 441T184 442H187V261Q188 77 190 64Q193 49 204 40Q224 26 264 26Q290 26 311 35T343 58T363 90T375 120T379 144Q379 145 379 161T380 201T380 248V315Q380 361 370 372T320 385H302V431Q304 431 378 436T457 442H464V264Q464 84 465 81Q468 61 479 55T524 46H542V0Q540 0 467 -5T390 -11H383V58Z"></path><path data-c="70" d="M36 -148H50Q89 -148 97 -134V-126Q97 -119 97 -107T97 -77T98 -38T98 6T98 55T98 106Q98 140 98 177T98 243T98 296T97 335T97 351Q94 370 83 376T38 385H20V408Q20 431 22 431L32 432Q42 433 61 434T98 436Q115 437 135 438T165 441T176 442H179V416L180 390L188 397Q247 441 326 441Q407 441 464 377T522 216Q522 115 457 52T310 -11Q242 -11 190 33L182 40V-45V-101Q182 -128 184 -134T195 -145Q216 -148 244 -148H260V-194H252L228 -193Q205 -192 178 -192T140 -191Q37 -191 28 -194H20V-148H36ZM424 218Q424 292 390 347T305 402Q234 402 182 337V98Q222 26 294 26Q345 26 384 80T424 218Z" transform="translate(556,0)"></path></g></g></g></g><g data-mml-node="mo" transform="translate(3439.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(4495.2,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(5217.5,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="msup" transform="translate(6217.7,0)"><g data-mml-node="mi"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="TeXAtom" transform="translate(499,413) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mo"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mi" transform="translate(778,0)"><path data-c="1D706" d="M166 673Q166 685 183 694H202Q292 691 316 644Q322 629 373 486T474 207T524 67Q531 47 537 34T546 15T551 6T555 2T556 -2T550 -11H482Q457 3 450 18T399 152L354 277L340 262Q327 246 293 207T236 141Q211 112 174 69Q123 9 111 -1T83 -12Q47 -12 47 20Q47 37 61 52T199 187Q229 216 266 252T321 306L338 322Q338 323 288 462T234 612Q214 657 183 657Q166 657 166 673Z"></path></g><g data-mml-node="mi" transform="translate(1361,0)"><path data-c="1D70F" d="M39 284Q18 284 18 294Q18 301 45 338T99 398Q134 425 164 429Q170 431 332 431Q492 431 497 429Q517 424 517 402Q517 388 508 376T485 360Q479 358 389 358T299 356Q298 355 283 274T251 109T233 20Q228 5 215 -4T186 -13Q153 -13 153 20V30L203 192Q214 228 227 272T248 336L254 357Q254 358 208 358Q206 358 197 358T183 359Q105 359 61 295Q56 287 53 286T39 284Z"></path></g></g></g></g></g></g></svg><svg data-labels="true" preserveAspectRatio="xMaxYMid" viewBox="1278 -845.5 1 1190.9"><g data-labels="true" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="mtd" id="mjx-eqn:1" transform="translate(0,691.7)"><text data-id-align="true"></text><g data-idbox="true" transform="translate(0,-750)"><g data-mml-node="mtext"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="translate(389,0)"></path><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z" transform="translate(889,0)"></path></g></g></g></g></svg></g></g></g></g></svg></mjx-container></p>
+<p>其中<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.027ex;" xmlns="http://www.w3.org/2000/svg" width="1.319ex" height="1.597ex" role="img" focusable="false" viewBox="0 -694 583 706"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D706" d="M166 673Q166 685 183 694H202Q292 691 316 644Q322 629 373 486T474 207T524 67Q531 47 537 34T546 15T551 6T555 2T556 -2T550 -11H482Q457 3 450 18T399 152L354 277L340 262Q327 246 293 207T236 141Q211 112 174 69Q123 9 111 -1T83 -12Q47 -12 47 20Q47 37 61 52T199 187Q229 216 266 252T321 306L338 322Q338 323 288 462T234 612Q214 657 183 657Q166 657 166 673Z"></path></g></g></g></svg></mjx-container>是事件的触发率，即每秒发生事件的频率；<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.029ex;" xmlns="http://www.w3.org/2000/svg" width="1.17ex" height="1.005ex" role="img" focusable="false" viewBox="0 -431 517 444"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D70F" d="M39 284Q18 284 18 294Q18 301 45 338T99 398Q134 425 164 429Q170 431 332 431Q492 431 497 429Q517 424 517 402Q517 388 508 376T485 360Q479 358 389 358T299 356Q298 355 283 274T251 109T233 20Q228 5 215 -4T186 -13Q153 -13 153 20V30L203 192Q214 228 227 272T248 336L254 357Q254 358 208 358Q206 358 197 358T183 359Q105 359 61 295Q56 287 53 286T39 284Z"></path></g></g></g></svg></mjx-container>是探测器的死时间；<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.65ex;" xmlns="http://www.w3.org/2000/svg" width="6.441ex" height="2.195ex" role="img" focusable="false" viewBox="0 -683 2847 970.2"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D443" d="M287 628Q287 635 230 637Q206 637 199 638T192 648Q192 649 194 659Q200 679 203 681T397 683Q587 682 600 680Q664 669 707 631T751 530Q751 453 685 389Q616 321 507 303Q500 302 402 301H307L277 182Q247 66 247 59Q247 55 248 54T255 50T272 48T305 46H336Q342 37 342 35Q342 19 335 5Q330 0 319 0Q316 0 282 1T182 2Q120 2 87 2T51 1Q33 1 33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM645 554Q645 567 643 575T634 597T609 619T560 635Q553 636 480 637Q463 637 445 637T416 636T404 636Q391 635 386 627Q384 621 367 550T332 412T314 344Q314 342 395 342H407H430Q542 342 590 392Q617 419 631 471T645 554Z"></path></g><g data-mml-node="TeXAtom" transform="translate(675,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mtext"><path data-c="70" d="M36 -148H50Q89 -148 97 -134V-126Q97 -119 97 -107T97 -77T98 -38T98 6T98 55T98 106Q98 140 98 177T98 243T98 296T97 335T97 351Q94 370 83 376T38 385H20V408Q20 431 22 431L32 432Q42 433 61 434T98 436Q115 437 135 438T165 441T176 442H179V416L180 390L188 397Q247 441 326 441Q407 441 464 377T522 216Q522 115 457 52T310 -11Q242 -11 190 33L182 40V-45V-101Q182 -128 184 -134T195 -145Q216 -148 244 -148H260V-194H252L228 -193Q205 -192 178 -192T140 -191Q37 -191 28 -194H20V-148H36ZM424 218Q424 292 390 347T305 402Q234 402 182 337V98Q222 26 294 26Q345 26 384 80T424 218Z"></path><path data-c="69" d="M69 609Q69 637 87 653T131 669Q154 667 171 652T188 609Q188 579 171 564T129 549Q104 549 87 564T69 609ZM247 0Q232 3 143 3Q132 3 106 3T56 1L34 0H26V46H42Q70 46 91 49Q100 53 102 60T104 102V205V293Q104 345 102 359T88 378Q74 385 41 385H30V408Q30 431 32 431L42 432Q52 433 70 434T106 436Q123 437 142 438T171 441T182 442H185V62Q190 52 197 50T232 46H255V0H247Z" transform="translate(556,0)"></path><path data-c="6C" d="M42 46H56Q95 46 103 60V68Q103 77 103 91T103 124T104 167T104 217T104 272T104 329Q104 366 104 407T104 482T104 542T103 586T103 603Q100 622 89 628T44 637H26V660Q26 683 28 683L38 684Q48 685 67 686T104 688Q121 689 141 690T171 693T182 694H185V379Q185 62 186 60Q190 52 198 49Q219 46 247 46H263V0H255L232 1Q209 2 183 2T145 3T107 3T57 1L34 0H26V46H42Z" transform="translate(834,0)"></path><path data-c="65" d="M28 218Q28 273 48 318T98 391T163 433T229 448Q282 448 320 430T378 380T406 316T415 245Q415 238 408 231H126V216Q126 68 226 36Q246 30 270 30Q312 30 342 62Q359 79 369 104L379 128Q382 131 395 131H398Q415 131 415 121Q415 117 412 108Q393 53 349 21T250 -11Q155 -11 92 58T28 218ZM333 275Q322 403 238 411H236Q228 411 220 410T195 402T166 381T143 340T127 274V267H333V275Z" transform="translate(1112,0)"></path><path data-c="2D" d="M11 179V252H277V179H11Z" transform="translate(1556,0)"></path><path data-c="75" d="M383 58Q327 -10 256 -10H249Q124 -10 105 89Q104 96 103 226Q102 335 102 348T96 369Q86 385 36 385H25V408Q25 431 27 431L38 432Q48 433 67 434T105 436Q122 437 142 438T172 441T184 442H187V261Q188 77 190 64Q193 49 204 40Q224 26 264 26Q290 26 311 35T343 58T363 90T375 120T379 144Q379 145 379 161T380 201T380 248V315Q380 361 370 372T320 385H302V431Q304 431 378 436T457 442H464V264Q464 84 465 81Q468 61 479 55T524 46H542V0Q540 0 467 -5T390 -11H383V58Z" transform="translate(1889,0)"></path><path data-c="70" d="M36 -148H50Q89 -148 97 -134V-126Q97 -119 97 -107T97 -77T98 -38T98 6T98 55T98 106Q98 140 98 177T98 243T98 296T97 335T97 351Q94 370 83 376T38 385H20V408Q20 431 22 431L32 432Q42 433 61 434T98 436Q115 437 135 438T165 441T176 442H179V416L180 390L188 397Q247 441 326 441Q407 441 464 377T522 216Q522 115 457 52T310 -11Q242 -11 190 33L182 40V-45V-101Q182 -128 184 -134T195 -145Q216 -148 244 -148H260V-194H252L228 -193Q205 -192 178 -192T140 -191Q37 -191 28 -194H20V-148H36ZM424 218Q424 292 390 347T305 402Q234 402 182 337V98Q222 26 294 26Q345 26 384 80T424 218Z" transform="translate(2445,0)"></path></g></g></g></g></g></svg></mjx-container>是堆积事件的概率，即在探测器死时间内有新的事件发生的概率。现在，只需要带入公式就可以得到事例堆积的概率</p>
+<p><mjx-container class="MathJax" jax="SVG" display="true" width="full" style="min-width: 40.616ex;"><svg style="vertical-align: -0.759ex; min-width: 40.616ex;" xmlns="http://www.w3.org/2000/svg" width="100%" height="2.65ex" role="img" focusable="false"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(0.0181,-0.0181) translate(0, -835.6)"><g data-mml-node="math"><g data-mml-node="mtable" transform="translate(2078,0) translate(-2078,0)"><g transform="translate(0 835.6) matrix(1 0 0 -1 0 0) scale(55.25)"><svg data-table="true" preserveAspectRatio="xMidYMid" viewBox="6898.2 -835.6 1 1171.1"><g transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="mlabeledtr" transform="translate(0,-48.4)"><g data-mml-node="mtd"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D443" d="M287 628Q287 635 230 637Q206 637 199 638T192 648Q192 649 194 659Q200 679 203 681T397 683Q587 682 600 680Q664 669 707 631T751 530Q751 453 685 389Q616 321 507 303Q500 302 402 301H307L277 182Q247 66 247 59Q247 55 248 54T255 50T272 48T305 46H336Q342 37 342 35Q342 19 335 5Q330 0 319 0Q316 0 282 1T182 2Q120 2 87 2T51 1Q33 1 33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM645 554Q645 567 643 575T634 597T609 619T560 635Q553 636 480 637Q463 637 445 637T416 636T404 636Q391 635 386 627Q384 621 367 550T332 412T314 344Q314 342 395 342H407H430Q542 342 590 392Q617 419 631 471T645 554Z"></path></g><g data-mml-node="TeXAtom" transform="translate(675,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="70" d="M36 -148H50Q89 -148 97 -134V-126Q97 -119 97 -107T97 -77T98 -38T98 6T98 55T98 106Q98 140 98 177T98 243T98 296T97 335T97 351Q94 370 83 376T38 385H20V408Q20 431 22 431L32 432Q42 433 61 434T98 436Q115 437 135 438T165 441T176 442H179V416L180 390L188 397Q247 441 326 441Q407 441 464 377T522 216Q522 115 457 52T310 -11Q242 -11 190 33L182 40V-45V-101Q182 -128 184 -134T195 -145Q216 -148 244 -148H260V-194H252L228 -193Q205 -192 178 -192T140 -191Q37 -191 28 -194H20V-148H36ZM424 218Q424 292 390 347T305 402Q234 402 182 337V98Q222 26 294 26Q345 26 384 80T424 218Z"></path><path data-c="69" d="M69 609Q69 637 87 653T131 669Q154 667 171 652T188 609Q188 579 171 564T129 549Q104 549 87 564T69 609ZM247 0Q232 3 143 3Q132 3 106 3T56 1L34 0H26V46H42Q70 46 91 49Q100 53 102 60T104 102V205V293Q104 345 102 359T88 378Q74 385 41 385H30V408Q30 431 32 431L42 432Q52 433 70 434T106 436Q123 437 142 438T171 441T182 442H185V62Q190 52 197 50T232 46H255V0H247Z" transform="translate(556,0)"></path><path data-c="6C" d="M42 46H56Q95 46 103 60V68Q103 77 103 91T103 124T104 167T104 217T104 272T104 329Q104 366 104 407T104 482T104 542T103 586T103 603Q100 622 89 628T44 637H26V660Q26 683 28 683L38 684Q48 685 67 686T104 688Q121 689 141 690T171 693T182 694H185V379Q185 62 186 60Q190 52 198 49Q219 46 247 46H263V0H255L232 1Q209 2 183 2T145 3T107 3T57 1L34 0H26V46H42Z" transform="translate(834,0)"></path><path data-c="65" d="M28 218Q28 273 48 318T98 391T163 433T229 448Q282 448 320 430T378 380T406 316T415 245Q415 238 408 231H126V216Q126 68 226 36Q246 30 270 30Q312 30 342 62Q359 79 369 104L379 128Q382 131 395 131H398Q415 131 415 121Q415 117 412 108Q393 53 349 21T250 -11Q155 -11 92 58T28 218ZM333 275Q322 403 238 411H236Q228 411 220 410T195 402T166 381T143 340T127 274V267H333V275Z" transform="translate(1112,0)"></path></g><g data-mml-node="mo" transform="translate(1556,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mi" transform="translate(2334,0)"><path data-c="75" d="M383 58Q327 -10 256 -10H249Q124 -10 105 89Q104 96 103 226Q102 335 102 348T96 369Q86 385 36 385H25V408Q25 431 27 431L38 432Q48 433 67 434T105 436Q122 437 142 438T172 441T184 442H187V261Q188 77 190 64Q193 49 204 40Q224 26 264 26Q290 26 311 35T343 58T363 90T375 120T379 144Q379 145 379 161T380 201T380 248V315Q380 361 370 372T320 385H302V431Q304 431 378 436T457 442H464V264Q464 84 465 81Q468 61 479 55T524 46H542V0Q540 0 467 -5T390 -11H383V58Z"></path><path data-c="70" d="M36 -148H50Q89 -148 97 -134V-126Q97 -119 97 -107T97 -77T98 -38T98 6T98 55T98 106Q98 140 98 177T98 243T98 296T97 335T97 351Q94 370 83 376T38 385H20V408Q20 431 22 431L32 432Q42 433 61 434T98 436Q115 437 135 438T165 441T176 442H179V416L180 390L188 397Q247 441 326 441Q407 441 464 377T522 216Q522 115 457 52T310 -11Q242 -11 190 33L182 40V-45V-101Q182 -128 184 -134T195 -145Q216 -148 244 -148H260V-194H252L228 -193Q205 -192 178 -192T140 -191Q37 -191 28 -194H20V-148H36ZM424 218Q424 292 390 347T305 402Q234 402 182 337V98Q222 26 294 26Q345 26 384 80T424 218Z" transform="translate(556,0)"></path></g></g></g></g><g data-mml-node="mo" transform="translate(3439.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(4495.2,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(5217.5,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="msup" transform="translate(6217.7,0)"><g data-mml-node="mi"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="TeXAtom" transform="translate(499,413) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mo"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mn" transform="translate(778,0)"><path data-c="36" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mo" transform="translate(1778,0)"><path data-c="D7" d="M630 29Q630 9 609 9Q604 9 587 25T493 118L389 222L284 117Q178 13 175 11Q171 9 168 9Q160 9 154 15T147 29Q147 36 161 51T255 146L359 250L255 354Q174 435 161 449T147 471Q147 480 153 485T168 490Q173 490 175 489Q178 487 284 383L389 278L493 382Q570 459 587 475T609 491Q630 491 630 471Q630 464 620 453T522 355L418 250L522 145Q606 61 618 48T630 29Z"></path></g><g data-mml-node="mn" transform="translate(2556,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path><path data-c="2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z" transform="translate(500,0)"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(778,0)"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(1278,0)"></path><path data-c="33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z" transform="translate(1778,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(10462.6,0)"><path data-c="2248" d="M55 319Q55 360 72 393T114 444T163 472T205 482Q207 482 213 482T223 483Q262 483 296 468T393 413L443 381Q502 346 553 346Q609 346 649 375T694 454Q694 465 698 474T708 483Q722 483 722 452Q722 386 675 338T555 289Q514 289 468 310T388 357T308 404T224 426Q164 426 125 393T83 318Q81 289 69 289Q55 289 55 319ZM55 85Q55 126 72 159T114 210T163 238T205 248Q207 248 213 248T223 249Q262 249 296 234T393 179L443 147Q502 112 553 112Q609 112 649 141T694 220Q694 249 708 249T722 217Q722 153 675 104T555 55Q514 55 468 76T388 123T308 170T224 192Q164 192 125 159T83 84Q80 55 69 55Q55 55 55 85Z"></path></g><g data-mml-node="mn" transform="translate(11518.4,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="36" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z" transform="translate(500,0)"></path><path data-c="2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z" transform="translate(1000,0)"></path><path data-c="34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z" transform="translate(1278,0)"></path><path data-c="37" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z" transform="translate(1778,0)"></path></g></g></g></g></svg><svg data-labels="true" preserveAspectRatio="xMaxYMid" viewBox="1278 -835.6 1 1171.1"><g data-labels="true" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="mtd" id="mjx-eqn:2" transform="translate(0,701.6)"><text data-id-align="true"></text><g data-idbox="true" transform="translate(0,-750)"><g data-mml-node="mtext"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z" transform="translate(389,0)"></path><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z" transform="translate(889,0)"></path></g></g></g></g></svg></g></g></g></g></svg></mjx-container></p>
+<h4 id="Task-2"><a href="#Task-2" class="headerlink" title="Task 2"></a>Task 2</h4><p>在该任务中，我们使用<code>gRandom -&gt; Gaus(0, 10) </code>生成一个高斯分布的随机数（再进行平移），用于模拟每个 bin 的事件数，被赋值到<code>all</code>直方图的第<code>i+1</code>个 bin 中。然后，我们使用</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">int temp = (1 - i * 0.007) * gRandom -&gt; Uniform(0.8, 1.0) * raw_temp;</span><br></pre></td></tr></table></figure></div>
+<p>对所有数据进行筛选。注意到，其中的<code>(1 - i * 0.007)</code> 是一个线性衰减因子。随着<code>i</code>的增加，该因子逐渐减小。对于较高的 bin，因子会较小，导致该 bin 中的事件数减少。另外，其中的<code>gRandom</code>部分引入了一定的波动性，用来模拟随机效应。最后，筛选出的数据被填入<code>sel</code>中的直方图中。事实上，这样的线性衰减因子用于模拟高能区的严格探测条件或者更低的探测效率。</p>
+<p>最后一部分，计算筛选事件与原始事件的比值，得到该能段的效率。</p>
+<p>代码如下：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br></pre></td><td class="code"><pre><span class="line">void <span class="function"><span class="title">btask1_6</span></span>(){</span><br><span class="line">    </span><br><span class="line">    int num = 100;</span><br><span class="line"></span><br><span class="line">    TH1D *all = new TH1D(<span class="string">"all"</span>, <span class="string">"All Entries; Bins; Counts"</span>, num, 0, num);</span><br><span class="line">    TH1D *sel = new TH1D(<span class="string">"sel"</span>, <span class="string">"Selected Entries; Bin; Counts"</span>, num, 0, num);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (int i = 0; i &lt; num; ++i){</span><br><span class="line">        int raw_temp = int(gRandom -&gt; Gaus(0, 10)) + 200;</span><br><span class="line">        all -&gt; SetBinContent(i + 1, raw_temp);</span><br><span class="line"></span><br><span class="line">        int temp = (1 - i * 0.007)* gRandom -&gt; Uniform(0.8, 1.0) * raw_temp;</span><br><span class="line">        sel -&gt; SetBinContent(i + 1, temp);</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    TFile *originalFile = new TFile(<span class="string">"original_data.root"</span>, <span class="string">"RECREATE"</span>);</span><br><span class="line">    all -&gt; Write();</span><br><span class="line">    sel -&gt; Write();</span><br><span class="line">    originalFile -&gt; Close();</span><br><span class="line">    delete all;</span><br><span class="line">    delete sel;</span><br><span class="line"></span><br><span class="line">    TFile *inputFile = new TFile(<span class="string">"original_data.root"</span>, <span class="string">"READ"</span>);</span><br><span class="line">    TH1D *all_hist = (TH1D*)inputFile -&gt; Get(<span class="string">"all"</span>);</span><br><span class="line">    TH1D *sel_hist = (TH1D*)inputFile -&gt; Get(<span class="string">"sel"</span>);</span><br><span class="line">    </span><br><span class="line">    TGraph *eff = new TGraph(num);</span><br><span class="line">    eff -&gt; SetTitle(<span class="string">"Efficiency vs Bin; Bin; Efficiency"</span>);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (int i = 0; i &lt; num; ++i){</span><br><span class="line">        double all_count = all -&gt; GetBinContent(i + 1);</span><br><span class="line">        double sel_count = sel -&gt; GetBinContent(i + 1);</span><br><span class="line">        double efficiency = 0;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (all_count &gt; 0){</span><br><span class="line">        efficiency = sel_count / all_count;</span><br><span class="line">    }</span><br><span class="line">    eff -&gt; SetPoint(i, i, efficiency);</span><br><span class="line">}</span><br><span class="line">TCanvas *c1 = new TCanvas(<span class="string">"c1"</span>, <span class="string">"Histogram Analysis"</span>, 800, 600);</span><br><span class="line">double maxVal = TMath::Max(all_hist -&gt; GetMaximum(), sel_hist -&gt; GetMaximum());</span><br><span class="line">double minVal = TMath::Min(all_hist -&gt; GetMinimum(), sel_hist -&gt; GetMinimum());</span><br><span class="line">all_hist -&gt; SetMaximum(maxVal * 1.2);</span><br><span class="line">all_hist -&gt; SetMinimum(minVal * 0.8);</span><br><span class="line">all_hist -&gt; SetLineColor(kBlue);</span><br><span class="line">sel_hist -&gt; SetLineColor(kRed);</span><br><span class="line">all_hist -&gt; Draw(<span class="string">"HIST"</span>);</span><br><span class="line">sel_hist -&gt; Draw(<span class="string">"HIST SAME"</span>);</span><br><span class="line"></span><br><span class="line">gStyle -&gt; SetOptStat(0);</span><br><span class="line">auto legend = new TLegend(0.75, 0.75, 0.90, 0.90);</span><br><span class="line">legend -&gt; AddEntry(all_hist, <span class="string">"All Entries"</span>, <span class="string">"l"</span>);</span><br><span class="line">legend -&gt; AddEntry(sel_hist, <span class="string">"Selected Entries"</span>, <span class="string">"l"</span>);</span><br><span class="line">legend -&gt; Draw();</span><br><span class="line"></span><br><span class="line">c1 -&gt; SaveAs(<span class="string">"histogram_analysis.pdf"</span>);</span><br><span class="line"></span><br><span class="line">TCanvas *c2 = new TCanvas(<span class="string">"c2"</span>, <span class="string">"Efficiency Analysis"</span>, 800, 600);</span><br><span class="line">eff -&gt; SetMarkerStyle(20);</span><br><span class="line">eff -&gt; SetMarkerSize(0.8);</span><br><span class="line">eff -&gt; SetMarkerColor(kGreen +2);</span><br><span class="line">eff -&gt; Draw(<span class="string">"AP"</span>);</span><br><span class="line"></span><br><span class="line">c2 -&gt; SaveAs(<span class="string">"efficiency_analysis.pdf"</span>);</span><br><span class="line"></span><br><span class="line">inputFile -&gt; Close();</span><br><span class="line">delete inputFile;</span><br><span class="line">delete eff;</span><br><span class="line">delete c1;</span><br><span class="line">delete c2;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<p>输出结果如下：</p>
+<ol>
+<li>所有数据 vs 选择数据</li>
+</ol>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/241009.1.png" alt="pic4"></p>
+<ol>
+<li>各能段效率</li>
+</ol>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/241009.2.jpg" alt="pic4"></p>
+<h4 id="Task-3"><a href="#Task-3" class="headerlink" title="Task 3"></a>Task 3</h4><p>代码如下：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br><span class="line">156</span><br><span class="line">157</span><br><span class="line">158</span><br><span class="line">159</span><br><span class="line">160</span><br><span class="line">161</span><br><span class="line">162</span><br><span class="line">163</span><br><span class="line">164</span><br><span class="line">165</span><br><span class="line">166</span><br><span class="line">167</span><br><span class="line">168</span><br><span class="line">169</span><br><span class="line">170</span><br><span class="line">171</span><br><span class="line">172</span><br><span class="line">173</span><br><span class="line">174</span><br><span class="line">175</span><br><span class="line">176</span><br><span class="line">177</span><br><span class="line">178</span><br><span class="line">179</span><br><span class="line">180</span><br><span class="line">181</span><br><span class="line">182</span><br><span class="line">183</span><br><span class="line">184</span><br><span class="line">185</span><br><span class="line">186</span><br><span class="line">187</span><br><span class="line">188</span><br><span class="line">189</span><br><span class="line">190</span><br><span class="line">191</span><br><span class="line">192</span><br><span class="line">193</span><br><span class="line">194</span><br><span class="line">195</span><br><span class="line">196</span><br><span class="line">197</span><br><span class="line">198</span><br><span class="line">199</span><br><span class="line">200</span><br><span class="line">201</span><br><span class="line">202</span><br><span class="line">203</span><br><span class="line">204</span><br><span class="line">205</span><br><span class="line">206</span><br><span class="line">207</span><br><span class="line">208</span><br><span class="line">209</span><br><span class="line">210</span><br><span class="line">211</span><br><span class="line">212</span><br><span class="line">213</span><br><span class="line">214</span><br><span class="line">215</span><br><span class="line">216</span><br><span class="line">217</span><br><span class="line">218</span><br><span class="line">219</span><br><span class="line">220</span><br><span class="line">221</span><br><span class="line">222</span><br><span class="line">223</span><br><span class="line">224</span><br><span class="line">225</span><br><span class="line">226</span><br><span class="line">227</span><br><span class="line">228</span><br><span class="line">229</span><br><span class="line">230</span><br><span class="line">231</span><br><span class="line">232</span><br><span class="line">233</span><br><span class="line">234</span><br><span class="line">235</span><br><span class="line">236</span><br><span class="line">237</span><br><span class="line">238</span><br><span class="line">239</span><br><span class="line">240</span><br><span class="line">241</span><br><span class="line">242</span><br><span class="line">243</span><br><span class="line">244</span><br><span class="line">245</span><br><span class="line">246</span><br><span class="line">247</span><br><span class="line">248</span><br><span class="line">249</span><br><span class="line">250</span><br><span class="line">251</span><br><span class="line">252</span><br><span class="line">253</span><br><span class="line">254</span><br><span class="line">255</span><br><span class="line">256</span><br><span class="line">257</span><br><span class="line">258</span><br><span class="line">259</span><br><span class="line">260</span><br><span class="line">261</span><br><span class="line">262</span><br><span class="line">263</span><br><span class="line">264</span><br><span class="line">265</span><br><span class="line">266</span><br><span class="line">267</span><br><span class="line">268</span><br><span class="line">269</span><br><span class="line">270</span><br><span class="line">271</span><br><span class="line">272</span><br><span class="line">273</span><br><span class="line">274</span><br><span class="line">275</span><br><span class="line">276</span><br><span class="line">277</span><br><span class="line">278</span><br><span class="line">279</span><br><span class="line">280</span><br><span class="line">281</span><br><span class="line">282</span><br><span class="line">283</span><br><span class="line">284</span><br><span class="line">285</span><br><span class="line">286</span><br><span class="line">287</span><br><span class="line">288</span><br><span class="line">289</span><br><span class="line">290</span><br></pre></td><td class="code"><pre><span class="line">/* </span><br><span class="line">* 注意1：在ROOT中，直方图默认与当前目录关联（例如TFile）。当关闭TFile时，与其关联的所有直方图都会被删除，如果之后需要调用的话就会产生无效的内存访问。这可能是我在运行中偶尔出现 crash 的原因。</span><br><span class="line">* 注意2：在所有部分，我只计算了区间（45,80）的卡方/自由度。</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line"><span class="comment">#include "langaufun.C" // 该函数是根据cern.root指导网页中教程中得到的，其中定义了郎道卷积高斯函数</span></span><br><span class="line"></span><br><span class="line">void <span class="function"><span class="title">atask1_6</span></span>() {</span><br><span class="line">	auto start = std::chrono::high_resolution_clock::now(); // 记录程序运行时间</span><br><span class="line"></span><br><span class="line">    TVirtualFitter::SetDefaultFitter(<span class="string">"Minuit"</span>); // **在上一次程序运行中发现无法使用 Minuit 改用 Minuit2，这一次发现无法使用 Minuit2 改用 Minuit。由于每个A_B都要提示一次（1152次），于是预先在这里声明。但是为什么？**</span><br><span class="line">    TFile *file = TFile:: Open(<span class="string">"va.root"</span>, <span class="string">"READ"</span>);</span><br><span class="line">    TFile *outFile = new TFile(<span class="string">"fit_results.root"</span>,<span class="string">"RECREATE"</span>);</span><br><span class="line"></span><br><span class="line">    std::ofstream outputFile(<span class="string">"chi2Ndf_and_gainCoefficients.txt"</span>);</span><br><span class="line"></span><br><span class="line">    TH2D *gainMap = new TH2D(<span class="string">"gainMap"</span>, <span class="string">"GainCoefficients; A; B"</span>, 192, 0, 192, 6, 0, 6);</span><br><span class="line">    TH2D *chi2Map = new TH2D(<span class="string">"chi2Map"</span>, <span class="string">"ChiSquared/NDF; A; B"</span>, 192, 0, 192, 6, 0, 6);</span><br><span class="line"></span><br><span class="line">    double totalMPV = 0; // 用于累加MPV</span><br><span class="line">    int numDetectors = 0; // 探测器数量</span><br><span class="line"></span><br><span class="line">    std::vector&lt;double&gt; mpvList; // 每个探测器的MPV</span><br><span class="line">    std::vector&lt;TH1D*&gt; correctedHists; // 输出的（校正后的）值方图</span><br><span class="line">    std::vector&lt;TH1D*&gt; originalHists; // 由于出现了程序崩溃，存储一个原始直方图。应该是程序开头的注释中提到的问题</span><br><span class="line"></span><br><span class="line">    int lefFit = 0, riFit = 0, lefMergedFit = 0, riMergedFit = 0; // 拟合区间</span><br><span class="line">    lefFit = 45;</span><br><span class="line">    riFit = 75;</span><br><span class="line">    lefMergedFit = 45;</span><br><span class="line">    riMergedFit = 75;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (int A=0; A &lt; 192; ++A){</span><br><span class="line">        <span class="keyword">for</span> (int B=0; B &lt; 6; ++B){</span><br><span class="line">            TString histName = TString::Format(<span class="string">"%d_%d"</span>, A, B);</span><br><span class="line">            TH1D *hist = (TH1D*)file -&gt; Get(histName);</span><br><span class="line"></span><br><span class="line">            TH1D *histClone = (TH1D*)hist -&gt; Clone();</span><br><span class="line">            histClone -&gt; SetDirectory(0); // 克隆后解除关联（也是为了防止读取空内存）</span><br><span class="line">            histClone -&gt; Sumw2(); // 计算误差，方便后续误差条的显示（虽然并不明显？）</span><br><span class="line">            originalHists.push_back(histClone);</span><br><span class="line">            // originalHists.push_back((TH1D*)hist -&gt; Clone()); // 再次存储一个直方图</span><br><span class="line"></span><br><span class="line">            TF1 *landauGausFit = new TF1(<span class="string">"landauGausFit"</span>, langaufun, lefFit, riFit, 4); // 选择区间的原因在文章中有说明</span><br><span class="line">            landauGausFit -&gt; SetParameters(1.8, 50, 50000, 3);</span><br><span class="line">            landauGausFit -&gt; SetRange(lefFit, riFit);</span><br><span class="line">            landauGausFit -&gt; SetParNames(<span class="string">"Width"</span>, <span class="string">"MP"</span>, <span class="string">"Area"</span>, <span class="string">"Sigma"</span>);</span><br><span class="line">            landauGausFit -&gt; SetNpx(1000); // 由于初步拟合时发现峰值附近的拟合函数看起来太尖锐，手动增加绘制精度 </span><br><span class="line">            hist -&gt; Fit(landauGausFit, <span class="string">"Q"</span>, <span class="string">""</span>, lefFit, riFit);</span><br><span class="line"></span><br><span class="line">            double gainCoefficient = landauGausFit -&gt; GetMaximumX(lefFit, riFit);</span><br><span class="line"></span><br><span class="line">            double chi2 = 0;</span><br><span class="line">            int ndf = 0;</span><br><span class="line">            <span class="keyword">for</span> (int bin = hist -&gt; FindBin(45); bin &lt;= hist -&gt; FindBin(90); bin ++){</span><br><span class="line">            double observed = hist -&gt; GetBinContent(bin);</span><br><span class="line">            double expected = landauGausFit -&gt; Eval(hist -&gt; GetBinCenter(bin));</span><br><span class="line">            <span class="keyword">if</span> (expected &gt; 0){</span><br><span class="line">                chi2 += (observed - expected) * (observed - expected) / expected;</span><br><span class="line">                ndf++; </span><br><span class="line">            }</span><br><span class="line">            }</span><br><span class="line">            ndf -= 4;</span><br><span class="line"></span><br><span class="line">            double chi2NDF = chi2 / ndf;</span><br><span class="line"></span><br><span class="line">            gainMap -&gt; SetBinContent(A + 1, B + 1, gainCoefficient);</span><br><span class="line">            chi2Map -&gt; SetBinContent(A + 1, B + 1, chi2NDF);</span><br><span class="line"></span><br><span class="line">            outputFile &lt;&lt; <span class="string">A &lt;&lt; "_" &lt;&lt; B &lt;&lt; " " &lt;&lt; chi2NDF &lt;&lt; " " &lt;&lt; gainCoefficient &lt;&lt; "\n";</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">            mpvList.push_back(gainCoefficient);</span></span><br><span class="line"><span class="string">            totalMPV += gainCoefficient;</span></span><br><span class="line"><span class="string">            numDetectors ++;</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">            hist -&gt; Write();</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">        }</span></span><br><span class="line"><span class="string">    }</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">    double targetMPV = totalMPV / numDetectors; // 计算平均值用来对齐</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">    for (int A</span> = 0; A &lt; 192; ++A){</span><br><span class="line">        <span class="keyword">for</span> (int B = 0; B &lt; 6; ++B){</span><br><span class="line"></span><br><span class="line">            TH1D *hist = originalHists[A * 6 + B];</span><br><span class="line">            double gainCoefficient = mpvList[A * 6 + B];</span><br><span class="line">            double correctionFactor = targetMPV / gainCoefficient; // 定义一个修正（对齐）因子</span><br><span class="line"></span><br><span class="line">            TH1D * correctedHist = (TH1D*)hist -&gt; Clone(TString::Format(<span class="string">"corrected_%d_%d"</span>, A, B));</span><br><span class="line">            correctedHist -&gt; SetDirectory(0); // 也是解除关联</span><br><span class="line">            correctedHist -&gt; Sumw2();</span><br><span class="line">            correctedHist -&gt; Scale(correctionFactor);</span><br><span class="line">            correctedHists.push_back(correctedHist);</span><br><span class="line"></span><br><span class="line">            correctedHist -&gt; Write();</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    // 这是未对齐的直方图</span><br><span class="line">    TH1D *mergedHistUncorrected = nullptr; // 初始化为空</span><br><span class="line">    <span class="keyword">for</span> (int A = 0; A &lt; 192; ++A) {</span><br><span class="line">        <span class="keyword">for</span> (int B = 0; B &lt; 6; ++B) {</span><br><span class="line">            TString histName = TString::Format(<span class="string">"%d_%d"</span>, A, B);</span><br><span class="line">            TH1D *histFromFile = (TH1D*)file-&gt;Get(histName); // 直接从文件获取直方图</span><br><span class="line">            </span><br><span class="line">            <span class="keyword">if</span> (A == 0 &amp;&amp; B == 0) { // 初始创建 mergedHistUncorrected</span><br><span class="line">                mergedHistUncorrected = (TH1D*)histFromFile-&gt;Clone(<span class="string">"merged_hist_uncorrected"</span>);</span><br><span class="line">                mergedHistUncorrected-&gt;Reset();</span><br><span class="line">                mergedHistUncorrected-&gt;SetDirectory(0); // 解除关联</span><br><span class="line">                mergedHistUncorrected-&gt;Sumw2();</span><br><span class="line">            }</span><br><span class="line">            mergedHistUncorrected-&gt;Add(histFromFile); // 合并数据</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    // 这是一个用于合并的直方图</span><br><span class="line">    TH1D *mergedHist = (TH1D*)correctedHists[0] -&gt; Clone(<span class="string">"merged_hist"</span>);</span><br><span class="line">    mergedHist -&gt; Reset();</span><br><span class="line">    mergedHist -&gt; SetDirectory(0); // 也是解除关联</span><br><span class="line">    mergedHist -&gt; Sumw2(); // 计算误差</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (size_t i = 0; i &lt; correctedHists.size(); ++i){</span><br><span class="line">        mergedHist -&gt; Add(correctedHists[i]);</span><br><span class="line">        mergedHistUncorrected -&gt; Add(originalHists[i]);</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    double bestChi2NDF = 1e6;</span><br><span class="line">    int bestLefFit = 40, bestRiFit = 75;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (double lower = 40; lower &lt;= 48; lower += 0.5) {</span><br><span class="line">    <span class="keyword">for</span> (double upper = 60; upper &lt;= 75; upper += 0.5) {</span><br><span class="line"></span><br><span class="line">    TF1 *tempFit = new TF1(<span class="string">"tempFit"</span>, langaufun, lower, upper, 4);</span><br><span class="line">    tempFit -&gt; SetParameters(1.8, 50, 50000, 3);</span><br><span class="line">    tempFit -&gt; SetRange(lower, upper);</span><br><span class="line">    tempFit -&gt; SetParNames(<span class="string">"Width"</span>, <span class="string">"MP"</span>, <span class="string">"Area"</span>, <span class="string">"Sigma"</span>);</span><br><span class="line">    tempFit -&gt; SetNpx(1000);</span><br><span class="line"></span><br><span class="line">    mergedHist-&gt;Fit(tempFit, <span class="string">"Q"</span>, <span class="string">""</span>, lower, upper);</span><br><span class="line"></span><br><span class="line">    double tempChi2 = 0;</span><br><span class="line">    int tempNDF = 0;</span><br><span class="line">    <span class="keyword">for</span> (int bin = mergedHist-&gt;FindBin(45); bin &lt;= mergedHist-&gt;FindBin(80); bin++) {</span><br><span class="line">        double observed = mergedHist-&gt;GetBinContent(bin);</span><br><span class="line">        double expected = tempFit-&gt;Eval(mergedHist-&gt;GetBinCenter(bin));</span><br><span class="line">        <span class="keyword">if</span> (expected &gt; 0) {</span><br><span class="line">            tempChi2 += (observed - expected) * (observed - expected) / expected;</span><br><span class="line">            tempNDF++;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    tempNDF -= 4;</span><br><span class="line">    double tempChi2NDF = tempChi2 / tempNDF;</span><br><span class="line"></span><br><span class="line">    // 判断是否为最优</span><br><span class="line">    <span class="keyword">if</span> (tempChi2NDF &lt; bestChi2NDF) {</span><br><span class="line">        bestChi2NDF = tempChi2NDF;</span><br><span class="line">        bestLefFit = lower;</span><br><span class="line">        bestRiFit = upper;</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    delete tempFit;</span><br><span class="line">    }</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    TF1 *mergedFit = new TF1(<span class="string">"mergedFit"</span>, langaufun, bestLefFit, bestRiFit, 4);</span><br><span class="line">    mergedFit -&gt; SetParameters(1.8, 50, 50000, 3);</span><br><span class="line">    mergedFit -&gt; SetRange(bestLefFit, bestRiFit);</span><br><span class="line">    mergedFit -&gt; SetParNames(<span class="string">"Width"</span>, <span class="string">"MP"</span>, <span class="string">"Area"</span>, <span class="string">"Sigma"</span>);</span><br><span class="line">    mergedFit -&gt; SetNpx(1000);</span><br><span class="line">    mergedHist -&gt; Fit(mergedFit, <span class="string">"Q"</span>, <span class="string">""</span>, bestLefFit, bestRiFit);</span><br><span class="line"></span><br><span class="line">    double mergedChi2 = 0;</span><br><span class="line">    int mergedNDF = 0;</span><br><span class="line">    <span class="keyword">for</span> (int bin = mergedHist -&gt; FindBin(45); bin &lt;= mergedHist -&gt; FindBin(80);bin ++){</span><br><span class="line">        double observed = mergedHist -&gt; GetBinContent(bin);</span><br><span class="line">        double expected = mergedFit -&gt; Eval(mergedHist -&gt; GetBinCenter(bin));</span><br><span class="line">        <span class="keyword">if</span> (expected &gt; 0){</span><br><span class="line">            mergedChi2 += (observed - expected) * (observed - expected) / expected;</span><br><span class="line">            mergedNDF++;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    mergedNDF -= 4;</span><br><span class="line">    </span><br><span class="line">    double mergedChi2NDF = mergedChi2 / mergedNDF;</span><br><span class="line"></span><br><span class="line">    mergedFit -&gt; Write();</span><br><span class="line">    mergedHist -&gt; Write();</span><br><span class="line">    mergedHistUncorrected -&gt; Write();</span><br><span class="line">    gainMap -&gt; Write();</span><br><span class="line">    chi2Map -&gt; Write();</span><br><span class="line">    </span><br><span class="line">    file -&gt; Close();</span><br><span class="line">    outFile -&gt; Close();</span><br><span class="line">    outputFile.close();</span><br><span class="line">    delete file;</span><br><span class="line">    delete outFile;</span><br><span class="line"></span><br><span class="line">    </span><br><span class="line">    TFile *inFile = TFile::Open(<span class="string">"fit_results.root"</span>, <span class="string">"READ"</span>);</span><br><span class="line"></span><br><span class="line">    TH2D *gainHist = (TH2D*)inFile -&gt; Get(<span class="string">"gainMap"</span>); // 增益系数热力图</span><br><span class="line">    TH2D *chi2Hist = (TH2D*)inFile -&gt; Get(<span class="string">"chi2Map"</span>); // 卡方分布热力图</span><br><span class="line">    TH1D *mergedHistUncorrectedFromFile = (TH1D*)inFile -&gt; Get(<span class="string">"merged_hist_uncorrected"</span>);</span><br><span class="line">    TH1D *mergedHistFromFile = (TH1D*)inFile -&gt; Get(<span class="string">"merged_hist"</span>); // 合并后的直方图</span><br><span class="line">    TF1 *mergedFitFromFile = (TF1*)inFile -&gt; Get(<span class="string">"mergedFit"</span>); // 拟合后的合并后的直方图</span><br><span class="line">    TH1D *gainHist1D = new TH1D(<span class="string">"gainHist1D"</span>, <span class="string">"Gain Coefficients; Detector ID; Gain Coefficient"</span>, 1152, 1, 1153); // 1152 bin的直方图，用于绘制增益系数</span><br><span class="line"></span><br><span class="line">    TCanvas *c1 = new TCanvas(<span class="string">"c1"</span>, <span class="string">"Gain Coefficient Heatmap"</span>, 800, 600);</span><br><span class="line">    gStyle -&gt; SetOptStat(0);</span><br><span class="line">    gainHist -&gt; Draw(<span class="string">"COLZ"</span>);</span><br><span class="line"></span><br><span class="line">    c1 -&gt; SaveAs(<span class="string">"gain_heatmap.pdf"</span>);</span><br><span class="line"></span><br><span class="line">    TCanvas *c2 = new TCanvas(<span class="string">"c2"</span>, <span class="string">"ChiSquared/NDF Heatmap"</span>, 800, 600);</span><br><span class="line">    gStyle -&gt; SetOptStat(0);</span><br><span class="line">    chi2Hist -&gt; Draw(<span class="string">"COLZ"</span>);</span><br><span class="line"></span><br><span class="line">    c2 -&gt; SaveAs(<span class="string">"chi2Ndf_heatmap.pdf"</span>);</span><br><span class="line"></span><br><span class="line">        TCanvas *c3 = new TCanvas(<span class="string">"c3"</span>, <span class="string">"Merged Spectrum Comparison"</span>, 800, 600);</span><br><span class="line">    </span><br><span class="line">    mergedHistUncorrectedFromFile-&gt;SetLineColor(kBlue);</span><br><span class="line">    mergedHistFromFile-&gt;SetLineColor(kRed);</span><br><span class="line">    </span><br><span class="line">    mergedHistUncorrectedFromFile-&gt;Draw(<span class="string">"HIST"</span>);</span><br><span class="line">    double meanUncorrected = mergedHistUncorrectedFromFile-&gt;GetMean();</span><br><span class="line">    double rmsUncorrected = mergedHistUncorrectedFromFile-&gt;GetRMS();</span><br><span class="line">    TPaveText *statsUncorrected = new TPaveText(0.6, 0.75, 0.88, 0.85, <span class="string">"NDC"</span>);</span><br><span class="line">    statsUncorrected-&gt;SetFillColor(0);</span><br><span class="line">    statsUncorrected-&gt;AddText(<span class="string">"Uncorrected Histogram Stats:"</span>);</span><br><span class="line">    statsUncorrected-&gt;AddText(TString::Format(<span class="string">"Mean = %.2f"</span>, meanUncorrected));</span><br><span class="line">    statsUncorrected-&gt;AddText(TString::Format(<span class="string">"RMS = %.2f"</span>, rmsUncorrected));</span><br><span class="line">    statsUncorrected-&gt;Draw(<span class="string">"SAME"</span>);</span><br><span class="line"></span><br><span class="line">    mergedHistFromFile-&gt;Draw(<span class="string">"SAME HIST"</span>);</span><br><span class="line">    double meanCorrected = mergedHistFromFile-&gt;GetMean();</span><br><span class="line">    double rmsCorrected = mergedHistFromFile-&gt;GetRMS();</span><br><span class="line">    TPaveText *statsCorrected = new TPaveText(0.6, 0.6, 0.88, 0.7, <span class="string">"NDC"</span>);</span><br><span class="line">    statsCorrected-&gt;SetFillColor(0);</span><br><span class="line">    statsCorrected-&gt;AddText(<span class="string">"Corrected Histogram Stats:"</span>);</span><br><span class="line">    statsCorrected-&gt;AddText(TString::Format(<span class="string">"Mean = %.2f"</span>, meanCorrected));</span><br><span class="line">    statsCorrected-&gt;AddText(TString::Format(<span class="string">"RMS = %.2f"</span>, rmsCorrected));</span><br><span class="line">    statsCorrected-&gt;Draw(<span class="string">"SAME"</span>);</span><br><span class="line">    </span><br><span class="line">    // 这里的 merged_spectrum 实际上是对每个原始直方图进行郎道卷积高斯函数拟合，得到MPV，计算平均MPV后以 correctionFactor = targetMPV / gainCoefficient 作为校正因子对齐得到的合并的直方图</span><br><span class="line">    c3 -&gt; SaveAs(<span class="string">"merged_spectrum_comparison.pdf"</span>);</span><br><span class="line"></span><br><span class="line">    TCanvas *c4 = new TCanvas(<span class="string">"c4"</span>, <span class="string">"Fitted Merged Spectrum"</span>, 800, 600);</span><br><span class="line">    gStyle -&gt; SetOptFit(1111); </span><br><span class="line">    mergedHistFromFile -&gt; Draw(<span class="string">"E1Y0"</span>);</span><br><span class="line">    mergedFitFromFile -&gt; SetLineColor(kRed);</span><br><span class="line">    mergedFitFromFile -&gt; Draw(<span class="string">"SAME"</span>);</span><br><span class="line"></span><br><span class="line">    gPad -&gt; Update();</span><br><span class="line">    TPaveStats *stats = (TPaveStats*)mergedHistFromFile -&gt; FindObject(<span class="string">"stats"</span>);</span><br><span class="line">    <span class="keyword">if</span> (stats){</span><br><span class="line">    stats -&gt; SetX1NDC(0.65);</span><br><span class="line">    stats -&gt; SetY1NDC(0.65);</span><br><span class="line">    stats -&gt; SetX2NDC(0.90);</span><br><span class="line">    stats -&gt; SetY2NDC(0.90);</span><br><span class="line">    stats -&gt; SetBorderSize(1);</span><br><span class="line">    stats -&gt; AddText(TString::Format(<span class="string">"Chi2/NDF = %.2f"</span>, mergedChi2NDF));</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    c4 -&gt; SaveAs(<span class="string">"fitted_merged_spectrum.pdf"</span>);  </span><br><span class="line">    </span><br><span class="line">    TCanvas *c5 = new TCanvas(<span class="string">"c5"</span>, <span class="string">"Gain Coefficients 2D plot"</span>, 800, 600);</span><br><span class="line">    <span class="keyword">for</span> (int i = 0; i &lt; 1152; ++i){</span><br><span class="line">        gainHist1D -&gt; SetBinContent(i+1, mpvList[i]);</span><br><span class="line">    }</span><br><span class="line">    gainHist1D -&gt; Draw(<span class="string">"HIST"</span>);</span><br><span class="line"></span><br><span class="line">    c5 -&gt; SaveAs(<span class="string">"gain_coefficients_1D_plot.pdf"</span>);</span><br><span class="line"></span><br><span class="line">    inFile -&gt; Close(0);</span><br><span class="line">    c1 -&gt; Close(0);</span><br><span class="line">    c2 -&gt; Close(0);</span><br><span class="line">    c3 -&gt; Close(0);</span><br><span class="line">    c4 -&gt; Close(0);</span><br><span class="line">    c5 -&gt; Close(0);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">	auto end = std::chrono::high_resolution_clock::now();</span><br><span class="line">	std::chrono::duration&lt;double&gt; elapsed = end - start;</span><br><span class="line"></span><br><span class="line">    std::cout &lt;&lt; <span class="string">"Optimal fit range: ["</span> &lt;&lt; <span class="string">bestLefFit &lt;&lt; ", " &lt;&lt; bestRiFit &lt;&lt; "], with Chi2/NDF:" &lt;&lt; mergedChi2NDF &lt;&lt; "." &lt;&lt; std::endl;</span></span><br><span class="line"><span class="string">    std::cout &lt;&lt; "Attention: All Chi2 / NDF are in the range of [45, 80]." &lt;&lt; std::endl;</span></span><br><span class="line"><span class="string">    std::cout &lt;&lt; "Total execution time: " &lt;&lt; elapsed.count() &lt;&lt; " seconds." &lt;&lt; std::endl;</span></span><br><span class="line"><span class="string">}</span></span><br></pre></td></tr></table></figure></div>
+
+<p>在这里只展示拟合结果、增益标定的对比和增益系数的三幅图。</p>
+<ol>
+<li>修正拟合范围的拟合结果</li>
+</ol>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/241009.3.png" alt="pic4"></p>
+<ol start="2">
+<li>增益标定对齐前后对比图</li>
+</ol>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/241009.4.png" alt="pic4"></p>
+<ol start="3">
+<li>增益系数</li>
+</ol>
+<p><img lazyload="" src="/images/loading.svg" data-src="/image/241009.5.png" alt="pic4"></p>
+<p>通过这个增益标定前后的对比图发现，这里的蓝色曲线（未对齐的直方图）和红色曲线（对齐后的直方图）在高度上有明显差异。这里可能是校正因子所带来的影响，如果小于1的校正因子数量过多，有可能导致图像面积的大小显著减小。事实上，	如果大多数探测器的原始增益低于平均值，则在应用校正因子后，红色曲线会被整体放大。如果原始增益高于平均值，则红色曲线会缩小。在此图中，红色曲线比蓝色曲线更低，表明大部分探测器可能在校正前具有较高的响应值，从而在校正后整体缩小。</p>
+<p>可以从另外一个角度分析。在对齐的过程中，各个探测器的直方图都被缩放到相同的目标MPV（Most Probable Value）水平。因此，对齐后的曲线表现得更加“集中”，而未对齐的曲线保持了各个探测器之间的自然波动。这种集中效应可以导致对齐后的曲线在某些区域（如主峰）变得更尖锐，而在其他区域（如低尾或高尾）则变得更平缓。</p>
+<p>不过，这样的显著差异是否合理？直观上来看，经过增益标定后的数据应该更为集中，在图像上表现为图像更窄、峰值附近更尖锐；但是该图像中几乎只有缩小，没有聚拢的表现。这是令人困惑的一点。</p>
+<h4 id="Task-4"><a href="#Task-4" class="headerlink" title="Task 4"></a>Task 4</h4><p>这里简单回顾一下<a class="link" target="_blank" rel="noopener" href="https://albertc9.github.io/2024/09/10/2024A-Ctask4/">task1.4 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>中关于增益系数和增益标定的内容：</p>
+<p>“另外，需要简单介绍一下题目中需要我们计算的”增益系数“。增益系数（Gain Coefficient）事实上是粒子探测器中用来描述探测器对输入信号放大能力的一个参量。具体来说，增益系数通常表示为探测器输入信号与输出信号之间的比值；在这里，给定相同的输入，可以通过拟合探测器输出的响应分布计算出探测器的增益系数。</p>
+<p>在附件va.root中，我们有1152个TH1D类型的直方图，分别对应320微米厚硅微条探测器对粒子的响应。其中，横坐标代表输出信号，纵坐标代表事件的频率或概率。在代码中，我们采用了郎道卷积高斯函数进行拟合（参考cern.root上的教程代码进行卷积计算），其中有四个参数：</p>
+<ul>
+<li>par[0]: 郎道分布的宽度参数</li>
+<li>par[1]: 郎道分布的最可能值</li>
+<li>par[2]: 卷积的总面积</li>
+<li>par[3]: 高斯分布的宽度</li>
+</ul>
+<p>在拟合直方图后，我们可以提取出郎道分布中的最可能值作为增益系数；因为它其实是输出响应的最可能值，能够代表探测器在接受到相同输入时，输出信号的最大值位置，能够代表每个探测器的增益系数的大小。</p>
+<p>另外，如果希望得到更确切的MPV值，可以选择计算郎道卷积高斯分布最大值的横坐标作为MPV。在这里，我们选择这一种做法。“</p>
+<p>以上是1.4中的介绍。<strong>增益标定</strong>通常是通过已知的单电荷信号峰来校准探测器的输出响应。简单来说就是通过对齐之前提到的MPV值的位置来得到对齐后的图像。在此过程中，探测器对单电荷粒子的响应用于设定一个基准，通过对该峰进行拟合（例如使用高斯拟合或朗道卷积高斯拟合），可以获得其位置（MPV，Most Probable Value）。增益标定系数可以根据该MPV计算出（在代码中已经体现），使得探测器输出幅度相对于输入粒子电荷量成比例。如此一来，不同探测器的响应可以归一化到同一基准，使它们对相同粒子输入产生一致的输出。由于已知其可以被认为是相同的输入，所以不再需要加权处理，只需要简单地计算增益系数即可完成标定或对齐。</p>
+<p>事实上，使用单电荷峰标定增益具有一些缺陷。首先就是不可避免的<strong>统计误差与噪声</strong>。在大多数情况下，这些误差和噪声的影响较小，从而可以通过拟合相对准确地得到MPV的位置；但如果如果单电荷峰的信号较弱，统计误差和背景噪声会影响峰值的准确定位，导致标定的不准确。另外，我们无法总是准确地判断峰的形状和其适用的拟合函数，即峰的形状具有<strong>复杂性</strong>。单电荷峰可能受到能量损失机制（例如电离能量沉积和多次散射）的影响，导致峰形变宽或偏离理想分布，影响拟合结果的准确性。</p>
+<p>另外，我们事实上可以从对齐后的图像中发现，探测范围内具有<strong>至少两个峰值</strong>，这可能暗示另一个电荷或粒子的存在。如果另一个信号代表另一个电荷，我们需要考虑是否单电荷峰的增益可能与多电荷峰的增益不同，单电荷峰的标定对多电荷情况下的测量是否能很好或者完全地适用。换句话说，探测器在单电荷和多电荷的响应之间可能存在非线性的关系。当然，如果多个信号的位置集中，例如如果其他峰（如高能电荷沉积）与单电荷峰接近，可能造成拟合困难或误识别，影响标定的精确度。</p>
+<p>首先有一些简单的方法能够改善增益标定的准确性。首先就是采用<strong>更强的峰用于标定</strong>。在前面提到，使用单电荷峰标定的问题在于信号通常较弱，在某些情况下可以尝试使用多电荷峰（例如双电荷或三电荷峰）来进行标定，这样信号更强，峰位置更稳定。还可以<strong>改进拟合函数</strong>，例如我们这次使用朗道卷积高斯函数进行拟合，在不同的情况可以使用不同的函数完成拟合，尽可能优化拟合函数，增加拟合质量。事实上，可以尝试加权拟合的方法，将拟合区间扩大的同时，对单电荷峰及其周边区域施加不同的权重，增强对主峰位置的关注，减少背景的影响。</p>
+<p>另外，如果对第二个峰的成因较清楚，或者希望进行多种尝试，可以采用<strong>多参数进行增益标定</strong>，不只关注某个峰，而是结合多个峰的位置进行标定，将单电荷与多电荷响应关联在一起，基于整个能谱的形状进行标定，从而对峰的非线性响应进行补偿。值得注意的是，其实第一个峰的左侧还有一个较小的峰值，也可以应用在增益标定中。</p>
+<p>还可以通过不同的方法选取<strong>最优拟合区间</strong>。事实上，我们在代码中已经应用了某个最简单的遍历以寻找较优的拟合区间。在其中可以尝试机器学习等领域的方法用来寻找目标区间。</p>
+<p>在这里的标定中，另外两个峰由于主峰的影响不太明显，有另外一个分析方法。由于我们已经得到了与主峰相对贴合的拟合函数，我们可以将该函数扩展到全范围，而后将原始数据减去该拟合数据，就可以在一定程度上去除主峰的影响。当然，反之也可以对第二个峰进行峰附近的小范围拟合，得到一个小峰的拟合函数，再将原始数据减去该函数值，这样主峰就相对而言更加完整。简单说，其实就是分别对每个峰进行分析，去除其他峰的影响。</p>
+<p>以上是可能能够采用的标定方法。</p>
+
+        </div>
+
+        
+            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
+                <div class="article-copyright-info-container">
+    <ul>
+        <li><strong>Title:</strong> A&amp;C_task 1.6</li>
+        <li><strong>Author:</strong> Albert Cheung</li>
+        <li><strong>Created at
+                :</strong> 2024-09-26 02:40:11</li>
+        
+            <li>
+                <strong>Updated at
+                    :</strong> 2024-10-09 18:45:40
+            </li>
+        
+        <li>
+            <strong>Link:</strong> https://www.albertc9.github.io/2024/09/26/2024A-Ctask6/
+        </li>
+        <li>
+            <strong>
+                License:
+            </strong>
+            
+
+            
+                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
+            
+        </li>
+    </ul>
+</div>
+
+            </div>
+        
+
+        
+            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
+                
+                    <li class="tag-item mx-0.5">
+                        <a href="/tags/Tasks/">#Tasks</a>&nbsp;
+                    </li>
+                
+            </ul>
+        
+
+        
+  <div class="recommended-article px-2 sm:px-6 md:px-8">
+   <div class="recommended-desktop">
+    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+    </div>
+    <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/09/20/2024A-Ctask5/" title="A&C_task 1.5" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.5" class="!max-w-none">
+  <span class="title">A&C_task 1.5</span>
+</a><a class="recommended-article-item" href="/2024/09/10/2024A-Ctask4/" title="A&C_task 1.4" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.4" class="!max-w-none">
+  <span class="title">A&C_task 1.4</span>
+</a><a class="recommended-article-item" href="/2024/09/02/2024A-Ctask3/" title="A&C_task 1.3" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.3" class="!max-w-none">
+  <span class="title">A&C_task 1.3</span>
+</a></div>
+   </div>
+   <div class="recommended-mobile">
+   <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+   </div>
+   <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/09/20/2024A-Ctask5/" title="A&C_task 1.5" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.5" class="!max-w-none">
+  <span class="title">A&C_task 1.5</span>
+</a><a class="recommended-article-item" href="/2024/09/10/2024A-Ctask4/" title="A&C_task 1.4" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="A&C_task 1.4" class="!max-w-none">
+  <span class="title">A&C_task 1.4</span>
+</a></div>
+   </div>
+  </div>
+
+        
+            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
+                
+                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+                        <a class="prev"
+                        rel="prev"
+                        href="/2024/10/19/root-guide/"
+                        >
+                            <span class="left arrow-icon flex justify-center items-center">
+                                <i class="fa-solid fa-chevron-left"></i>
+                            </span>
+                            <span class="title flex justify-center items-center">
+                                <span class="post-nav-title-item">CERN ROOT Tutorial Notes (w.i.p.)</span>
+                                <span class="post-nav-item">Prev posts</span>
+                            </span>
+                        </a>
+                    </div>
+                
+                
+                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+                        <a class="next"
+                        rel="next"
+                        href="/2024/09/20/2024A-Ctask5/"
+                        >
+                            <span class="title flex justify-center items-center">
+                                <span class="post-nav-title-item">A&amp;C_task 1.5</span>
+                                <span class="post-nav-item">Next posts</span>
+                            </span>
+                            <span class="right arrow-icon flex justify-center items-center">
+                                <i class="fa-solid fa-chevron-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                
+            </div>
+        
+
+
+        
+    </div>
+
+    
+        <div class="toc-content-container">
+            <div class="post-toc-wrap">
+    <div class="post-toc">
+        <div class="toc-title">On this page</div>
+        <div class="page-title">A&amp;C_task 1.6</div>
+        <ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#Tasks"><span class="nav-text">Tasks</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#One-Possible-Solution"><span class="nav-text">One Possible Solution</span></a></li></ol>
+
+    </div>
+</div>
+        </div>
+    
+</div>
+
+
+
+                
+
+            </div>
+
+            
+
+        </div>
+
+        <div class="main-content-footer">
+            <footer class="footer mt-5 py-5 h-auto text-base text-third-text-color relative border-t-2 border-t-border-color">
+    <div class="info-container py-3 text-center">
+        
+            <div class="customize-info my-1">v1.3.2</div>
+        
+        <div class="text-center">
+            &copy;
+            
+              <span>2024</span>
+              -
+            
+            2025&nbsp;&nbsp;<i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i>&nbsp;&nbsp;<a href="/">Albert Cheung</a>
+            
+                
+                <p class="post-count space-x-0.5">
+                    <span>
+                        41 posts in total
+                    </span>
+                    
+                        <span>
+                            234.3k words in total
+                        </span>
+                    
+                </p>
+            
+        </div>
+        
+            <script data-swup-reload-script src="https://cn.vercount.one/js"></script>
+            <div class="relative text-center lg:absolute lg:right-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-right">
+                
+                
+                    <span id="busuanzi_container_site_pv" class="lg:!block">
+                        <span class="text-sm">TOTAL PAGE VIEWS</span>
+                        <span id="busuanzi_value_site_pv"></span>
+                    </span>
+                
+            </div>
+        
+        <div class="relative text-center lg:absolute lg:left-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-left">
+            <span class="lg:block text-sm">POWERED BY <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg class="relative top-[2px] inline-block align-baseline" version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1rem" height="1rem" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path fill="#0E83CD" d="M256.4,25.8l-200,115.5L56,371.5l199.6,114.7l200-115.5l0.4-230.2L256.4,25.8z M349,354.6l-18.4,10.7l-18.6-11V275H200v79.6l-18.4,10.7l-18.6-11v-197l18.5-10.6l18.5,10.8V237h112v-79.6l18.5-10.6l18.5,10.8V354.6z"/></svg><a target="_blank" class="text-base" href="https://hexo.io">Hexo</a></span>
+            <span class="text-sm lg:block">THEME&nbsp;<a class="text-base" target="_blank" href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine v2.7.0</a></span>
+        </div>
+        
+        
+            <div>
+                Blog up for <span class="odometer" id="runtime_days" ></span> days <span class="odometer" id="runtime_hours"></span> hrs <span class="odometer" id="runtime_minutes"></span> Min <span class="odometer" id="runtime_seconds"></span> Sec
+            </div>
+        
+        
+            <script data-swup-reload-script>
+                try {
+                    function odometer_init() {
+                    const elements = document.querySelectorAll('.odometer');
+                    elements.forEach(el => {
+                        new Odometer({
+                            el,
+                            format: '( ddd).dd',
+                            duration: 200
+                        });
+                    });
+                    }
+                    odometer_init();
+                } catch (error) {}
+            </script>
+        
+        
+        
+    </div>  
+</footer>
+        </div>
+    </div>
+
+    
+        <div class="post-tools">
+            <div class="post-tools-container">
+    <ul class="article-tools-list">
+        <!-- TOC aside toggle -->
+        
+            <li class="right-bottom-tools page-aside-toggle">
+                <i class="fa-regular fa-outdent"></i>
+            </li>
+        
+
+        <!-- go comment -->
+        
+    </ul>
+</div>
+
+        </div>
+    
+
+    <div class="right-side-tools-container">
+        <div class="side-tools-container">
+    <ul class="hidden-tools-list">
+        <li class="right-bottom-tools tool-font-adjust-plus flex justify-center items-center">
+            <i class="fa-regular fa-magnifying-glass-plus"></i>
+        </li>
+
+        <li class="right-bottom-tools tool-font-adjust-minus flex justify-center items-center">
+            <i class="fa-regular fa-magnifying-glass-minus"></i>
+        </li>
+
+        <li class="right-bottom-tools tool-dark-light-toggle flex justify-center items-center">
+            <i class="fa-regular fa-moon"></i>
+        </li>
+
+        <!-- rss -->
+        
+
+        
+
+        <li class="right-bottom-tools tool-scroll-to-bottom flex justify-center items-center">
+            <i class="fa-regular fa-arrow-down"></i>
+        </li>
+    </ul>
+
+    <ul class="visible-tools-list">
+        <li class="right-bottom-tools toggle-tools-list flex justify-center items-center">
+            <i class="fa-regular fa-cog fa-spin"></i>
+        </li>
+        
+            <li class="right-bottom-tools tool-scroll-to-top flex justify-center items-center">
+                <i class="arrow-up fas fa-arrow-up"></i>
+                <span class="percent"></span>
+            </li>
+        
+        
+    </ul>
+</div>
+
+    </div>
+
+    <div class="image-viewer-container">
+    <img src="">
+</div>
+
+
+    
+        <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-input-field-pre">
+            <i class="fa-solid fa-keyboard"></i>
+          </span>
+            <div class="search-input-container">
+                <input autocomplete="off"
+                       autocorrect="off"
+                       autocapitalize="off"
+                       placeholder="Search..."
+                       spellcheck="false"
+                       type="search"
+                       class="search-input"
+                >
+            </div>
+            <span class="popup-btn-close">
+                <i class="fa-solid fa-times"></i>
+            </span>
+        </div>
+        <div id="search-result">
+            <div id="no-result">
+                <i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+</main>
+
+
+    <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/Swup.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupSlideTheme.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupScriptsPlugin.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupProgressPlugin.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupScrollPlugin.min.js"></script><script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/SwupPreloadPlugin.min.js"></script>
+<script>
+    const swup = new Swup({
+        plugins: [
+            new SwupScriptsPlugin({
+                optin: true,
+            }),
+            new SwupProgressPlugin(),
+            new SwupScrollPlugin({
+                offset: 80,
+            }),
+            new SwupSlideTheme({
+                mainElement: ".main-content-body",
+            }),
+            new SwupPreloadPlugin(),
+        ],
+        containers: ["#swup"],
+    });
+</script>
+
+
+
+
+
+
+<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/imageViewer.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/utils.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/main.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/navbarShrink.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/scrollTopBottom.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/lightDarkSwitch.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/categoryList.js"></script>
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/localSearch.js"></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/codeBlock.js"></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/lazyload.js"></script>
+
+
+
+    <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/runtime.js"></script>
+    <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/odometer.min.js"></script>
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/assets/odometer-theme-minimal.css">
+
+
+
+  <script src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/libs/Typed.min.js"></script>
+  <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/plugins/typed.js"></script>
+
+
+
+
+
+
+
+
+<div class="post-scripts" data-swup-reload-script>
+    
+        <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/tools/tocToggle.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/layouts/toc.js"></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.7.0/files/source/js/plugins/tabs.js"></script>
+    
+</div>
+
+
+</body>
+</html>
