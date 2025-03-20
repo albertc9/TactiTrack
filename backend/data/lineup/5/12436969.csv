@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436969,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,36,32,8.6
-12436969,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,48,37,7.6
-12436969,Home,Ibrahima Konaté,D,5,195,France,927590400,False,110,96,8.1
-12436969,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,47,47,7.2
-12436969,Home,Andrew Robertson,D,26,178,Scotland,763344000,False,58,54,7.6
-12436969,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,84,74,7.8
-12436969,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,57,53,7.8
-12436969,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,24,19,8.2
-12436969,Home,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,44,39,6.9
-12436969,Home,Luis Díaz,F,7,178,Colombia,853113600,False,32,30,8.8
-12436969,Home,Darwin Núñez,F,9,188,Uruguay,930182400,False,10,6,7.5
-12436969,Home,Curtis Jones,M,17,185,England,980812800,True,19,19,7
-12436969,Home,Federico Chiesa,F,14,175,Italy,877737600,True,8,7,6.4
-12436969,Home,Cody Gakpo,F,18,193,Netherlands,926035200,True,7,6,7.1
-12436969,Home,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown
-12436969,Home,Joe Gomez,D,2,188,England,864345600,True,Unknown,Unknown,Unknown
-12436969,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,Unknown,Unknown,Unknown
-12436969,Home,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown
-12436969,Home,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,Unknown,Unknown,Unknown
-12436969,Home,Diogo Jota,F,20,178,Portugal,849657600,True,Unknown,Unknown,Unknown
-12436969,Away,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,27,19,7.9
-12436969,Away,Julián Araujo,D,22,175,Mexico,997660800,False,29,23,5.9
-12436969,Away,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,60,56,7
-12436969,Away,Dean Huijsen,D,2,195,Spain,1113436800,False,48,43,6.4
-12436969,Away,Miloš Kerkez,D,3,180,Hungary,1068163200,False,37,29,7.4
-12436969,Away,Lewis Cook,M,4,175,England,854928000,False,43,35,6.9
-12436969,Away,Ryan Christie,M,10,178,Scotland,793411200,False,30,30,6.1
-12436969,Away,Antoine Semenyo,M,24,178,Ghana,947203200,False,18,13,6.8
-12436969,Away,Justin Kluivert,M,19,171,Netherlands,925862400,False,6,5,6.6
-12436969,Away,Marcus Tavernier,M,16,178,England,922060800,False,35,32,6.7
-12436969,Away,Evanilson,F,9,181,Brazil,939168000,False,10,8,7.2
-12436969,Away,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,13,8,6.7
-12436969,Away,Adam Smith,D,15,180,England,672883200,True,4,3,6.7
-12436969,Away,Alex Scott,M,8,178,England,1061596800,True,15,15,6.7
-12436969,Away,Luis Sinisterra,F,17,176,Colombia,929577600,True,11,10,7.4
-12436969,Away,Enes Ünal,F,26,185,Türkiye,863222400,True,3,3,6.5
-12436969,Away,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown
-12436969,Away,James Hill,D,23,184,England,1010620800,True,Unknown,Unknown,Unknown
-12436969,Away,Marcos Senesi,D,5,184,Argentina,863222400,True,Unknown,Unknown,Unknown
-12436969,Away,David Brooks,F,7,173,Wales,868320000,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436969,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,36,32,8.6,Unknown,Unknown
+12436969,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,48,37,7.6,Unknown,Unknown
+12436969,Home,Ibrahima Konaté,D,5,195,France,927590400,False,110,96,8.1,Unknown,Unknown
+12436969,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,47,47,7.2,Unknown,Unknown
+12436969,Home,Andrew Robertson,D,26,178,Scotland,763344000,False,58,54,7.6,Unknown,Unknown
+12436969,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,84,74,7.8,Unknown,Unknown
+12436969,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,57,53,7.8,Unknown,Unknown
+12436969,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,24,19,8.2,Unknown,Unknown
+12436969,Home,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,44,39,6.9,Unknown,Unknown
+12436969,Home,Luis Díaz,F,7,178,Colombia,853113600,False,32,30,8.8,Unknown,Unknown
+12436969,Home,Darwin Núñez,F,9,188,Uruguay,930182400,False,10,6,7.5,Unknown,Unknown
+12436969,Home,Curtis Jones,M,17,185,England,980812800,True,19,19,7,Unknown,Unknown
+12436969,Home,Federico Chiesa,F,14,175,Italy,877737600,True,8,7,6.4,Unknown,Unknown
+12436969,Home,Cody Gakpo,F,18,193,Netherlands,926035200,True,7,6,7.1,Unknown,Unknown
+12436969,Home,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Home,Joe Gomez,D,2,188,England,864345600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Home,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Home,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Home,Diogo Jota,F,20,178,Portugal,849657600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Away,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,27,19,7.9,Unknown,Unknown
+12436969,Away,Julián Araujo,D,22,175,Mexico,997660800,False,29,23,5.9,Unknown,Unknown
+12436969,Away,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,60,56,7,Unknown,Unknown
+12436969,Away,Dean Huijsen,D,2,195,Spain,1113436800,False,48,43,6.4,Unknown,Unknown
+12436969,Away,Miloš Kerkez,D,3,180,Hungary,1068163200,False,37,29,7.4,Unknown,Unknown
+12436969,Away,Lewis Cook,M,4,175,England,854928000,False,43,35,6.9,Unknown,Unknown
+12436969,Away,Ryan Christie,M,10,178,Scotland,793411200,False,30,30,6.1,Unknown,Unknown
+12436969,Away,Antoine Semenyo,M,24,178,Ghana,947203200,False,18,13,6.8,Unknown,Unknown
+12436969,Away,Justin Kluivert,M,19,171,Netherlands,925862400,False,6,5,6.6,Unknown,Unknown
+12436969,Away,Marcus Tavernier,M,16,178,England,922060800,False,35,32,6.7,Unknown,Unknown
+12436969,Away,Evanilson,F,9,181,Brazil,939168000,False,10,8,7.2,Unknown,Unknown
+12436969,Away,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,13,8,6.7,Unknown,Unknown
+12436969,Away,Adam Smith,D,15,180,England,672883200,True,4,3,6.7,Unknown,Unknown
+12436969,Away,Alex Scott,M,8,178,England,1061596800,True,15,15,6.7,Unknown,Unknown
+12436969,Away,Luis Sinisterra,F,17,176,Colombia,929577600,True,11,10,7.4,Unknown,Unknown
+12436969,Away,Enes Ünal,F,26,185,Türkiye,863222400,True,3,3,6.5,Unknown,Unknown
+12436969,Away,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Away,James Hill,D,23,184,England,1010620800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Away,Marcos Senesi,D,5,184,Argentina,863222400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436969,Away,David Brooks,F,7,173,Wales,868320000,True,Unknown,Unknown,Unknown,Unknown,Unknown

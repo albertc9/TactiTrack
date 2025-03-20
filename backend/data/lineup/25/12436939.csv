@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436939,Home,Dean Henderson,G,1,188,England,858124800,False,26,18,6.8
-12436939,Home,Chris Richards,D,26,188,USA,954201600,False,54,43,6.5
-12436939,Home,Maxence Lacroix,D,5,192,France,954979200,False,46,36,6.8
-12436939,Home,Marc Guéhi,D,5,182,England,963446400,False,79,63,7.7
-12436939,Home,Daniel Muñoz,M,23,183,Colombia,833068800,False,46,37,7.1
-12436939,Home,Will Hughes,M,19,185,England,798076800,False,51,39,7
-12436939,Home,Jefferson Lerma,M,8,179,Colombia,783043200,False,36,28,6.4
-12436939,Home,Tyrick Mitchell,M,3,174,England,936144000,False,21,12,5.7
-12436939,Home,Ismaïla Sarr,F,23,185,Senegal,888364800,False,31,24,6.8
-12436939,Home,Justin Devenny,M,55,184,Northern Ireland,1065830400,False,17,14,6.7
-12436939,Home,Jean-Philippe Mateta,F,14,192,France,867456000,False,16,9,7.3
-12436939,Home,Adam Wharton,M,20,182,England,1076025600,True,38,31,6.9
-12436939,Home,Eberechi Eze,F,10,178,England,899078400,True,20,18,7
-12436939,Home,Ben Chilwell,D,25,181,England,851126400,True,18,12,6.9
-12436939,Home,Daichi Kamada,M,18,184,Japan,839203200,True,16,14,6.7
-12436939,Home,Edward Nketiah,F,9,175,England,928022400,True,5,3,6.5
-12436939,Home,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown
-12436939,Home,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown
-12436939,Home,Caleb Kporha,D,58,Unknown,England,1152921600,True,Unknown,Unknown,Unknown
-12436939,Home,Romain Esse,M,21,178,England,1115942400,True,Unknown,Unknown,Unknown
-12436939,Away,Jordan Pickford,G,1,185,England,762998400,False,43,29,7.9
-12436939,Away,Jake O'Brien,D,15,197,Ireland,989884800,False,42,29,6.8
-12436939,Away,James Tarkowski,D,6,185,England,722131200,False,44,34,7.2
-12436939,Away,Jarrad Branthwaite,D,32,195,England,1025136000,False,38,30,7.2
-12436939,Away,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,28,17,6.6
-12436939,Away,James Garner,M,37,182,England,984441600,False,42,28,6.8
-12436939,Away,Idrissa Gueye,M,27,174,Senegal,622771200,False,37,30,6.5
-12436939,Away,Jesper Lindstrøm,M,29,182,Denmark,951782400,False,18,14,6.9
-12436939,Away,Carlos Alcaraz,M,24,183,Argentina,1038614400,False,23,19,8.5
-12436939,Away,Jack Harrison,M,11,175,England,848448000,False,18,13,6.7
-12436939,Away,Beto,F,14,194,Guinea-Bissau,886204800,False,28,16,7.8
-12436939,Away,Ashley Young,D,18,180,England,489715200,True,2,2,6.6
-12436939,Away,Tim Iroegbunam,M,42,182,England,1056931200,True,5,3,7
-12436939,Away,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown
-12436939,Away,Asmir Begović,G,31,198,Bosnia & Herzegovina,551145600,True,Unknown,Unknown,Unknown
-12436939,Away,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown
-12436939,Away,Roman Dixon,D,2,175,England,1104019200,True,Unknown,Unknown,Unknown
-12436939,Away,Martin Sherif,F,9,Unknown,Netherlands,1149897600,True,Unknown,Unknown,Unknown
-12436939,Away,Isaac Heath,F,10,Unknown,England,1098921600,True,Unknown,Unknown,Unknown
-12436939,Away,Coby Ebere,F,17,187,Unknown,1126915200,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436939,Home,Dean Henderson,G,1,188,England,858124800,False,26,18,6.8,Unknown,Unknown
+12436939,Home,Chris Richards,D,26,188,USA,954201600,False,54,43,6.5,Unknown,Unknown
+12436939,Home,Maxence Lacroix,D,5,192,France,954979200,False,46,36,6.8,Unknown,Unknown
+12436939,Home,Marc Guéhi,D,5,182,England,963446400,False,79,63,7.7,Unknown,Unknown
+12436939,Home,Daniel Muñoz,M,23,183,Colombia,833068800,False,46,37,7.1,Unknown,Unknown
+12436939,Home,Will Hughes,M,19,185,England,798076800,False,51,39,7,Unknown,Unknown
+12436939,Home,Jefferson Lerma,M,8,179,Colombia,783043200,False,36,28,6.4,Unknown,Unknown
+12436939,Home,Tyrick Mitchell,M,3,174,England,936144000,False,21,12,5.7,Unknown,Unknown
+12436939,Home,Ismaïla Sarr,F,23,185,Senegal,888364800,False,31,24,6.8,Unknown,Unknown
+12436939,Home,Justin Devenny,M,55,184,Northern Ireland,1065830400,False,17,14,6.7,Unknown,Unknown
+12436939,Home,Jean-Philippe Mateta,F,14,192,France,867456000,False,16,9,7.3,Unknown,Unknown
+12436939,Home,Adam Wharton,M,20,182,England,1076025600,True,38,31,6.9,Unknown,Unknown
+12436939,Home,Eberechi Eze,F,10,178,England,899078400,True,20,18,7,Unknown,Unknown
+12436939,Home,Ben Chilwell,D,25,181,England,851126400,True,18,12,6.9,Unknown,Unknown
+12436939,Home,Daichi Kamada,M,18,184,Japan,839203200,True,16,14,6.7,Unknown,Unknown
+12436939,Home,Edward Nketiah,F,9,175,England,928022400,True,5,3,6.5,Unknown,Unknown
+12436939,Home,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Home,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Home,Caleb Kporha,D,58,Unknown,England,1152921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Home,Romain Esse,M,21,178,England,1115942400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Jordan Pickford,G,1,185,England,762998400,False,43,29,7.9,Unknown,Unknown
+12436939,Away,Jake O'Brien,D,15,197,Ireland,989884800,False,42,29,6.8,Unknown,Unknown
+12436939,Away,James Tarkowski,D,6,185,England,722131200,False,44,34,7.2,Unknown,Unknown
+12436939,Away,Jarrad Branthwaite,D,32,195,England,1025136000,False,38,30,7.2,Unknown,Unknown
+12436939,Away,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,28,17,6.6,Unknown,Unknown
+12436939,Away,James Garner,M,37,182,England,984441600,False,42,28,6.8,Unknown,Unknown
+12436939,Away,Idrissa Gueye,M,27,174,Senegal,622771200,False,37,30,6.5,Unknown,Unknown
+12436939,Away,Jesper Lindstrøm,M,29,182,Denmark,951782400,False,18,14,6.9,Unknown,Unknown
+12436939,Away,Carlos Alcaraz,M,24,183,Argentina,1038614400,False,23,19,8.5,Unknown,Unknown
+12436939,Away,Jack Harrison,M,11,175,England,848448000,False,18,13,6.7,Unknown,Unknown
+12436939,Away,Beto,F,14,194,Guinea-Bissau,886204800,False,28,16,7.8,Unknown,Unknown
+12436939,Away,Ashley Young,D,18,180,England,489715200,True,2,2,6.6,Unknown,Unknown
+12436939,Away,Tim Iroegbunam,M,42,182,England,1056931200,True,5,3,7,Unknown,Unknown
+12436939,Away,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Asmir Begović,G,31,198,Bosnia & Herzegovina,551145600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Roman Dixon,D,2,175,England,1104019200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Martin Sherif,F,9,Unknown,Netherlands,1149897600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Isaac Heath,F,10,Unknown,England,1098921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436939,Away,Coby Ebere,F,17,187,Unknown,1126915200,True,Unknown,Unknown,Unknown,Unknown,Unknown

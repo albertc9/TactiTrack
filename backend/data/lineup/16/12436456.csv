@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436456,Home,Sam Johnstone,G,31,193,England,733017600,False,29,20,6.7
-12436456,Home,Nélson Semedo,M,22,177,Portugal,753408000,False,70,58,7.1
-12436456,Home,Santiago Bueno,D,4,189,Uruguay,910569600,False,61,58,6.4
-12436456,Home,Toti Gomes,D,24,187,Portugal,916444800,False,75,64,7.2
-12436456,Home,Matt Doherty,D,2,182,Ireland,695520000,False,30,29,7
-12436456,Home,André,M,7,176,Brazil,995241600,False,27,23,6.5
-12436456,Home,Mario Lemina,M,99,184,Gabon,746841600,False,46,34,7
-12436456,Home,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,44,37,7.3
-12436456,Home,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,23,19,7.1
-12436456,Home,Matheus Cunha,F,10,184,Brazil,927763200,False,31,23,8.3
-12436456,Home,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,15,11,6.9
-12436456,Home,Tommy Doyle,M,20,172,England,1003276800,True,36,32,7.3
-12436456,Home,Gonçalo Guedes,F,29,179,Portugal,849225600,True,7,5,7.3
-12436456,Home,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,5,5,6.5
-12436456,Home,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown
-12436456,Home,Craig Dawson,D,15,188,England,641952000,True,Unknown,Unknown,Unknown
-12436456,Home,Pedro Lima,D,37,174,Brazil,1151712000,True,Unknown,Unknown,Unknown
-12436456,Home,Bastien Meupiyou,D,6,191,France,1142726400,True,Unknown,Unknown,Unknown
-12436456,Home,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown
-12436456,Home,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown
-12436456,Away,Arijanet Murić,G,1,198,Kosovo,910396800,False,39,32,8.3
-12436456,Away,Harry Clarke,D,18,178,England,983491200,False,42,35,6.7
-12436456,Away,Dara O'Shea,D,26,188,Ireland,920505600,False,53,44,6.5
-12436456,Away,Cameron Burgess,D,15,194,Australia,814233600,False,65,56,7.5
-12436456,Away,Leif Davis,D,3,182,England,946598400,False,32,25,6.9
-12436456,Away,Sam Morsy,M,5,175,Egypt,684460800,False,43,36,6.3
-12436456,Away,Jens Cajuste,M,12,188,Sweden,934243200,False,32,30,6.9
-12436456,Away,Wes Burns,M,21,173,Wales,784684800,False,19,13,6.6
-12436456,Away,Conor Chaplin,M,10,170,England,856051200,False,20,17,6.9
-12436456,Away,Omari Hutchinson,M,20,174,England,1067385600,False,36,30,7.1
-12436456,Away,Liam Delap,F,19,186,England,1044662400,False,14,10,6.7
-12436456,Away,Jack Taylor,M,14,185,Ireland,898560000,True,10,9,7.2
-12436456,Away,Jack Clarke,M,47,181,England,974937600,True,8,7,7
-12436456,Away,Ben Johnson,D,18,182,England,948672000,True,5,4,6.6
-12436456,Away,Ali Al-Hamadi,F,9,187,Iraq,1014940800,True,2,2,6.8
-12436456,Away,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown
-12436456,Away,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown
-12436456,Away,Luke Woolfenden,D,6,193,England,908928000,True,Unknown,Unknown,Unknown
-12436456,Away,Nathan Broadhead,M,33,178,Wales,891734400,True,Unknown,Unknown,Unknown
-12436456,Away,Kalvin Phillips,M,8,177,England,817862400,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436456,Home,Sam Johnstone,G,31,193,England,733017600,False,29,20,6.7,Unknown,Unknown
+12436456,Home,Nélson Semedo,M,22,177,Portugal,753408000,False,70,58,7.1,Unknown,Unknown
+12436456,Home,Santiago Bueno,D,4,189,Uruguay,910569600,False,61,58,6.4,Unknown,Unknown
+12436456,Home,Toti Gomes,D,24,187,Portugal,916444800,False,75,64,7.2,Unknown,Unknown
+12436456,Home,Matt Doherty,D,2,182,Ireland,695520000,False,30,29,7,Unknown,Unknown
+12436456,Home,André,M,7,176,Brazil,995241600,False,27,23,6.5,Unknown,Unknown
+12436456,Home,Mario Lemina,M,99,184,Gabon,746841600,False,46,34,7,Unknown,Unknown
+12436456,Home,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,44,37,7.3,Unknown,Unknown
+12436456,Home,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,23,19,7.1,Unknown,Unknown
+12436456,Home,Matheus Cunha,F,10,184,Brazil,927763200,False,31,23,8.3,Unknown,Unknown
+12436456,Home,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,15,11,6.9,Unknown,Unknown
+12436456,Home,Tommy Doyle,M,20,172,England,1003276800,True,36,32,7.3,Unknown,Unknown
+12436456,Home,Gonçalo Guedes,F,29,179,Portugal,849225600,True,7,5,7.3,Unknown,Unknown
+12436456,Home,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,5,5,6.5,Unknown,Unknown
+12436456,Home,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,Craig Dawson,D,15,188,England,641952000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,Pedro Lima,D,37,174,Brazil,1151712000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,Bastien Meupiyou,D,6,191,France,1142726400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,Arijanet Murić,G,1,198,Kosovo,910396800,False,39,32,8.3,Unknown,Unknown
+12436456,Away,Harry Clarke,D,18,178,England,983491200,False,42,35,6.7,Unknown,Unknown
+12436456,Away,Dara O'Shea,D,26,188,Ireland,920505600,False,53,44,6.5,Unknown,Unknown
+12436456,Away,Cameron Burgess,D,15,194,Australia,814233600,False,65,56,7.5,Unknown,Unknown
+12436456,Away,Leif Davis,D,3,182,England,946598400,False,32,25,6.9,Unknown,Unknown
+12436456,Away,Sam Morsy,M,5,175,Egypt,684460800,False,43,36,6.3,Unknown,Unknown
+12436456,Away,Jens Cajuste,M,12,188,Sweden,934243200,False,32,30,6.9,Unknown,Unknown
+12436456,Away,Wes Burns,M,21,173,Wales,784684800,False,19,13,6.6,Unknown,Unknown
+12436456,Away,Conor Chaplin,M,10,170,England,856051200,False,20,17,6.9,Unknown,Unknown
+12436456,Away,Omari Hutchinson,M,20,174,England,1067385600,False,36,30,7.1,Unknown,Unknown
+12436456,Away,Liam Delap,F,19,186,England,1044662400,False,14,10,6.7,Unknown,Unknown
+12436456,Away,Jack Taylor,M,14,185,Ireland,898560000,True,10,9,7.2,Unknown,Unknown
+12436456,Away,Jack Clarke,M,47,181,England,974937600,True,8,7,7,Unknown,Unknown
+12436456,Away,Ben Johnson,D,18,182,England,948672000,True,5,4,6.6,Unknown,Unknown
+12436456,Away,Ali Al-Hamadi,F,9,187,Iraq,1014940800,True,2,2,6.8,Unknown,Unknown
+12436456,Away,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,Luke Woolfenden,D,6,193,England,908928000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,Nathan Broadhead,M,33,178,Wales,891734400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,Kalvin Phillips,M,8,177,England,817862400,True,Unknown,Unknown,Unknown,Unknown,Unknown

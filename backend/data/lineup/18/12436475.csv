@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436475,Home,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,42,32,7.5
-12436475,Home,Joël Veltman,D,34,184,Netherlands,695433600,False,43,41,7.7
-12436475,Home,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,76,64,7.8
-12436475,Home,Lewis Dunk,D,5,190,England,690681600,False,69,62,7
-12436475,Home,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,41,35,7.1
-12436475,Home,Matt O'Riley,M,33,187,Denmark,974764800,False,35,29,7.5
-12436475,Home,Carlos Baleba,M,20,179,Cameroon,1073088000,False,40,34,7.1
-12436475,Home,Brajan Gruda,F,8,174,Germany,1085961600,False,30,23,7.8
-12436475,Home,Julio Enciso,M,9,173,Paraguay,1074729600,False,29,21,7.1
-12436475,Home,Kaoru Mitoma,M,22,178,Japan,864086400,False,27,21,7.3
-12436475,Home,João Pedro,F,9,188,Brazil,1001462400,False,30,20,7
-12436475,Home,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,11,10,6.9
-12436475,Home,Yasin Ayari,M,26,172,Sweden,1065398400,True,6,5,6.4
-12436475,Home,Yankuba Minteh,F,17,180,Gambia,1090454400,True,9,5,6.7
-12436475,Home,Georginio Rutter,M,14,182,France,1019260800,True,1,1,6.5
-12436475,Home,Solly March,M,7,180,England,774662400,True,4,1,6.8
-12436475,Home,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown
-12436475,Home,Tariq Lamptey,D,2,165,Ghana,970272000,True,Unknown,Unknown,Unknown
-12436475,Home,Igor Júlio,D,3,185,Brazil,886809600,True,Unknown,Unknown,Unknown
-12436475,Home,Jakub Moder,M,7,191,Poland,923443200,True,Unknown,Unknown,Unknown
-12436475,Away,Mark Flekken,G,1,194,Netherlands,739929600,False,24,19,7.9
-12436475,Away,Mads Roerslev,D,5,184,Denmark,930182400,False,30,24,7.1
-12436475,Away,Nathan Collins,D,22,193,Ireland,988588800,False,49,44,7.3
-12436475,Away,Ben Mee,D,16,180,England,622339200,False,42,30,6.7
-12436475,Away,Keane Lewis-Potter,F,23,170,England,982800000,False,18,13,6.6
-12436475,Away,Christian Nørgaard,M,6,185,Denmark,763257600,False,22,17,6.8
-12436475,Away,Vitaly Janelt,M,27,184,Germany,894758400,False,39,29,7
-12436475,Away,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,30,20,6.7
-12436475,Away,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,32,27,7.6
-12436475,Away,Kevin Schade,F,7,183,Germany,1006819200,False,17,10,6.5
-12436475,Away,Yoane Wissa,F,11,176,DR Congo,841708800,False,13,10,6.6
-12436475,Away,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,28,13,7
-12436475,Away,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,7,7,7.1
-12436475,Away,Kim Ji-Soo,D,36,192,South Korea,1103846400,True,6,4,6.5
-12436475,Away,Benjamin Arthur,D,43,Unknown,England,1128816000,True,Unknown,Unknown,Unknown
-12436475,Away,Jayden Meghoma,M,3,176,England,1151452800,True,Unknown,Unknown,Unknown
-12436475,Away,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown
-12436475,Away,Edmond-Paris Maghoma,M,32,178,England,989280000,True,Unknown,Unknown,Unknown
-12436475,Away,Fabio Carvalho,F,14,170,Portugal,1030665600,True,Unknown,Unknown,Unknown
-12436475,Away,Tony Yogane,F,30,178,England,1127520000,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436475,Home,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,42,32,7.5,Unknown,Unknown
+12436475,Home,Joël Veltman,D,34,184,Netherlands,695433600,False,43,41,7.7,Unknown,Unknown
+12436475,Home,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,76,64,7.8,Unknown,Unknown
+12436475,Home,Lewis Dunk,D,5,190,England,690681600,False,69,62,7,Unknown,Unknown
+12436475,Home,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,41,35,7.1,Unknown,Unknown
+12436475,Home,Matt O'Riley,M,33,187,Denmark,974764800,False,35,29,7.5,Unknown,Unknown
+12436475,Home,Carlos Baleba,M,20,179,Cameroon,1073088000,False,40,34,7.1,Unknown,Unknown
+12436475,Home,Brajan Gruda,F,8,174,Germany,1085961600,False,30,23,7.8,Unknown,Unknown
+12436475,Home,Julio Enciso,M,9,173,Paraguay,1074729600,False,29,21,7.1,Unknown,Unknown
+12436475,Home,Kaoru Mitoma,M,22,178,Japan,864086400,False,27,21,7.3,Unknown,Unknown
+12436475,Home,João Pedro,F,9,188,Brazil,1001462400,False,30,20,7,Unknown,Unknown
+12436475,Home,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,11,10,6.9,Unknown,Unknown
+12436475,Home,Yasin Ayari,M,26,172,Sweden,1065398400,True,6,5,6.4,Unknown,Unknown
+12436475,Home,Yankuba Minteh,F,17,180,Gambia,1090454400,True,9,5,6.7,Unknown,Unknown
+12436475,Home,Georginio Rutter,M,14,182,France,1019260800,True,1,1,6.5,Unknown,Unknown
+12436475,Home,Solly March,M,7,180,England,774662400,True,4,1,6.8,Unknown,Unknown
+12436475,Home,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Home,Tariq Lamptey,D,2,165,Ghana,970272000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Home,Igor Júlio,D,3,185,Brazil,886809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Home,Jakub Moder,M,7,191,Poland,923443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Away,Mark Flekken,G,1,194,Netherlands,739929600,False,24,19,7.9,Unknown,Unknown
+12436475,Away,Mads Roerslev,D,5,184,Denmark,930182400,False,30,24,7.1,Unknown,Unknown
+12436475,Away,Nathan Collins,D,22,193,Ireland,988588800,False,49,44,7.3,Unknown,Unknown
+12436475,Away,Ben Mee,D,16,180,England,622339200,False,42,30,6.7,Unknown,Unknown
+12436475,Away,Keane Lewis-Potter,F,23,170,England,982800000,False,18,13,6.6,Unknown,Unknown
+12436475,Away,Christian Nørgaard,M,6,185,Denmark,763257600,False,22,17,6.8,Unknown,Unknown
+12436475,Away,Vitaly Janelt,M,27,184,Germany,894758400,False,39,29,7,Unknown,Unknown
+12436475,Away,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,30,20,6.7,Unknown,Unknown
+12436475,Away,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,32,27,7.6,Unknown,Unknown
+12436475,Away,Kevin Schade,F,7,183,Germany,1006819200,False,17,10,6.5,Unknown,Unknown
+12436475,Away,Yoane Wissa,F,11,176,DR Congo,841708800,False,13,10,6.6,Unknown,Unknown
+12436475,Away,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,28,13,7,Unknown,Unknown
+12436475,Away,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,7,7,7.1,Unknown,Unknown
+12436475,Away,Kim Ji-Soo,D,36,192,South Korea,1103846400,True,6,4,6.5,Unknown,Unknown
+12436475,Away,Benjamin Arthur,D,43,Unknown,England,1128816000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Away,Jayden Meghoma,M,3,176,England,1151452800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Away,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Away,Edmond-Paris Maghoma,M,32,178,England,989280000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Away,Fabio Carvalho,F,14,170,Portugal,1030665600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436475,Away,Tony Yogane,F,30,178,England,1127520000,True,Unknown,Unknown,Unknown,Unknown,Unknown

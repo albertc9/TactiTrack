@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12437040,Home,David Raya,G,22,183,Spain,811123200,False,33,23,6.8
-12437040,Home,Thomas Partey,M,5,185,Ghana,739929600,False,45,39,7.2
-12437040,Home,Ben White,D,4,186,England,876268800,False,52,46,6.9
-12437040,Home,Gabriel Magalhães,D,6,190,Brazil,882489600,False,31,25,6.7
-12437040,Home,Jurriën Timber,D,12,179,Netherlands,992736000,False,19,17,6.5
-12437040,Home,Bukayo Saka,F,7,178,England,999648000,False,23,15,7.5
-12437040,Home,Declan Rice,M,41,188,England,916272000,False,52,43,7.8
-12437040,Home,Mikel Merino,M,23,188,Spain,835401600,False,34,27,7.1
-12437040,Home,Gabriel Martinelli,F,11,180,Brazil,992822400,False,23,14,6.8
-12437040,Home,Kai Havertz,F,29,193,Germany,929059200,False,24,18,6.7
-12437040,Home,Leandro Trossard,F,19,172,Belgium,786499200,False,25,20,7
-12437040,Home,Jakub Kiwior,D,15,189,Poland,950572800,True,10,9,6.4
-12437040,Home,Myles Lewis-Skelly,M,49,178,England,1159228800,True,9,7,6.6
-12437040,Home,Ethan Nwaneri,F,53,176,England,1174435200,True,2,2,6.6
-12437040,Home,Gabriel Jesus,F,9,175,Brazil,860025600,True,1,1,6.8
-12437040,Home,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown
-12437040,Home,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,True,Unknown,Unknown,Unknown
-12437040,Home,Josh Nichols,D,15,Unknown,England,1153872000,True,Unknown,Unknown,Unknown
-12437040,Home,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown
-12437040,Home,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown
-12437040,Away,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,39,23,6.2
-12437040,Away,Trent Alexander-Arnold,D,66,180,England,907718400,False,48,34,6.8
-12437040,Away,Ibrahima Konaté,D,5,195,France,927590400,False,61,54,6.8
-12437040,Away,Virgil van Dijk,D,4,193,Netherlands,678931200,False,84,73,7.7
-12437040,Away,Andrew Robertson,D,26,178,Scotland,763344000,False,22,16,6.4
-12437040,Away,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,47,42,6.8
-12437040,Away,Alexis Mac Allister,M,10,176,Argentina,914457600,False,20,16,6.5
-12437040,Away,Mohamed Salah,M,11,175,Egypt,708566400,False,30,25,7.7
-12437040,Away,Curtis Jones,M,17,185,England,980812800,False,42,41,6.7
-12437040,Away,Luis Díaz,F,7,178,Colombia,853113600,False,10,9,6.6
-12437040,Away,Darwin Núñez,F,9,188,Uruguay,930182400,False,17,13,7.2
-12437040,Away,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,20,18,6.9
-12437040,Away,Dominik Szoboszlai,M,8,187,Hungary,972432000,True,12,10,6.6
-12437040,Away,Cody Gakpo,F,18,193,Netherlands,926035200,True,13,12,6.9
-12437040,Away,Wataru Endo,M,3,178,Japan,729216000,True,1,1,Unknown
-12437040,Away,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown
-12437040,Away,Harvey Davies,G,1,185,England,1062547200,True,Unknown,Unknown,Unknown
-12437040,Away,Joe Gomez,D,2,188,England,864345600,True,Unknown,Unknown,Unknown
-12437040,Away,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown
-12437040,Away,Tyler Morton,M,80,178,England,1036022400,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12437040,Home,David Raya,G,22,183,Spain,811123200,False,33,23,6.8,Unknown,Unknown
+12437040,Home,Thomas Partey,M,5,185,Ghana,739929600,False,45,39,7.2,Unknown,Unknown
+12437040,Home,Ben White,D,4,186,England,876268800,False,52,46,6.9,Unknown,Unknown
+12437040,Home,Gabriel Magalhães,D,6,190,Brazil,882489600,False,31,25,6.7,Unknown,Unknown
+12437040,Home,Jurriën Timber,D,12,179,Netherlands,992736000,False,19,17,6.5,Unknown,Unknown
+12437040,Home,Bukayo Saka,F,7,178,England,999648000,False,23,15,7.5,Unknown,Unknown
+12437040,Home,Declan Rice,M,41,188,England,916272000,False,52,43,7.8,Unknown,Unknown
+12437040,Home,Mikel Merino,M,23,188,Spain,835401600,False,34,27,7.1,Unknown,Unknown
+12437040,Home,Gabriel Martinelli,F,11,180,Brazil,992822400,False,23,14,6.8,Unknown,Unknown
+12437040,Home,Kai Havertz,F,29,193,Germany,929059200,False,24,18,6.7,Unknown,Unknown
+12437040,Home,Leandro Trossard,F,19,172,Belgium,786499200,False,25,20,7,Unknown,Unknown
+12437040,Home,Jakub Kiwior,D,15,189,Poland,950572800,True,10,9,6.4,Unknown,Unknown
+12437040,Home,Myles Lewis-Skelly,M,49,178,England,1159228800,True,9,7,6.6,Unknown,Unknown
+12437040,Home,Ethan Nwaneri,F,53,176,England,1174435200,True,2,2,6.6,Unknown,Unknown
+12437040,Home,Gabriel Jesus,F,9,175,Brazil,860025600,True,1,1,6.8,Unknown,Unknown
+12437040,Home,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Home,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Home,Josh Nichols,D,15,Unknown,England,1153872000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Home,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Home,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Away,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,39,23,6.2,Unknown,Unknown
+12437040,Away,Trent Alexander-Arnold,D,66,180,England,907718400,False,48,34,6.8,Unknown,Unknown
+12437040,Away,Ibrahima Konaté,D,5,195,France,927590400,False,61,54,6.8,Unknown,Unknown
+12437040,Away,Virgil van Dijk,D,4,193,Netherlands,678931200,False,84,73,7.7,Unknown,Unknown
+12437040,Away,Andrew Robertson,D,26,178,Scotland,763344000,False,22,16,6.4,Unknown,Unknown
+12437040,Away,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,47,42,6.8,Unknown,Unknown
+12437040,Away,Alexis Mac Allister,M,10,176,Argentina,914457600,False,20,16,6.5,Unknown,Unknown
+12437040,Away,Mohamed Salah,M,11,175,Egypt,708566400,False,30,25,7.7,Unknown,Unknown
+12437040,Away,Curtis Jones,M,17,185,England,980812800,False,42,41,6.7,Unknown,Unknown
+12437040,Away,Luis Díaz,F,7,178,Colombia,853113600,False,10,9,6.6,Unknown,Unknown
+12437040,Away,Darwin Núñez,F,9,188,Uruguay,930182400,False,17,13,7.2,Unknown,Unknown
+12437040,Away,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,20,18,6.9,Unknown,Unknown
+12437040,Away,Dominik Szoboszlai,M,8,187,Hungary,972432000,True,12,10,6.6,Unknown,Unknown
+12437040,Away,Cody Gakpo,F,18,193,Netherlands,926035200,True,13,12,6.9,Unknown,Unknown
+12437040,Away,Wataru Endo,M,3,178,Japan,729216000,True,1,1,Unknown,Unknown,Unknown
+12437040,Away,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Away,Harvey Davies,G,1,185,England,1062547200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Away,Joe Gomez,D,2,188,England,864345600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Away,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437040,Away,Tyler Morton,M,80,178,England,1036022400,True,Unknown,Unknown,Unknown,Unknown,Unknown

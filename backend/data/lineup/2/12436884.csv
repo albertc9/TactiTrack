@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436884,Home,Neto,G,32,190,Brazil,616809600,False,27,16,7.6
-12436884,Home,Julián Araujo,D,22,175,Mexico,997660800,False,27,21,6.5
-12436884,Home,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,42,32,6.7
-12436884,Home,Marcos Senesi,D,5,184,Argentina,863222400,False,37,26,7.3
-12436884,Home,Miloš Kerkez,D,3,180,Hungary,1068163200,False,29,21,7
-12436884,Home,Lewis Cook,M,4,175,England,854928000,False,43,33,7.2
-12436884,Home,Ryan Christie,M,10,178,Scotland,793411200,False,21,19,6.8
-12436884,Home,Antoine Semenyo,M,24,178,Ghana,947203200,False,25,24,7.7
-12436884,Home,Justin Kluivert,M,19,171,Netherlands,925862400,False,18,15,6.7
-12436884,Home,Marcus Tavernier,M,16,178,England,922060800,False,26,22,7.7
-12436884,Home,Evanilson,F,9,181,Brazil,939168000,False,11,6,6.9
-12436884,Home,Alex Scott,M,8,178,England,1061596800,True,5,5,6.6
-12436884,Home,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,4,2,7
-12436884,Home,Luis Sinisterra,F,17,176,Colombia,929577600,True,6,3,7
-12436884,Home,Daniel Jebbison,F,21,190,Canada,1057881600,True,Unknown,Unknown,6.2
-12436884,Home,Adam Smith,D,15,180,England,672883200,True,Unknown,Unknown,6.5
-12436884,Home,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown
-12436884,Home,Dean Huijsen,D,2,195,Spain,1113436800,True,Unknown,Unknown,Unknown
-12436884,Home,James Hill,D,23,184,England,1010620800,True,Unknown,Unknown,Unknown
-12436884,Home,Jaidon Anthony,M,11,177,England,944006400,True,Unknown,Unknown,Unknown
-12436884,Away,Nick Pope,G,22,198,England,703641600,False,30,22,7.5
-12436884,Away,Valentino Livramento,D,21,181,England,1037059200,False,39,30,6.4
-12436884,Away,Emil Krafth,D,17,184,Sweden,775785600,False,46,37,6.7
-12436884,Away,Dan Burn,D,33,201,England,705369600,False,64,56,7.2
-12436884,Away,Lloyd Kelly,D,6,191,England,907200000,False,27,23,6.5
-12436884,Away,Sean Longstaff,M,36,187,England,878169600,False,33,30,6.8
-12436884,Away,Bruno Guimarães,M,39,182,Brazil,879638400,False,75,59,8
-12436884,Away,Joelinton,M,7,186,Brazil,839980800,False,59,44,6
-12436884,Away,Jacob Murphy,F,23,176,England,793584000,False,27,18,6.5
-12436884,Away,Alexander Isak,F,14,193,Sweden,937872000,False,18,11,6.4
-12436884,Away,Anthony Gordon,F,10,183,England,982972800,False,27,21,8
-12436884,Away,Kieran Trippier,D,2,174,England,653702400,True,17,11,6.8
-12436884,Away,Harvey Barnes,M,11,181,England,881625600,True,10,10,7.5
-12436884,Away,Lewis Hall,D,20,179,England,1094601600,True,14,12,7.4
-12436884,Away,Joe Willock,M,28,186,England,935107200,True,5,5,6.8
-12436884,Away,Miguel Almirón,M,10,174,Paraguay,760838400,True,4,4,6.6
-12436884,Away,John Ruddy,G,26,193,England,530496000,True,Unknown,Unknown,Unknown
-12436884,Away,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown
-12436884,Away,Alex Murphy,D,3,188,Ireland,1088121600,True,Unknown,Unknown,Unknown
-12436884,Away,William Osula,F,18,186,Denmark,1059955200,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436884,Home,Neto,G,32,190,Brazil,616809600,False,27,16,7.6,Unknown,Unknown
+12436884,Home,Julián Araujo,D,22,175,Mexico,997660800,False,27,21,6.5,Unknown,Unknown
+12436884,Home,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,42,32,6.7,Unknown,Unknown
+12436884,Home,Marcos Senesi,D,5,184,Argentina,863222400,False,37,26,7.3,Unknown,Unknown
+12436884,Home,Miloš Kerkez,D,3,180,Hungary,1068163200,False,29,21,7,Unknown,Unknown
+12436884,Home,Lewis Cook,M,4,175,England,854928000,False,43,33,7.2,Unknown,Unknown
+12436884,Home,Ryan Christie,M,10,178,Scotland,793411200,False,21,19,6.8,Unknown,Unknown
+12436884,Home,Antoine Semenyo,M,24,178,Ghana,947203200,False,25,24,7.7,Unknown,Unknown
+12436884,Home,Justin Kluivert,M,19,171,Netherlands,925862400,False,18,15,6.7,Unknown,Unknown
+12436884,Home,Marcus Tavernier,M,16,178,England,922060800,False,26,22,7.7,Unknown,Unknown
+12436884,Home,Evanilson,F,9,181,Brazil,939168000,False,11,6,6.9,Unknown,Unknown
+12436884,Home,Alex Scott,M,8,178,England,1061596800,True,5,5,6.6,Unknown,Unknown
+12436884,Home,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,4,2,7,Unknown,Unknown
+12436884,Home,Luis Sinisterra,F,17,176,Colombia,929577600,True,6,3,7,Unknown,Unknown
+12436884,Home,Daniel Jebbison,F,21,190,Canada,1057881600,True,Unknown,Unknown,6.2,Unknown,Unknown
+12436884,Home,Adam Smith,D,15,180,England,672883200,True,Unknown,Unknown,6.5,Unknown,Unknown
+12436884,Home,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Home,Dean Huijsen,D,2,195,Spain,1113436800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Home,James Hill,D,23,184,England,1010620800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Home,Jaidon Anthony,M,11,177,England,944006400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Away,Nick Pope,G,22,198,England,703641600,False,30,22,7.5,Unknown,Unknown
+12436884,Away,Valentino Livramento,D,21,181,England,1037059200,False,39,30,6.4,Unknown,Unknown
+12436884,Away,Emil Krafth,D,17,184,Sweden,775785600,False,46,37,6.7,Unknown,Unknown
+12436884,Away,Dan Burn,D,33,201,England,705369600,False,64,56,7.2,Unknown,Unknown
+12436884,Away,Lloyd Kelly,D,6,191,England,907200000,False,27,23,6.5,Unknown,Unknown
+12436884,Away,Sean Longstaff,M,36,187,England,878169600,False,33,30,6.8,Unknown,Unknown
+12436884,Away,Bruno Guimarães,M,39,182,Brazil,879638400,False,75,59,8,Unknown,Unknown
+12436884,Away,Joelinton,M,7,186,Brazil,839980800,False,59,44,6,Unknown,Unknown
+12436884,Away,Jacob Murphy,F,23,176,England,793584000,False,27,18,6.5,Unknown,Unknown
+12436884,Away,Alexander Isak,F,14,193,Sweden,937872000,False,18,11,6.4,Unknown,Unknown
+12436884,Away,Anthony Gordon,F,10,183,England,982972800,False,27,21,8,Unknown,Unknown
+12436884,Away,Kieran Trippier,D,2,174,England,653702400,True,17,11,6.8,Unknown,Unknown
+12436884,Away,Harvey Barnes,M,11,181,England,881625600,True,10,10,7.5,Unknown,Unknown
+12436884,Away,Lewis Hall,D,20,179,England,1094601600,True,14,12,7.4,Unknown,Unknown
+12436884,Away,Joe Willock,M,28,186,England,935107200,True,5,5,6.8,Unknown,Unknown
+12436884,Away,Miguel Almirón,M,10,174,Paraguay,760838400,True,4,4,6.6,Unknown,Unknown
+12436884,Away,John Ruddy,G,26,193,England,530496000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Away,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Away,Alex Murphy,D,3,188,Ireland,1088121600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436884,Away,William Osula,F,18,186,Denmark,1059955200,True,Unknown,Unknown,Unknown,Unknown,Unknown

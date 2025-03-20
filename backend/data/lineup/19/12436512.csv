@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436512,Home,Jakub Stolarczyk,G,41,194,Poland,977184000,False,33,26,6.6
-12436512,Home,James Justin,D,2,183,England,888192000,False,24,22,6.9
-12436512,Home,Conor Coady,D,4,184,England,730598400,False,81,77,6.5
-12436512,Home,Jannik Vestergaard,D,23,199,Denmark,712800000,False,78,76,6.8
-12436512,Home,Victor Kristiansen,D,16,181,Denmark,1039996800,False,66,62,6.9
-12436512,Home,Harry Winks,M,8,178,England,823219200,False,63,60,6.5
-12436512,Home,Boubakary Soumaré,M,24,188,France,920073600,False,72,68,6.6
-12436512,Home,Facundo Buonanotte,M,40,174,Argentina,1103760000,False,33,30,7
-12436512,Home,Bilal El Khannouss,M,11,180,Morocco,1084147200,False,61,56,7.4
-12436512,Home,Stephy Mavididi,M,10,182,England,896572800,False,39,36,7.4
-12436512,Home,Jamie Vardy,F,9,178,England,537321600,False,10,8,6.6
-12436512,Home,Hamza Choudhury,M,24,178,Bangladesh,875664000,True,14,13,6.9
-12436512,Home,Caleb Okoli,D,5,191,Italy,994982400,True,3,3,6.8
-12436512,Home,Patson Daka,F,20,185,Zambia,907891200,True,Unknown,Unknown,6.5
-12436512,Home,Will Alves,M,29,Unknown,England,1115164800,True,1,1,Unknown
-12436512,Home,Daniel Iversen,G,31,190,Denmark,869270400,True,Unknown,Unknown,Unknown
-12436512,Home,Luke Thomas,D,33,178,England,992131200,True,Unknown,Unknown,Unknown
-12436512,Home,Thomas Wilson-Brown,D,2,180,England,1096934400,True,Unknown,Unknown,Unknown
-12436512,Home,Oliver Skipp,M,22,175,England,969062400,True,Unknown,Unknown,Unknown
-12436512,Home,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,True,Unknown,Unknown,Unknown
-12436512,Away,Stefan Ortega,G,18,186,Germany,721008000,False,25,23,7.5
-12436512,Away,Rico Lewis,D,82,170,England,1100995200,False,46,44,7
-12436512,Away,Manuel Akanji,D,25,187,Switzerland,806112000,False,70,68,7.8
-12436512,Away,Nathan Aké,D,6,180,Netherlands,793065600,False,52,50,6.8
-12436512,Away,Joško Gvardiol,D,24,186,Croatia,1011744000,False,75,71,6.9
-12436512,Away,Mateo Kovačić,M,8,178,Croatia,768182400,False,57,55,7.4
-12436512,Away,Phil Foden,M,47,171,England,959472000,False,22,18,6.4
-12436512,Away,Kevin De Bruyne,M,17,181,Belgium,678067200,False,44,39,6.8
-12436512,Away,Bernardo Silva,M,20,173,Portugal,776476800,False,42,36,7.3
-12436512,Away,Savinho,M,26,176,Brazil,1081555200,False,24,21,8.4
-12436512,Away,Erling Haaland,F,9,194,Norway,964137600,False,18,9,8.2
-12436512,Away,James McAtee,M,87,180,England,1034899200,True,14,11,6.7
-12436512,Away,Kyle Walker,D,32,183,England,643852800,True,16,16,6.6
-12436512,Away,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown
-12436512,Away,Jahmai Simpson-Pusey,D,4,184,England,1131062400,True,Unknown,Unknown,Unknown
-12436512,Away,Jack Grealish,M,10,180,England,810691200,True,Unknown,Unknown,Unknown
-12436512,Away,İlkay Gündoğan,M,19,180,Germany,656726400,True,Unknown,Unknown,Unknown
-12436512,Away,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown
-12436512,Away,Jérémy Doku,F,11,173,Belgium,1022457600,True,Unknown,Unknown,Unknown
-12436512,Away,Divin Mubama,F,9,183,England,1098662400,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436512,Home,Jakub Stolarczyk,G,41,194,Poland,977184000,False,33,26,6.6,Unknown,Unknown
+12436512,Home,James Justin,D,2,183,England,888192000,False,24,22,6.9,Unknown,Unknown
+12436512,Home,Conor Coady,D,4,184,England,730598400,False,81,77,6.5,Unknown,Unknown
+12436512,Home,Jannik Vestergaard,D,23,199,Denmark,712800000,False,78,76,6.8,Unknown,Unknown
+12436512,Home,Victor Kristiansen,D,16,181,Denmark,1039996800,False,66,62,6.9,Unknown,Unknown
+12436512,Home,Harry Winks,M,8,178,England,823219200,False,63,60,6.5,Unknown,Unknown
+12436512,Home,Boubakary Soumaré,M,24,188,France,920073600,False,72,68,6.6,Unknown,Unknown
+12436512,Home,Facundo Buonanotte,M,40,174,Argentina,1103760000,False,33,30,7,Unknown,Unknown
+12436512,Home,Bilal El Khannouss,M,11,180,Morocco,1084147200,False,61,56,7.4,Unknown,Unknown
+12436512,Home,Stephy Mavididi,M,10,182,England,896572800,False,39,36,7.4,Unknown,Unknown
+12436512,Home,Jamie Vardy,F,9,178,England,537321600,False,10,8,6.6,Unknown,Unknown
+12436512,Home,Hamza Choudhury,M,24,178,Bangladesh,875664000,True,14,13,6.9,Unknown,Unknown
+12436512,Home,Caleb Okoli,D,5,191,Italy,994982400,True,3,3,6.8,Unknown,Unknown
+12436512,Home,Patson Daka,F,20,185,Zambia,907891200,True,Unknown,Unknown,6.5,Unknown,Unknown
+12436512,Home,Will Alves,M,29,Unknown,England,1115164800,True,1,1,Unknown,Unknown,Unknown
+12436512,Home,Daniel Iversen,G,31,190,Denmark,869270400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Home,Luke Thomas,D,33,178,England,992131200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Home,Thomas Wilson-Brown,D,2,180,England,1096934400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Home,Oliver Skipp,M,22,175,England,969062400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Home,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,Stefan Ortega,G,18,186,Germany,721008000,False,25,23,7.5,Unknown,Unknown
+12436512,Away,Rico Lewis,D,82,170,England,1100995200,False,46,44,7,Unknown,Unknown
+12436512,Away,Manuel Akanji,D,25,187,Switzerland,806112000,False,70,68,7.8,Unknown,Unknown
+12436512,Away,Nathan Aké,D,6,180,Netherlands,793065600,False,52,50,6.8,Unknown,Unknown
+12436512,Away,Joško Gvardiol,D,24,186,Croatia,1011744000,False,75,71,6.9,Unknown,Unknown
+12436512,Away,Mateo Kovačić,M,8,178,Croatia,768182400,False,57,55,7.4,Unknown,Unknown
+12436512,Away,Phil Foden,M,47,171,England,959472000,False,22,18,6.4,Unknown,Unknown
+12436512,Away,Kevin De Bruyne,M,17,181,Belgium,678067200,False,44,39,6.8,Unknown,Unknown
+12436512,Away,Bernardo Silva,M,20,173,Portugal,776476800,False,42,36,7.3,Unknown,Unknown
+12436512,Away,Savinho,M,26,176,Brazil,1081555200,False,24,21,8.4,Unknown,Unknown
+12436512,Away,Erling Haaland,F,9,194,Norway,964137600,False,18,9,8.2,Unknown,Unknown
+12436512,Away,James McAtee,M,87,180,England,1034899200,True,14,11,6.7,Unknown,Unknown
+12436512,Away,Kyle Walker,D,32,183,England,643852800,True,16,16,6.6,Unknown,Unknown
+12436512,Away,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,Jahmai Simpson-Pusey,D,4,184,England,1131062400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,Jack Grealish,M,10,180,England,810691200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,İlkay Gündoğan,M,19,180,Germany,656726400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,Jérémy Doku,F,11,173,Belgium,1022457600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436512,Away,Divin Mubama,F,9,183,England,1098662400,True,Unknown,Unknown,Unknown,Unknown,Unknown

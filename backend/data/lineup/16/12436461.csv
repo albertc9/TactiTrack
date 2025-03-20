@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436461,Home,Robert Sánchez,G,1,197,Spain,879811200,False,35,19,7.4
-12436461,Home,Malo Gusto,D,27,179,France,1053302400,False,71,66,7.5
-12436461,Home,Tosin Adarabioyo,D,4,196,England,875059200,False,61,54,7.2
-12436461,Home,Levi Colwill,D,6,187,England,1046217600,False,71,61,7.1
-12436461,Home,Marc Cucurella,D,3,175,Spain,901065600,False,36,33,7.6
-12436461,Home,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,65,56,7.5
-12436461,Home,Enzo Fernández,M,8,177,Argentina,979689600,False,38,33,7.4
-12436461,Home,Noni Madueke,M,11,182,England,1015718400,False,31,29,7.8
-12436461,Home,Cole Palmer,M,80,188,England,1020643200,False,38,35,7.8
-12436461,Home,Jadon Sancho,M,19,180,England,953942400,False,55,48,7.4
-12436461,Home,Nicolas Jackson,F,15,186,Senegal,992995200,False,17,9,7.4
-12436461,Home,Christopher Nkunku,F,18,175,France,879465600,True,Unknown,Unknown,6.3
-12436461,Home,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown
-12436461,Home,Axel Disasi,D,3,190,France,889574400,True,Unknown,Unknown,Unknown
-12436461,Home,Josh Acheampong,D,34,185,England,1146787200,True,Unknown,Unknown,Unknown
-12436461,Home,Renato Veiga,D,12,190,Portugal,1059436800,True,Unknown,Unknown,Unknown
-12436461,Home,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,Unknown,Unknown,Unknown
-12436461,Home,Sam Rak-Sakyi,M,8,Unknown,England,1111881600,True,Unknown,Unknown,Unknown
-12436461,Home,Tyrique George,M,32,181,England,1139011200,True,Unknown,Unknown,Unknown
-12436461,Home,Marc Guiu,F,38,187,Spain,1136332800,True,Unknown,Unknown,Unknown
-12436461,Away,Mark Flekken,G,1,194,Netherlands,739929600,False,43,22,6.9
-12436461,Away,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,25,20,7.3
-12436461,Away,Ethan Pinnock,D,5,194,Jamaica,738633600,False,33,30,7
-12436461,Away,Nathan Collins,D,22,193,Ireland,988588800,False,36,27,6.6
-12436461,Away,Mads Roerslev,D,5,184,Denmark,930182400,False,20,16,6.9
-12436461,Away,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,False,31,25,6.9
-12436461,Away,Christian Nørgaard,M,6,185,Denmark,763257600,False,34,30,6.8
-12436461,Away,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,21,16,6.5
-12436461,Away,Keane Lewis-Potter,F,23,170,England,982800000,False,15,12,6.8
-12436461,Away,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,19,14,7.4
-12436461,Away,Yoane Wissa,F,11,176,DR Congo,841708800,False,12,7,6.8
-12436461,Away,Vitaly Janelt,M,27,184,Germany,894758400,True,12,11,6.9
-12436461,Away,Fabio Carvalho,F,14,170,Portugal,1030665600,True,7,5,6.3
-12436461,Away,Kristoffer Ajer,D,20,196,Norway,892771200,True,11,7,6.6
-12436461,Away,Kevin Schade,F,7,183,Germany,1006819200,True,5,5,7.5
-12436461,Away,Jayden Meghoma,M,3,176,England,1151452800,True,3,3,6.5
-12436461,Away,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown
-12436461,Away,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown
-12436461,Away,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown
-12436461,Away,Ryan Trevitt,M,21,170,England,1047427200,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436461,Home,Robert Sánchez,G,1,197,Spain,879811200,False,35,19,7.4,Unknown,Unknown
+12436461,Home,Malo Gusto,D,27,179,France,1053302400,False,71,66,7.5,Unknown,Unknown
+12436461,Home,Tosin Adarabioyo,D,4,196,England,875059200,False,61,54,7.2,Unknown,Unknown
+12436461,Home,Levi Colwill,D,6,187,England,1046217600,False,71,61,7.1,Unknown,Unknown
+12436461,Home,Marc Cucurella,D,3,175,Spain,901065600,False,36,33,7.6,Unknown,Unknown
+12436461,Home,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,65,56,7.5,Unknown,Unknown
+12436461,Home,Enzo Fernández,M,8,177,Argentina,979689600,False,38,33,7.4,Unknown,Unknown
+12436461,Home,Noni Madueke,M,11,182,England,1015718400,False,31,29,7.8,Unknown,Unknown
+12436461,Home,Cole Palmer,M,80,188,England,1020643200,False,38,35,7.8,Unknown,Unknown
+12436461,Home,Jadon Sancho,M,19,180,England,953942400,False,55,48,7.4,Unknown,Unknown
+12436461,Home,Nicolas Jackson,F,15,186,Senegal,992995200,False,17,9,7.4,Unknown,Unknown
+12436461,Home,Christopher Nkunku,F,18,175,France,879465600,True,Unknown,Unknown,6.3,Unknown,Unknown
+12436461,Home,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Axel Disasi,D,3,190,France,889574400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Josh Acheampong,D,34,185,England,1146787200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Renato Veiga,D,12,190,Portugal,1059436800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Sam Rak-Sakyi,M,8,Unknown,England,1111881600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Tyrique George,M,32,181,England,1139011200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,Marc Guiu,F,38,187,Spain,1136332800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Away,Mark Flekken,G,1,194,Netherlands,739929600,False,43,22,6.9,Unknown,Unknown
+12436461,Away,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,25,20,7.3,Unknown,Unknown
+12436461,Away,Ethan Pinnock,D,5,194,Jamaica,738633600,False,33,30,7,Unknown,Unknown
+12436461,Away,Nathan Collins,D,22,193,Ireland,988588800,False,36,27,6.6,Unknown,Unknown
+12436461,Away,Mads Roerslev,D,5,184,Denmark,930182400,False,20,16,6.9,Unknown,Unknown
+12436461,Away,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,False,31,25,6.9,Unknown,Unknown
+12436461,Away,Christian Nørgaard,M,6,185,Denmark,763257600,False,34,30,6.8,Unknown,Unknown
+12436461,Away,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,21,16,6.5,Unknown,Unknown
+12436461,Away,Keane Lewis-Potter,F,23,170,England,982800000,False,15,12,6.8,Unknown,Unknown
+12436461,Away,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,19,14,7.4,Unknown,Unknown
+12436461,Away,Yoane Wissa,F,11,176,DR Congo,841708800,False,12,7,6.8,Unknown,Unknown
+12436461,Away,Vitaly Janelt,M,27,184,Germany,894758400,True,12,11,6.9,Unknown,Unknown
+12436461,Away,Fabio Carvalho,F,14,170,Portugal,1030665600,True,7,5,6.3,Unknown,Unknown
+12436461,Away,Kristoffer Ajer,D,20,196,Norway,892771200,True,11,7,6.6,Unknown,Unknown
+12436461,Away,Kevin Schade,F,7,183,Germany,1006819200,True,5,5,7.5,Unknown,Unknown
+12436461,Away,Jayden Meghoma,M,3,176,England,1151452800,True,3,3,6.5,Unknown,Unknown
+12436461,Away,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Away,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Away,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Away,Ryan Trevitt,M,21,170,England,1047427200,True,Unknown,Unknown,Unknown,Unknown,Unknown

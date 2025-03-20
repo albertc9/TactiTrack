@@ -53,7 +53,7 @@ def process_match(round_number, match_id, status):
     
     with open(file_path, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["Match ID", "Team", "Player Name", "Position", "Jersey Number", "Height", "Country", "Date of Birth", "Substitute", "Total Pass", "Accurate Pass", "Rating"])
+        writer.writerow(["Match ID", "Team", "Player Name", "Position", "Jersey Number", "Height", "Country", "Date of Birth", "Substitute", "Total Pass", "Accurate Pass", "Rating", "AverageX", "AverageY"])
         
         for team_key in ["home", "away"]:
             team_data = lineup_data.get(team_key, {})
@@ -63,7 +63,11 @@ def process_match(round_number, match_id, status):
             for player_entry in players:
                 player = player_entry.get("player", {})
                 stats = player_entry.get("statistics", {})
-                
+
+                # 正确提取 averageX 和 averageY
+                avg_x = player_entry.get("averageX", "Unknown")
+                avg_y = player_entry.get("averageY", "Unknown")
+
                 row = [
                     match_id,
                     team_name,
@@ -76,7 +80,9 @@ def process_match(round_number, match_id, status):
                     player_entry.get("substitute", False),
                     stats.get("totalPass", "Unknown"),
                     stats.get("accuratePass", "Unknown"),
-                    stats.get("rating", "Unknown")
+                    stats.get("rating", "Unknown"),
+                    avg_x,
+                    avg_y
                 ]
                 writer.writerow(row)
     

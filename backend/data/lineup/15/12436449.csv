@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436449,Home,André Onana,G,24,190,Cameroon,828403200,False,37,33,5.1
-12436449,Home,Leny Yoro,D,15,190,France,1131840000,False,44,42,6.2
-12436449,Home,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,69,60,6.4
-12436449,Home,Lisandro Martínez,D,6,175,Argentina,885081600,False,90,84,6.5
-12436449,Home,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,44,37,7.2
-12436449,Home,Kobbie Mainoo,M,37,180,England,1113868800,False,51,47,6.9
-12436449,Home,Manuel Ugarte,M,25,182,Uruguay,986947200,False,47,44,7.3
-12436449,Home,Diogo Dalot,D,20,184,Portugal,921715200,False,46,38,7.4
-12436449,Home,Bruno Fernandes,M,8,179,Portugal,778982400,False,48,36,7.5
-12436449,Home,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,21,20,7.1
-12436449,Home,Rasmus Højlund,F,9,191,Denmark,1044316800,False,16,15,6.9
-12436449,Home,Marcus Rashford,M,9,184,England,878256000,True,16,13,6.9
-12436449,Home,Harry Maguire,D,5,194,England,731289600,True,35,28,6.9
-12436449,Home,Noussair Mazraoui,D,3,183,Morocco,879465600,True,21,18,6.9
-12436449,Home,Mason Mount,M,7,181,England,915926400,True,6,5,6.5
-12436449,Home,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,10,8,6.5
-12436449,Home,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown
-12436449,Home,Tyrell Malacia,D,3,169,Netherlands,934848000,True,Unknown,Unknown,Unknown
-12436449,Home,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown
-12436449,Home,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown
-12436449,Away,Matz Sels,G,26,188,Belgium,699062400,False,31,8,7.1
-12436449,Away,Ola Aina,D,34,182,Nigeria,844732800,False,25,20,6.8
-12436449,Away,Nikola Milenković,D,31,195,Serbia,876614400,False,14,8,7.6
-12436449,Away,Murillo,D,5,183,Brazil,1025740800,False,15,11,6.6
-12436449,Away,Neco Williams,D,7,183,Wales,987120000,False,14,10,6.5
-12436449,Away,Elliot Anderson,M,8,175,England,1036540800,False,24,16,6.8
-12436449,Away,Ryan Yates,M,22,190,England,880070400,False,28,23,6.7
-12436449,Away,Jota Silva,F,20,179,Portugal,933465600,False,15,11,6.7
-12436449,Away,Morgan Gibbs-White,M,10,171,England,948931200,False,31,19,7.8
-12436449,Away,Callum Hudson-Odoi,M,14,177,England,973555200,False,26,22,6.8
-12436449,Away,Chris Wood,F,11,191,New Zealand,692064000,False,6,3,7.3
-12436449,Away,Morato,D,4,190,Brazil,993859200,True,5,4,6.7
-12436449,Away,Nicolás Domínguez,M,16,179,Argentina,898992000,True,4,2,6.6
-12436449,Away,Anthony Elanga,M,21,178,Sweden,1019865600,True,2,1,6.7
-12436449,Away,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,2,Unknown,Unknown
-12436449,Away,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown
-12436449,Away,Harry Toffolo,D,15,183,England,808790400,True,Unknown,Unknown,Unknown
-12436449,Away,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown
-12436449,Away,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown
-12436449,Away,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436449,Home,André Onana,G,24,190,Cameroon,828403200,False,37,33,5.1,Unknown,Unknown
+12436449,Home,Leny Yoro,D,15,190,France,1131840000,False,44,42,6.2,Unknown,Unknown
+12436449,Home,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,69,60,6.4,Unknown,Unknown
+12436449,Home,Lisandro Martínez,D,6,175,Argentina,885081600,False,90,84,6.5,Unknown,Unknown
+12436449,Home,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,44,37,7.2,Unknown,Unknown
+12436449,Home,Kobbie Mainoo,M,37,180,England,1113868800,False,51,47,6.9,Unknown,Unknown
+12436449,Home,Manuel Ugarte,M,25,182,Uruguay,986947200,False,47,44,7.3,Unknown,Unknown
+12436449,Home,Diogo Dalot,D,20,184,Portugal,921715200,False,46,38,7.4,Unknown,Unknown
+12436449,Home,Bruno Fernandes,M,8,179,Portugal,778982400,False,48,36,7.5,Unknown,Unknown
+12436449,Home,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,21,20,7.1,Unknown,Unknown
+12436449,Home,Rasmus Højlund,F,9,191,Denmark,1044316800,False,16,15,6.9,Unknown,Unknown
+12436449,Home,Marcus Rashford,M,9,184,England,878256000,True,16,13,6.9,Unknown,Unknown
+12436449,Home,Harry Maguire,D,5,194,England,731289600,True,35,28,6.9,Unknown,Unknown
+12436449,Home,Noussair Mazraoui,D,3,183,Morocco,879465600,True,21,18,6.9,Unknown,Unknown
+12436449,Home,Mason Mount,M,7,181,England,915926400,True,6,5,6.5,Unknown,Unknown
+12436449,Home,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,10,8,6.5,Unknown,Unknown
+12436449,Home,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Home,Tyrell Malacia,D,3,169,Netherlands,934848000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Home,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Home,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,Matz Sels,G,26,188,Belgium,699062400,False,31,8,7.1,Unknown,Unknown
+12436449,Away,Ola Aina,D,34,182,Nigeria,844732800,False,25,20,6.8,Unknown,Unknown
+12436449,Away,Nikola Milenković,D,31,195,Serbia,876614400,False,14,8,7.6,Unknown,Unknown
+12436449,Away,Murillo,D,5,183,Brazil,1025740800,False,15,11,6.6,Unknown,Unknown
+12436449,Away,Neco Williams,D,7,183,Wales,987120000,False,14,10,6.5,Unknown,Unknown
+12436449,Away,Elliot Anderson,M,8,175,England,1036540800,False,24,16,6.8,Unknown,Unknown
+12436449,Away,Ryan Yates,M,22,190,England,880070400,False,28,23,6.7,Unknown,Unknown
+12436449,Away,Jota Silva,F,20,179,Portugal,933465600,False,15,11,6.7,Unknown,Unknown
+12436449,Away,Morgan Gibbs-White,M,10,171,England,948931200,False,31,19,7.8,Unknown,Unknown
+12436449,Away,Callum Hudson-Odoi,M,14,177,England,973555200,False,26,22,6.8,Unknown,Unknown
+12436449,Away,Chris Wood,F,11,191,New Zealand,692064000,False,6,3,7.3,Unknown,Unknown
+12436449,Away,Morato,D,4,190,Brazil,993859200,True,5,4,6.7,Unknown,Unknown
+12436449,Away,Nicolás Domínguez,M,16,179,Argentina,898992000,True,4,2,6.6,Unknown,Unknown
+12436449,Away,Anthony Elanga,M,21,178,Sweden,1019865600,True,2,1,6.7,Unknown,Unknown
+12436449,Away,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,2,Unknown,Unknown,Unknown,Unknown
+12436449,Away,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,Harry Toffolo,D,15,183,England,808790400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown,Unknown,Unknown

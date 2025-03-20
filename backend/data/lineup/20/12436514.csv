@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436514,Home,Alisson,G,1,191,Brazil,717984000,False,22,20,6.8
-12436514,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,63,47,6.6
-12436514,Home,Ibrahima Konaté,D,5,195,France,927590400,False,63,50,7.6
-12436514,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,42,37,6.8
-12436514,Home,Andrew Robertson,D,26,178,Scotland,763344000,False,47,41,6.8
-12436514,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,59,51,7.2
-12436514,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,49,41,7.4
-12436514,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,31,24,7.7
-12436514,Home,Curtis Jones,M,17,185,England,980812800,False,29,26,6.5
-12436514,Home,Cody Gakpo,F,18,193,Netherlands,926035200,False,9,7,7
-12436514,Home,Luis Díaz,F,7,178,Colombia,853113600,False,12,10,6.7
-12436514,Home,Darwin Núñez,F,9,188,Uruguay,930182400,True,Unknown,Unknown,6.6
-12436514,Home,Diogo Jota,F,20,178,Portugal,849657600,True,5,4,6.5
-12436514,Home,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,3,3,7.1
-12436514,Home,Harvey Elliott,M,19,170,England,1049414400,True,4,3,6.6
-12436514,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown
-12436514,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,Unknown,Unknown,Unknown
-12436514,Home,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown
-12436514,Home,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown
-12436514,Home,Federico Chiesa,F,14,175,Italy,877737600,True,Unknown,Unknown,Unknown
-12436514,Away,André Onana,G,24,190,Cameroon,828403200,False,25,10,7.1
-12436514,Away,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,30,25,6.2
-12436514,Away,Harry Maguire,D,5,194,England,731289600,False,34,26,7
-12436514,Away,Lisandro Martínez,D,6,175,Argentina,885081600,False,30,22,8.1
-12436514,Away,Noussair Mazraoui,D,3,183,Morocco,879465600,False,35,26,6.9
-12436514,Away,Manuel Ugarte,M,25,182,Uruguay,986947200,False,41,36,6.6
-12436514,Away,Kobbie Mainoo,M,37,180,England,1113868800,False,29,22,6.5
-12436514,Away,Diogo Dalot,D,20,184,Portugal,921715200,False,40,29,6.7
-12436514,Away,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,30,28,7.6
-12436514,Away,Bruno Fernandes,M,8,179,Portugal,778982400,False,59,42,8.4
-12436514,Away,Rasmus Højlund,F,9,191,Denmark,1044316800,False,9,6,6.4
-12436514,Away,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,7,6,6.7
-12436514,Away,Leny Yoro,D,15,190,France,1131840000,True,6,6,6.7
-12436514,Away,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,8,3,6.9
-12436514,Away,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown
-12436514,Away,Tyrell Malacia,D,3,169,Netherlands,934848000,True,Unknown,Unknown,Unknown
-12436514,Away,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown
-12436514,Away,Toby Collyer,M,43,180,England,1073088000,True,Unknown,Unknown,Unknown
-12436514,Away,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown
-12436514,Away,Antony,F,7,172,Brazil,951350400,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436514,Home,Alisson,G,1,191,Brazil,717984000,False,22,20,6.8,Unknown,Unknown
+12436514,Home,Trent Alexander-Arnold,D,66,180,England,907718400,False,63,47,6.6,Unknown,Unknown
+12436514,Home,Ibrahima Konaté,D,5,195,France,927590400,False,63,50,7.6,Unknown,Unknown
+12436514,Home,Virgil van Dijk,D,4,193,Netherlands,678931200,False,42,37,6.8,Unknown,Unknown
+12436514,Home,Andrew Robertson,D,26,178,Scotland,763344000,False,47,41,6.8,Unknown,Unknown
+12436514,Home,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,59,51,7.2,Unknown,Unknown
+12436514,Home,Alexis Mac Allister,M,10,176,Argentina,914457600,False,49,41,7.4,Unknown,Unknown
+12436514,Home,Mohamed Salah,M,11,175,Egypt,708566400,False,31,24,7.7,Unknown,Unknown
+12436514,Home,Curtis Jones,M,17,185,England,980812800,False,29,26,6.5,Unknown,Unknown
+12436514,Home,Cody Gakpo,F,18,193,Netherlands,926035200,False,9,7,7,Unknown,Unknown
+12436514,Home,Luis Díaz,F,7,178,Colombia,853113600,False,12,10,6.7,Unknown,Unknown
+12436514,Home,Darwin Núñez,F,9,188,Uruguay,930182400,True,Unknown,Unknown,6.6,Unknown,Unknown
+12436514,Home,Diogo Jota,F,20,178,Portugal,849657600,True,5,4,6.5,Unknown,Unknown
+12436514,Home,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,3,3,7.1,Unknown,Unknown
+12436514,Home,Harvey Elliott,M,19,170,England,1049414400,True,4,3,6.6,Unknown,Unknown
+12436514,Home,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Home,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Home,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Home,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Home,Federico Chiesa,F,14,175,Italy,877737600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Away,André Onana,G,24,190,Cameroon,828403200,False,25,10,7.1,Unknown,Unknown
+12436514,Away,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,30,25,6.2,Unknown,Unknown
+12436514,Away,Harry Maguire,D,5,194,England,731289600,False,34,26,7,Unknown,Unknown
+12436514,Away,Lisandro Martínez,D,6,175,Argentina,885081600,False,30,22,8.1,Unknown,Unknown
+12436514,Away,Noussair Mazraoui,D,3,183,Morocco,879465600,False,35,26,6.9,Unknown,Unknown
+12436514,Away,Manuel Ugarte,M,25,182,Uruguay,986947200,False,41,36,6.6,Unknown,Unknown
+12436514,Away,Kobbie Mainoo,M,37,180,England,1113868800,False,29,22,6.5,Unknown,Unknown
+12436514,Away,Diogo Dalot,D,20,184,Portugal,921715200,False,40,29,6.7,Unknown,Unknown
+12436514,Away,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,30,28,7.6,Unknown,Unknown
+12436514,Away,Bruno Fernandes,M,8,179,Portugal,778982400,False,59,42,8.4,Unknown,Unknown
+12436514,Away,Rasmus Højlund,F,9,191,Denmark,1044316800,False,9,6,6.4,Unknown,Unknown
+12436514,Away,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,7,6,6.7,Unknown,Unknown
+12436514,Away,Leny Yoro,D,15,190,France,1131840000,True,6,6,6.7,Unknown,Unknown
+12436514,Away,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,8,3,6.9,Unknown,Unknown
+12436514,Away,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Away,Tyrell Malacia,D,3,169,Netherlands,934848000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Away,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Away,Toby Collyer,M,43,180,England,1073088000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Away,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436514,Away,Antony,F,7,172,Brazil,951350400,True,Unknown,Unknown,Unknown,Unknown,Unknown

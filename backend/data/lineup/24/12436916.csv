@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436916,Home,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,False,35,26,6.3
-12436916,Home,Kristoffer Ajer,D,20,196,Norway,892771200,False,43,33,7
-12436916,Home,Nathan Collins,D,22,193,Ireland,988588800,False,60,52,6.9
-12436916,Home,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,72,63,7
-12436916,Home,Keane Lewis-Potter,F,23,170,England,982800000,False,53,41,7
-12436916,Home,Christian Nørgaard,M,6,185,Denmark,763257600,False,44,37,6.8
-12436916,Home,Vitaly Janelt,M,27,184,Germany,894758400,False,34,31,7
-12436916,Home,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,34,24,7.2
-12436916,Home,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,41,35,7.6
-12436916,Home,Kevin Schade,F,7,183,Germany,1006819200,False,22,16,7.7
-12436916,Home,Yoane Wissa,F,11,176,DR Congo,841708800,False,8,7,6.7
-12436916,Home,Mathias Jensen,M,8,180,Denmark,820454400,True,17,16,6.8
-12436916,Home,Michael Kayode,D,33,179,Italy,1089417600,True,7,5,6.8
-12436916,Home,Fabio Carvalho,F,14,170,Portugal,1030665600,True,5,3,6.7
-12436916,Home,Julian Eyestone,G,41,198,USA,1145577600,True,Unknown,Unknown,Unknown
-12436916,Home,Ethan Pinnock,D,5,194,Jamaica,738633600,True,Unknown,Unknown,Unknown
-12436916,Home,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown
-12436916,Home,Edmond-Paris Maghoma,M,32,178,England,989280000,True,Unknown,Unknown,Unknown
-12436916,Home,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,Unknown,Unknown,Unknown
-12436916,Home,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown
-12436916,Away,Antonín Kinský,G,31,190,Czechia,1047513600,False,31,19,7.4
-12436916,Away,Pedro Porro,D,23,173,Spain,937180800,False,43,30,7.2
-12436916,Away,Archie Gray,D,14,187,England,1142121600,False,51,44,7.3
-12436916,Away,Ben Davies,D,33,181,Wales,735609600,False,62,55,7.3
-12436916,Away,Djed Spence,D,24,184,England,965779200,False,37,31,8.3
-12436916,Away,Yves Bissouma,M,8,181,Mali,841363200,False,33,30,7.2
-12436916,Away,Rodrigo Bentancur,M,30,187,Uruguay,867196800,False,53,48,7.7
-12436916,Away,Mikey Moore,F,11,180,England,1186790400,False,15,15,6.5
-12436916,Away,Dejan Kulusevski,M,21,186,Sweden,956620800,False,26,21,7
-12436916,Away,Heung-min Son,F,7,184,South Korea,710553600,False,30,24,7.4
-12436916,Away,Richarlison,F,9,184,Brazil,863222400,False,19,11,6.5
-12436916,Away,Lucas Bergvall,M,15,186,Sweden,1138838400,True,17,16,6.7
-12436916,Away,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,13,11,7.4
-12436916,Away,Dane Scarlett,F,44,180,England,1080086400,True,2,1,6.5
-12436916,Away,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown
-12436916,Away,Sergio Reguilón,D,3,178,Spain,850694400,True,Unknown,Unknown,Unknown
-12436916,Away,Malachi Hardy,D,2,188,England,1205107200,True,Unknown,Unknown,Unknown
-12436916,Away,Dante Cassanova,D,6,Unknown,England,1087776000,True,Unknown,Unknown,Unknown
-12436916,Away,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown
-12436916,Away,Oyindamola Ajayi,F,7,176,England,1135641600,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436916,Home,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,False,35,26,6.3,Unknown,Unknown
+12436916,Home,Kristoffer Ajer,D,20,196,Norway,892771200,False,43,33,7,Unknown,Unknown
+12436916,Home,Nathan Collins,D,22,193,Ireland,988588800,False,60,52,6.9,Unknown,Unknown
+12436916,Home,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,72,63,7,Unknown,Unknown
+12436916,Home,Keane Lewis-Potter,F,23,170,England,982800000,False,53,41,7,Unknown,Unknown
+12436916,Home,Christian Nørgaard,M,6,185,Denmark,763257600,False,44,37,6.8,Unknown,Unknown
+12436916,Home,Vitaly Janelt,M,27,184,Germany,894758400,False,34,31,7,Unknown,Unknown
+12436916,Home,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,34,24,7.2,Unknown,Unknown
+12436916,Home,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,41,35,7.6,Unknown,Unknown
+12436916,Home,Kevin Schade,F,7,183,Germany,1006819200,False,22,16,7.7,Unknown,Unknown
+12436916,Home,Yoane Wissa,F,11,176,DR Congo,841708800,False,8,7,6.7,Unknown,Unknown
+12436916,Home,Mathias Jensen,M,8,180,Denmark,820454400,True,17,16,6.8,Unknown,Unknown
+12436916,Home,Michael Kayode,D,33,179,Italy,1089417600,True,7,5,6.8,Unknown,Unknown
+12436916,Home,Fabio Carvalho,F,14,170,Portugal,1030665600,True,5,3,6.7,Unknown,Unknown
+12436916,Home,Julian Eyestone,G,41,198,USA,1145577600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Home,Ethan Pinnock,D,5,194,Jamaica,738633600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Home,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Home,Edmond-Paris Maghoma,M,32,178,England,989280000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Home,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Home,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Away,Antonín Kinský,G,31,190,Czechia,1047513600,False,31,19,7.4,Unknown,Unknown
+12436916,Away,Pedro Porro,D,23,173,Spain,937180800,False,43,30,7.2,Unknown,Unknown
+12436916,Away,Archie Gray,D,14,187,England,1142121600,False,51,44,7.3,Unknown,Unknown
+12436916,Away,Ben Davies,D,33,181,Wales,735609600,False,62,55,7.3,Unknown,Unknown
+12436916,Away,Djed Spence,D,24,184,England,965779200,False,37,31,8.3,Unknown,Unknown
+12436916,Away,Yves Bissouma,M,8,181,Mali,841363200,False,33,30,7.2,Unknown,Unknown
+12436916,Away,Rodrigo Bentancur,M,30,187,Uruguay,867196800,False,53,48,7.7,Unknown,Unknown
+12436916,Away,Mikey Moore,F,11,180,England,1186790400,False,15,15,6.5,Unknown,Unknown
+12436916,Away,Dejan Kulusevski,M,21,186,Sweden,956620800,False,26,21,7,Unknown,Unknown
+12436916,Away,Heung-min Son,F,7,184,South Korea,710553600,False,30,24,7.4,Unknown,Unknown
+12436916,Away,Richarlison,F,9,184,Brazil,863222400,False,19,11,6.5,Unknown,Unknown
+12436916,Away,Lucas Bergvall,M,15,186,Sweden,1138838400,True,17,16,6.7,Unknown,Unknown
+12436916,Away,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,13,11,7.4,Unknown,Unknown
+12436916,Away,Dane Scarlett,F,44,180,England,1080086400,True,2,1,6.5,Unknown,Unknown
+12436916,Away,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Away,Sergio Reguilón,D,3,178,Spain,850694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Away,Malachi Hardy,D,2,188,England,1205107200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Away,Dante Cassanova,D,6,Unknown,England,1087776000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Away,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436916,Away,Oyindamola Ajayi,F,7,176,England,1135641600,True,Unknown,Unknown,Unknown,Unknown,Unknown

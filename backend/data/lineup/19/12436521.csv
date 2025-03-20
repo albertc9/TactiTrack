@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436521,Home,Fraser Forster,G,20,201,England,574560000,False,21,13,6.4
-12436521,Home,Pedro Porro,D,23,173,Spain,937180800,False,44,24,7.3
-12436521,Home,Radu Drăguşin,D,6,191,Romania,1012694400,False,50,40,6.3
-12436521,Home,Archie Gray,D,14,187,England,1142121600,False,66,60,6.6
-12436521,Home,Destiny Udogie,D,13,186,Italy,1038441600,False,27,23,6.9
-12436521,Home,Yves Bissouma,M,8,181,Mali,841363200,False,24,19,6.4
-12436521,Home,Rodrigo Bentancur,M,30,187,Uruguay,867196800,False,45,35,7.2
-12436521,Home,Brennan Johnson,F,22,186,Wales,990576000,False,9,5,7.9
-12436521,Home,Dejan Kulusevski,M,21,186,Sweden,956620800,False,23,17,7
-12436521,Home,Heung-min Son,F,7,184,South Korea,710553600,False,17,15,6.4
-12436521,Home,Dominic Solanke,F,19,186,England,874195200,False,21,17,6.8
-12436521,Home,Sergio Reguilón,D,3,178,Spain,850694400,True,26,17,6.6
-12436521,Home,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,13,11,6.7
-12436521,Home,James Maddison,M,10,175,England,848707200,True,15,13,6.7
-12436521,Home,Timo Werner,F,16,180,Germany,826070400,True,14,11,6.9
-12436521,Home,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown
-12436521,Home,Alfie Dorrington,D,26,192,England,1113955200,True,Unknown,Unknown,Unknown
-12436521,Home,Lucas Bergvall,M,15,186,Sweden,1138838400,True,Unknown,Unknown,Unknown
-12436521,Home,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown
-12436521,Home,Will Lankshear,F,19,189,England,1113955200,True,Unknown,Unknown,Unknown
-12436521,Away,José Sá,G,1,192,Portugal,727228800,False,35,15,6.8
-12436521,Away,Matt Doherty,D,2,182,Ireland,695520000,False,53,45,6.4
-12436521,Away,Santiago Bueno,D,4,189,Uruguay,910569600,False,40,35,6.8
-12436521,Away,Craig Dawson,D,15,188,England,641952000,False,43,37,6.6
-12436521,Away,Nélson Semedo,M,22,177,Portugal,753408000,False,30,22,6.6
-12436521,Away,André,M,7,176,Brazil,995241600,False,30,28,6.2
-12436521,Away,João Gomes,M,8,176,Brazil,981936000,False,60,53,7.2
-12436521,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,57,48,8.6
-12436521,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,15,14,6.4
-12436521,Away,Matheus Cunha,F,10,184,Brazil,927763200,False,28,17,6.9
-12436521,Away,Hee-Chan Hwang,F,11,177,South Korea,822614400,False,18,16,7.1
-12436521,Away,Jørgen Strand Larsen,F,9,193,Norway,949795200,True,6,4,7.1
-12436521,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,True,13,11,6.5
-12436521,Away,Tommy Doyle,M,20,172,England,1003276800,True,19,14,6.2
-12436521,Away,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,2,1,6.8
-12436521,Away,Carlos Forbs,F,26,169,Portugal,1079654400,True,8,6,6.7
-12436521,Away,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown
-12436521,Away,Bastien Meupiyou,D,6,191,France,1142726400,True,Unknown,Unknown,Unknown
-12436521,Away,Pedro Lima,D,37,174,Brazil,1151712000,True,Unknown,Unknown,Unknown
-12436521,Away,Alfie Pond,D,5,191,England,1076544000,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436521,Home,Fraser Forster,G,20,201,England,574560000,False,21,13,6.4,Unknown,Unknown
+12436521,Home,Pedro Porro,D,23,173,Spain,937180800,False,44,24,7.3,Unknown,Unknown
+12436521,Home,Radu Drăguşin,D,6,191,Romania,1012694400,False,50,40,6.3,Unknown,Unknown
+12436521,Home,Archie Gray,D,14,187,England,1142121600,False,66,60,6.6,Unknown,Unknown
+12436521,Home,Destiny Udogie,D,13,186,Italy,1038441600,False,27,23,6.9,Unknown,Unknown
+12436521,Home,Yves Bissouma,M,8,181,Mali,841363200,False,24,19,6.4,Unknown,Unknown
+12436521,Home,Rodrigo Bentancur,M,30,187,Uruguay,867196800,False,45,35,7.2,Unknown,Unknown
+12436521,Home,Brennan Johnson,F,22,186,Wales,990576000,False,9,5,7.9,Unknown,Unknown
+12436521,Home,Dejan Kulusevski,M,21,186,Sweden,956620800,False,23,17,7,Unknown,Unknown
+12436521,Home,Heung-min Son,F,7,184,South Korea,710553600,False,17,15,6.4,Unknown,Unknown
+12436521,Home,Dominic Solanke,F,19,186,England,874195200,False,21,17,6.8,Unknown,Unknown
+12436521,Home,Sergio Reguilón,D,3,178,Spain,850694400,True,26,17,6.6,Unknown,Unknown
+12436521,Home,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,13,11,6.7,Unknown,Unknown
+12436521,Home,James Maddison,M,10,175,England,848707200,True,15,13,6.7,Unknown,Unknown
+12436521,Home,Timo Werner,F,16,180,Germany,826070400,True,14,11,6.9,Unknown,Unknown
+12436521,Home,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Home,Alfie Dorrington,D,26,192,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Home,Lucas Bergvall,M,15,186,Sweden,1138838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Home,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Home,Will Lankshear,F,19,189,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Away,José Sá,G,1,192,Portugal,727228800,False,35,15,6.8,Unknown,Unknown
+12436521,Away,Matt Doherty,D,2,182,Ireland,695520000,False,53,45,6.4,Unknown,Unknown
+12436521,Away,Santiago Bueno,D,4,189,Uruguay,910569600,False,40,35,6.8,Unknown,Unknown
+12436521,Away,Craig Dawson,D,15,188,England,641952000,False,43,37,6.6,Unknown,Unknown
+12436521,Away,Nélson Semedo,M,22,177,Portugal,753408000,False,30,22,6.6,Unknown,Unknown
+12436521,Away,André,M,7,176,Brazil,995241600,False,30,28,6.2,Unknown,Unknown
+12436521,Away,João Gomes,M,8,176,Brazil,981936000,False,60,53,7.2,Unknown,Unknown
+12436521,Away,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,57,48,8.6,Unknown,Unknown
+12436521,Away,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,15,14,6.4,Unknown,Unknown
+12436521,Away,Matheus Cunha,F,10,184,Brazil,927763200,False,28,17,6.9,Unknown,Unknown
+12436521,Away,Hee-Chan Hwang,F,11,177,South Korea,822614400,False,18,16,7.1,Unknown,Unknown
+12436521,Away,Jørgen Strand Larsen,F,9,193,Norway,949795200,True,6,4,7.1,Unknown,Unknown
+12436521,Away,Gonçalo Guedes,F,29,179,Portugal,849225600,True,13,11,6.5,Unknown,Unknown
+12436521,Away,Tommy Doyle,M,20,172,England,1003276800,True,19,14,6.2,Unknown,Unknown
+12436521,Away,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,2,1,6.8,Unknown,Unknown
+12436521,Away,Carlos Forbs,F,26,169,Portugal,1079654400,True,8,6,6.7,Unknown,Unknown
+12436521,Away,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Away,Bastien Meupiyou,D,6,191,France,1142726400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Away,Pedro Lima,D,37,174,Brazil,1151712000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436521,Away,Alfie Pond,D,5,191,England,1076544000,True,Unknown,Unknown,Unknown,Unknown,Unknown

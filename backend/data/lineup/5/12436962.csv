@@ -1,41 +1,41 @@
-Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating
-12436962,Home,Dean Henderson,G,1,188,England,858124800,False,37,18,8.9
-12436962,Home,Maxence Lacroix,D,5,192,France,954979200,False,28,22,7.2
-12436962,Home,Marc Guéhi,D,5,182,England,963446400,False,38,30,7.4
-12436962,Home,Chris Richards,D,26,188,USA,954201600,False,31,24,7.3
-12436962,Home,Daniel Muñoz,M,23,183,Colombia,833068800,False,25,19,6.9
-12436962,Home,Adam Wharton,M,20,182,England,1076025600,False,15,12,6.6
-12436962,Home,Daichi Kamada,M,18,184,Japan,839203200,False,35,23,6.9
-12436962,Home,Tyrick Mitchell,M,3,174,England,936144000,False,26,16,7.2
-12436962,Home,Edward Nketiah,F,9,175,England,928022400,False,9,8,6.9
-12436962,Home,Eberechi Eze,F,10,178,England,899078400,False,26,19,6
-12436962,Home,Jean-Philippe Mateta,F,14,192,France,867456000,False,7,4,6.6
-12436962,Home,Jefferson Lerma,M,8,179,Colombia,783043200,True,14,9,6.8
-12436962,Home,Ismaïla Sarr,F,23,185,Senegal,888364800,True,14,10,7
-12436962,Home,Will Hughes,M,19,185,England,798076800,True,7,6,6.6
-12436962,Home,Jeffrey Schlupp,M,15,178,Ghana,725068800,True,1,1,Unknown
-12436962,Home,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown
-12436962,Home,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown
-12436962,Home,Joel Ward,D,2,188,England,625622400,True,Unknown,Unknown,Unknown
-12436962,Home,Franco Umeh,F,7,185,Ireland,1106697600,True,Unknown,Unknown,Unknown
-12436962,Home,Asher Agbinone,F,28,Unknown,England,1127865600,True,Unknown,Unknown,Unknown
-12436962,Away,André Onana,G,24,190,Cameroon,828403200,False,41,34,7.6
-12436962,Away,Noussair Mazraoui,D,3,183,Morocco,879465600,False,67,54,7.1
-12436962,Away,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,83,78,7.5
-12436962,Away,Lisandro Martínez,D,6,175,Argentina,885081600,False,111,96,7
-12436962,Away,Diogo Dalot,D,20,184,Portugal,921715200,False,58,53,7.9
-12436962,Away,Kobbie Mainoo,M,37,180,England,1113868800,False,42,38,6.9
-12436962,Away,Christian Eriksen,M,14,182,Denmark,698025600,False,59,52,7.3
-12436962,Away,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,33,27,6.6
-12436962,Away,Bruno Fernandes,M,8,179,Portugal,778982400,False,82,60,7.8
-12436962,Away,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,20,19,6
-12436962,Away,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,16,15,7.3
-12436962,Away,Marcus Rashford,M,9,184,England,878256000,True,10,6,6.6
-12436962,Away,Manuel Ugarte,M,25,182,Uruguay,986947200,True,14,13,6.5
-12436962,Away,Rasmus Højlund,F,9,191,Denmark,1044316800,True,3,2,6.5
-12436962,Away,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown
-12436962,Away,Jonny Evans,D,35,188,Northern Ireland,568166400,True,Unknown,Unknown,Unknown
-12436962,Away,Harry Maguire,D,5,194,England,731289600,True,Unknown,Unknown,Unknown
-12436962,Away,Mason Mount,M,7,181,England,915926400,True,Unknown,Unknown,Unknown
-12436962,Away,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown
-12436962,Away,Antony,F,7,172,Brazil,951350400,True,Unknown,Unknown,Unknown
+Match ID,Team,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436962,Home,Dean Henderson,G,1,188,England,858124800,False,37,18,8.9,Unknown,Unknown
+12436962,Home,Maxence Lacroix,D,5,192,France,954979200,False,28,22,7.2,Unknown,Unknown
+12436962,Home,Marc Guéhi,D,5,182,England,963446400,False,38,30,7.4,Unknown,Unknown
+12436962,Home,Chris Richards,D,26,188,USA,954201600,False,31,24,7.3,Unknown,Unknown
+12436962,Home,Daniel Muñoz,M,23,183,Colombia,833068800,False,25,19,6.9,Unknown,Unknown
+12436962,Home,Adam Wharton,M,20,182,England,1076025600,False,15,12,6.6,Unknown,Unknown
+12436962,Home,Daichi Kamada,M,18,184,Japan,839203200,False,35,23,6.9,Unknown,Unknown
+12436962,Home,Tyrick Mitchell,M,3,174,England,936144000,False,26,16,7.2,Unknown,Unknown
+12436962,Home,Edward Nketiah,F,9,175,England,928022400,False,9,8,6.9,Unknown,Unknown
+12436962,Home,Eberechi Eze,F,10,178,England,899078400,False,26,19,6,Unknown,Unknown
+12436962,Home,Jean-Philippe Mateta,F,14,192,France,867456000,False,7,4,6.6,Unknown,Unknown
+12436962,Home,Jefferson Lerma,M,8,179,Colombia,783043200,True,14,9,6.8,Unknown,Unknown
+12436962,Home,Ismaïla Sarr,F,23,185,Senegal,888364800,True,14,10,7,Unknown,Unknown
+12436962,Home,Will Hughes,M,19,185,England,798076800,True,7,6,6.6,Unknown,Unknown
+12436962,Home,Jeffrey Schlupp,M,15,178,Ghana,725068800,True,1,1,Unknown,Unknown,Unknown
+12436962,Home,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Home,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Home,Joel Ward,D,2,188,England,625622400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Home,Franco Umeh,F,7,185,Ireland,1106697600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Home,Asher Agbinone,F,28,Unknown,England,1127865600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Away,André Onana,G,24,190,Cameroon,828403200,False,41,34,7.6,Unknown,Unknown
+12436962,Away,Noussair Mazraoui,D,3,183,Morocco,879465600,False,67,54,7.1,Unknown,Unknown
+12436962,Away,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,83,78,7.5,Unknown,Unknown
+12436962,Away,Lisandro Martínez,D,6,175,Argentina,885081600,False,111,96,7,Unknown,Unknown
+12436962,Away,Diogo Dalot,D,20,184,Portugal,921715200,False,58,53,7.9,Unknown,Unknown
+12436962,Away,Kobbie Mainoo,M,37,180,England,1113868800,False,42,38,6.9,Unknown,Unknown
+12436962,Away,Christian Eriksen,M,14,182,Denmark,698025600,False,59,52,7.3,Unknown,Unknown
+12436962,Away,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,33,27,6.6,Unknown,Unknown
+12436962,Away,Bruno Fernandes,M,8,179,Portugal,778982400,False,82,60,7.8,Unknown,Unknown
+12436962,Away,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,20,19,6,Unknown,Unknown
+12436962,Away,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,16,15,7.3,Unknown,Unknown
+12436962,Away,Marcus Rashford,M,9,184,England,878256000,True,10,6,6.6,Unknown,Unknown
+12436962,Away,Manuel Ugarte,M,25,182,Uruguay,986947200,True,14,13,6.5,Unknown,Unknown
+12436962,Away,Rasmus Højlund,F,9,191,Denmark,1044316800,True,3,2,6.5,Unknown,Unknown
+12436962,Away,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Away,Jonny Evans,D,35,188,Northern Ireland,568166400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Away,Harry Maguire,D,5,194,England,731289600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Away,Mason Mount,M,7,181,England,915926400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Away,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436962,Away,Antony,F,7,172,Brazil,951350400,True,Unknown,Unknown,Unknown,Unknown,Unknown
