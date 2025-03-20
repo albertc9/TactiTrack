@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436507,Home,19314,Fraser Forster,G,20,201,England,574560000,False,16,8,7.55,Unknown,Unknown
-12436507,Home,913654,Pedro Porro,D,23,173,Spain,937180800,False,44,32,5.86,Unknown,Unknown
-12436507,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,True,20,82,6.29,Unknown,Unknown
-12436507,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,112,2,6.67,Unknown,Unknown
-12436507,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,34,26,6.84,Unknown,Unknown
-12436507,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,32,24,7.63,Unknown,Unknown
-12436507,Home,1142335,Archie Gray,D,14,187,England,1142121600,False,2,6,5.34,Unknown,Unknown
-12436507,Home,1391825,Will Lankshear,F,19,189,England,1113955200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Home,859896,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,19314,Fraser Forster,G,20,201,England,574560000,True,16,20,6.2,Unknown,Unknown
+12436507,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,72,62,7.85,Unknown,Unknown
+12436507,Home,356398,James Maddison,M,10,175,England,848707200,True,26,34,6,Unknown,Unknown
+12436507,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,32,14,7.82,Unknown,Unknown
+12436507,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,True,10,0,8,Unknown,Unknown
+12436507,Home,1142335,Archie Gray,D,14,187,England,1142121600,False,2,2,6.71,Unknown,Unknown
+12436507,Home,858195,Sergio Reguilón,D,3,178,Spain,850694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,945798,Djed Spence,D,24,184,England,965779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436507,Home,1403190,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Away,861972,Calvin Bassey,D,3,185,Nigeria,946598400,False,76,64,5.76,Unknown,Unknown
-12436507,Away,803174,Antonee Robinson,D,33,183,USA,870998400,True,0,48,6.3,Unknown,Unknown
-12436507,Away,867445,Emile Smith Rowe,M,32,182,England,964742400,False,46,66,6,Unknown,Unknown
-12436507,Away,826139,Reiss Nelson,F,19,175,England,944784000,True,74,18,8.27,Unknown,Unknown
-12436507,Away,192442,Raúl Jiménez,F,7,189,Mexico,673401600,True,34,12,6.44,Unknown,Unknown
-12436507,Away,82566,Tom Cairney,M,10,185,Scotland,664329600,True,26,6,6.81,Unknown,Unknown
-12436507,Away,355528,Harry Wilson,M,8,173,Wales,858988800,True,26,4,7.42,Unknown,Unknown
-12436507,Away,1015256,Rodrigo Muniz,F,9,184,Brazil,988934400,False,4,2,6.68,Unknown,Unknown
-12436507,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,True,2,0,6.19,Unknown,Unknown
-12436507,Away,1546231,Joshua King,D,24,172,England,1167782400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,1471591,Luca Williams-Barnett,M,10,175,England,1208563200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Away,190877,Kenny Tete,D,2,180,Netherlands,813196800,False,72,44,8.97,Unknown,Unknown
+12436507,Away,861972,Calvin Bassey,D,3,185,Nigeria,946598400,False,86,12,7.58,Unknown,Unknown
+12436507,Away,371222,Saša Lukić,M,20,183,Serbia,839894400,True,36,26,6.68,Unknown,Unknown
+12436507,Away,793167,Sander Berge,M,16,195,Norway,887414400,False,8,90,7.84,Unknown,Unknown
+12436507,Away,352770,Alex Iwobi,M,17,183,Nigeria,831081600,True,26,42,8.35,Unknown,Unknown
+12436507,Away,867445,Emile Smith Rowe,M,32,182,England,964742400,False,14,4,0,Unknown,Unknown
+12436507,Away,192442,Raúl Jiménez,F,7,189,Mexico,673401600,False,18,4,5.48,Unknown,Unknown
+12436507,Away,82566,Tom Cairney,M,10,185,Scotland,664329600,False,8,18,6.34,Unknown,Unknown
+12436507,Away,355528,Harry Wilson,M,8,173,Wales,858988800,True,0,0,8.26,Unknown,Unknown
+12436507,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,False,0,0,6.19,Unknown,Unknown
