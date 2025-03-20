@@ -2,11 +2,10 @@ import os
 import requests
 import pandas as pd
 import time
+import hashlib
 
 # 赛季 ID
 SEASON_ID = "61627"
-# 轮次范围
-ROUNDS = range(1, 39)
 # 目标文件夹
 SAVE_DIR = f"backend/round/{SEASON_ID}"
 os.makedirs(SAVE_DIR, exist_ok=True)
@@ -21,8 +20,8 @@ def fetch_data(round_number):
     """获取指定轮次的比赛数据"""
     url = API_URL_TEMPLATE.format(SEASON_ID, round_number)
     try:
-        response = requests.get(url, timeout=10)  # 添加超时控制
-        response.raise_for_status()  # 如果状态码不是 200，则抛出异常
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"⚠️ Request failed: Round {round_number}, error: {e}")
@@ -52,23 +51,64 @@ def clean_data(data):
 
     return cleaned_data
 
-def save_to_csv(data, round_number):
-    """将比赛数据保存为 CSV"""
-    file_path = os.path.join(SAVE_DIR, f"{round_number}.csv")
+def calculate_hash(data):
+    """计算数据的哈希值"""
+    return hashlib.md5(pd.DataFrame(data).to_csv(index=False).encode()).hexdigest()
 
-    # 如果 CSV 已存在且非空，跳过此轮
-    if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
-        print(f"✅ Round {round_number} already exists, skipping.")
-        return
+def get_existing_hash(file_path):
+    """获取已存在的 CSV 文件的哈希值"""
+    if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+        return None
+    with open(file_path, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
+
+def save_to_csv(data, round_number):
+    """检查哈希值并决定是否更新 CSV 文件"""
+    file_path = os.path.join(SAVE_DIR, f"{round_number}.csv")
 
     if not data:
         print(f"❌ No data found: Round {round_number}, creating an empty CSV.")
         pd.DataFrame().to_csv(file_path, index=False, encoding="utf-8")
         return
 
-    df = pd.DataFrame(data)
-    df.to_csv(file_path, index=False, encoding="utf-8")
-    print(f"✅ Round {round_number} saved: {file_path}")
+    new_hash = calculate_hash(data)
+    old_hash = get_existing_hash(file_path)
+
+    if old_hash == new_hash:
+        print(f"✅ Round {round_number} data unchanged, skipping update.")
+    else:
+        pd.DataFrame(data).to_csv(file_path, index=False, encoding="utf-8")
+        print(f"🔄 Round {round_number} updated: {file_path}")
+
+def find_not_started_rounds():
+    """扫描 CSV 文件，找出所有包含 Not Started 或 Postponed 状态的轮次"""
+    not_started_rounds = set()
+    
+    for file_name in os.listdir(SAVE_DIR):
+        if not file_name.endswith(".csv"):
+            continue
+
+        round_number = int(file_name.split(".")[0])
+        file_path = os.path.join(SAVE_DIR, file_name)
+        df = pd.read_csv(file_path)
+
+        if "Status" in df.columns and "Round" in df.columns:
+            if any(df["Status"].eq("Not Started")) or any(df["Status"].eq("Postponed")):
+                not_started_rounds.add(round_number)
+
+    return sorted(not_started_rounds)
+
+def compute_update_rounds(not_started_rounds):
+    """基于 Not Started 轮次计算需要更新的轮次（前后 2 轮）"""
+    update_rounds = set()
+
+    for round_number in not_started_rounds:
+        for offset in range(-2, 3):  # 向前2轮，向后2轮
+            new_round = round_number + offset
+            if 1 <= new_round <= 38:  # 限制在 1-38 轮范围内
+                update_rounds.add(new_round)
+
+    return sorted(update_rounds)
 
 def retry_failed_rounds():
     """重试失败的轮次"""
@@ -104,7 +144,14 @@ def retry_failed_rounds():
         print(f"⚠️ Some rounds still failed after retries: {failed_rounds}")
 
 def main():
-    for round_number in ROUNDS:
+    print("🔍 Scanning for Not Started and Postponed rounds...")
+    not_started_rounds = find_not_started_rounds()
+    print(f"📝 Not Started/Postponed Rounds: {not_started_rounds}")
+
+    update_rounds = compute_update_rounds(not_started_rounds)
+    print(f"🔄 Rounds to update: {update_rounds}")
+
+    for round_number in update_rounds:
         print(f"🔄 Fetching round {round_number} data...")
         data = fetch_data(round_number)
         formatted_data = clean_data(data)

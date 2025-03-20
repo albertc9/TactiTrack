@@ -4,8 +4,10 @@ import requests
 import json
 import pandas as pd
 import time
+import hashlib
 
 # 基本路径
+ROUND_DIR = "backend/round/61627"
 LINEUP_DIR = "backend/data/lineup"
 PLAYER_DATA_DIR = "backend/data/match/player"
 API_URL_TEMPLATE = "https://www.sofascore.com/api/v1/event/{match_id}/player/{player_id}/heatmap"
@@ -28,6 +30,50 @@ def fetch_heatmap(match_id, player_id):
     except requests.exceptions.RequestException as e:
         print(f"⚠️ Failed to fetch heatmap: Match {match_id}, Player {player_id} - {e}")
         return None
+
+def calculate_hash(file_path):
+    """计算已有文件的哈希值"""
+    if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+        return None
+    with open(file_path, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
+
+def compute_hash_for_data(data):
+    """计算新数据的哈希值"""
+    return hashlib.md5(str(data).encode()).hexdigest()
+
+def find_not_started_rounds():
+    """扫描 CSV 文件，找出所有包含 Not started 或 Postponed 状态的轮次"""
+    not_started_rounds = set()
+    
+    for file_name in os.listdir(ROUND_DIR):
+        if not file_name.endswith(".csv"):
+            continue
+
+        round_number = int(file_name.split(".")[0])
+        file_path = os.path.join(ROUND_DIR, file_name)
+        
+        with open(file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                status = row.get("Status", "").strip()
+                if status == "Not started" or status == "Postponed":
+                    not_started_rounds.add(round_number)
+                    break  # 只要该轮次中有一场是 Not started/Postponed，就记录该轮
+
+    return sorted(not_started_rounds)
+
+def compute_update_rounds(not_started_rounds):
+    """基于 Not started 轮次计算需要更新的轮次（前后 2 轮）"""
+    update_rounds = set()
+
+    for round_number in not_started_rounds:
+        for offset in range(-2, 3):  # 向前2轮，向后2轮
+            new_round = round_number + offset
+            if 1 <= new_round <= 38:  # 限制在 1-38 轮范围内
+                update_rounds.add(new_round)
+
+    return sorted(update_rounds)
 
 def process_match(round_number, match_id, file_path):
     """处理单场比赛，提取球员 ID 并下载热图数据"""
@@ -63,16 +109,19 @@ def process_match(round_number, match_id, file_path):
             print(f"ℹ️ Player {player_id} (Match {match_id}, Round {round_number}) was a substitute and did not play. Empty file created.")
             continue
 
-        # 如果数据已存在，则跳过
-        if os.path.exists(save_path) and os.path.getsize(save_path) > 0:
-            print(f"🔄 Heatmap already exists: {save_path}")
-            continue
-
         # 获取热图数据
         heatmap_data = fetch_heatmap(match_id, player_id)
         if not heatmap_data or "heatmap" not in heatmap_data:
             print(f"❌ Failed to fetch heatmap for Match {match_id}, Player {player_id}. Adding to retry queue.")
             failed_requests.append((round_number, match_id, player_id))
+            continue
+
+        # 计算哈希值
+        new_hash = compute_hash_for_data(heatmap_data)
+        existing_hash = calculate_hash(save_path)
+
+        if existing_hash == new_hash:
+            print(f"✅ Player {player_id} (Match {match_id}, Round {round_number}) heatmap unchanged, skipping.")
             continue
         
         # 解析并存储
@@ -84,7 +133,7 @@ def process_match(round_number, match_id, file_path):
         # 转换为 DataFrame 并保存
         heatmap_df = pd.DataFrame(heatmap_points)
         heatmap_df.to_csv(save_path, index=False)
-        print(f"✅ Heatmap saved: {save_path}")
+        print(f"🔄 Heatmap updated: {save_path}")
 
 def retry_failed_requests():
     """重试所有失败的热图抓取"""
@@ -124,21 +173,19 @@ def retry_failed_requests():
 
 def main():
     """主函数：遍历所有轮次，处理比赛数据"""
-    for round_folder in range(1, 39):  # 遍历 1-38 轮
+    print("🔍 Scanning for Not started and Postponed rounds...")
+    not_started_rounds = find_not_started_rounds()
+    update_rounds = compute_update_rounds(not_started_rounds)
+
+    for round_folder in update_rounds:
         round_path = os.path.join(LINEUP_DIR, str(round_folder))
         if not os.path.exists(round_path):
-            print(f"⚠️ Skipping Round {round_folder}: Folder not found.")
             continue
 
         for match_file in os.listdir(round_path):
-            if not match_file.endswith(".csv"):
-                continue
+            if match_file.endswith(".csv"):
+                process_match(round_folder, match_file.split(".")[0], os.path.join(round_path, match_file))
 
-            match_id = match_file.split(".")[0]
-            file_path = os.path.join(round_path, match_file)
-            process_match(round_folder, match_id, file_path)
-
-    # 运行完所有比赛后，重新尝试失败的请求
     retry_failed_requests()
 
 if __name__ == "__main__":

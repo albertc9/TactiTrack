@@ -2,6 +2,7 @@ import os
 import csv
 import requests
 import time
+import hashlib
 
 # 设置基本路径
 ROUND_DIR = "backend/round/61627"
@@ -20,12 +21,56 @@ def fetch_lineup(match_id):
     """从API获取阵容数据"""
     url = API_URL_TEMPLATE.format(match_id=match_id)
     try:
-        response = requests.get(url, timeout=10)  # 添加超时时间
-        response.raise_for_status()  # 检查 HTTP 状态码
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"⚠️ 请求失败: {e}")
         return None
+
+def calculate_hash(file_path):
+    """计算已有文件的哈希值"""
+    if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+        return None
+    with open(file_path, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
+
+def compute_hash_for_data(data):
+    """计算新数据的哈希值"""
+    return hashlib.md5(str(data).encode()).hexdigest()
+
+def find_not_started_rounds():
+    """扫描 CSV 文件，找出所有包含 Not started 或 Postponed 状态的轮次"""
+    not_started_rounds = set()
+    
+    for file_name in os.listdir(ROUND_DIR):
+        if not file_name.endswith(".csv"):
+            continue
+
+        round_number = int(file_name.split(".")[0])
+        file_path = os.path.join(ROUND_DIR, file_name)
+        
+        with open(file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                status = row.get("Status", "").strip()
+                if status == "Not started" or status == "Postponed":
+                    not_started_rounds.add(round_number)
+                    break  # 只要该轮次中有一场是 Not started/Postponed，就记录该轮
+
+    return sorted(not_started_rounds)
+
+def compute_update_rounds(not_started_rounds):
+    """基于 Not started 轮次计算需要更新的轮次（前后 2 轮）"""
+    update_rounds = set()
+
+    for round_number in not_started_rounds:
+        for offset in range(-2, 3):  # 向前2轮，向后2轮
+            new_round = round_number + offset
+            if 1 <= new_round <= 38:  # 限制在 1-38 轮范围内
+                update_rounds.add(new_round)
+
+    return sorted(update_rounds)
 
 def process_match(round_number, match_id, status):
     """处理单场比赛的阵容数据"""
@@ -34,11 +79,6 @@ def process_match(round_number, match_id, status):
     
     file_path = os.path.join(round_path, f"{match_id}.csv")
 
-    # 如果文件已经存在，跳过
-    if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
-        print(f"✅ Match {match_id} (Round {round_number}) lineup already exists, skipping.")
-        return
-    
     # 如果比赛尚未开始，创建空文件
     if status != "Ended":
         open(file_path, 'w').close()  # 创建空CSV文件
@@ -51,7 +91,16 @@ def process_match(round_number, match_id, status):
         failed_matches.append((round_number, match_id, status))
         return
     
-    with open(file_path, 'w', newline='') as csvfile:
+    # 计算新数据的哈希值
+    new_hash = compute_hash_for_data(lineup_data)
+    existing_hash = calculate_hash(file_path)
+
+    if existing_hash == new_hash:
+        print(f"✅ Match {match_id} (Round {round_number}) lineup unchanged, skipping.")
+        return
+
+    # 写入新的数据
+    with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(["Match ID", "Team", "Player ID", "Player Name", "Position", "Jersey Number", "Height", "Country", "Date of Birth", "Substitute", "Total Pass", "Accurate Pass", "Rating", "AverageX", "AverageY"])
         
@@ -87,7 +136,7 @@ def process_match(round_number, match_id, status):
                 ]
                 writer.writerow(row)
     
-    print(f"✅ Match {match_id} (Round {round_number}) lineup saved.")
+    print(f"🔄 Match {match_id} (Round {round_number}) lineup updated.")
 
 def retry_failed_matches():
     """重试失败的比赛抓取"""
@@ -123,14 +172,17 @@ def retry_failed_matches():
 
 def main():
     """主函数：遍历所有轮次，获取比赛阵容数据"""
-    for round_file in sorted(os.listdir(ROUND_DIR)):
-        if not round_file.endswith(".csv"):
-            continue
+    print("🔍 Scanning for Not started and Postponed rounds...")
+    not_started_rounds = find_not_started_rounds()
+    print(f"📝 Not started/Postponed Rounds: {not_started_rounds}")
+
+    update_rounds = compute_update_rounds(not_started_rounds)
+    print(f"🔄 Rounds to update: {update_rounds}")
+
+    for round_number in update_rounds:
+        round_path = os.path.join(ROUND_DIR, f"{round_number}.csv")
         
-        round_number = round_file.split(".")[0]
-        round_path = os.path.join(ROUND_DIR, round_file)
-        
-        with open(round_path, 'r') as csvfile:
+        with open(round_path, 'r', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 match_id = row["Match ID"].strip()
