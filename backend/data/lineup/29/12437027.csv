@@ -1,41 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437027,Home,856640,Mads Hermansen,G,30,187,Denmark,963273600,False,33,24,6.1,Unknown,Unknown
-12437027,Home,361696,Wout Faes,D,3,185,Belgium,891561600,False,73,63,6.9,Unknown,Unknown
-12437027,Home,98449,Conor Coady,D,4,184,England,730598400,False,75,71,6.5,Unknown,Unknown
-12437027,Home,991584,Luke Thomas,D,33,178,England,992131200,False,59,50,6.9,Unknown,Unknown
-12437027,Home,827681,James Justin,D,2,183,England,888192000,False,40,30,6.6,Unknown,Unknown
-12437027,Home,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,False,34,27,6.7,Unknown,Unknown
-12437027,Home,887581,Boubakary Soumaré,M,24,188,France,920073600,False,43,39,7.4,Unknown,Unknown
-12437027,Home,1092409,Victor Kristiansen,D,16,181,Denmark,1039996800,False,26,20,6.8,Unknown,Unknown
-12437027,Home,865057,Patson Daka,F,20,185,Zambia,907891200,False,9,9,6.7,Unknown,Unknown
-12437027,Home,1126569,Bilal El Khannouss,M,11,180,Morocco,1084147200,False,44,33,6.3,Unknown,Unknown
-12437027,Home,173827,Jamie Vardy,F,9,178,England,537321600,False,15,8,6.7,Unknown,Unknown
-12437027,Home,545780,Harry Winks,M,8,178,England,823219200,True,31,28,7.1,Unknown,Unknown
-12437027,Home,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,True,13,11,5.9,Unknown,Unknown
-12437027,Home,1065134,Kasey McAteer,M,35,177,Ireland,1006387200,True,8,7,6.4,Unknown,Unknown
-12437027,Home,605338,Stephy Mavididi,M,10,182,England,896572800,True,9,6,6.3,Unknown,Unknown
-12437027,Home,103045,Jordan Ayew,F,18,182,Ghana,684547200,True,8,8,6.8,Unknown,Unknown
-12437027,Home,997830,Jakub Stolarczyk,G,41,194,Poland,977184000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437027,Home,989894,Woyo Coulibaly,D,25,188,France,927158400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437027,Home,967722,Caleb Okoli,D,5,191,Italy,994982400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437027,Home,151499,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437027,Away,787498,André Onana,G,24,190,Cameroon,828403200,False,48,35,7.5,Unknown,Unknown
-12437027,Away,803031,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,46,37,7.4,Unknown,Unknown
-12437027,Away,143334,Victor Lindelöf,D,2,187,Sweden,774403200,False,26,23,7.1,Unknown,Unknown
-12437027,Away,1445799,Ayden Heaven,D,26,189,England,1158883200,False,41,36,7.7,Unknown,Unknown
-12437027,Away,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,43,35,6.8,Unknown,Unknown
-12437027,Away,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,56,48,9.7,Unknown,Unknown
-12437027,Away,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,False,34,23,6.8,Unknown,Unknown
-12437027,Away,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,47,36,7.4,Unknown,Unknown
-12437027,Away,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,16,13,7.4,Unknown,Unknown
-12437027,Away,105734,Christian Eriksen,M,14,182,Denmark,698025600,False,29,21,6.8,Unknown,Unknown
-12437027,Away,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,False,12,7,7.3,Unknown,Unknown
-12437027,Away,1084356,Toby Collyer,M,43,180,England,1073088000,True,22,13,7,Unknown,Unknown
-12437027,Away,1461595,Harry Amass,D,41,181,England,1174003200,True,11,10,6.5,Unknown,Unknown
-12437027,Away,122951,Casemiro,M,18,185,Brazil,698803200,True,16,11,6.8,Unknown,Unknown
-12437027,Away,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,12,9,6.4,Unknown,Unknown
-12437027,Away,1566204,Chido Obi-Martin,F,56,188,Denmark,1196294400,True,2,2,6.4,Unknown,Unknown
-12437027,Away,1394261,Elyh Harrison,G,50,Unknown,England,1140307200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437027,Home,827681,James Justin,D,2,183,England,888192000,True,46,42,5.81,Unknown,Unknown
+12437027,Home,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,False,0,2,6.72,Unknown,Unknown
+12437027,Home,887581,Boubakary Soumaré,M,24,188,France,920073600,False,58,6,6.75,Unknown,Unknown
+12437027,Home,1092409,Victor Kristiansen,D,16,181,Denmark,1039996800,False,28,8,8.06,Unknown,Unknown
+12437027,Home,545780,Harry Winks,M,8,178,England,823219200,True,30,22,7.33,Unknown,Unknown
+12437027,Home,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,False,12,10,5.95,Unknown,Unknown
+12437027,Home,605338,Stephy Mavididi,M,10,182,England,896572800,False,16,4,6.57,Unknown,Unknown
+12437027,Home,103045,Jordan Ayew,F,18,182,Ghana,684547200,False,8,12,7.25,Unknown,Unknown
+12437027,Home,967722,Caleb Okoli,D,5,191,Italy,994982400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437027,Home,151499,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437027,Away,787498,André Onana,G,24,190,Cameroon,828403200,True,22,14,7.41,Unknown,Unknown
+12437027,Away,803031,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,36,70,8.59,Unknown,Unknown
+12437027,Away,1445799,Ayden Heaven,D,26,189,England,1158883200,True,40,4,8.14,Unknown,Unknown
+12437027,Away,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,0,24,5.96,Unknown,Unknown
+12437027,Away,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,10,0,8.63,Unknown,Unknown
+12437027,Away,105734,Christian Eriksen,M,14,182,Denmark,698025600,False,40,8,6.02,Unknown,Unknown
+12437027,Away,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,False,4,4,8.38,Unknown,Unknown
+12437027,Away,1566204,Chido Obi-Martin,F,56,188,Denmark,1196294400,True,0,2,6.59,Unknown,Unknown
 12437027,Away,1005664,Dermot Mee,G,45,183,Northern Ireland,1037750400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437027,Away,1142182,Tyler Fredricson,D,55,184,England,1109116800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437027,Away,836694,Mason Mount,M,7,181,England,915926400,True,Unknown,Unknown,Unknown,Unknown,Unknown
