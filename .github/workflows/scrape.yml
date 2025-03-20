@@ -18,7 +18,7 @@ jobs:
           python-version: '3.13'  # my venv
 
       - name: 📦 install requirements
-        run: pip install -r requirements.txt  # install requirements
+        run: pip install -r backend/requirements.txt  # install requirements
 
       - name: 🚀 run scraper scripts
         run: python backend/run_scrapers.py
