@@ -63,7 +63,6 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
     
-
     document.addEventListener('DOMContentLoaded', () => {
         const roundTab = document.getElementById('roundTab');
         const timetableTab = document.getElementById('timetableTab');
@@ -95,25 +94,38 @@ window.addEventListener('DOMContentLoaded', event => {
       
         // Load the matches for the selected round
         function loadRoundMatches(round) {
-          // Fetch round data from the backend (adjust the URL to your backend structure)
+          // Fetch round data (fetch from your backend CSV)
           fetch(`https://albertc9.github.io/TactiTrack/backend/round/61627/${round}.csv`)
             .then(response => response.text())
-            .then(data => {
-              // Parse CSV data
-              const matches = parseCSV(data);
-      
-              // Clear previous matches
+            .then(csvData => {
+              const matches = parseCSV(csvData);
               matchList.innerHTML = '';
-      
-              // Display the new matches
               matches.forEach(match => {
                 const matchItem = document.createElement('a');
                 matchItem.className = 'list-group-item list-group-item-action';
-                matchItem.textContent = `${match.date} · ${match.homeTeam} vs ${match.awayTeam} · ${match.homeScore} - ${match.awayScore}`;
+                matchItem.textContent = `${match.date} · ${match.home} vs ${match.away} · ${match.score}`;
                 matchList.appendChild(matchItem);
               });
-            })
-            .catch(error => console.error('Error loading match data:', error));
+            });
+        }
+      
+        // Parse CSV data into an array of matches
+        function parseCSV(csvData) {
+          const lines = csvData.split('\n');
+          const matches = [];
+          lines.forEach(line => {
+            const [id, round, status, timestamp, homeTeam, awayTeam, homeScore, awayScore] = line.split(',');
+            if (homeTeam && awayTeam) {
+              const match = {
+                date: new Date(parseInt(timestamp) * 1000).toLocaleDateString(),
+                home: homeTeam,
+                away: awayTeam,
+                score: `${homeScore}-${awayScore}`
+              };
+              matches.push(match);
+            }
+          });
+          return matches;
         }
       
         // Load timetable matches (example data)
@@ -134,35 +146,6 @@ window.addEventListener('DOMContentLoaded', event => {
             matchItem.textContent = `${match.date} · ${match.home} vs ${match.away} · ${match.score}`;
             matchList.appendChild(matchItem);
           });
-        }
-      
-        // Function to parse CSV text into an array of matches
-        function parseCSV(csvText) {
-          const rows = csvText.split('\n');
-          const matches = [];
-          
-          // Skip the header row (assumed to be the first row)
-          for (let i = 1; i < rows.length; i++) {
-            const cells = rows[i].split(',');
-      
-            // Check if the row has enough columns
-            if (cells.length >= 10) {
-              const match = {
-                matchID: cells[0],
-                round: cells[1],
-                status: cells[2],
-                timestamp: cells[3],
-                homeTeam: cells[4],
-                awayTeam: cells[5],
-                homeScore: cells[6],
-                awayScore: cells[7],
-                finalResult: cells[8],
-                hasXGData: cells[9]
-              };
-              matches.push(match);
-            }
-          }
-          return matches;
         }
       });
       
