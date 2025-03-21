@@ -4,8 +4,8 @@ import shutil
 # 定义需要复制的源路径和目标路径
 copy_tasks = [
     {
-        'src': 'backend/round/61647',
-        'dst': 'frontend/static-data/round/61647'
+        'src': 'backend/round',
+        'dst': 'frontend/static-data/round'
     },
     {
         'src': 'backend/data/match',

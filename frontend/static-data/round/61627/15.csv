@@ -1,0 +1,12 @@
+Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
+12436452,15,Postponed,1733581800,Everton,Liverpool,N/A,N/A,True,True,everton-liverpool
+12436990,15,Ended,1733581800,Aston Villa,Southampton,1,0,True,True,southampton-aston-villa
+12436450,15,Ended,1733579100,Brentford,Newcastle United,5,3,False,True,brentford-newcastle-united
+12436445,15,Ended,1733584500,Crystal Palace,Manchester City,3,3,False,True,manchester-city-crystal-palace
+12436449,15,Ended,1733598900,Manchester United,Nottingham Forest,2,4,False,False,manchester-united-nottingham-forest
+12436459,15,Ended,1733670000,Fulham,Arsenal,1,1,True,False,fulham-arsenal
+12436462,15,Ended,1733673600,Ipswich Town,Bournemouth,1,3,True,False,bournemouth-ipswich-town
+12436444,15,Ended,1733675400,Leicester City,Brighton & Hove Albion,2,2,True,True,leicester-city-brighton-and-hove-albion
+12436441,15,Ended,1733670900,Tottenham Hotspur,Chelsea,3,4,True,False,chelsea-tottenham-hotspur
+12436454,15,Ended,1733769900,West Ham United,Wolverhampton,3,2,True,True,west-ham-united-wolverhampton
+13344418,15,Ended,1739389500,Everton,Liverpool,3,3,False,True,everton-liverpool
