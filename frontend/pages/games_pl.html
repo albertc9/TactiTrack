@@ -1,136 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>Premier League 24/25 | TactiTrack</title>
-      
-        <!-- 字体 -->
-        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,400,700,900" rel="stylesheet" />
-      
-        <!-- ✅ 先加载 Bootstrap -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-      
-        <!-- ✅ 再加载你自己的样式（覆盖 Bootstrap） -->
-        <link rel="stylesheet" href="../css/styles.css">
-      
-        <!-- 脚本最后加载 -->
-        <script src="../js/scripts.js" defer></script>
-      </head>
-      
-<body id="page-top">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Premier League 24/25 | TactiTrack</title>
 
-  <!-- 导航栏 -->
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-    <div class="container px-4 px-lg-5">
-      <a class="navbar-brand" href="../index.html">TactiTrack</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
-        Menu <i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="leagueDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Select League
-            </a>
-            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="leagueDropdown">
+    <!-- 字体 -->
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,400,700,900" rel="stylesheet" />
+
+    <!-- 先加载 Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" />
+
+    <!-- 再加载你自己的样式 -->
+    <link rel="stylesheet" href="../css/styles.css" />
+
+    <!-- 脚本最后加载 -->
+    <script src="../js/scripts.js" defer></script>
+  </head>
+
+  <body id="page-top">
+    <!-- 导航栏 -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container px-4 px-lg-5">
+        <a class="navbar-brand" href="../index.html">TactiTrack</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
+          Menu <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="leagueDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Select League
+              </a>
+              <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="leagueDropdown">
                 <li><a class="dropdown-item" href="games_pl.html">Premier League</a></li>
                 <li><a class="dropdown-item" href="games_laliga.html">La Liga</a></li>
                 <li><a class="dropdown-item" href="games_ucl.html">Champions League</a></li>
                 <li><a class="dropdown-item" href="games_wc.html">World Cup</a></li>
                 <li><a class="dropdown-item" href="games_euro.html">Euro</a></li>
-              </ul>            
-          </li>
-          <li class="nav-item"><a class="nav-link" href="../pages/players.html">Heatmap Analysis</a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-
-  <!-- 页头 -->
-  <header class="masthead masthead-pl">
-    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
-      <div class="d-flex justify-content-center">
-        <div class="text-center">
-          <h1 class="mx-auto my-0 text-uppercase">Premier League</h1>
-          <h2 class="text-white-50 mx-auto mt-2 mb-5">Season 2024 - 2025</h2>
-          <a class="btn btn-glass" href="#start">Get Started</a>
+              </ul>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="../pages/players.html">Heatmap Analysis</a></li>
+          </ul>
         </div>
       </div>
-    </div>
-  </header>
-  
+    </nav>
 
-  <!-- 主体内容 -->
-  <main class="container-fluid py-5" style="margin-top: 70px;" id="start">
-    <div class="row">
-
-      <!-- 左侧：比赛列表 -->
-      <div class="col-md-4 px-4">
-        <h4>比赛列表</h4>
-        <div class="input-group mb-3">
-          <input type="text" class="form-control" placeholder="按轮次或时间筛选" aria-label="Filter Matches">
-          <button class="btn btn-outline-secondary" type="button">筛选</button>
-        </div>
-        <div class="list-group" style="max-height: 500px; overflow-y: auto;">
-          <a href="#" class="list-group-item list-group-item-action">第1轮 · 曼城 vs 阿森纳 · 2024-08-10</a>
-          <a href="#" class="list-group-item list-group-item-action">第2轮 · 利物浦 vs 曼联 · 2024-08-17</a>
-          <!-- 后续用 JS 动态生成 -->
-        </div>
-      </div>
-
-      <!-- 右侧：数据看板 -->
-      <div class="col-md-8 px-4">
-        <h4>赛季数据</h4>
-        <div class="row">
-          <div class="col-md-6 mb-4">
-            <div class="card shadow-sm">
-              <div class="card-header bg-primary text-white">积分榜</div>
-              <div class="card-body">
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">1. 曼城 - 45分</li>
-                  <li class="list-group-item">2. 阿森纳 - 42分</li>
-                  <!-- 动态填充 -->
-                </ul>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 mb-4">
-            <div class="card shadow-sm">
-              <div class="card-header bg-success text-white">射手榜</div>
-              <div class="card-body">
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">哈兰德 - 18球</li>
-                  <li class="list-group-item">凯恩 - 15球</li>
-                  <!-- 动态填充 -->
-                </ul>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-12">
-            <div class="card shadow-sm">
-              <div class="card-header bg-dark text-white">数据榜 · 场均表现</div>
-              <div class="card-body">
-                <p class="text-muted">⚠️ 图表功能后续添加（如平均传球/跑动距离/抢断等）</p>
-              </div>
-            </div>
+    <!-- 页头 -->
+    <header class="masthead masthead-pl">
+      <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+        <div class="d-flex justify-content-center">
+          <div class="text-center">
+            <h1 class="mx-auto my-0 text-uppercase">Premier League</h1>
+            <h2 class="text-white-50 mx-auto mt-2 mb-5">Season 2024 - 2025</h2>
+            <a class="btn btn-glass" href="#start">Get Started</a>
           </div>
         </div>
       </div>
+    </header>
 
-    </div>
-  </main>
+    <!-- 主体内容 -->
+    <main class="container-fluid py-5" style="margin-top: 70px;" id="start">
+      <div class="row">
+        <!-- 左侧：比赛列表 -->
+        <div class="col-md-4 px-4">
+          <h4>比赛列表</h4>
+          <div class="btn-group mb-3" role="group" aria-label="Basic example">
+            <button type="button" class="btn btn-outline-primary active" id="roundTab">Round</button>
+            <button type="button" class="btn btn-outline-primary" id="timetableTab">Timetable</button>
+          </div>
 
-  <!-- 页脚 -->
-  <footer class="footer bg-black small text-center text-white-50 py-3">
-    <div class="container">© TactiTrack 2025. MIT License</div>
-  </footer>
+          <!-- Round 选择器 -->
+          <div id="roundSelector" class="mb-3" style="max-height: 100px; overflow-y: auto; display: block;">
+            <!-- Dynamically generate buttons up to Round 38 -->
+          </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="../js/scripts.js" defer></script>
+          <!-- 比赛列表 -->
+          <div id="matchList" class="list-group" style="max-height: 500px; overflow-y: auto;">
+            <!-- Dynamically generate matches here -->
+          </div>
+        </div>
 
-</body>
+        <!-- 右侧：数据看板 -->
+        <div class="col-md-8 px-4">
+          <h4>赛季数据</h4>
+          <div class="row">
+            <div class="col-md-6 mb-4">
+              <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">积分榜</div>
+                <div class="card-body">
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item">1. 曼城 - 45分</li>
+                    <li class="list-group-item">2. 阿森纳 - 42分</li>
+                    <!-- 动态填充 -->
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-6 mb-4">
+              <div class="card shadow-sm">
+                <div class="card-header bg-success text-white">射手榜</div>
+                <div class="card-body">
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item">哈兰德 - 18球</li>
+                    <li class="list-group-item">凯恩 - 15球</li>
+                    <!-- 动态填充 -->
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="card shadow-sm">
+                <div class="card-header bg-dark text-white">数据榜 · 场均表现</div>
+                <div class="card-body">
+                  <p class="text-muted">⚠️ 图表功能后续添加（如平均传球/跑动距离/抢断等）</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer bg-black small text-center text-white-50 py-3">
+      <div class="container">© TactiTrack 2025. MIT License</div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../js/scripts.js" defer></script>
+  </body>
 </html>

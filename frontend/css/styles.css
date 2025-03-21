@@ -11297,3 +11297,28 @@ body {
   background-color: rgba(255, 255, 255, 0.2);
   color: white;
 }
+
+
+
+#roundSelector {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#roundDisplay {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.list-group-item {
+    font-size: 1rem;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.btn-light {
+    background-color: #f0f0f0;
+}
+
