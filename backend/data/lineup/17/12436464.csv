@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436464,Home,879674,Maxence Lacroix,D,5,192,France,954979200,False,20,74,5.93,Unknown,Unknown
-12436464,Home,43215,Nathaniel Clyne,D,17,175,England,670809600,True,26,20,5.63,Unknown,Unknown
-12436464,Home,193554,Will Hughes,M,19,185,England,798076800,False,56,48,6.56,Unknown,Unknown
-12436464,Home,845286,Ismaïla Sarr,F,23,185,Senegal,888364800,True,26,4,6.1,Unknown,Unknown
-12436464,Home,848276,Jean-Philippe Mateta,F,14,192,France,867456000,False,10,6,2,Unknown,Unknown
-12436464,Home,858194,Edward Nketiah,F,9,175,England,928022400,False,22,0,6.46,Unknown,Unknown
-12436464,Home,906047,Cheick Doucouré,M,28,181,Mali,947289600,False,14,12,5.64,Unknown,Unknown
-12436464,Home,833943,Matt Turner,G,30,190,USA,772416000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Home,39183,Joel Ward,D,2,188,England,625622400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Home,1799984,Asher Agbinone,F,28,Unknown,England,1127865600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Away,581310,David Raya,G,22,183,Spain,811123200,False,16,24,7.95,Unknown,Unknown
-12436464,Away,941168,William Saliba,D,2,193,France,985392000,False,134,154,6.27,Unknown,Unknown
-12436464,Away,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,True,52,18,2,Unknown,Unknown
-12436464,Away,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,False,36,34,6.44,Unknown,Unknown
-12436464,Away,934235,Bukayo Saka,F,7,178,England,999648000,False,2,2,7.65,Unknown,Unknown
-12436464,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,22,28,6.29,Unknown,Unknown
-12436464,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,False,4,46,6.2,Unknown,Unknown
-12436464,Away,592010,Mikel Merino,M,23,188,Spain,835401600,True,0,0,6.32,Unknown,Unknown
-12436464,Away,84844,Neto,G,32,190,Brazil,616809600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436464,Home,788134,Dean Henderson,G,1,188,England,858124800,True,18,0,5.77,Unknown,Unknown
+12436464,Home,879674,Maxence Lacroix,D,5,192,France,954979200,False,24,110,6.43,Unknown,Unknown
+12436464,Home,877994,Marc Guéhi,D,5,182,England,963446400,True,82,4,5.54,Unknown,Unknown
+12436464,Home,193554,Will Hughes,M,19,185,England,798076800,True,10,8,5.29,Unknown,Unknown
+12436464,Home,988275,Tyrick Mitchell,M,3,174,England,936144000,True,20,6,5.89,Unknown,Unknown
+12436464,Home,794338,Daichi Kamada,M,18,184,Japan,839203200,True,16,8,7.46,Unknown,Unknown
+12436464,Home,848276,Jean-Philippe Mateta,F,14,192,France,867456000,False,0,2,2,Unknown,Unknown
+12436464,Home,858194,Edward Nketiah,F,9,175,England,928022400,False,0,0,6.68,Unknown,Unknown
+12436464,Home,148710,Jeffrey Schlupp,M,15,178,Ghana,725068800,False,0,0,7.03,Unknown,Unknown
+12436464,Home,826134,Trevoh Chalobah,D,23,190,England,931132800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436464,Away,958959,Jurriën Timber,D,12,179,Netherlands,992736000,True,66,44,7.68,Unknown,Unknown
+12436464,Away,941168,William Saliba,D,2,193,France,985392000,False,202,58,5.48,Unknown,Unknown
+12436464,Away,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,True,104,36,8,Unknown,Unknown
+12436464,Away,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,True,6,26,6.71,Unknown,Unknown
+12436464,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,True,42,24,5.8,Unknown,Unknown
+12436464,Away,794839,Gabriel Jesus,F,9,175,Brazil,860025600,True,2,6,7.36,Unknown,Unknown
+12436464,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,False,40,28,6.48,Unknown,Unknown
+12436464,Away,592010,Mikel Merino,M,23,188,Spain,835401600,True,2,2,5.64,Unknown,Unknown
 12436464,Away,366592,Kieran Tierney,D,3,178,Scotland,865468800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436464,Away,132874,Jorginho,M,20,180,Italy,693187200,False,Unknown,Unknown,Unknown,Unknown,Unknown

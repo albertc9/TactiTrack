@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436970,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,24,22,7.83,Unknown,Unknown
-12436970,Home,216308,Adam Webster,D,4,191,England,789177600,True,58,18,6.93,Unknown,Unknown
-12436970,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,14,4,8.77,Unknown,Unknown
-12436970,Home,946695,Georginio Rutter,M,14,182,France,1019260800,True,36,12,7.22,Unknown,Unknown
-12436970,Home,936849,Kaoru Mitoma,M,22,178,Japan,864086400,True,32,16,4.88,Unknown,Unknown
-12436970,Home,975079,João Pedro,F,9,188,Brazil,1001462400,True,26,14,7.33,Unknown,Unknown
-12436970,Home,33902,Danny Welbeck,F,18,185,England,659577600,True,6,0,8.84,Unknown,Unknown
-12436970,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,False,16,2,5.95,Unknown,Unknown
-12436970,Home,1005800,Carl Rushworth,G,39,191,England,994032000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436970,Home,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436970,Away,548188,Lewis Cook,M,4,175,England,854928000,False,4,4,2,Unknown,Unknown
-12436970,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,True,136,38,6.9,Unknown,Unknown
-12436970,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,False,0,0,7.16,Unknown,Unknown
-12436970,Away,855731,David Brooks,F,7,173,Wales,868320000,False,12,2,7.38,Unknown,Unknown
-12436970,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,True,20,16,7.72,Unknown,Unknown
-12436970,Away,895576,Marcus Tavernier,M,16,178,England,922060800,False,38,20,4,Unknown,Unknown
-12436970,Away,836070,Luis Sinisterra,F,17,176,Colombia,929577600,False,8,0,6.07,Unknown,Unknown
-12436970,Away,991001,Will Dennis,G,40,188,England,963187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436970,Away,1190712,Matai Akinmboni,D,45,191,USA,1161043200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,60,20,5.7,Unknown,Unknown
+12436970,Home,216308,Adam Webster,D,4,191,England,789177600,False,8,38,7.3,Unknown,Unknown
+12436970,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,36,8,8.07,Unknown,Unknown
+12436970,Home,946695,Georginio Rutter,M,14,182,France,1019260800,True,0,18,7.41,Unknown,Unknown
+12436970,Home,1142315,Jack Hinshelwood,D,41,182,England,1113177600,True,10,2,6.38,Unknown,Unknown
+12436970,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,False,0,18,5.34,Unknown,Unknown
+12436970,Home,301288,Solly March,M,7,180,England,774662400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Home,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Home,891829,Matt O'Riley,M,33,187,Denmark,974764800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Home,1198075,Brajan Gruda,F,8,174,Germany,1085961600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Away,548188,Lewis Cook,M,4,175,England,854928000,True,66,0,0,Unknown,Unknown
+12436970,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,False,74,58,7.96,Unknown,Unknown
+12436970,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,68,0,8.1,Unknown,Unknown
+12436970,Away,855731,David Brooks,F,7,173,Wales,868320000,False,14,2,7.07,Unknown,Unknown
+12436970,Away,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,0,2,6.8,Unknown,Unknown
+12436970,Away,998490,Evanilson,F,9,181,Brazil,939168000,False,0,0,7.86,Unknown,Unknown
+12436970,Away,991001,Will Dennis,G,40,188,England,963187200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Away,1201520,Julio Soler,D,20,175,Argentina,1108512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436970,Away,1096136,Daniel Jebbison,F,21,190,Canada,1057881600,False,Unknown,Unknown,Unknown,Unknown,Unknown
