@@ -50,5 +50,17 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
+    // === 联赛背景切换功能 ===
+    const leagueButtons = document.querySelectorAll('.league-selector');
+    const header = document.querySelector('header.masthead');
+
+    leagueButtons.forEach(button => {
+        button.addEventListener('click', function () {
+            const league = button.dataset.league;
+
+            // 替换 header 背景类（可组合多个联赛风格）
+            header.className = 'masthead masthead-' + league;
+        });
+    });
 
 });
