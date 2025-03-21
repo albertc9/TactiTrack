@@ -100,41 +100,18 @@ window.addEventListener('DOMContentLoaded', event => {
       
         // Load the matches for the selected round
         function loadRoundMatches(round) {
-          // Fetch round data (fetch from your backend CSV)
-          fetch(`https://albertc9.github.io/TactiTrack/backend/round/61627/${round}.csv`)
-            .then(response => response.text())
-            .then(csvData => {
-              const matches = parseCSV(csvData);
+          // Fetch round data (fetch from your backend JSON)
+          fetch(`https://albertc9.github.io/TactiTrack/backend/round/61627/json/${round}.json`)
+            .then(response => response.json())
+            .then(matches => {
               matchList.innerHTML = '';
               matches.forEach(match => {
                 const matchItem = document.createElement('a');
                 matchItem.className = 'list-group-item list-group-item-action';
-                matchItem.textContent = `${match.date} · ${match.home} vs ${match.away} · ${match.score}`;
+                matchItem.textContent = `${match["Start Timestamp"]} · ${match["Home Team"]} vs ${match["Away Team"]} · ${match["Home Score"]}-${match["Away Score"]}`;
                 matchList.appendChild(matchItem);
               });
-            })
-            .catch(error => {
-              console.error('Error loading CSV data:', error);
             });
-        }
-      
-        // Parse CSV data into an array of matches
-        function parseCSV(csvData) {
-          const lines = csvData.split('\n');
-          const matches = [];
-          lines.forEach(line => {
-            const [id, round, status, timestamp, homeTeam, awayTeam, homeScore, awayScore] = line.split(',');
-            if (homeTeam && awayTeam) {
-              const match = {
-                date: new Date(parseInt(timestamp) * 1000).toLocaleDateString(),
-                home: homeTeam,
-                away: awayTeam,
-                score: `${homeScore}-${awayScore}`
-              };
-              matches.push(match);
-            }
-          });
-          return matches;
         }
       
         // Load timetable matches (example data)
@@ -157,6 +134,7 @@ window.addEventListener('DOMContentLoaded', event => {
           });
         }
       });
+      
       
       
       
