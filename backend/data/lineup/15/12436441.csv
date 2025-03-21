@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436441,Home,913654,Pedro Porro,D,23,173,Spain,937180800,False,40,16,10,Unknown,Unknown
-12436441,Home,998247,Micky van de Ven,D,37,193,Netherlands,987638400,True,34,30,7.42,Unknown,Unknown
-12436441,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,True,22,14,7.85,Unknown,Unknown
-12436441,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,10,6,6.56,Unknown,Unknown
-12436441,Home,1142335,Archie Gray,D,14,187,England,1142121600,True,18,2,5.81,Unknown,Unknown
-12436441,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,False,26,32,5.92,Unknown,Unknown
-12436441,Home,356398,James Maddison,M,10,175,England,848707200,True,12,4,8.87,Unknown,Unknown
-12436441,Home,859896,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436441,Home,19314,Fraser Forster,G,20,201,England,574560000,True,10,20,7.23,Unknown,Unknown
+12436441,Home,913654,Pedro Porro,D,23,173,Spain,937180800,True,16,24,6,Unknown,Unknown
+12436441,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,False,24,2,5.45,Unknown,Unknown
+12436441,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,2,20,6.27,Unknown,Unknown
+12436441,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,26,20,5.02,Unknown,Unknown
+12436441,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,False,38,14,7.42,Unknown,Unknown
+12436441,Home,232306,Timo Werner,F,16,180,Germany,826070400,False,8,16,8,Unknown,Unknown
+12436441,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,False,12,28,5.75,Unknown,Unknown
 12436441,Home,945798,Djed Spence,D,24,184,England,965779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436441,Home,1391825,Will Lankshear,F,19,189,England,1113955200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436441,Away,920546,Robert Sánchez,G,1,197,Spain,879811200,False,34,22,6.22,Unknown,Unknown
-12436441,Away,794939,Marc Cucurella,D,3,175,Spain,901065600,False,80,2,7.03,Unknown,Unknown
-12436441,Away,974505,Enzo Fernández,M,8,177,Argentina,979689600,False,68,96,8.31,Unknown,Unknown
-12436441,Away,879349,Pedro Neto,F,7,172,Portugal,952560000,False,2,26,8.51,Unknown,Unknown
-12436441,Away,769333,Christopher Nkunku,F,18,175,France,879465600,True,2,2,6.57,Unknown,Unknown
+12436441,Away,996911,Levi Colwill,D,6,187,England,1046217600,False,6,106,6.45,Unknown,Unknown
+12436441,Away,1069488,Roméo Lavia,M,45,181,Belgium,1073347200,False,8,48,12,Unknown,Unknown
+12436441,Away,879349,Pedro Neto,F,7,172,Portugal,952560000,True,38,36,6.85,Unknown,Unknown
+12436441,Away,982780,Cole Palmer,M,80,188,England,1020643200,False,50,42,8.59,Unknown,Unknown
+12436441,Away,851100,Jadon Sancho,M,19,180,England,953942400,True,40,32,8.07,Unknown,Unknown
+12436441,Away,996958,Malo Gusto,D,27,179,France,1053302400,True,58,2,5.61,Unknown,Unknown
+12436441,Away,966547,Noni Madueke,M,11,182,England,1015718400,False,4,2,7.65,Unknown,Unknown
 12436441,Away,1087359,Renato Veiga,D,12,190,Portugal,1059436800,False,2,Unknown,6,Unknown,Unknown
-12436441,Away,851671,João Félix,F,79,181,Portugal,942192000,True,Unknown,Unknown,5.6,Unknown,Unknown
-12436441,Away,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436441,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436441,Away,827243,Axel Disasi,D,3,190,France,889574400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436441,Away,851671,João Félix,F,79,181,Portugal,942192000,False,Unknown,Unknown,7.25,Unknown,Unknown
+12436441,Away,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,Unknown,Unknown,Unknown,Unknown,Unknown
