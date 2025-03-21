@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436891,Home,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,40,28,8.1,Unknown,Unknown
+12436891,Home,548188,Lewis Cook,M,4,175,England,854928000,False,31,24,6.8,Unknown,Unknown
+12436891,Home,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,51,36,7.3,Unknown,Unknown
+12436891,Home,1176744,Dean Huijsen,D,2,195,Spain,1113436800,False,37,33,7.6,Unknown,Unknown
+12436891,Home,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,28,21,6.8,Unknown,Unknown
+12436891,Home,322391,Ryan Christie,M,10,178,Scotland,793411200,False,44,37,7.5,Unknown,Unknown
+12436891,Home,800419,Tyler Adams,M,12,175,USA,918950400,False,27,23,8.2,Unknown,Unknown
+12436891,Home,855731,David Brooks,F,7,173,Wales,868320000,False,21,18,7.1,Unknown,Unknown
+12436891,Home,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,20,20,8.4,Unknown,Unknown
+12436891,Home,934354,Antoine Semenyo,M,24,178,Ghana,947203200,False,29,23,8.1,Unknown,Unknown
+12436891,Home,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,False,16,13,9.5,Unknown,Unknown
+12436891,Home,895576,Marcus Tavernier,M,16,178,England,922060800,True,9,8,7.5,Unknown,Unknown
+12436891,Home,1096136,Daniel Jebbison,F,21,190,Canada,1057881600,True,3,3,6.7,Unknown,Unknown
+12436891,Home,1403063,Zain Silcott-Duberry,F,43,177,England,1120867200,True,2,1,Unknown,Unknown,Unknown
+12436891,Home,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Home,1190712,Matai Akinmboni,D,45,191,USA,1161043200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Home,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Home,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Home,2023409,Remy Rees-Dottin,F,51,Unknown,England,1141603200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Home,1446172,Daniel Adu-Adjei,F,44,Unknown,England,1119312000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Away,78152,Matz Sels,G,26,188,Belgium,699062400,False,21,13,6.1,Unknown,Unknown
+12436891,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,False,23,16,6.2,Unknown,Unknown
+12436891,Away,836168,Nikola Milenković,D,31,195,Serbia,876614400,False,35,28,6.6,Unknown,Unknown
+12436891,Away,1199282,Murillo,D,5,183,Brazil,1025740800,False,34,24,5.8,Unknown,Unknown
+12436891,Away,927356,Neco Williams,D,7,183,Wales,987120000,False,11,8,5.9,Unknown,Unknown
+12436891,Away,846252,Ryan Yates,M,22,190,England,880070400,False,21,14,6.6,Unknown,Unknown
+12436891,Away,994546,Elliot Anderson,M,8,175,England,1036540800,False,46,37,6.5,Unknown,Unknown
+12436891,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,False,8,5,7,Unknown,Unknown
+12436891,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,41,33,6.9,Unknown,Unknown
+12436891,Away,979232,Anthony Elanga,M,21,178,Sweden,1019865600,False,23,17,7.3,Unknown,Unknown
+12436891,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,False,18,12,6.5,Unknown,Unknown
+12436891,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,27,23,6,Unknown,Unknown
+12436891,Away,985086,Morato,D,4,190,Brazil,993859200,True,10,8,6,Unknown,Unknown
+12436891,Away,294593,Álex Moreno,D,19,179,Spain,739497600,True,10,9,6.3,Unknown,Unknown
+12436891,Away,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,4,4,6.6,Unknown,Unknown
+12436891,Away,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,6,2,6.6,Unknown,Unknown
+12436891,Away,973738,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Away,358218,Harry Toffolo,D,15,183,England,808790400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Away,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436891,Away,161717,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown

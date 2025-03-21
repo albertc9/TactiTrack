@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12437060,Home,252669,José Sá,G,1,192,Portugal,727228800,False,31,21,7,Unknown,Unknown
+12437060,Home,846308,Santiago Bueno,D,4,189,Uruguay,910569600,False,49,42,6.5,Unknown,Unknown
+12437060,Home,50027,Craig Dawson,D,15,188,England,641952000,False,52,45,7,Unknown,Unknown
+12437060,Home,973418,Toti Gomes,D,24,187,Portugal,916444800,False,37,29,7.1,Unknown,Unknown
+12437060,Home,252821,Nélson Semedo,M,22,177,Portugal,753408000,False,55,43,6.6,Unknown,Unknown
+12437060,Home,932628,Tommy Doyle,M,20,172,England,1003276800,False,48,43,6.9,Unknown,Unknown
+12437060,Home,1015267,João Gomes,M,8,176,Brazil,981936000,False,47,40,7.9,Unknown,Unknown
+12437060,Home,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,43,33,6.6,Unknown,Unknown
+12437060,Home,138573,Pablo Sarabia,F,21,176,Spain,705542400,False,27,19,6,Unknown,Unknown
+12437060,Home,886363,Matheus Cunha,F,10,184,Brazil,927763200,False,35,26,8.2,Unknown,Unknown
+12437060,Home,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,16,10,7.6,Unknown,Unknown
+12437060,Home,307284,Mario Lemina,M,99,184,Gabon,746841600,True,23,19,7.1,Unknown,Unknown
+12437060,Home,280979,Gonçalo Guedes,F,29,179,Portugal,849225600,True,11,9,7.4,Unknown,Unknown
+12437060,Home,845273,Jean-Ricner Bellegarde,M,27,170,France,898905600,True,10,10,6.6,Unknown,Unknown
+12437060,Home,101367,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Home,1083020,Alfie Pond,D,5,191,England,1076544000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Home,1035996,André,M,7,176,Brazil,995241600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Home,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Home,1069486,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Away,788134,Dean Henderson,G,1,188,England,858124800,False,25,15,6.8,Unknown,Unknown
+12437060,Away,826134,Trevoh Chalobah,D,23,190,England,931132800,False,32,23,7.2,Unknown,Unknown
+12437060,Away,879674,Maxence Lacroix,D,5,192,France,954979200,False,50,37,6.5,Unknown,Unknown
+12437060,Away,877994,Marc Guéhi,D,5,182,England,963446400,False,64,55,7.7,Unknown,Unknown
+12437060,Away,870360,Daniel Muñoz,M,23,183,Colombia,833068800,False,26,13,7,Unknown,Unknown
+12437060,Away,193554,Will Hughes,M,19,185,England,798076800,False,31,26,6.1,Unknown,Unknown
+12437060,Away,794338,Daichi Kamada,M,18,184,Japan,839203200,False,42,35,7,Unknown,Unknown
+12437060,Away,988275,Tyrick Mitchell,M,3,174,England,936144000,False,31,26,6.9,Unknown,Unknown
+12437060,Away,845286,Ismaïla Sarr,F,23,185,Senegal,888364800,False,18,14,7.4,Unknown,Unknown
+12437060,Away,858194,Edward Nketiah,F,9,175,England,928022400,False,18,14,6.8,Unknown,Unknown
+12437060,Away,848276,Jean-Philippe Mateta,F,14,192,France,867456000,False,17,11,6.7,Unknown,Unknown
+12437060,Away,906047,Cheick Doucouré,M,28,181,Mali,947289600,True,4,4,6.4,Unknown,Unknown
+12437060,Away,43215,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,6.3,Unknown,Unknown
+12437060,Away,148710,Jeffrey Schlupp,M,15,178,Ghana,725068800,True,Unknown,Unknown,6.5,Unknown,Unknown
+12437060,Away,581610,Remi Matthews,G,31,184,England,760838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Away,833943,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Away,1465401,Caleb Kporha,D,58,Unknown,England,1152921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Away,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Away,1799984,Asher Agbinone,F,28,Unknown,England,1127865600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437060,Away,1149851,Franco Umeh,F,7,185,Ireland,1106697600,True,Unknown,Unknown,Unknown,Unknown,Unknown

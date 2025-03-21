@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436987,Home,171919,Mark Flekken,G,1,194,Netherlands,739929600,False,48,35,7,Unknown,Unknown
+12436987,Home,924378,Sepp van den Berg,D,4,192,Netherlands,1008806400,False,52,39,7.1,Unknown,Unknown
+12436987,Home,958916,Nathan Collins,D,22,193,Ireland,988588800,False,76,67,6.7,Unknown,Unknown
+12436987,Home,855864,Ethan Pinnock,D,5,194,Jamaica,738633600,False,77,70,6.9,Unknown,Unknown
+12436987,Home,576384,Kristoffer Ajer,D,20,196,Norway,892771200,False,47,33,7,Unknown,Unknown
+12436987,Home,1006387,Kevin Schade,F,7,183,Germany,1006819200,False,12,6,6.8,Unknown,Unknown
+12436987,Home,907072,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,53,39,7.3,Unknown,Unknown
+12436987,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,False,39,35,6.8,Unknown,Unknown
+12436987,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,False,27,21,6.9,Unknown,Unknown
+12436987,Home,991604,Fabio Carvalho,F,14,170,Portugal,1030665600,False,26,22,7.1,Unknown,Unknown
+12436987,Home,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,40,30,7.8,Unknown,Unknown
+12436987,Home,1031258,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,27,26,6.7,Unknown,Unknown
+12436987,Home,1518589,Yunus Konak,M,26,181,Türkiye,1136851200,True,4,2,6.3,Unknown,Unknown
+12436987,Home,1005959,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Home,137774,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Home,1185061,Kim Ji-Soo,D,36,192,South Korea,1103846400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Home,826057,Mads Roerslev,D,5,184,Denmark,930182400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Home,1410201,Jayden Meghoma,M,3,176,England,1151452800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Home,1177007,Ryan Trevitt,M,21,170,England,1047427200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Home,1467880,Tony Yogane,F,30,178,England,1127520000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Away,96531,Alphonse Aréola,G,23,195,France,730771200,False,32,22,6.7,Unknown,Unknown
+12436987,Away,863653,Aaron Wan-Bissaka,D,29,183,England,880502400,False,37,32,6.6,Unknown,Unknown
+12436987,Away,945217,Jean-Clair Todibo,D,25,189,France,946512000,False,48,41,7.3,Unknown,Unknown
+12436987,Away,894474,Max Kilman,D,26,192,England,864345600,False,39,34,7.1,Unknown,Unknown
+12436987,Away,155997,Emerson Palmieri,D,33,176,Italy,775872000,False,23,19,6.5,Unknown,Unknown
+12436987,Away,609752,Guido Rodríguez,M,24,185,Argentina,766108800,False,43,38,7,Unknown,Unknown
+12436987,Away,552884,Jarrod Bowen,M,20,174,England,851040000,False,25,16,6.7,Unknown,Unknown
+12436987,Away,799041,Tomáš Souček,M,28,192,Czechia,793843200,False,29,22,7.9,Unknown,Unknown
+12436987,Away,839981,Lucas Paquetá,M,10,180,Brazil,872640000,False,41,33,6.6,Unknown,Unknown
+12436987,Away,905163,Mohammed Kudus,M,14,176,Ghana,965174400,False,19,15,6.6,Unknown,Unknown
+12436987,Away,47772,Michail Antonio,F,9,180,Jamaica,638582400,False,18,15,7.1,Unknown,Unknown
+12436987,Away,829022,Konstantinos Mavropanos,D,15,194,Greece,881798400,True,17,10,7,Unknown,Unknown
+12436987,Away,832427,Carlos Soler,M,4,180,Spain,852163200,True,15,14,7.2,Unknown,Unknown
+12436987,Away,130181,Danny Ings,F,18,178,England,711849600,True,6,2,6.5,Unknown,Unknown
+12436987,Away,917005,Crysencio Summerville,M,7,174,Netherlands,1004400000,True,6,2,6.6,Unknown,Unknown
+12436987,Away,845464,Andy Irving,M,39,186,Scotland,958176000,True,1,1,Unknown,Unknown,Unknown
+12436987,Away,15479,Łukasz Fabiański,G,1,190,Poland,482630400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Away,43443,Aaron Cresswell,D,3,170,England,629683200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Away,138024,Vladimír Coufal,D,5,179,Czechia,714441600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436987,Away,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown

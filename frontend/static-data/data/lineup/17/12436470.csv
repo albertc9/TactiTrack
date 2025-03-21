@@ -1,0 +1,21 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436470,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,20,30,7.67,Unknown,Unknown
+12436470,Home,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,54,10,6.71,Unknown,Unknown
+12436470,Home,149380,Harry Maguire,D,5,194,England,731289600,False,88,54,7.11,Unknown,Unknown
+12436470,Home,859999,Lisandro Martínez,D,6,175,Argentina,885081600,False,8,20,8.92,Unknown,Unknown
+12436470,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,12,16,7.73,Unknown,Unknown
+12436470,Home,825839,Tyrell Malacia,D,3,169,Netherlands,934848000,True,28,32,7.3,Unknown,Unknown
+12436470,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,True,90,62,7.46,Unknown,Unknown
+12436470,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,16,2,7.12,Unknown,Unknown
+12436470,Home,1084356,Toby Collyer,M,43,180,England,1073088000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,958380,Antony,F,7,172,Brazil,951350400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,6,30,7.99,Unknown,Unknown
+12436470,Away,800419,Tyler Adams,M,12,175,USA,918950400,True,56,10,8,Unknown,Unknown
+12436470,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,True,68,62,9.18,Unknown,Unknown
+12436470,Away,998490,Evanilson,F,9,181,Brazil,939168000,True,4,6,5.76,Unknown,Unknown
+12436470,Away,548660,Philip Billing,M,15,193,Denmark,834451200,True,10,12,7.15,Unknown,Unknown
+12436470,Away,1156586,James Hill,D,23,184,England,1010620800,False,10,6,Unknown,Unknown,Unknown
+12436470,Away,855731,David Brooks,F,7,173,Wales,868320000,False,0,2,Unknown,Unknown,Unknown
+12436470,Away,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown,Unknown,Unknown

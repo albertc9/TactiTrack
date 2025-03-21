@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436959,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,27,26,7.1,Unknown,Unknown
+12436959,Home,219572,Joël Veltman,D,34,184,Netherlands,695433600,False,42,32,6.7,Unknown,Unknown
+12436959,Home,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,98,88,7.3,Unknown,Unknown
+12436959,Home,115365,Lewis Dunk,D,5,190,England,690681600,False,103,96,6.7,Unknown,Unknown
+12436959,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,43,40,6.9,Unknown,Unknown
+12436959,Home,1142315,Jack Hinshelwood,D,41,182,England,1113177600,False,48,44,7.3,Unknown,Unknown
+12436959,Home,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,24,20,6.5,Unknown,Unknown
+12436959,Home,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,False,19,15,6.7,Unknown,Unknown
+12436959,Home,946695,Georginio Rutter,M,14,182,France,1019260800,False,26,22,6.9,Unknown,Unknown
+12436959,Home,936849,Kaoru Mitoma,M,22,178,Japan,864086400,False,39,30,7.2,Unknown,Unknown
+12436959,Home,33902,Danny Welbeck,F,18,185,England,659577600,False,25,23,7.2,Unknown,Unknown
+12436959,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,True,28,25,6.8,Unknown,Unknown
+12436959,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,9,6,6.8,Unknown,Unknown
+12436959,Home,975079,João Pedro,F,9,188,Brazil,1001462400,True,11,8,6.5,Unknown,Unknown
+12436959,Home,999231,Evan Ferguson,F,28,188,Ireland,1098144000,True,Unknown,Unknown,6.6,Unknown,Unknown
+12436959,Home,31867,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Home,842513,Igor Júlio,D,3,185,Brazil,886809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Home,216308,Adam Webster,D,4,191,England,789177600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Home,825844,Ferdi Kadıoğlu,D,24,174,Türkiye,939254400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Home,973556,Julio Enciso,M,9,173,Paraguay,1074729600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Away,78152,Matz Sels,G,26,188,Belgium,699062400,False,26,8,6,Unknown,Unknown
+12436959,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,False,21,13,5.9,Unknown,Unknown
+12436959,Away,836168,Nikola Milenković,D,31,195,Serbia,876614400,False,23,23,7.2,Unknown,Unknown
+12436959,Away,1199282,Murillo,D,5,183,Brazil,1025740800,False,36,26,7.1,Unknown,Unknown
+12436959,Away,294593,Álex Moreno,D,19,179,Spain,739497600,False,12,8,6.3,Unknown,Unknown
+12436959,Away,161717,James Ward-Prowse,M,8,177,England,783648000,False,17,13,6.3,Unknown,Unknown
+12436959,Away,994546,Elliot Anderson,M,8,175,England,1036540800,False,13,9,7.1,Unknown,Unknown
+12436959,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,20,14,7.2,Unknown,Unknown
+12436959,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,23,14,6.1,Unknown,Unknown
+12436959,Away,979232,Anthony Elanga,M,21,178,Sweden,1019865600,False,5,5,6.3,Unknown,Unknown
+12436959,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,False,11,6,7,Unknown,Unknown
+12436959,Away,927356,Neco Williams,D,7,183,Wales,987120000,True,9,6,6.4,Unknown,Unknown
+12436959,Away,846252,Ryan Yates,M,22,190,England,880070400,True,17,15,6.6,Unknown,Unknown
+12436959,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,5,4,6.9,Unknown,Unknown
+12436959,Away,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,4,3,7.3,Unknown,Unknown
+12436959,Away,985086,Morato,D,4,190,Brazil,993859200,True,3,2,6.8,Unknown,Unknown
+12436959,Away,973738,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Away,1418646,Eric da Silva Moreira,M,2,185,Germany,1146614400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436959,Away,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,Unknown,Unknown,Unknown,Unknown,Unknown

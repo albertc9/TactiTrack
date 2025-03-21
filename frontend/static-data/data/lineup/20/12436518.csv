@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436518,Home,856720,Mark Travers,G,32,191,Ireland,926985600,False,25,16,7,Unknown,Unknown
+12436518,Home,1156586,James Hill,D,23,184,England,1010620800,False,29,18,6.8,Unknown,Unknown
+12436518,Home,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,46,39,7.2,Unknown,Unknown
+12436518,Home,1176744,Dean Huijsen,D,2,195,Spain,1113436800,False,61,51,7.7,Unknown,Unknown
+12436518,Home,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,29,23,8,Unknown,Unknown
+12436518,Home,322391,Ryan Christie,M,10,178,Scotland,793411200,False,69,46,6.5,Unknown,Unknown
+12436518,Home,548188,Lewis Cook,M,4,175,England,854928000,False,55,49,7.5,Unknown,Unknown
+12436518,Home,934354,Antoine Semenyo,M,24,178,Ghana,947203200,False,31,27,7.1,Unknown,Unknown
+12436518,Home,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,24,18,6.5,Unknown,Unknown
+12436518,Home,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,False,20,15,7.4,Unknown,Unknown
+12436518,Home,998490,Evanilson,F,9,181,Brazil,939168000,False,11,6,7,Unknown,Unknown
+12436518,Home,800419,Tyler Adams,M,12,175,USA,918950400,True,18,16,6.9,Unknown,Unknown
+12436518,Home,855731,David Brooks,F,7,173,Wales,868320000,True,7,6,7.5,Unknown,Unknown
+12436518,Home,336655,Enes Ünal,F,26,185,Türkiye,863222400,True,10,8,6.6,Unknown,Unknown
+12436518,Home,548660,Philip Billing,M,15,193,Denmark,834451200,True,2,Unknown,6.5,Unknown,Unknown
+12436518,Home,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Home,943645,Max Aarons,D,19,178,England,946944000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Home,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Home,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Home,2023409,Remy Rees-Dottin,F,51,Unknown,England,1141603200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Away,138530,Jordan Pickford,G,1,185,England,762998400,False,40,17,8.2,Unknown,Unknown
+12436518,Away,10589,Ashley Young,D,18,180,England,489715200,False,29,17,7.2,Unknown,Unknown
+12436518,Away,145188,James Tarkowski,D,6,185,England,722131200,False,32,18,7,Unknown,Unknown
+12436518,Away,979563,Jarrad Branthwaite,D,32,195,England,1025136000,False,32,18,6.8,Unknown,Unknown
+12436518,Away,876643,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,25,17,6.7,Unknown,Unknown
+12436518,Away,793988,Orel Mangala,M,8,178,Belgium,890179200,False,21,20,6.9,Unknown,Unknown
+12436518,Away,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,35,28,7.2,Unknown,Unknown
+12436518,Away,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,False,13,8,6.8,Unknown,Unknown
+12436518,Away,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,False,34,27,6.8,Unknown,Unknown
+12436518,Away,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,False,22,18,7.1,Unknown,Unknown
+12436518,Away,996985,Armando Broja,F,22,191,Albania,1000080000,False,3,3,6.8,Unknown,Unknown
+12436518,Away,372344,Dominic Calvert-Lewin,F,9,187,England,858470400,True,11,9,6.5,Unknown,Unknown
+12436518,Away,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,True,16,12,6.4,Unknown,Unknown
+12436518,Away,1627560,Harrison Armstrong,M,28,185,England,1169164800,True,10,5,6.3,Unknown,Unknown
+12436518,Away,987489,Beto,F,14,194,Guinea-Bissau,886204800,True,Unknown,Unknown,6.9,Unknown,Unknown
+12436518,Away,930666,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Away,13918,Asmir Begović,G,31,198,Bosnia & Herzegovina,551145600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Away,110846,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Away,998253,Jake O'Brien,D,15,197,Ireland,989884800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436518,Away,829570,Jack Harrison,M,11,175,England,848448000,True,Unknown,Unknown,Unknown,Unknown,Unknown

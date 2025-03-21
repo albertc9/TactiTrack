@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436873,Home,138530,Jordan Pickford,G,1,185,England,762998400,False,43,29,7,Unknown,Unknown
+12436873,Home,10589,Ashley Young,D,18,180,England,489715200,False,22,15,6,Unknown,Unknown
+12436873,Home,145188,James Tarkowski,D,6,185,England,722131200,False,53,45,6.8,Unknown,Unknown
+12436873,Home,110846,Michael Keane,D,5,188,England,726710400,False,51,44,6.8,Unknown,Unknown
+12436873,Home,876643,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,28,24,6,Unknown,Unknown
+12436873,Home,1085950,Tim Iroegbunam,M,42,182,England,1056931200,False,28,17,6.8,Unknown,Unknown
+12436873,Home,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,35,29,6.4,Unknown,Unknown
+12436873,Home,829570,Jack Harrison,M,11,175,England,848448000,False,20,15,6.7,Unknown,Unknown
+12436873,Home,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,False,17,12,6.5,Unknown,Unknown
+12436873,Home,935543,Dwight McNeil,M,7,183,England,943228800,False,25,20,6.5,Unknown,Unknown
+12436873,Home,372344,Dominic Calvert-Lewin,F,9,187,England,858470400,False,14,12,6.7,Unknown,Unknown
+12436873,Home,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,True,4,3,6.5,Unknown,Unknown
+12436873,Home,987489,Beto,F,14,194,Guinea-Bissau,886204800,True,4,1,6.3,Unknown,Unknown
+12436873,Home,781544,Mason Holgate,D,3,187,Jamaica,845942400,True,Unknown,Unknown,6.2,Unknown,Unknown
+12436873,Home,930666,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Home,998253,Jake O'Brien,D,15,197,Ireland,989884800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Home,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Home,1118002,Jenson Metcalfe,M,26,183,England,1094428800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Home,1627560,Harrison Armstrong,M,28,185,England,1169164800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Home,268903,Neal Maupay,F,8,171,France,839980800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Away,31867,Jason Steele,G,23,188,England,650937600,False,61,55,7.2,Unknown,Unknown
+12436873,Away,219572,Joël Veltman,D,34,184,Netherlands,695433600,False,50,41,7.6,Unknown,Unknown
+12436873,Away,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,87,81,6.9,Unknown,Unknown
+12436873,Away,115365,Lewis Dunk,D,5,190,England,690681600,False,70,60,6.8,Unknown,Unknown
+12436873,Away,1142315,Jack Hinshelwood,D,41,182,England,1113177600,False,56,47,7,Unknown,Unknown
+12436873,Away,791,James Milner,M,6,175,England,505180800,False,33,28,7.1,Unknown,Unknown
+12436873,Away,959628,Mats Wieffer,M,27,188,Netherlands,942710400,False,72,63,7.1,Unknown,Unknown
+12436873,Away,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,False,13,9,7.3,Unknown,Unknown
+12436873,Away,975079,João Pedro,F,9,188,Brazil,1001462400,False,16,9,7.1,Unknown,Unknown
+12436873,Away,936849,Kaoru Mitoma,M,22,178,Japan,864086400,False,28,24,7.3,Unknown,Unknown
+12436873,Away,33902,Danny Welbeck,F,18,185,England,659577600,False,18,16,8.2,Unknown,Unknown
+12436873,Away,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,19,12,7.2,Unknown,Unknown
+12436873,Away,216308,Adam Webster,D,4,191,England,789177600,True,32,30,6.8,Unknown,Unknown
+12436873,Away,907668,Billy Gilmour,M,6,169,Scotland,992217600,True,12,10,6.6,Unknown,Unknown
+12436873,Away,983816,Jeremy Sarmiento,M,7,178,Ecuador,1024185600,True,6,6,6.5,Unknown,Unknown
+12436873,Away,1036269,Yasin Ayari,M,26,172,Sweden,1065398400,True,2,1,6.2,Unknown,Unknown
+12436873,Away,1005800,Carl Rushworth,G,39,191,England,994032000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Away,1127057,Valentín Barco,D,32,172,Argentina,1090540800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Away,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436873,Away,1149855,Mark O'Mahony,F,11,182,Ireland,1105660800,True,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12437011,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,31,20,5.8,Unknown,Unknown
+12437011,Home,219572,Joël Veltman,D,34,184,Netherlands,695433600,False,31,24,6,Unknown,Unknown
+12437011,Home,216308,Adam Webster,D,4,191,England,789177600,False,3,1,6.7,Unknown,Unknown
+12437011,Home,115365,Lewis Dunk,D,5,190,England,690681600,False,50,44,6.8,Unknown,Unknown
+12437011,Home,825844,Ferdi Kadıoğlu,D,24,174,Türkiye,939254400,False,26,23,6.5,Unknown,Unknown
+12437011,Home,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,26,23,7,Unknown,Unknown
+12437011,Home,1142315,Jack Hinshelwood,D,41,182,England,1113177600,False,29,25,6.5,Unknown,Unknown
+12437011,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,False,17,13,7.1,Unknown,Unknown
+12437011,Home,946695,Georginio Rutter,M,14,182,France,1019260800,False,11,9,6.8,Unknown,Unknown
+12437011,Home,936849,Kaoru Mitoma,M,22,178,Japan,864086400,False,27,19,7.6,Unknown,Unknown
+12437011,Home,33902,Danny Welbeck,F,18,185,England,659577600,False,20,17,7.2,Unknown,Unknown
+12437011,Home,842513,Igor Júlio,D,3,185,Brazil,886809600,True,57,55,6.4,Unknown,Unknown
+12437011,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,True,24,18,6.8,Unknown,Unknown
+12437011,Home,973556,Julio Enciso,M,9,173,Paraguay,1074729600,True,2,2,6.5,Unknown,Unknown
+12437011,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,True,7,6,6.8,Unknown,Unknown
+12437011,Home,1198075,Brajan Gruda,F,8,174,Germany,1085961600,True,3,2,6.3,Unknown,Unknown
+12437011,Home,31867,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Home,914691,Tariq Lamptey,D,2,165,Ghana,970272000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Home,1036269,Yasin Ayari,M,26,172,Sweden,1065398400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Home,999231,Evan Ferguson,F,28,188,Ireland,1098144000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Away,553606,Guglielmo Vicario,G,1,194,Italy,844646400,False,53,51,6.6,Unknown,Unknown
+12437011,Away,913654,Pedro Porro,D,23,173,Spain,937180800,False,47,34,6.8,Unknown,Unknown
+12437011,Away,829932,Cristian Romero,D,17,185,Argentina,893635200,False,98,94,7,Unknown,Unknown
+12437011,Away,998247,Micky van de Ven,D,37,193,Netherlands,987638400,False,95,91,6.6,Unknown,Unknown
+12437011,Away,983572,Destiny Udogie,D,13,186,Italy,1038441600,False,46,41,6.7,Unknown,Unknown
+12437011,Away,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,False,28,20,6.6,Unknown,Unknown
+12437011,Away,791190,Rodrigo Bentancur,M,30,187,Uruguay,867196800,False,46,39,6.6,Unknown,Unknown
+12437011,Away,356398,James Maddison,M,10,175,England,848707200,False,33,29,7.4,Unknown,Unknown
+12437011,Away,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,20,16,7.8,Unknown,Unknown
+12437011,Away,361420,Dominic Solanke,F,19,186,England,874195200,False,16,14,7.3,Unknown,Unknown
+12437011,Away,232306,Timo Werner,F,16,180,Germany,826070400,False,25,18,7.5,Unknown,Unknown
+12437011,Away,844842,Yves Bissouma,M,8,181,Mali,841363200,True,10,8,6.5,Unknown,Unknown
+12437011,Away,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,7,4,6.7,Unknown,Unknown
+12437011,Away,1403192,Mikey Moore,F,11,180,England,1186790400,True,2,2,6.6,Unknown,Unknown
+12437011,Away,19314,Fraser Forster,G,20,201,England,574560000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Away,945798,Djed Spence,D,24,184,England,965779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Away,997103,Radu Drăguşin,D,6,191,Romania,1012694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Away,1142335,Archie Gray,D,14,187,England,1142121600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Away,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437011,Away,1391825,Will Lankshear,F,19,189,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,0 +1,21 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12437000,Home,788134,Dean Henderson,G,1,188,England,858124800,True,60,6,9.57,Unknown,Unknown
+12437000,Home,879674,Maxence Lacroix,D,5,192,France,954979200,True,26,58,6.33,Unknown,Unknown
+12437000,Home,877994,Marc Guéhi,D,5,182,England,963446400,False,44,22,7.08,Unknown,Unknown
+12437000,Home,355796,Jefferson Lerma,M,8,179,Colombia,783043200,False,24,40,8.11,Unknown,Unknown
+12437000,Home,794338,Daichi Kamada,M,18,184,Japan,839203200,False,14,4,7.38,Unknown,Unknown
+12437000,Home,1438837,Romain Esse,M,21,178,England,1115942400,False,0,Unknown,Unknown,Unknown,Unknown
+12437000,Home,43215,Nathaniel Clyne,D,17,175,England,670809600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Home,1465401,Caleb Kporha,D,58,Unknown,England,1152921600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Home,1185603,Kaden Rodney,M,8,Unknown,England,1097107200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Home,1116593,Matheus França,F,11,184,Brazil,1080777600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Away,796143,Alex Palmer,G,31,190,England,839635200,True,18,18,6.37,Unknown,Unknown
+12437000,Away,893478,Luke Woolfenden,D,6,193,England,908928000,False,66,14,8.12,Unknown,Unknown
+12437000,Away,990821,Jacob Greaves,D,24,193,England,968716800,True,24,16,6.41,Unknown,Unknown
+12437000,Away,857671,Jens Cajuste,M,12,188,Sweden,934243200,False,42,4,6.56,Unknown,Unknown
+12437000,Away,1090963,Omari Hutchinson,M,20,174,England,1067385600,True,22,0,5.53,Unknown,Unknown
+12437000,Away,911710,Nathan Broadhead,M,33,178,Wales,891734400,False,0,0,6.87,Unknown,Unknown
+12437000,Away,839712,George Hirst,F,27,191,Scotland,919036800,False,0,0,6.48,Unknown,Unknown
+12437000,Away,198038,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Away,358084,Cameron Burgess,D,15,194,Australia,814233600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Away,108515,Sam Morsy,M,5,175,Egypt,684460800,False,Unknown,Unknown,Unknown,Unknown,Unknown

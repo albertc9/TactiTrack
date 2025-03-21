@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436882,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,26,21,7.5,Unknown,Unknown
+12436882,Home,219572,Joël Veltman,D,34,184,Netherlands,695433600,False,36,32,6.9,Unknown,Unknown
+12436882,Home,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,74,71,7.4,Unknown,Unknown
+12436882,Home,842513,Igor Júlio,D,3,185,Brazil,886809600,False,77,72,6.9,Unknown,Unknown
+12436882,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,37,32,6.9,Unknown,Unknown
+12436882,Home,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,False,9,9,6.5,Unknown,Unknown
+12436882,Home,1142315,Jack Hinshelwood,D,41,182,England,1113177600,False,28,26,6.4,Unknown,Unknown
+12436882,Home,1036269,Yasin Ayari,M,26,172,Sweden,1065398400,False,22,19,6.3,Unknown,Unknown
+12436882,Home,936849,Kaoru Mitoma,M,22,178,Japan,864086400,False,27,19,6.7,Unknown,Unknown
+12436882,Home,946695,Georginio Rutter,M,14,182,France,1019260800,False,13,11,6.2,Unknown,Unknown
+12436882,Home,33902,Danny Welbeck,F,18,185,England,659577600,False,20,16,6.2,Unknown,Unknown
+12436882,Home,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,True,19,18,7,Unknown,Unknown
+12436882,Home,891829,Matt O'Riley,M,33,187,Denmark,974764800,True,9,7,7.3,Unknown,Unknown
+12436882,Home,975079,João Pedro,F,9,188,Brazil,1001462400,True,16,10,8.1,Unknown,Unknown
+12436882,Home,1198075,Brajan Gruda,F,8,174,Germany,1085961600,True,9,7,6.8,Unknown,Unknown
+12436882,Home,886242,Jakub Moder,M,7,191,Poland,923443200,True,4,2,6.3,Unknown,Unknown
+12436882,Home,31867,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Home,973556,Julio Enciso,M,9,173,Paraguay,1074729600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Home,999231,Evan Ferguson,F,28,188,Ireland,1098144000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,254491,Ederson,G,31,188,Brazil,745545600,False,56,51,7.4,Unknown,Unknown
+12436882,Away,44614,Kyle Walker,D,32,183,England,643852800,False,90,81,7,Unknown,Unknown
+12436882,Away,1402924,Jahmai Simpson-Pusey,D,4,184,England,1131062400,False,106,98,6.5,Unknown,Unknown
+12436882,Away,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,77,74,6.7,Unknown,Unknown
+12436882,Away,1136731,Rico Lewis,D,82,170,England,1100995200,False,50,47,6.5,Unknown,Unknown
+12436882,Away,136710,Mateo Kovačić,M,8,178,Croatia,768182400,False,81,76,8,Unknown,Unknown
+12436882,Away,1046795,Savinho,M,26,176,Brazil,1081555200,False,29,23,7,Unknown,Unknown
+12436882,Away,859765,Phil Foden,M,47,171,England,959472000,False,45,39,7.4,Unknown,Unknown
+12436882,Away,45853,İlkay Gündoğan,M,19,180,Germany,656726400,False,42,39,6.9,Unknown,Unknown
+12436882,Away,945122,Matheus Nunes,M,27,183,Portugal,904176000,False,34,28,6.6,Unknown,Unknown
+12436882,Away,839956,Erling Haaland,F,9,194,Norway,964137600,False,12,9,7,Unknown,Unknown
+12436882,Away,331209,Bernardo Silva,M,20,173,Portugal,776476800,True,10,7,6.8,Unknown,Unknown
+12436882,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,True,21,14,6.5,Unknown,Unknown
+12436882,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,383560,Manuel Akanji,D,25,187,Switzerland,806112000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,1017915,Josh Wilson-Esbrand,D,33,176,England,1040860800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,1402922,Jacob Wright,M,16,178,England,1127260800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436882,Away,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown

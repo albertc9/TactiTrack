@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436494,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,35,24,7.9,Unknown,Unknown
+12436494,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,28,24,6.4,Unknown,Unknown
+12436494,Home,803031,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,59,55,6.7,Unknown,Unknown
+12436494,Home,859999,Lisandro Martínez,D,6,175,Argentina,885081600,False,81,71,7.4,Unknown,Unknown
+12436494,Home,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,37,32,7.4,Unknown,Unknown
+12436494,Home,122951,Casemiro,M,18,185,Brazil,698803200,False,38,34,6.9,Unknown,Unknown
+12436494,Home,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,False,51,47,7.7,Unknown,Unknown
+12436494,Home,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,26,19,7.9,Unknown,Unknown
+12436494,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,51,39,9,Unknown,Unknown
+12436494,Home,814590,Marcus Rashford,M,9,184,England,878256000,False,28,23,6.6,Unknown,Unknown
+12436494,Home,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,False,11,11,6.5,Unknown,Unknown
+12436494,Home,30144,Jonny Evans,D,35,188,Northern Ireland,568166400,True,17,14,6.6,Unknown,Unknown
+12436494,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,9,6,7.1,Unknown,Unknown
+12436494,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,8,7,6.5,Unknown,Unknown
+12436494,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,12,12,6.8,Unknown,Unknown
+12436494,Home,815890,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Home,18122,Tom Heaton,G,22,188,England,513907200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Home,143334,Victor Lindelöf,D,2,187,Sweden,774403200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Home,836694,Mason Mount,M,7,181,England,915926400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Home,958380,Antony,F,7,172,Brazil,951350400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Away,856640,Mads Hermansen,G,30,187,Denmark,963273600,False,22,14,5.8,Unknown,Unknown
+12436494,Away,827681,James Justin,D,2,183,England,888192000,False,36,25,6.4,Unknown,Unknown
+12436494,Away,361696,Wout Faes,D,3,185,Belgium,891561600,False,51,44,6.8,Unknown,Unknown
+12436494,Away,120538,Jannik Vestergaard,D,23,199,Denmark,712800000,False,63,57,6.2,Unknown,Unknown
+12436494,Away,1092409,Victor Kristiansen,D,16,181,Denmark,1039996800,False,37,32,6.1,Unknown,Unknown
+12436494,Away,887581,Boubakary Soumaré,M,24,188,France,920073600,False,69,61,6.7,Unknown,Unknown
+12436494,Away,545780,Harry Winks,M,8,178,England,823219200,False,70,65,7.1,Unknown,Unknown
+12436494,Away,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,False,24,21,6.9,Unknown,Unknown
+12436494,Away,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,False,36,25,6.8,Unknown,Unknown
+12436494,Away,103045,Jordan Ayew,F,18,182,Ghana,684547200,False,22,17,6.7,Unknown,Unknown
+12436494,Away,1103589,Abdul Fatawu Issahaku,F,7,180,Ghana,1078704000,False,22,15,7.9,Unknown,Unknown
+12436494,Away,1126569,Bilal El Khannouss,M,11,180,Morocco,1084147200,True,9,8,6.3,Unknown,Unknown
+12436494,Away,1065134,Kasey McAteer,M,35,177,Ireland,1006387200,True,5,4,6.6,Unknown,Unknown
+12436494,Away,795228,Odsonne Édouard,F,29,187,France,884908800,True,Unknown,Unknown,6.6,Unknown,Unknown
+12436494,Away,197428,Danny Ward,G,1,191,Wales,740707200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Away,98449,Conor Coady,D,4,184,England,730598400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Away,967722,Caleb Okoli,D,5,191,Italy,994982400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Away,833057,Hamza Choudhury,M,24,178,Bangladesh,875664000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Away,859901,Oliver Skipp,M,22,175,England,969062400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436494,Away,605338,Stephy Mavididi,M,10,182,England,896572800,True,Unknown,Unknown,Unknown,Unknown,Unknown

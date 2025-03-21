@@ -1,0 +1,41 @@
+Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+12436526,Home,78152,Matz Sels,G,26,188,Belgium,699062400,False,21,10,7.8,Unknown,Unknown
+12436526,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,False,18,12,7.1,Unknown,Unknown
+12436526,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,False,15,7,7,Unknown,Unknown
+12436526,Home,1199282,Murillo,D,5,183,Brazil,1025740800,False,28,16,7.7,Unknown,Unknown
+12436526,Home,927356,Neco Williams,D,7,183,Wales,987120000,False,12,9,7.1,Unknown,Unknown
+12436526,Home,846252,Ryan Yates,M,22,190,England,880070400,False,21,18,6.4,Unknown,Unknown
+12436526,Home,994546,Elliot Anderson,M,8,175,England,1036540800,False,25,17,7.3,Unknown,Unknown
+12436526,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,False,21,14,7.9,Unknown,Unknown
+12436526,Home,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,25,21,6.6,Unknown,Unknown
+12436526,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,25,21,7,Unknown,Unknown
+12436526,Home,50480,Chris Wood,F,11,191,New Zealand,692064000,False,16,9,7.1,Unknown,Unknown
+12436526,Home,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,4,4,6.9,Unknown,Unknown
+12436526,Home,1011895,Jota Silva,F,20,179,Portugal,933465600,True,1,Unknown,6.7,Unknown,Unknown
+12436526,Home,985086,Morato,D,4,190,Brazil,993859200,True,1,Unknown,6.5,Unknown,Unknown
+12436526,Home,294593,Álex Moreno,D,19,179,Spain,739497600,True,Unknown,Unknown,6.5,Unknown,Unknown
+12436526,Home,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,2,1,6.4,Unknown,Unknown
+12436526,Home,973738,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Home,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Home,161717,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Home,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Away,243609,Alisson,G,1,191,Brazil,717984000,False,23,20,6.6,Unknown,Unknown
+12436526,Away,795064,Trent Alexander-Arnold,D,66,180,England,907718400,False,72,62,7.3,Unknown,Unknown
+12436526,Away,826215,Ibrahima Konaté,D,5,195,France,927590400,False,45,36,6.5,Unknown,Unknown
+12436526,Away,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,False,74,67,7.2,Unknown,Unknown
+12436526,Away,262911,Andrew Robertson,D,26,178,Scotland,763344000,False,33,28,6.8,Unknown,Unknown
+12436526,Away,904897,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,46,36,7.1,Unknown,Unknown
+12436526,Away,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,False,66,57,7.6,Unknown,Unknown
+12436526,Away,159665,Mohamed Salah,M,11,175,Egypt,708566400,False,37,28,7.3,Unknown,Unknown
+12436526,Away,869856,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,62,53,7,Unknown,Unknown
+12436526,Away,862967,Cody Gakpo,F,18,193,Netherlands,926035200,False,26,23,7.6,Unknown,Unknown
+12436526,Away,883537,Luis Díaz,F,7,178,Colombia,853113600,False,32,28,6.7,Unknown,Unknown
+12436526,Away,786259,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,19,17,7.3,Unknown,Unknown
+12436526,Away,606164,Diogo Jota,F,20,178,Portugal,849657600,True,10,8,6.8,Unknown,Unknown
+12436526,Away,927353,Curtis Jones,M,17,185,England,980812800,True,21,19,6.9,Unknown,Unknown
+12436526,Away,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Away,1003339,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Away,1008402,Conor Bradley,D,84,181,Northern Ireland,1057708800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Away,143040,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Away,955245,Harvey Elliott,M,19,170,England,1049414400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436526,Away,845386,Federico Chiesa,F,14,175,Italy,877737600,True,Unknown,Unknown,Unknown,Unknown,Unknown
