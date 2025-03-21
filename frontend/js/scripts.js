@@ -101,7 +101,7 @@ window.addEventListener('DOMContentLoaded', event => {
         // Load the matches for the selected round
         function loadRoundMatches(round) {
           // Fetch round data (fetch from your backend JSON)
-          fetch(`https://albertc9.github.io/TactiTrack/backend/round/61627/json/${round}.json`)
+          fetch(`https://albertc9.github.io/TactiTrack/frontend/assets/json/${round}.json`)
             .then(response => response.json())
             .then(matches => {
               matchList.innerHTML = '';
