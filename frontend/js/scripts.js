@@ -63,6 +63,12 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
     
+
+
+
+
+
+
     document.addEventListener('DOMContentLoaded', () => {
         const roundTab = document.getElementById('roundTab');
         const timetableTab = document.getElementById('timetableTab');
@@ -106,6 +112,9 @@ window.addEventListener('DOMContentLoaded', event => {
                 matchItem.textContent = `${match.date} · ${match.home} vs ${match.away} · ${match.score}`;
                 matchList.appendChild(matchItem);
               });
+            })
+            .catch(error => {
+              console.error('Error loading CSV data:', error);
             });
         }
       
@@ -148,6 +157,7 @@ window.addEventListener('DOMContentLoaded', event => {
           });
         }
       });
+      
       
       
 
