@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436456,Home,846308,Santiago Bueno,D,4,189,Uruguay,910569600,True,76,110,5.57,Unknown,Unknown
-12436456,Home,1035996,André,M,7,176,Brazil,995241600,False,34,12,7.43,Unknown,Unknown
-12436456,Home,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,True,68,10,8.2,Unknown,Unknown
-12436456,Home,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,False,16,4,6.83,Unknown,Unknown
-12436456,Home,280979,Gonçalo Guedes,F,29,179,Portugal,849225600,True,10,2,6.58,Unknown,Unknown
-12436456,Home,101367,Daniel Bentley,G,25,188,England,742521600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436456,Home,50027,Craig Dawson,D,15,188,England,641952000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,846308,Santiago Bueno,D,4,189,Uruguay,910569600,False,58,34,5.92,Unknown,Unknown
+12436456,Home,973418,Toti Gomes,D,24,187,Portugal,916444800,True,146,82,8.32,Unknown,Unknown
+12436456,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,True,48,22,12,Unknown,Unknown
+12436456,Home,1035996,André,M,7,176,Brazil,995241600,False,28,14,6.52,Unknown,Unknown
+12436456,Home,932628,Tommy Doyle,M,20,172,England,1003276800,True,22,48,8.11,Unknown,Unknown
+12436456,Home,101367,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436456,Home,1597270,Pedro Lima,D,37,174,Brazil,1151712000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436456,Home,1405973,Bastien Meupiyou,D,6,191,France,1142726400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436456,Home,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436456,Away,888971,Arijanet Murić,G,1,198,Kosovo,910396800,True,40,12,8.88,Unknown,Unknown
-12436456,Away,856719,Dara O'Shea,D,26,188,Ireland,920505600,False,10,72,6.05,Unknown,Unknown
-12436456,Away,358084,Cameron Burgess,D,15,194,Australia,814233600,False,22,28,8.3,Unknown,Unknown
-12436456,Away,305302,Wes Burns,M,21,173,Wales,784684800,True,10,14,5.42,Unknown,Unknown
-12436456,Away,856669,Jack Taylor,M,14,185,Ireland,898560000,True,2,6,7.11,Unknown,Unknown
-12436456,Away,914412,Ben Johnson,D,18,182,England,948672000,True,0,2,5.43,Unknown,Unknown
-12436456,Away,1010010,Ali Al-Hamadi,F,9,187,Iraq,1014940800,False,0,0,6.48,Unknown,Unknown
-12436456,Away,197982,Conor Townsend,D,22,168,England,731203200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,1405973,Bastien Meupiyou,D,6,191,France,1142726400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Home,1069486,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,856719,Dara O'Shea,D,26,188,Ireland,920505600,True,42,4,5.67,Unknown,Unknown
+12436456,Away,358084,Cameron Burgess,D,15,194,Australia,814233600,False,80,10,6.77,Unknown,Unknown
+12436456,Away,108515,Sam Morsy,M,5,175,Egypt,684460800,True,22,56,6.62,Unknown,Unknown
+12436456,Away,305302,Wes Burns,M,21,173,Wales,784684800,False,8,14,5.93,Unknown,Unknown
+12436456,Away,784625,Conor Chaplin,M,10,170,England,856051200,False,2,20,7.74,Unknown,Unknown
+12436456,Away,1090963,Omari Hutchinson,M,20,174,England,1067385600,False,54,44,5.86,Unknown,Unknown
+12436456,Away,997087,Liam Delap,F,19,186,England,1044662400,False,2,4,6.58,Unknown,Unknown
+12436456,Away,893478,Luke Woolfenden,D,6,193,England,908928000,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436456,Away,911710,Nathan Broadhead,M,33,178,Wales,891734400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436456,Away,786028,Kalvin Phillips,M,8,177,England,817862400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436456,Away,786028,Kalvin Phillips,M,8,177,England,817862400,False,Unknown,Unknown,Unknown,Unknown,Unknown

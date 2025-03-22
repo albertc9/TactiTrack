@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436461,Home,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,102,96,6.1,Unknown,Unknown
-12436461,Home,974505,Enzo Fernández,M,8,177,Argentina,979689600,False,70,14,8.44,Unknown,Unknown
-12436461,Home,966547,Noni Madueke,M,11,182,England,1015718400,True,56,36,8.07,Unknown,Unknown
-12436461,Home,982780,Cole Palmer,M,80,188,England,1020643200,False,64,30,8.67,Unknown,Unknown
-12436461,Home,851100,Jadon Sancho,M,19,180,England,953942400,True,28,12,7.94,Unknown,Unknown
-12436461,Home,1085381,Nicolas Jackson,F,15,186,Senegal,992995200,True,20,14,6.26,Unknown,Unknown
-12436461,Home,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436461,Home,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436461,Home,1150955,Sam Rak-Sakyi,M,8,Unknown,England,1111881600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436461,Home,1403061,Tyrique George,M,32,181,England,1139011200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436461,Away,958916,Nathan Collins,D,22,193,Ireland,988588800,False,22,32,6.39,Unknown,Unknown
-12436461,Away,135256,Christian Nørgaard,M,6,185,Denmark,763257600,False,16,48,7.53,Unknown,Unknown
-12436461,Away,972421,Keane Lewis-Potter,F,23,170,England,982800000,False,4,2,7.44,Unknown,Unknown
-12436461,Away,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,36,6,6.95,Unknown,Unknown
-12436461,Away,805123,Yoane Wissa,F,11,176,DR Congo,841708800,False,22,12,7.99,Unknown,Unknown
-12436461,Away,814873,Vitaly Janelt,M,27,184,Germany,894758400,True,4,10,7.28,Unknown,Unknown
-12436461,Away,576384,Kristoffer Ajer,D,20,196,Norway,892771200,True,6,0,5.44,Unknown,Unknown
-12436461,Away,1006387,Kevin Schade,F,7,183,Germany,1006819200,True,6,6,6.27,Unknown,Unknown
-12436461,Away,1410201,Jayden Meghoma,M,3,176,England,1151452800,False,2,0,7.13,Unknown,Unknown
-12436461,Away,1177007,Ryan Trevitt,M,21,170,England,1047427200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,996958,Malo Gusto,D,27,179,France,1053302400,False,28,110,6.11,Unknown,Unknown
+12436461,Home,996911,Levi Colwill,D,6,187,England,1046217600,True,2,88,6.18,Unknown,Unknown
+12436461,Home,794939,Marc Cucurella,D,3,175,Spain,901065600,False,50,50,7.49,Unknown,Unknown
+12436461,Home,987650,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,114,86,7.38,Unknown,Unknown
+12436461,Home,974505,Enzo Fernández,M,8,177,Argentina,979689600,True,38,46,7.73,Unknown,Unknown
+12436461,Home,1085381,Nicolas Jackson,F,15,186,Senegal,992995200,True,0,14,6.26,Unknown,Unknown
+12436461,Home,769333,Christopher Nkunku,F,18,175,France,879465600,False,Unknown,Unknown,6.51,Unknown,Unknown
+12436461,Home,1403050,Josh Acheampong,D,34,185,England,1146787200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,1150955,Sam Rak-Sakyi,M,8,Unknown,England,1111881600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Home,1414933,Marc Guiu,F,38,187,Spain,1136332800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436461,Away,171919,Mark Flekken,G,1,194,Netherlands,739929600,False,66,10,6.94,Unknown,Unknown
+12436461,Away,855864,Ethan Pinnock,D,5,194,Jamaica,738633600,False,56,26,10,Unknown,Unknown
+12436461,Away,958916,Nathan Collins,D,22,193,Ireland,988588800,False,26,34,7.42,Unknown,Unknown
+12436461,Away,826057,Mads Roerslev,D,5,184,Denmark,930182400,True,2,12,5.92,Unknown,Unknown
+12436461,Away,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,24,8,6.86,Unknown,Unknown
+12436461,Away,805123,Yoane Wissa,F,11,176,DR Congo,841708800,False,14,6,6.02,Unknown,Unknown
+12436461,Away,991604,Fabio Carvalho,F,14,170,Portugal,1030665600,False,12,8,5.26,Unknown,Unknown
+12436461,Away,1006387,Kevin Schade,F,7,183,Germany,1006819200,True,0,0,6.75,Unknown,Unknown
+12436461,Away,1410201,Jayden Meghoma,M,3,176,England,1151452800,False,0,4,5.24,Unknown,Unknown
+12436461,Away,137774,Ben Mee,D,16,180,England,622339200,False,Unknown,Unknown,Unknown,Unknown,Unknown

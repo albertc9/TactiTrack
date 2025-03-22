@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436470,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,68,30,6.6,Unknown,Unknown
-12436470,Home,859999,Lisandro Martínez,D,6,175,Argentina,885081600,False,62,68,7.79,Unknown,Unknown
-12436470,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,20,4,7.64,Unknown,Unknown
-12436470,Home,1142175,Kobbie Mainoo,M,37,180,England,1113868800,False,36,78,8,Unknown,Unknown
-12436470,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,True,30,30,6.12,Unknown,Unknown
-12436470,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,2,0,6.95,Unknown,Unknown
-12436470,Home,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,True,2,8,6.55,Unknown,Unknown
-12436470,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,12,20,0,Unknown,Unknown
-12436470,Home,122951,Casemiro,M,18,185,Brazil,698803200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Away,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,56,20,7.38,Unknown,Unknown
-12436470,Away,44566,Adam Smith,D,15,180,England,672883200,True,6,0,6.95,Unknown,Unknown
-12436470,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,True,20,42,9.38,Unknown,Unknown
-12436470,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,True,18,6,6.94,Unknown,Unknown
-12436470,Away,998490,Evanilson,F,9,181,Brazil,939168000,True,14,4,7.35,Unknown,Unknown
-12436470,Away,548188,Lewis Cook,M,4,175,England,854928000,True,26,14,5.95,Unknown,Unknown
-12436470,Away,1156586,James Hill,D,23,184,England,1010620800,False,10,4,Unknown,Unknown,Unknown
-12436470,Away,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Away,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,52,22,5.59,Unknown,Unknown
+12436470,Home,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,False,2,4,6,Unknown,Unknown
+12436470,Home,1142175,Kobbie Mainoo,M,37,180,England,1113868800,True,30,82,8,Unknown,Unknown
+12436470,Home,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,True,22,44,8.41,Unknown,Unknown
+12436470,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,72,90,7.28,Unknown,Unknown
+12436470,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,0,8,6,Unknown,Unknown
+12436470,Home,815890,Altay Bayındır,G,1,198,Türkiye,892512000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,30144,Jonny Evans,D,35,188,Northern Ireland,568166400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,122951,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,44566,Adam Smith,D,15,180,England,672883200,False,22,20,6.95,Unknown,Unknown
+12436470,Away,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,True,32,18,8.31,Unknown,Unknown
+12436470,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,True,78,32,8.18,Unknown,Unknown
+12436470,Away,934354,Antoine Semenyo,M,24,178,Ghana,947203200,False,16,0,8.2,Unknown,Unknown
+12436470,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,8,2,7.62,Unknown,Unknown
+12436470,Away,548188,Lewis Cook,M,4,175,England,854928000,False,8,14,6.77,Unknown,Unknown
+12436470,Away,1156586,James Hill,D,23,184,England,1010620800,True,2,2,Unknown,Unknown,Unknown
+12436470,Away,855731,David Brooks,F,7,173,Wales,868320000,True,2,0,Unknown,Unknown,Unknown
+12436470,Away,943645,Max Aarons,D,19,178,England,946944000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,False,Unknown,Unknown,Unknown,Unknown,Unknown

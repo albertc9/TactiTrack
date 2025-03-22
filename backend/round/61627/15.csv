@@ -1,12 +1,12 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436452,15,Postponed,1733575500,Everton,Liverpool,N/A,N/A,True,True,everton-liverpool
-12436990,15,Ended,1733577300,Aston Villa,Southampton,1,0,True,True,southampton-aston-villa
-12436450,15,Ended,1733582700,Brentford,Newcastle United,5,2,False,True,brentford-newcastle-united
-12436445,15,Ended,1733591700,Crystal Palace,Manchester City,2,3,True,False,manchester-city-crystal-palace
-12436449,15,Ended,1733599800,Manchester United,Nottingham Forest,3,4,False,False,manchester-united-nottingham-forest
-12436459,15,Ended,1733661000,Fulham,Arsenal,1,1,False,False,fulham-arsenal
-12436462,15,Ended,1733657400,Ipswich Town,Bournemouth,1,2,True,False,bournemouth-ipswich-town
-12436444,15,Ended,1733660100,Leicester City,Brighton & Hove Albion,2,2,True,True,leicester-city-brighton-and-hove-albion
+12436452,15,Postponed,1733578200,Everton,Liverpool,N/A,N/A,True,True,everton-liverpool
+12436990,15,Ended,1733585400,Aston Villa,Southampton,2,1,True,True,southampton-aston-villa
+12436450,15,Ended,1733582700,Brentford,Newcastle United,5,2,False,False,brentford-newcastle-united
+12436445,15,Ended,1733582700,Crystal Palace,Manchester City,3,2,True,True,manchester-city-crystal-palace
+12436449,15,Ended,1733589900,Manchester United,Nottingham Forest,3,3,True,True,manchester-united-nottingham-forest
+12436459,15,Ended,1733661900,Fulham,Arsenal,2,2,True,False,fulham-arsenal
+12436462,15,Ended,1733661900,Ipswich Town,Bournemouth,2,3,False,True,bournemouth-ipswich-town
+12436444,15,Ended,1733674500,Leicester City,Brighton & Hove Albion,2,2,True,True,leicester-city-brighton-and-hove-albion
 12436441,15,Ended,1733681700,Tottenham Hotspur,Chelsea,3,5,True,True,chelsea-tottenham-hotspur
-12436454,15,Ended,1733765400,West Ham United,Wolverhampton,3,1,True,True,west-ham-united-wolverhampton
-13344418,15,Ended,1739388600,Everton,Liverpool,3,3,False,False,everton-liverpool
+12436454,15,Ended,1733778000,West Ham United,Wolverhampton,2,2,False,True,west-ham-united-wolverhampton
+13344418,15,Ended,1739385000,Everton,Liverpool,3,2,True,False,everton-liverpool
