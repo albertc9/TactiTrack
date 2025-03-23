@@ -11235,9 +11235,6 @@ body {
 /* */
 
 
-
-
-/* My Style */
 /* 不同联赛对应的背景图（建议使用模糊处理或暗色调） */
 .masthead-pl {
   background-image: url("../assets/img/bg-pl.png");
@@ -11387,99 +11384,88 @@ body {
 .list-group-item.active {
   background-color: #007bff;
   color: white;
-}
 
-/* 选项卡按钮的外观 */
-.btn-outline-primary {
-  font-size: 14px;
-  padding: 8px 16px;
-}
 /* Popup for selecting rounds */
 .popup-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: none;
-  justify-content: center;
-  align-items: center;
-  z-index: 1050; /* Ensure popup is on top */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1050; /* Ensure popup is on top */
 }
 
 #roundPopupContent {
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 10px;
-  width: 300px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
 }
 
 .popup-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #roundPopupBody {
-  margin-top: 15px;
-  display: flex;
-  flex-wrap: wrap;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #roundPopupBody .round-btn {
-  margin: 5px;
-  font-size: 14px;
+    margin: 5px;
+    font-size: 14px;
 }
 
 /* Round button active state */
 .round-btn.active {
-  background-color: #007bff;
-  color: white;
+    background-color: #007bff;
+    color: white;
 }
 
 /* Highlighted round button when hovered or active */
 .round-btn:hover {
-  background-color: #e0e0e0;
+    background-color: #e0e0e0;
 }
 
 /* Ensure default round is visible and buttons are clearly visible */
 .round-btn {
-  background-color: #f8f9fa;
-  border: 1px solid #ddd;
-  font-weight: bold;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    font-weight: bold;
 }
 
 /* Ensuring round buttons are visible and styled well */
 .round-btn.active {
-  background-color: #007bff;
-  color: white;
+    background-color: #007bff;
+    color: white;
 }
 
 /* Ensure all buttons are clearly visible */
 #roundSelector .round-btn {
-  color: black;
+    color: black;
 }
 
 #roundSelector .round-btn:hover {
-  background-color: #e0e0e0;
+    background-color: #e0e0e0;
 }
 
 /* Round 控制行箭头按钮 */
 .round-arrow {
-  font-size: 1.5rem;
-  padding: 4px 12px;
-  font-weight: bold;
-  color: black;
-  background-color: #f0f0f0;
-  border-color: #ccc;
+    font-size: 1.5rem;
+    padding: 4px 12px;
+    font-weight: bold;
+    color: black;
+    background-color: #f0f0f0;
+    border-color: #ccc;
 }
 
 .round-arrow:hover {
-  background-color: #e0e0e0;
+    background-color: #e0e0e0;
 }
-
-
-
-
-
