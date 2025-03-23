@@ -11233,8 +11233,6 @@ body {
 /* */
 /* */
 /* */
-
-
 /* 不同联赛对应的背景图（建议使用模糊处理或暗色调） */
 .masthead-pl {
   background-image: url("../assets/img/bg-pl.png");
@@ -11332,6 +11330,8 @@ body {
   border: 1px solid #ddd;
   background-color: #f8f9fa;
   cursor: pointer;
+  color: #333;  /* 设置按钮文字的默认颜色为深灰色 */
+  font-weight: bold;  /* 加粗字体 */
 }
 
 .round-btn:hover {
@@ -11384,44 +11384,62 @@ body {
 .list-group-item.active {
   background-color: #007bff;
   color: white;
+}
 
 /* Popup for selecting rounds */
 .popup-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    display: none;
-    justify-content: center;
-    align-items: center;
-    z-index: 1050; /* Ensure popup is on top */
+  position: fixed;
+  top: 0;   /* 顶部距离 */
+  left: 50%; /* 水平居中 */
+  transform: translateX(-50%); /* 使元素完全居中 */
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 1050;
 }
 
+
 #roundPopupContent {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    width: 300px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  max-height: 70%; /* Ensures it's not too large */
+  overflow-y: auto;
 }
 
 .popup-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #roundPopupBody {
-    margin-top: 15px;
-    display: flex;
-    flex-wrap: wrap;
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #roundPopupBody .round-btn {
-    margin: 5px;
-    font-size: 14px;
+  margin: 5px;
+  font-size: 14px;
+  width: 100%;
 }
+
+.popup-header .btn-close {
+  border: none;
+  background: none;
+  font-size: 1.5rem;
+  color: #000;
+  cursor: pointer;
+}
+
+
+
+
 
 /* Round button active state */
 .round-btn.active {
@@ -11439,6 +11457,7 @@ body {
     background-color: #f8f9fa;
     border: 1px solid #ddd;
     font-weight: bold;
+    color: #333;  /* 设置按钮文字的默认颜色为深灰色 */
 }
 
 /* Ensuring round buttons are visible and styled well */

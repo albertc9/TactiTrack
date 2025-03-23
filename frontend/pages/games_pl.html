@@ -66,22 +66,22 @@
                     <!-- Dynamically generate buttons for Round 1 to Round 38 -->
                 </div>
 
-                <!-- 轮次选择弹出框 -->
-                <div id="roundPopup" class="popup-container" style="display: none;">
-                    <div id="roundPopupContent">
-                        <div class="popup-header">
-                            <h5>Select Round</h5>
-                            <button id="closePopup" class="btn-close" aria-label="Close"></button>
-                        </div>
-                        <div id="roundPopupBody">
-                            <!-- Dynamically generate Round buttons 1-38 -->
-                        </div>
-                    </div>
-                </div>
-                
+<!-- 轮次选择器弹出框 -->
+<div id="roundSelectorPopup" class="popup-container" style="display: none;">
+  <div id="roundPopupContent">
+      <div class="popup-header">
+          <h5>Select Round</h5>
+          <button id="closeRoundPopup" class="btn-close" aria-label="Close"></button>
+      </div>
+      <div id="roundPopupBody" style="max-height: 300px; overflow-y: scroll;">
+          <!-- Dynamically generate Round buttons 1-38 -->
+      </div>
+  </div>
+</div>
+
+
+                <div id="matchList" class="list-group"></div>
                 <!-- 比赛列表 -->
-                <div id="matchList" class="list-group">
-                    <!-- Dynamically generate match cards here -->
                 </div>
             </div>
         </div>
