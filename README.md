@@ -1,32 +1,53 @@
 # TactiTrack: 🚀 Recruiting Developers! Let's Build an Open-Source Football Heatmap Analysis Tool Together!  
 
+Hello everyone!
 
-Hey everyone!  
+I am developing an **open-source football data analysis tool** focused on **heatmap visualization for players and teams**, along with data viewing features. If you're interested in **sports analytics and data visualization**, I would love to collaborate with you! ⚽
 
-I'm working on an **open-source football data analysis tool** focused on **heatmap visualization for players and teams**. If you're into **sports analytics, data visualization, or open-source development**, I'd love to collaborate with you! ⚽  
 
-## **Project Goals**  
+## **Project Goals**
 
-We aim to build a **flexible and interactive** tool that allows users to:  
+Our goal is to build a **flexible and interactive** tool that allows users to:  
+
 ✅ **View individual player heatmaps** (for a single match, selected matches, or an entire season – e.g., Bellingham’s heatmap for a single La Liga match or the whole season).  
+
 ✅ **Compare multiple players’ heatmaps** (display Bellingham vs. Mbappé’s movement in a single game, or even more players, distinguished by different color tones).  
+
 ✅ **Generate team-wide heatmaps**, with different tones to differentiate between zones.  
-✅ **Customize visualization** (adjust heat intensity, use different colors for different players, etc.).  
-✅ **Support major football data formats** (StatsBomb, Opta, Wyscout, JSON/CSV).  
 
-## **Tech Stack (Flexible & Open to Adjustments!)**  
+✅ **View basic match data**, such as scores, statistics, and other information that most football software provides (additional content).  
 
-The project is still in its early ideation phase, and development has not yet begun, but we are looking to start soon. We might need:  
+Heatmap comparison and viewing are the core features of this project!
 
-🟢 **Python/C++** (Matplotlib, Seaborn, Plotly) – for data processing & visualization.  
-🟢 **JavaScript** (D3.js, Three.js) – if we develop an interactive web interface.  
-🟢 **Databases** (PostgreSQL, SQLite) – for efficient match data storage.  
-🟢 **Machine Learning (Optional)** – potential future implementation for player movement prediction.  
 
-## **Who Are We Looking For?**  
+## **Tech Stack (The Basics!)**
 
-👨‍💻 **Developers** (Python/JS) passionate about **data visualization & analytics**.  
-📊 **Data Scientists (Potential Future Need)** – skilled in **football data & statistical analysis**.  
-⚽ **Football Analysts (Potential Future Need)** – providing **insights into tactical applications**.  
+The project has already started development, and the website is [https://albertc9.github.io/TactiTrack](https://albertc9.github.io/TactiTrack). We might need:
 
-## **Interested? Let’s Connect: albert.chg9@gmail.com**  
+🟢 **Python** – for data scraping, processing, and visualization.  
+
+🟢 **JavaScript** – to develop the interactive web interface.  
+
+🟢 **CSS** – for basic web design.
+
+🟢 Currently implemented as a static website on GitHub Pages, with future potential to consider server-side use.
+
+🟢 Looking for more people with web design skills (both frontend and backend).
+
+
+## **Who Are We Looking For?**
+
+👨‍💻 **Developers** (Python/JS) passionate about **data visualization and analytics**.  
+📊 **Data Scientists (Potential Future Need)** – skilled in **football data and statistical analysis**.  
+⚽ **Football Analysts (Potential Future Need)** – providing **insights and recommendations for tactical applications** for future goals.
+
+
+## **Interested? Let’s Connect:**
+
+My email is albert.chg9@gmail.com
+
+
+
+Project repository: [https://github.com/albertc9/TactiTrack](https://github.com/albertc9/TactiTrack)
+
+Project website: [https://albertc9.github.io/TactiTrack](https://albertc9.github.io/TactiTrack)
