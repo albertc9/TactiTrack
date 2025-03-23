@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436438,Home,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,False,176,116,6,Unknown,Unknown
-12436438,Home,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,False,102,56,7.34,Unknown,Unknown
-12436438,Home,547410,Martin Ødegaard,M,8,178,Norway,913852800,False,70,60,5.66,Unknown,Unknown
-12436438,Home,592010,Mikel Merino,M,23,188,Spain,835401600,False,6,16,7.93,Unknown,Unknown
-12436438,Home,836705,Kai Havertz,F,29,193,Germany,929059200,False,10,34,8.17,Unknown,Unknown
-12436438,Home,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,26,20,6.49,Unknown,Unknown
-12436438,Home,132874,Jorginho,M,20,180,Italy,693187200,True,28,6,6.39,Unknown,Unknown
-12436438,Home,316148,Thomas Partey,M,5,185,Ghana,739929600,True,48,6,6.6,Unknown,Unknown
-12436438,Home,84844,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436438,Home,366592,Kieran Tierney,D,3,178,Scotland,865468800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436438,Away,145188,James Tarkowski,D,6,185,England,722131200,True,6,0,8.31,Unknown,Unknown
-12436438,Away,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,20,4,0,Unknown,Unknown
-12436438,Away,372344,Dominic Calvert-Lewin,F,9,187,England,858470400,False,12,2,5.47,Unknown,Unknown
-12436438,Away,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,True,30,20,7.57,Unknown,Unknown
-12436438,Away,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,False,0,Unknown,5.7,Unknown,Unknown
-12436438,Away,930666,João Virgínia,G,12,191,Portugal,939513600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436438,Home,958959,Jurriën Timber,D,12,179,Netherlands,992736000,True,28,0,7.61,Unknown,Unknown
+12436438,Home,941168,William Saliba,D,2,193,France,985392000,True,186,144,6.5,Unknown,Unknown
+12436438,Home,856714,Declan Rice,M,41,188,England,916272000,True,2,40,7,Unknown,Unknown
+12436438,Home,592010,Mikel Merino,M,23,188,Spain,835401600,False,22,24,8.11,Unknown,Unknown
+12436438,Home,934235,Bukayo Saka,F,7,178,England,999648000,False,0,22,9.41,Unknown,Unknown
+12436438,Home,836705,Kai Havertz,F,29,193,Germany,929059200,False,38,6,8.31,Unknown,Unknown
+12436438,Home,132874,Jorginho,M,20,180,Italy,693187200,True,66,36,7.59,Unknown,Unknown
+12436438,Home,794839,Gabriel Jesus,F,9,175,Brazil,860025600,False,0,6,7.77,Unknown,Unknown
+12436438,Home,84844,Neto,G,32,190,Brazil,616809600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436438,Home,138534,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436438,Away,979563,Jarrad Branthwaite,D,32,195,England,1025136000,True,24,36,7.44,Unknown,Unknown
+12436438,Away,876643,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,2,4,7.39,Unknown,Unknown
+12436438,Away,793988,Orel Mangala,M,8,178,Belgium,890179200,True,0,6,6.85,Unknown,Unknown
+12436438,Away,106337,Idrissa Gueye,M,27,174,Senegal,622771200,True,12,22,0,Unknown,Unknown
+12436438,Away,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,True,18,0,5.87,Unknown,Unknown
+12436438,Away,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,True,2,Unknown,6.69,Unknown,Unknown
+12436438,Away,996985,Armando Broja,F,22,191,Albania,1000080000,True,4,2,6.09,Unknown,Unknown
 12436438,Away,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436438,Away,110846,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436438,Away,998253,Jake O'Brien,D,15,197,Ireland,989884800,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436438,Away,76632,Séamus Coleman,D,23,177,Ireland,592531200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436438,Away,1627560,Harrison Armstrong,M,28,185,England,1169164800,False,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-13344418,Home,138530,Jordan Pickford,G,1,185,England,762998400,True,34,0,5.67,Unknown,Unknown
-13344418,Home,876643,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,True,0,26,0,Unknown,Unknown
-13344418,Home,927361,James Garner,M,37,182,England,984441600,False,58,36,7.72,Unknown,Unknown
-13344418,Home,106337,Idrissa Gueye,M,27,174,Senegal,622771200,True,40,6,6.93,Unknown,Unknown
-13344418,Home,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,False,0,6,7.89,Unknown,Unknown
-13344418,Home,1017392,Carlos Alcaraz,M,24,183,Argentina,1038614400,False,12,2,7.03,Unknown,Unknown
-13344418,Home,10589,Ashley Young,D,18,180,England,489715200,True,2,0,6.14,Unknown,Unknown
-13344418,Home,13918,Asmir Begović,G,31,198,Bosnia & Herzegovina,551145600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-13344418,Home,1411668,Isaac Heath,F,10,Unknown,England,1098921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-13344418,Home,1177183,Martin Sherif,F,9,Unknown,Netherlands,1149897600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-13344418,Away,243609,Alisson,G,1,191,Brazil,717984000,False,6,2,5.16,Unknown,Unknown
-13344418,Away,826215,Ibrahima Konaté,D,5,195,France,927590400,True,156,70,7.63,Unknown,Unknown
-13344418,Away,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,True,126,152,6.3,Unknown,Unknown
-13344418,Away,262911,Andrew Robertson,D,26,178,Scotland,763344000,False,26,50,7.09,Unknown,Unknown
-13344418,Away,862967,Cody Gakpo,F,18,193,Netherlands,926035200,True,16,8,6.66,Unknown,Unknown
-13344418,Away,883537,Luis Díaz,F,7,178,Colombia,853113600,True,28,22,0,Unknown,Unknown
-13344418,Away,927353,Curtis Jones,M,17,185,England,980812800,False,12,16,6.72,Unknown,Unknown
-13344418,Away,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,4,0,6.51,Unknown,Unknown
+13344418,Home,138530,Jordan Pickford,G,1,185,England,762998400,True,4,14,5.87,Unknown,Unknown
+13344418,Home,998253,Jake O'Brien,D,15,197,Ireland,989884800,True,38,6,6,Unknown,Unknown
+13344418,Home,145188,James Tarkowski,D,6,185,England,722131200,False,10,32,8.04,Unknown,Unknown
+13344418,Home,979563,Jarrad Branthwaite,D,32,195,England,1025136000,False,12,34,6.99,Unknown,Unknown
+13344418,Home,876643,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,True,40,24,6,Unknown,Unknown
+13344418,Home,927361,James Garner,M,37,182,England,984441600,False,0,40,5.73,Unknown,Unknown
+13344418,Home,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,8,16,5.75,Unknown,Unknown
+13344418,Home,1017392,Carlos Alcaraz,M,24,183,Argentina,1038614400,True,2,8,7.86,Unknown,Unknown
+13344418,Home,10589,Ashley Young,D,18,180,England,489715200,False,2,2,7.32,Unknown,Unknown
+13344418,Home,110846,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13344418,Away,1008402,Conor Bradley,D,84,181,Northern Ireland,1057708800,False,80,20,6.44,Unknown,Unknown
+13344418,Away,826215,Ibrahima Konaté,D,5,195,France,927590400,True,30,130,5.69,Unknown,Unknown
+13344418,Away,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,False,46,20,6.7,Unknown,Unknown
+13344418,Away,159665,Mohamed Salah,M,11,175,Egypt,708566400,False,2,24,8.78,Unknown,Unknown
+13344418,Away,869856,Dominik Szoboszlai,M,8,187,Hungary,972432000,True,44,22,6.56,Unknown,Unknown
+13344418,Away,786259,Konstantinos Tsimikas,D,21,178,Greece,831859200,True,6,4,5.95,Unknown,Unknown
+13344418,Away,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,4,2,5.8,Unknown,Unknown
+13344418,Away,606164,Diogo Jota,F,20,178,Portugal,849657600,False,2,2,5.35,Unknown,Unknown
 13344418,Away,1003339,Jarell Quansah,D,78,190,England,1043798400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-13344418,Away,143040,Wataru Endo,M,3,178,Japan,729216000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13344418,Away,955245,Harvey Elliott,M,19,170,England,1049414400,True,Unknown,Unknown,Unknown,Unknown,Unknown

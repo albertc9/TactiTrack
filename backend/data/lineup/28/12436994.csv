@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436994,Home,576384,Kristoffer Ajer,D,20,196,Norway,892771200,False,50,30,7.47,Unknown,Unknown
-12436994,Home,958916,Nathan Collins,D,22,193,Ireland,988588800,False,106,88,8.28,Unknown,Unknown
-12436994,Home,855864,Ethan Pinnock,D,5,194,Jamaica,738633600,False,4,36,7.28,Unknown,Unknown
-12436994,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,True,14,28,9.06,Unknown,Unknown
-12436994,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,True,80,12,6.04,Unknown,Unknown
-12436994,Home,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,66,10,5.63,Unknown,Unknown
-12436994,Home,805123,Yoane Wissa,F,11,176,DR Congo,841708800,False,20,22,6.92,Unknown,Unknown
-12436994,Home,1005959,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436994,Home,137774,Ben Mee,D,16,180,England,622339200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Home,576384,Kristoffer Ajer,D,20,196,Norway,892771200,False,18,4,6.06,Unknown,Unknown
+12436994,Home,855864,Ethan Pinnock,D,5,194,Jamaica,738633600,True,106,68,7.82,Unknown,Unknown
+12436994,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,True,26,54,6.65,Unknown,Unknown
+12436994,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,True,36,8,5.65,Unknown,Unknown
+12436994,Home,907072,Mikkel Damsgaard,M,24,180,Denmark,962582400,True,28,30,6.71,Unknown,Unknown
+12436994,Home,1470532,Benjamin Fredrick,D,44,169,Nigeria,1117238400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436994,Home,1031258,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436994,Away,827243,Axel Disasi,D,3,190,France,889574400,False,28,2,6.34,Unknown,Unknown
-12436994,Away,827679,Ezri Konsa,D,4,183,England,877564800,True,74,46,12,Unknown,Unknown
-12436994,Away,96538,Lucas Digne,D,12,178,France,743126400,True,44,8,10,Unknown,Unknown
-12436994,Away,250223,John McGinn,M,7,175,Scotland,782438400,True,24,18,6.11,Unknown,Unknown
-12436994,Away,975937,Jacob Ramsey,M,41,180,England,991008000,False,10,16,2,Unknown,Unknown
-12436994,Away,555386,Ollie Watkins,F,11,179,England,820281600,True,24,6,6.22,Unknown,Unknown
-12436994,Away,826204,Boubacar Kamara,M,44,184,France,943315200,True,2,6,6.8,Unknown,Unknown
-12436994,Away,814590,Marcus Rashford,M,9,184,England,878256000,False,6,6,7.78,Unknown,Unknown
+12436994,Home,1518589,Yunus Konak,M,26,181,Türkiye,1136851200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Home,907500,Edmond-Paris Maghoma,M,32,178,England,989280000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Home,1470048,Iwan Morgan,F,40,Unknown,Wales,1138492800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,827243,Axel Disasi,D,3,190,France,889574400,False,24,0,6.77,Unknown,Unknown
+12436994,Away,827679,Ezri Konsa,D,4,183,England,877564800,False,16,44,10,Unknown,Unknown
+12436994,Away,808590,Leon Bailey,M,31,178,Jamaica,871084800,False,14,2,5.57,Unknown,Unknown
+12436994,Away,975937,Jacob Ramsey,M,41,180,England,991008000,True,6,4,12,Unknown,Unknown
+12436994,Away,826204,Boubacar Kamara,M,44,184,France,943315200,False,8,8,6.02,Unknown,Unknown
 12436994,Away,1009362,Oliwier Zych,G,48,193,Poland,1088380800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436994,Away,1457536,Andrés García,D,16,183,Spain,1044576000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,864169,Pau Torres,D,14,192,Spain,853372800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,976263,Ian Maatsen,D,22,178,Netherlands,1015718400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,1457536,Andrés García,D,16,183,Spain,1044576000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,1089388,Lamare Bogarde,M,26,183,Netherlands,1073260800,True,Unknown,Unknown,Unknown,Unknown,Unknown

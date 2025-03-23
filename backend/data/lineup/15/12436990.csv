@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436990,Home,864169,Pau Torres,D,14,192,Spain,853372800,True,76,68,7.21,Unknown,Unknown
-12436990,Home,976263,Ian Maatsen,D,22,178,Netherlands,1015718400,True,52,30,6.13,Unknown,Unknown
-12436990,Home,826204,Boubacar Kamara,M,44,184,France,943315200,True,32,10,7.76,Unknown,Unknown
-12436990,Home,808590,Leon Bailey,M,31,178,Jamaica,871084800,True,30,6,6.93,Unknown,Unknown
-12436990,Home,250223,John McGinn,M,7,175,Scotland,782438400,False,46,36,6.02,Unknown,Unknown
-12436990,Home,974577,Jhon Durán,F,9,185,Colombia,1071273600,False,4,16,8.09,Unknown,Unknown
-12436990,Home,96538,Lucas Digne,D,12,178,France,743126400,False,0,10,7.9,Unknown,Unknown
-12436990,Home,1014461,Jaden Philogene-Bidace,M,29,181,England,1013126400,True,36,6,7.04,Unknown,Unknown
+12436990,Home,158263,Emiliano Martínez,G,23,195,Argentina,715392000,False,26,0,7.85,Unknown,Unknown
+12436990,Home,604232,Diego Carlos,D,33,185,Brazil,732153600,False,4,14,8.93,Unknown,Unknown
+12436990,Home,864169,Pau Torres,D,14,192,Spain,853372800,False,36,52,8.59,Unknown,Unknown
+12436990,Home,826204,Boubacar Kamara,M,44,184,France,943315200,False,18,6,6.22,Unknown,Unknown
+12436990,Home,974577,Jhon Durán,F,9,185,Colombia,1071273600,True,26,0,7.34,Unknown,Unknown
+12436990,Home,98435,Ross Barkley,M,6,188,England,755049600,False,16,16,5.67,Unknown,Unknown
+12436990,Home,1014461,Jaden Philogene-Bidace,M,29,181,England,1013126400,True,22,8,6.14,Unknown,Unknown
+12436990,Home,26025,Robin Olsen,G,25,198,Sweden,631756800,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436990,Home,833956,Matty Cash,D,2,185,Poland,870912000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436990,Home,923973,Amadou Onana,M,24,195,Belgium,997920000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436990,Away,980637,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,84,4,6.8,Unknown,Unknown
-12436990,Away,944200,Nathan Wood,D,15,188,England,1022803200,False,144,60,6.82,Unknown,Unknown
-12436990,Away,823085,Kyle Walker-Peters,D,2,173,England,860889600,True,64,76,6.01,Unknown,Unknown
-12436990,Away,1174472,Tyler Dibling,M,33,178,England,1140134400,False,0,24,6.25,Unknown,Unknown
-12436990,Away,879810,Flynn Downes,M,4,172,England,916790400,True,58,30,7.88,Unknown,Unknown
-12436990,Away,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,True,54,0,7.98,Unknown,Unknown
+12436990,Home,923973,Amadou Onana,M,24,195,Belgium,997920000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436990,Away,980637,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,168,158,7.38,Unknown,Unknown
+12436990,Away,944200,Nathan Wood,D,15,188,England,1022803200,True,112,118,7.36,Unknown,Unknown
+12436990,Away,328701,Ryan Manning,D,3,172,Ireland,834710400,True,30,62,5.66,Unknown,Unknown
+12436990,Away,1174472,Tyler Dibling,M,33,178,England,1140134400,True,24,6,7.43,Unknown,Unknown
+12436990,Away,818073,Joe Aribo,M,7,183,Nigeria,837907200,True,8,16,8.27,Unknown,Unknown
+12436990,Away,867583,Ben Brereton Díaz,F,20,188,Chile,924393600,False,2,6,5.9,Unknown,Unknown
 12436990,Away,1019442,Kamaldeen Sulemana,F,20,174,Ghana,1013731200,True,0,0,Unknown,Unknown,Unknown
-12436990,Away,45502,Alex McCarthy,G,1,193,England,628646400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436990,Away,1012415,Ronnie Edwards,D,17,180,England,1048809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436990,Away,166381,Charlie Taylor,D,21,183,England,748310400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436990,Away,905347,Yukinari Sugawara,D,16,179,Japan,962150400,True,Unknown,Unknown,Unknown,Unknown,Unknown
