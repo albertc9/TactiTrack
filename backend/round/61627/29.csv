@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12437019,29,Ended,1740001500,Aston Villa,Liverpool,2,2,True,True,liverpool-aston-villa
-12437021,29,Ended,1742041800,Everton,West Ham United,2,2,False,False,everton-west-ham-united
-12437025,29,Ended,1742058000,Ipswich Town,Nottingham Forest,3,5,False,True,ipswich-town-nottingham-forest
-12437029,29,Ended,1742045400,Manchester City,Brighton & Hove Albion,3,2,True,True,brighton-and-hove-albion-manchester-city
-12436578,29,Ended,1742059800,Southampton,Wolverhampton,1,3,False,True,southampton-wolverhampton
-12437014,29,Ended,1742064300,Bournemouth,Brentford,2,3,True,False,bournemouth-brentford
-12437017,29,Ended,1742138100,Arsenal,Chelsea,2,0,False,True,arsenal-chelsea
-12437023,29,Ended,1742130900,Fulham,Tottenham Hotspur,3,1,False,True,fulham-tottenham-hotspur
-12437027,29,Ended,1742159700,Leicester City,Manchester United,0,4,True,False,manchester-united-leicester-city
-12437031,29,Not started,1744829100,Newcastle United,Crystal Palace,N/A,N/A,True,N/A,newcastle-united-crystal-palace
+12437019,29,Ended,1740002400,Aston Villa,Liverpool,3,3,True,False,liverpool-aston-villa
+12437021,29,Ended,1742049900,Everton,West Ham United,1,2,True,False,everton-west-ham-united
+12437025,29,Ended,1742058000,Ipswich Town,Nottingham Forest,2,5,True,False,ipswich-town-nottingham-forest
+12437029,29,Ended,1742048100,Manchester City,Brighton & Hove Albion,2,2,True,False,brighton-and-hove-albion-manchester-city
+12436578,29,Ended,1742044500,Southampton,Wolverhampton,1,2,False,True,southampton-wolverhampton
+12437014,29,Ended,1742051700,Bournemouth,Brentford,2,3,False,False,bournemouth-brentford
+12437017,29,Ended,1742122800,Arsenal,Chelsea,2,1,False,True,arsenal-chelsea
+12437023,29,Ended,1742131800,Fulham,Tottenham Hotspur,2,0,False,True,fulham-tottenham-hotspur
+12437027,29,Ended,1742144400,Leicester City,Manchester United,1,3,False,True,manchester-united-leicester-city
+12437031,29,Not started,1744830900,Newcastle United,Crystal Palace,N/A,N/A,True,N/A,newcastle-united-crystal-palace

@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436981,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,True,174,146,7.6,Unknown,Unknown
-12436981,Home,846308,Santiago Bueno,D,4,189,Uruguay,910569600,False,38,34,6.06,Unknown,Unknown
-12436981,Home,252821,Nélson Semedo,M,22,177,Portugal,753408000,False,20,8,7.09,Unknown,Unknown
-12436981,Home,845273,Jean-Ricner Bellegarde,M,27,170,France,898905600,True,48,22,7.68,Unknown,Unknown
-12436981,Home,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,True,66,22,6.2,Unknown,Unknown
-12436981,Home,886363,Matheus Cunha,F,10,184,Brazil,927763200,False,20,14,8.88,Unknown,Unknown
-12436981,Home,932628,Tommy Doyle,M,20,172,England,1003276800,False,0,8,6.73,Unknown,Unknown
-12436981,Home,98427,Sam Johnstone,G,31,193,England,733017600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436981,Home,1127169,Nasser Djiga,D,34,187,Burkina Faso,1037318400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436981,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,False,54,4,6.42,Unknown,Unknown
+12436981,Home,1035996,André,M,7,176,Brazil,995241600,False,24,56,6.26,Unknown,Unknown
+12436981,Home,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,26,24,7.63,Unknown,Unknown
+12436981,Home,1015267,João Gomes,M,8,176,Brazil,981936000,False,128,2,6.77,Unknown,Unknown
+12436981,Home,886363,Matheus Cunha,F,10,184,Brazil,927763200,True,50,28,6.63,Unknown,Unknown
+12436981,Home,894733,Marshall Munetsi,M,5,187,Zimbabwe,835401600,True,0,6,6.43,Unknown,Unknown
+12436981,Home,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,True,0,0,7.48,Unknown,Unknown
+12436981,Home,932628,Tommy Doyle,M,20,172,England,1003276800,True,20,20,7.15,Unknown,Unknown
+12436981,Home,1597270,Pedro Lima,D,37,174,Brazil,1151712000,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436981,Home,1083020,Alfie Pond,D,5,191,England,1076544000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436981,Away,103335,Bernd Leno,G,1,190,Germany,699667200,False,38,24,10,Unknown,Unknown
-12436981,Away,362682,Joachim Andersen,D,5,190,Denmark,833500800,True,106,12,5.79,Unknown,Unknown
-12436981,Away,868715,Jorge Cuenca,D,15,190,Spain,942796800,True,2,2,6.82,Unknown,Unknown
-12436981,Away,329417,Timothy Castagne,D,21,185,Belgium,818121600,True,18,12,6.73,Unknown,Unknown
-12436981,Away,371222,Saša Lukić,M,20,183,Serbia,839894400,False,8,32,5.99,Unknown,Unknown
-12436981,Away,793167,Sander Berge,M,16,195,Norway,887414400,False,8,38,7.64,Unknown,Unknown
-12436981,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,False,4,32,7.27,Unknown,Unknown
-12436981,Away,192442,Raúl Jiménez,F,7,189,Mexico,673401600,False,2,2,6.58,Unknown,Unknown
+12436981,Away,825719,Issa Diop,D,31,194,France,852768000,True,66,4,7.35,Unknown,Unknown
+12436981,Away,362682,Joachim Andersen,D,5,190,Denmark,833500800,True,102,40,6.29,Unknown,Unknown
+12436981,Away,868715,Jorge Cuenca,D,15,190,Spain,942796800,True,10,12,8.09,Unknown,Unknown
+12436981,Away,329417,Timothy Castagne,D,21,185,Belgium,818121600,True,40,10,5.96,Unknown,Unknown
+12436981,Away,371222,Saša Lukić,M,20,183,Serbia,839894400,True,52,2,5.98,Unknown,Unknown
+12436981,Away,793167,Sander Berge,M,16,195,Norway,887414400,True,30,4,7.66,Unknown,Unknown
+12436981,Away,31417,Willian,M,22,175,Brazil,587088000,True,20,22,6.81,Unknown,Unknown
+12436981,Away,192442,Raúl Jiménez,F,7,189,Mexico,673401600,False,2,4,7.64,Unknown,Unknown
 12436981,Away,860764,Steven Benda,G,23,192,Germany,907200000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436981,Away,1546231,Joshua King,D,24,172,England,1167782400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436981,Away,1546231,Joshua King,D,24,172,England,1167782400,True,Unknown,Unknown,Unknown,Unknown,Unknown

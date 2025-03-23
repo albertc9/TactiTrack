@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437017,Home,581310,David Raya,G,22,183,Spain,811123200,True,10,40,8.39,Unknown,Unknown
-12437017,Home,958959,Jurriën Timber,D,12,179,Netherlands,992736000,True,54,20,7.78,Unknown,Unknown
-12437017,Home,941168,William Saliba,D,2,193,France,985392000,True,16,34,8.03,Unknown,Unknown
-12437017,Home,316148,Thomas Partey,M,5,185,Ghana,739929600,False,76,44,6.59,Unknown,Unknown
-12437017,Home,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,False,4,14,6.97,Unknown,Unknown
-12437017,Home,135666,Leandro Trossard,F,19,172,Belgium,786499200,False,20,12,7.33,Unknown,Unknown
-12437017,Home,1401702,Ethan Nwaneri,F,53,176,England,1174435200,False,0,0,7.54,Unknown,Unknown
-12437017,Home,366592,Kieran Tierney,D,3,178,Scotland,865468800,False,2,0,Unknown,Unknown,Unknown
+12437017,Home,941168,William Saliba,D,2,193,France,985392000,False,106,32,7.97,Unknown,Unknown
+12437017,Home,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,False,78,2,7.27,Unknown,Unknown
+12437017,Home,856714,Declan Rice,M,41,188,England,916272000,True,4,0,7.65,Unknown,Unknown
+12437017,Home,135666,Leandro Trossard,F,19,172,Belgium,786499200,False,0,12,7.35,Unknown,Unknown
+12437017,Home,1401702,Ethan Nwaneri,F,53,176,England,1174435200,False,0,0,5.41,Unknown,Unknown
+12437017,Home,84844,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437017,Home,846036,Ben White,D,4,186,England,876268800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437017,Home,287643,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437017,Away,920546,Robert Sánchez,G,1,197,Spain,879811200,True,6,6,12,Unknown,Unknown
-12437017,Away,794939,Marc Cucurella,D,3,175,Spain,901065600,True,60,12,5.8,Unknown,Unknown
-12437017,Away,987650,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,82,14,7.87,Unknown,Unknown
-12437017,Away,851100,Jadon Sancho,M,19,180,England,953942400,False,64,0,7.27,Unknown,Unknown
-12437017,Away,974505,Enzo Fernández,M,8,177,Argentina,979689600,False,58,8,7.6,Unknown,Unknown
-12437017,Away,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,0,4,7.14,Unknown,Unknown
-12437017,Away,1403061,Tyrique George,M,32,181,England,1139011200,False,8,6,7.02,Unknown,Unknown
-12437017,Away,1069488,Roméo Lavia,M,45,181,Belgium,1073347200,False,0,10,7.48,Unknown,Unknown
-12437017,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,26,14,7.21,Unknown,Unknown
-12437017,Away,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437017,Home,976037,Jakub Kiwior,D,15,189,Poland,950572800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437017,Home,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437017,Home,132874,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437017,Away,920546,Robert Sánchez,G,1,197,Spain,879811200,False,32,18,12,Unknown,Unknown
+12437017,Away,923894,Wesley Fofana,D,29,186,France,977011200,True,40,54,6.07,Unknown,Unknown
+12437017,Away,885908,Reece James,D,24,180,England,944611200,True,30,62,5.6,Unknown,Unknown
+12437017,Away,851100,Jadon Sancho,M,19,180,England,953942400,False,14,10,6.06,Unknown,Unknown
+12437017,Away,974505,Enzo Fernández,M,8,177,Argentina,979689600,True,56,14,6.83,Unknown,Unknown
+12437017,Away,769333,Christopher Nkunku,F,18,175,France,879465600,False,4,34,7.69,Unknown,Unknown
+12437017,Away,1403061,Tyrique George,M,32,181,England,1139011200,False,0,6,7.06,Unknown,Unknown
+12437017,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,4,20,6.03,Unknown,Unknown
+12437017,Away,257993,Marcus Bettinelli,G,13,194,England,706665600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437017,Away,1403050,Josh Acheampong,D,34,185,England,1146787200,True,Unknown,Unknown,Unknown,Unknown,Unknown
