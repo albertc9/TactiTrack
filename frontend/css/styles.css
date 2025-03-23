@@ -11233,7 +11233,7 @@ body {
 /* */
 /* */
 /* */
-/* 不同联赛对应的背景图（建议使用模糊处理或暗色调） */
+/* 不同联赛对应的背景图 */
 .masthead-pl {
   background-image: url("../assets/img/bg-pl.png");
   background-size: cover;
@@ -11269,7 +11269,7 @@ body {
   background-repeat: no-repeat;
 }
 
-/* === 玻璃按钮效果（透明悬浮）=== */
+
 .btn-glass {
   background-color: transparent;
   border: 2px solid white;
@@ -11286,22 +11286,19 @@ body {
   border-color: white;
 }
 
-/* 鼠标悬停显示 dropdown */
 .nav-item.dropdown:hover .dropdown-menu {
   display: block;
 }
 
-/* 自定义透明下拉菜单样式 */
 .dropdown-menu {
-  background-color: rgba(28, 28, 28, 0.7); /* 半透明黑 */
-  backdrop-filter: blur(6px); /* 背景模糊玻璃感 */
+  background-color: rgba(28, 28, 28, 0.7); 
+  backdrop-filter: blur(6px);
   border: none;
   border-radius: 10px;
   padding: 0.5rem 0;
   transition: all 0.3s ease-in-out;
 }
 
-/* 菜单项字体样式统一 */
 .dropdown-item {
   color: white;
   font-family: 'Varela Round', sans-serif;
@@ -11310,28 +11307,25 @@ body {
   transition: background 0.3s ease;
 }
 
-/* 悬停效果 */
 .dropdown-item:hover {
   background-color: rgba(255, 255, 255, 0.2);
   color: white;
 }
 
-/* 轮次按钮容器 */
 #roundSelector {
   display: flex;
   justify-content: center;
   margin: 20px 0;
 }
 
-/* 轮次按钮 */
 .round-btn {
   margin: 5px;
   padding: 10px;
   border: 1px solid #ddd;
   background-color: #f8f9fa;
   cursor: pointer;
-  color: #333;  /* 设置按钮文字的默认颜色为深灰色 */
-  font-weight: bold;  /* 加粗字体 */
+  color: #333;  
+  font-weight: bold;  
 }
 
 .round-btn:hover {
@@ -11343,14 +11337,12 @@ body {
   color: white;
 }
 
-/* 比赛列表 */
 #matchList {
   max-height: 500px;
   overflow-y: auto;
   margin-top: 20px;
 }
 
-/* 比赛列表卡片样式 */
 .list-group-item {
   font-size: 1rem;
   padding: 15px;
@@ -11389,9 +11381,9 @@ body {
 /* Popup for selecting rounds */
 .popup-container {
   position: fixed;
-  top: 0;   /* 顶部距离 */
-  left: 50%; /* 水平居中 */
-  transform: translateX(-50%); /* 使元素完全居中 */
+  top: 0;   
+  left: 50%; 
+  transform: translateX(-50%); 
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
@@ -11441,32 +11433,28 @@ body {
 
 
 
-/* Round button active state */
 .round-btn.active {
     background-color: #007bff;
     color: white;
 }
 
-/* Highlighted round button when hovered or active */
 .round-btn:hover {
     background-color: #e0e0e0;
 }
 
-/* Ensure default round is visible and buttons are clearly visible */
 .round-btn {
     background-color: #f8f9fa;
     border: 1px solid #ddd;
     font-weight: bold;
-    color: #333;  /* 设置按钮文字的默认颜色为深灰色 */
+    color: #333;  
 }
 
-/* Ensuring round buttons are visible and styled well */
 .round-btn.active {
     background-color: #007bff;
     color: white;
 }
 
-/* Ensure all buttons are clearly visible */
+
 #roundSelector .round-btn {
     color: black;
 }
@@ -11475,7 +11463,6 @@ body {
     background-color: #e0e0e0;
 }
 
-/* Round 控制行箭头按钮 */
 .round-arrow {
     font-size: 1.5rem;
     padding: 4px 12px;
