@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436984,Home,591620,Joe Lumley,G,13,190,England,792806400,True,104,8,5.09,Unknown,Unknown
-12436984,Home,823085,Kyle Walker-Peters,D,2,173,England,860889600,True,78,4,5.5,Unknown,Unknown
-12436984,Home,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,False,68,72,5.51,Unknown,Unknown
-12436984,Home,138261,Ryan Fraser,M,24,163,Scotland,762048000,False,36,16,5.68,Unknown,Unknown
-12436984,Home,361352,Adam Armstrong,F,32,172,England,855532800,True,8,20,7.76,Unknown,Unknown
-12436984,Home,993451,Cameron Archer,F,19,181,England,1007856000,False,30,24,5.66,Unknown,Unknown
-12436984,Home,867583,Ben Brereton Díaz,F,20,188,Chile,924393600,False,4,2,5.67,Unknown,Unknown
-12436984,Home,166381,Charlie Taylor,D,21,183,England,748310400,False,6,0,6.74,Unknown,Unknown
+12436984,Home,591620,Joe Lumley,G,13,190,England,792806400,True,12,38,6.4,Unknown,Unknown
+12436984,Home,944200,Nathan Wood,D,15,188,England,1022803200,False,98,100,6.07,Unknown,Unknown
+12436984,Home,823085,Kyle Walker-Peters,D,2,173,England,860889600,True,32,36,5.54,Unknown,Unknown
+12436984,Home,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,True,50,74,5.19,Unknown,Unknown
+12436984,Home,361352,Adam Armstrong,F,32,172,England,855532800,False,24,8,7.23,Unknown,Unknown
+12436984,Home,1019442,Kamaldeen Sulemana,F,20,174,Ghana,1013731200,True,4,2,6.8,Unknown,Unknown
+12436984,Home,905347,Yukinari Sugawara,D,16,179,Japan,962150400,False,8,4,6.41,Unknown,Unknown
+12436984,Home,1012415,Ronnie Edwards,D,17,180,England,1048809600,True,0,0,7.37,Unknown,Unknown
+12436984,Home,166381,Charlie Taylor,D,21,183,England,748310400,True,6,2,5.3,Unknown,Unknown
 12436984,Home,1407484,Samuel Amo-Ameyaw,M,27,174,England,1153180800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436984,Home,1184294,Joe O'Brien Whitmarsh ,M,43,Unknown,Ireland,1115769600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436984,Away,987650,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,134,102,5.88,Unknown,Unknown
-12436984,Away,851671,João Félix,F,79,181,Portugal,942192000,False,26,46,6.56,Unknown,Unknown
-12436984,Away,769333,Christopher Nkunku,F,18,175,France,879465600,True,2,14,8.54,Unknown,Unknown
-12436984,Away,851100,Jadon Sancho,M,19,180,England,953942400,False,32,6,7.32,Unknown,Unknown
-12436984,Away,1087359,Renato Veiga,D,12,190,Portugal,1059436800,False,4,0,7.64,Unknown,Unknown
-12436984,Away,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,False,10,4,6.63,Unknown,Unknown
+12436984,Away,996958,Malo Gusto,D,27,179,France,1053302400,True,88,28,7.32,Unknown,Unknown
+12436984,Away,827243,Axel Disasi,D,3,190,France,889574400,True,100,28,7.4,Unknown,Unknown
+12436984,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,94,94,6.62,Unknown,Unknown
+12436984,Away,794939,Marc Cucurella,D,3,175,Spain,901065600,False,48,26,7.32,Unknown,Unknown
+12436984,Away,974505,Enzo Fernández,M,8,177,Argentina,979689600,False,114,92,7.84,Unknown,Unknown
+12436984,Away,982780,Cole Palmer,M,80,185,England,1020643200,True,14,20,8.47,Unknown,Unknown
+12436984,Away,851671,João Félix,F,79,181,Portugal,942192000,False,58,62,6.7,Unknown,Unknown
+12436984,Away,769333,Christopher Nkunku,F,18,175,France,879465600,True,26,10,9.01,Unknown,Unknown
 12436984,Away,920546,Robert Sánchez,G,1,197,Spain,879811200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436984,Away,904827,Benoît Badiashile,D,5,194,France,985564800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436984,Away,1069488,Roméo Lavia,M,45,181,Belgium,1073347200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436984,Away,879349,Pedro Neto,F,7,172,Portugal,952560000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436984,Away,1085381,Nicolas Jackson,F,15,186,Senegal,992995200,True,Unknown,Unknown,Unknown,Unknown,Unknown

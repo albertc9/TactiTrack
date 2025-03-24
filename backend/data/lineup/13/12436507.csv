@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436507,Home,19314,Fraser Forster,G,20,201,England,574560000,True,22,4,7.91,Unknown,Unknown
-12436507,Home,913654,Pedro Porro,D,23,173,Spain,937180800,True,30,54,5.6,Unknown,Unknown
-12436507,Home,94758,Ben Davies,D,33,181,Wales,735609600,False,54,54,6.96,Unknown,Unknown
-12436507,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,14,14,4,Unknown,Unknown
-12436507,Home,356398,James Maddison,M,10,175,England,848707200,False,56,70,6.46,Unknown,Unknown
-12436507,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,False,10,10,5.4,Unknown,Unknown
-12436507,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,False,6,4,7.52,Unknown,Unknown
-12436507,Home,945798,Djed Spence,D,24,184,England,965779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Home,1403190,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Home,1471591,Luca Williams-Barnett,M,10,175,England,1208563200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Away,103335,Bernd Leno,G,1,190,Germany,699667200,True,32,18,7.03,Unknown,Unknown
-12436507,Away,825719,Issa Diop,D,31,194,France,852768000,False,42,56,6.36,Unknown,Unknown
-12436507,Away,861972,Calvin Bassey,D,3,185,Nigeria,946598400,True,50,22,6.36,Unknown,Unknown
-12436507,Away,371222,Saša Lukić,M,20,183,Serbia,839894400,False,46,6,5.6,Unknown,Unknown
-12436507,Away,352770,Alex Iwobi,M,17,183,Nigeria,831081600,True,8,26,7.54,Unknown,Unknown
-12436507,Away,355528,Harry Wilson,M,8,173,Wales,858988800,True,2,10,7.18,Unknown,Unknown
-12436507,Away,1015256,Rodrigo Muniz,F,9,184,Brazil,988934400,False,4,2,6.57,Unknown,Unknown
-12436507,Away,329417,Timothy Castagne,D,21,185,Belgium,818121600,False,0,0,6.98,Unknown,Unknown
-12436507,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,True,6,0,6.64,Unknown,Unknown
-12436507,Away,286165,Adama Traoré,F,11,178,Spain,822528000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,19314,Fraser Forster,G,20,201,England,574560000,True,26,2,7.65,Unknown,Unknown
+12436507,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,False,6,22,8.65,Unknown,Unknown
+12436507,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,64,20,7.56,Unknown,Unknown
+12436507,Home,356398,James Maddison,M,10,175,England,848707200,False,86,80,6.47,Unknown,Unknown
+12436507,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,30,0,7.28,Unknown,Unknown
+12436507,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,46,0,5.73,Unknown,Unknown
+12436507,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,20,6,7.08,Unknown,Unknown
+12436507,Home,859896,Brandon Austin,G,40,188,England,915753600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,858195,Sergio Reguilón,D,3,178,Spain,850694400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,1403190,Callum Olusesi,M,64,175,England,1173571200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Away,825719,Issa Diop,D,31,194,France,852768000,False,28,38,5.69,Unknown,Unknown
+12436507,Away,371222,Saša Lukić,M,20,183,Serbia,839894400,True,22,52,7.48,Unknown,Unknown
+12436507,Away,867445,Emile Smith Rowe,M,32,182,England,964742400,True,42,28,4,Unknown,Unknown
+12436507,Away,826139,Reiss Nelson,F,19,175,England,944784000,False,52,56,6.71,Unknown,Unknown
+12436507,Away,192442,Raúl Jiménez,F,7,189,Mexico,673401600,True,2,0,6.37,Unknown,Unknown
+12436507,Away,1015256,Rodrigo Muniz,F,9,184,Brazil,988934400,True,4,2,5.76,Unknown,Unknown
+12436507,Away,329417,Timothy Castagne,D,21,185,Belgium,818121600,False,0,0,5.41,Unknown,Unknown
+12436507,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,True,6,0,5.76,Unknown,Unknown
+12436507,Away,1514221,Samuel Amissah,D,4,Unknown,England,1173225600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Away,286165,Adama Traoré,F,11,178,Spain,822528000,False,Unknown,Unknown,Unknown,Unknown,Unknown

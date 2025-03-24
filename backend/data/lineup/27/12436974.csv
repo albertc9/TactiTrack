@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436974,Home,78152,Matz Sels,G,26,188,Belgium,699062400,True,4,10,8.02,Unknown,Unknown
-12436974,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,True,24,28,7.5,Unknown,Unknown
-12436974,Home,927356,Neco Williams,D,7,183,Wales,987120000,True,42,30,8.75,Unknown,Unknown
-12436974,Home,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,22,34,6.94,Unknown,Unknown
-12436974,Home,994546,Elliot Anderson,M,8,175,England,1036540800,True,14,18,7.07,Unknown,Unknown
-12436974,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,True,0,2,7.39,Unknown,Unknown
-12436974,Home,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,16,36,6.76,Unknown,Unknown
-12436974,Home,50480,Chris Wood,F,11,191,New Zealand,692064000,True,6,0,6.56,Unknown,Unknown
-12436974,Home,1064039,Danilo,M,28,177,Brazil,988502400,True,6,4,7.61,Unknown,Unknown
-12436974,Home,843754,Ibrahim Sangaré,M,6,191,Côte d'Ivoire,881020800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436974,Away,581310,David Raya,G,22,183,Spain,811123200,True,38,30,8.42,Unknown,Unknown
-12436974,Away,941168,William Saliba,D,2,193,France,985392000,False,48,72,8.61,Unknown,Unknown
-12436974,Away,132874,Jorginho,M,20,180,Italy,693187200,True,26,34,6.61,Unknown,Unknown
-12436974,Away,856714,Declan Rice,M,41,188,England,916272000,False,96,58,8.25,Unknown,Unknown
-12436974,Away,135666,Leandro Trossard,F,19,172,Belgium,786499200,True,76,4,8.09,Unknown,Unknown
-12436974,Away,138534,Raheem Sterling,F,30,170,England,786844800,True,2,2,7.29,Unknown,Unknown
-12436974,Away,846036,Ben White,D,4,186,England,876268800,True,Unknown,Unknown,7.07,Unknown,Unknown
-12436974,Away,976037,Jakub Kiwior,D,15,189,Poland,950572800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436974,Away,998835,Nathan Butler-Oyedeji,F,37,177,England,1041638400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436974,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,False,36,22,6.24,Unknown,Unknown
+12436974,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,True,22,46,7.04,Unknown,Unknown
+12436974,Home,927356,Neco Williams,D,7,183,Wales,987120000,False,18,18,6.71,Unknown,Unknown
+12436974,Home,994546,Elliot Anderson,M,8,175,England,1036540800,False,30,38,6.76,Unknown,Unknown
+12436974,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,True,4,4,5.56,Unknown,Unknown
+12436974,Home,1064039,Danilo,M,28,177,Brazil,988502400,False,4,4,5.84,Unknown,Unknown
+12436974,Home,16620,Wayne Hennessey,G,13,198,Wales,538444800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436974,Home,985086,Morato,D,4,190,Brazil,993859200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436974,Home,294593,Álex Moreno,D,19,179,Spain,739497600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436974,Home,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436974,Away,581310,David Raya,G,22,183,Spain,811123200,False,12,52,7.7,Unknown,Unknown
+12436974,Away,958959,Jurriën Timber,D,12,179,Netherlands,992736000,False,4,18,7.38,Unknown,Unknown
+12436974,Away,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,False,34,96,8.83,Unknown,Unknown
+12436974,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,6,24,5.66,Unknown,Unknown
+12436974,Away,547410,Martin Ødegaard,M,8,178,Norway,913852800,True,4,30,5.86,Unknown,Unknown
+12436974,Away,856714,Declan Rice,M,41,188,England,916272000,True,38,26,6.47,Unknown,Unknown
+12436974,Away,592010,Mikel Merino,M,23,188,Spain,835401600,False,18,2,8,Unknown,Unknown
+12436974,Away,846036,Ben White,D,4,186,England,876268800,False,Unknown,Unknown,6.66,Unknown,Unknown
+12436974,Away,976037,Jakub Kiwior,D,15,189,Poland,950572800,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436974,Away,1621612,Ismeal Kabia,F,46,176,Netherlands,1134172800,False,Unknown,Unknown,Unknown,Unknown,Unknown

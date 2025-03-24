@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436505,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,56,50,7.45,Unknown,Unknown
-12436505,Home,803031,Matthijs de Ligt,D,4,188,Netherlands,934416000,False,12,2,5.73,Unknown,Unknown
-12436505,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,6,12,6.54,Unknown,Unknown
-12436505,Home,814590,Marcus Rashford,M,9,184,England,878256000,True,22,0,8.86,Unknown,Unknown
-12436505,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,True,10,22,6.66,Unknown,Unknown
-12436505,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,14,26,9.17,Unknown,Unknown
-12436505,Home,190839,Luke Shaw,D,23,178,England,805507200,False,48,24,7.55,Unknown,Unknown
-12436505,Home,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,True,24,8,7.3,Unknown,Unknown
-12436505,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,18,18,6.25,Unknown,Unknown
-12436505,Home,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436505,Away,979563,Jarrad Branthwaite,D,32,195,England,1025136000,False,38,58,5.11,Unknown,Unknown
-12436505,Away,876643,Vitaliy Mykolenko,D,19,180,Ukraine,927936000,False,26,24,5.41,Unknown,Unknown
-12436505,Away,935543,Dwight McNeil,M,7,183,England,943228800,True,48,44,12,Unknown,Unknown
-12436505,Away,987489,Beto,F,14,194,Guinea-Bissau,886204800,False,0,4,6.93,Unknown,Unknown
-12436505,Away,793988,Orel Mangala,M,8,178,Belgium,890179200,False,24,2,6.42,Unknown,Unknown
-12436505,Away,829570,Jack Harrison,M,11,175,England,848448000,False,14,6,7.74,Unknown,Unknown
-12436505,Away,372344,Dominic Calvert-Lewin,F,9,187,England,858470400,False,0,4,6.1,Unknown,Unknown
-12436505,Away,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,True,10,2,6,Unknown,Unknown
-12436505,Away,930666,João Virgínia,G,12,191,Portugal,939513600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436505,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,10,54,6.48,Unknown,Unknown
+12436505,Home,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,10,62,6.05,Unknown,Unknown
+12436505,Home,122951,Casemiro,M,18,185,Brazil,698803200,False,0,54,8.04,Unknown,Unknown
+12436505,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,30,56,6.67,Unknown,Unknown
+12436505,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,28,16,6.84,Unknown,Unknown
+12436505,Home,149380,Harry Maguire,D,5,194,England,731289600,True,32,36,5.85,Unknown,Unknown
+12436505,Home,190839,Luke Shaw,D,23,178,England,805507200,True,64,40,6.1,Unknown,Unknown
+12436505,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,12,0,5.92,Unknown,Unknown
+12436505,Home,815890,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436505,Home,825839,Tyrell Malacia,D,3,169,Netherlands,934848000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436505,Away,10589,Ashley Young,D,18,180,England,489715200,True,28,2,7.04,Unknown,Unknown
+12436505,Away,979563,Jarrad Branthwaite,D,32,195,England,1025136000,True,18,64,6.57,Unknown,Unknown
+12436505,Away,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,True,12,54,6.89,Unknown,Unknown
+12436505,Away,987489,Beto,F,14,194,Guinea-Bissau,886204800,False,0,0,6.52,Unknown,Unknown
+12436505,Away,793988,Orel Mangala,M,8,178,Belgium,890179200,False,10,24,5.43,Unknown,Unknown
+12436505,Away,372344,Dominic Calvert-Lewin,F,9,187,England,858470400,False,4,6,5.77,Unknown,Unknown
+12436505,Away,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,False,8,10,12,Unknown,Unknown
+12436505,Away,13918,Asmir Begović,G,31,198,Bosnia & Herzegovina,551145600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436505,Away,76632,Séamus Coleman,D,23,177,Ireland,592531200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436505,Away,1627560,Harrison Armstrong,M,28,185,England,1169164800,False,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-13365051,Home,96531,Alphonse Aréola,G,23,195,France,730771200,True,30,24,6.81,Unknown,Unknown
-13365051,Home,945217,Jean-Clair Todibo,D,25,189,France,946512000,False,26,104,5.62,Unknown,Unknown
-13365051,Home,894474,Max Kilman,D,26,192,England,864345600,False,120,6,7.47,Unknown,Unknown
-13365051,Home,43443,Aaron Cresswell,D,3,170,England,629683200,True,144,160,8.46,Unknown,Unknown
-13365051,Home,863653,Aaron Wan-Bissaka,D,29,183,England,880502400,False,6,34,7.93,Unknown,Unknown
-13365051,Home,847151,Edson Álvarez,M,19,185,Mexico,877651200,True,50,0,8.27,Unknown,Unknown
-13365051,Home,905163,Mohammed Kudus,M,14,176,Ghana,965174400,True,0,20,5.32,Unknown,Unknown
-13365051,Home,832427,Carlos Soler,M,4,180,Spain,852163200,True,2,14,5.42,Unknown,Unknown
-13365051,Home,15479,Łukasz Fabiański,G,1,190,Poland,482630400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-13365051,Home,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-13365051,Away,120538,Jannik Vestergaard,D,23,199,Denmark,712800000,False,72,52,6.34,Unknown,Unknown
-13365051,Away,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,True,54,56,6.19,Unknown,Unknown
-13365051,Away,887581,Boubakary Soumaré,M,24,188,France,920073600,False,30,42,5.51,Unknown,Unknown
-13365051,Away,1126569,Bilal El Khannouss,M,11,180,Morocco,1084147200,True,74,68,5.71,Unknown,Unknown
-13365051,Away,173827,Jamie Vardy,F,9,178,England,537321600,True,14,8,5.62,Unknown,Unknown
-13365051,Away,991584,Luke Thomas,D,33,178,England,992131200,True,12,12,Unknown,Unknown,Unknown
-13365051,Away,865057,Patson Daka,F,20,185,Zambia,907891200,True,0,2,Unknown,Unknown,Unknown
-13365051,Away,997830,Jakub Stolarczyk,G,41,194,Poland,977184000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-13365051,Away,859901,Oliver Skipp,M,22,175,England,969062400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-13365051,Away,103045,Jordan Ayew,F,18,182,Ghana,684547200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Home,96531,Alphonse Aréola,G,23,195,France,730771200,False,14,14,7.75,Unknown,Unknown
+13365051,Home,799041,Tomáš Souček,M,28,192,Czechia,793843200,False,80,44,7.31,Unknown,Unknown
+13365051,Home,161717,James Ward-Prowse,M,8,177,England,783648000,False,72,122,8.78,Unknown,Unknown
+13365051,Home,847151,Edson Álvarez,M,19,185,Mexico,877651200,False,6,52,8.05,Unknown,Unknown
+13365051,Home,1150952,Oliver Scarles,M,57,180,England,1134345600,True,16,40,6.21,Unknown,Unknown
+13365051,Home,552884,Jarrod Bowen,M,20,174,England,851040000,False,22,14,7.63,Unknown,Unknown
+13365051,Home,905163,Mohammed Kudus,M,14,176,Ghana,965174400,False,0,40,5.2,Unknown,Unknown
+13365051,Home,832427,Carlos Soler,M,4,180,Spain,852163200,False,0,12,6.83,Unknown,Unknown
+13365051,Home,15479,Łukasz Fabiański,G,1,190,Poland,482630400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Home,609752,Guido Rodríguez,M,24,185,Argentina,766108800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Away,856640,Mads Hermansen,G,30,187,Denmark,963273600,True,4,14,5.49,Unknown,Unknown
+13365051,Away,120538,Jannik Vestergaard,D,23,199,Denmark,712800000,True,98,64,6.64,Unknown,Unknown
+13365051,Away,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,True,14,0,7,Unknown,Unknown
+13365051,Away,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,True,4,2,5.18,Unknown,Unknown
+13365051,Away,1126569,Bilal El Khannouss,M,11,180,Morocco,1084147200,False,98,4,6.05,Unknown,Unknown
+13365051,Away,173827,Jamie Vardy,F,9,178,England,537321600,False,16,0,6.75,Unknown,Unknown
+13365051,Away,991584,Luke Thomas,D,33,178,England,992131200,False,12,4,Unknown,Unknown,Unknown
+13365051,Away,997830,Jakub Stolarczyk,G,41,194,Poland,977184000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Away,859901,Oliver Skipp,M,22,175,England,969062400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Away,103045,Jordan Ayew,F,18,182,Ghana,684547200,False,Unknown,Unknown,Unknown,Unknown,Unknown

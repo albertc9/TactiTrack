@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436466,Home,138530,Jordan Pickford,G,1,185,England,762998400,True,10,0,7.45,Unknown,Unknown
-12436466,Home,145188,James Tarkowski,D,6,185,England,722131200,False,10,8,2,Unknown,Unknown
-12436466,Home,979563,Jarrad Branthwaite,D,32,195,England,1025136000,True,36,32,7.39,Unknown,Unknown
-12436466,Home,793988,Orel Mangala,M,8,178,Belgium,890179200,False,0,2,6.89,Unknown,Unknown
-12436466,Home,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,True,26,16,6.87,Unknown,Unknown
-12436466,Home,829570,Jack Harrison,M,11,175,England,848448000,False,10,16,7.25,Unknown,Unknown
-12436466,Home,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,False,4,10,8.19,Unknown,Unknown
-12436466,Home,76632,Séamus Coleman,D,23,177,Ireland,592531200,False,2,0,7.76,Unknown,Unknown
-12436466,Home,987489,Beto,F,14,194,Guinea-Bissau,886204800,False,0,0,7.18,Unknown,Unknown
+12436466,Home,138530,Jordan Pickford,G,1,185,England,762998400,False,58,10,6.7,Unknown,Unknown
+12436466,Home,10589,Ashley Young,D,18,180,England,489715200,True,16,4,6.67,Unknown,Unknown
+12436466,Home,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,26,26,5.78,Unknown,Unknown
+12436466,Home,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,True,24,2,7.62,Unknown,Unknown
+12436466,Home,829570,Jack Harrison,M,11,175,England,848448000,False,8,4,7.11,Unknown,Unknown
+12436466,Home,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,False,8,10,6.53,Unknown,Unknown
+12436466,Home,987489,Beto,F,14,194,Guinea-Bissau,886204800,False,0,0,5.44,Unknown,Unknown
+12436466,Home,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,True,2,4,5.34,Unknown,Unknown
+12436466,Home,930666,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436466,Home,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436466,Away,920546,Robert Sánchez,G,1,197,Spain,879811200,False,8,20,6.95,Unknown,Unknown
-12436466,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,112,212,6.47,Unknown,Unknown
-12436466,Away,996911,Levi Colwill,D,6,187,England,1046217600,True,20,116,7.27,Unknown,Unknown
-12436466,Away,996958,Malo Gusto,D,27,179,France,1053302400,True,80,86,6.51,Unknown,Unknown
-12436466,Away,982780,Cole Palmer,M,80,185,England,1020643200,True,32,20,5.78,Unknown,Unknown
-12436466,Away,769333,Christopher Nkunku,F,18,175,France,879465600,False,0,0,7.87,Unknown,Unknown
-12436466,Away,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436466,Away,1403050,Josh Acheampong,D,34,185,England,1146787200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436466,Away,1016788,Cesare Casadei,M,22,186,Italy,1042156800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436466,Away,1403061,Tyrique George,M,32,181,England,1139011200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,920546,Robert Sánchez,G,1,197,Spain,879811200,False,14,4,8.94,Unknown,Unknown
+12436466,Away,827243,Axel Disasi,D,3,190,France,889574400,True,110,4,6.11,Unknown,Unknown
+12436466,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,124,62,6.4,Unknown,Unknown
+12436466,Away,996911,Levi Colwill,D,6,187,England,1046217600,False,96,18,7.17,Unknown,Unknown
+12436466,Away,1085381,Nicolas Jackson,F,15,186,Senegal,992995200,True,10,14,7.05,Unknown,Unknown
+12436466,Away,769333,Christopher Nkunku,F,18,175,France,879465600,False,0,0,7.36,Unknown,Unknown
+12436466,Away,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,1087359,Renato Veiga,D,12,190,Portugal,1059436800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,1403061,Tyrique George,M,32,181,England,1139011200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,1414933,Marc Guiu,F,38,187,Spain,1136332800,True,Unknown,Unknown,Unknown,Unknown,Unknown

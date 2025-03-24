@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437009,Home,553606,Guglielmo Vicario,G,1,194,Italy,844646400,True,24,32,8.84,Unknown,Unknown
-12437009,Home,913654,Pedro Porro,D,23,173,Spain,937180800,True,76,62,5.68,Unknown,Unknown
-12437009,Home,829932,Cristian Romero,D,17,185,Argentina,893635200,False,78,52,6.63,Unknown,Unknown
-12437009,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,6,50,5.43,Unknown,Unknown
-12437009,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,84,72,9.26,Unknown,Unknown
-12437009,Home,361420,Dominic Solanke,F,19,186,England,874195200,True,10,2,7.08,Unknown,Unknown
-12437009,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,True,18,4,6.15,Unknown,Unknown
-12437009,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,True,0,18,7.83,Unknown,Unknown
-12437009,Home,1031251,Antonín Kinský,G,31,190,Czechia,1047513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437009,Home,1142335,Archie Gray,D,14,187,England,1142121600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437009,Away,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,True,2,14,6.59,Unknown,Unknown
-12437009,Away,548188,Lewis Cook,M,4,175,England,854928000,False,12,0,8.06,Unknown,Unknown
-12437009,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,False,72,32,7.84,Unknown,Unknown
-12437009,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,False,38,16,8.42,Unknown,Unknown
-12437009,Away,895576,Marcus Tavernier,M,16,178,England,922060800,True,38,28,6.81,Unknown,Unknown
-12437009,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,6,6,6.28,Unknown,Unknown
-12437009,Away,1104986,Alex Scott,M,8,178,England,1061596800,False,4,14,6.37,Unknown,Unknown
-12437009,Away,855731,David Brooks,F,7,173,Wales,868320000,True,8,2,6.89,Unknown,Unknown
-12437009,Away,1201520,Julio Soler,D,20,175,Argentina,1108512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437009,Away,1190712,Matai Akinmboni,D,45,191,USA,1161043200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Home,794953,Kevin Danso,D,4,190,Austria,906163200,True,60,22,5.37,Unknown,Unknown
+12437009,Home,791190,Rodrigo Bentancur,M,30,187,Uruguay,867196800,True,26,56,6.47,Unknown,Unknown
+12437009,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,38,92,7.3,Unknown,Unknown
+12437009,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,16,10,6.54,Unknown,Unknown
+12437009,Home,361420,Dominic Solanke,F,19,186,England,874195200,True,38,24,6,Unknown,Unknown
+12437009,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,False,18,44,5.65,Unknown,Unknown
+12437009,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,30,22,7.26,Unknown,Unknown
+12437009,Home,998247,Micky van de Ven,D,37,193,Netherlands,987638400,True,20,18,5.54,Unknown,Unknown
+12437009,Home,1142335,Archie Gray,D,14,187,England,1142121600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Home,1048888,Mathys Tel,F,11,183,France,1114560000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Away,1156586,James Hill,D,23,184,England,1010620800,False,28,32,7.58,Unknown,Unknown
+12437009,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,True,16,4,7.96,Unknown,Unknown
+12437009,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,True,12,2,6.9,Unknown,Unknown
+12437009,Away,800419,Tyler Adams,M,12,175,USA,918950400,False,18,22,7.09,Unknown,Unknown
+12437009,Away,895576,Marcus Tavernier,M,16,178,England,922060800,True,20,28,9.23,Unknown,Unknown
+12437009,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,10,22,7.96,Unknown,Unknown
+12437009,Away,934354,Antoine Semenyo,M,24,178,Ghana,947203200,True,26,8,6.07,Unknown,Unknown
+12437009,Away,836070,Luis Sinisterra,F,17,176,Colombia,929577600,False,4,2,Unknown,Unknown,Unknown
+12437009,Away,1096136,Daniel Jebbison,F,21,190,Canada,1057881600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Away,1403063,Zain Silcott-Duberry,F,43,177,England,1120867200,False,Unknown,Unknown,Unknown,Unknown,Unknown
