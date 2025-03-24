@@ -1,0 +1,126 @@
+name,home,away,period,groupName
+Ball possession,50%,50%,ALL,Match overview
+Expected goals,0.13,3.97,ALL,Match overview
+Big chances,0,10,ALL,Match overview
+Total shots,6,18,ALL,Match overview
+Goalkeeper saves,8,1,ALL,Match overview
+Corner kicks,5,6,ALL,Match overview
+Fouls,11,12,ALL,Match overview
+Passes,431,436,ALL,Match overview
+Tackles,13,17,ALL,Match overview
+Free kicks,12,11,ALL,Match overview
+Yellow cards,2,0,ALL,Match overview
+Total shots,6,18,ALL,Shots
+Shots on target,1,12,ALL,Shots
+Hit woodwork,0,1,ALL,Shots
+Shots off target,2,3,ALL,Shots
+Blocked shots,3,3,ALL,Shots
+Shots inside box,2,15,ALL,Shots
+Shots outside box,4,3,ALL,Shots
+Big chances scored,0,3,ALL,Attack
+Big chances missed,0,7,ALL,Attack
+Through balls,0,2,ALL,Attack
+Touches in penalty area,5,39,ALL,Attack
+Fouled in final third,0,2,ALL,Attack
+Offsides,2,1,ALL,Attack
+Accurate passes,346,356,ALL,Passes
+Throw-ins,15,15,ALL,Passes
+Final third entries,43,47,ALL,Passes
+Final third phase,48/88 (55%),77/111 (69%),ALL,Passes
+Long balls,18/59 (31%),19/49 (39%),ALL,Passes
+Crosses,1/11 (9%),5/15 (33%),ALL,Passes
+Duels,43%,57%,ALL,Duels
+Dispossessed,6,9,ALL,Duels
+Ground duels,33/71 (46%),38/71 (54%),ALL,Duels
+Aerial duels,12/33 (36%),21/33 (64%),ALL,Duels
+Dribbles,7/18 (39%),10/15 (67%),ALL,Duels
+Tackles won,54%,53%,ALL,Defending
+Total tackles,13,17,ALL,Defending
+Interceptions,13,9,ALL,Defending
+Recoveries,60,53,ALL,Defending
+Clearances,23,22,ALL,Defending
+Errors lead to a shot,1,0,ALL,Defending
+Errors lead to a goal,1,0,ALL,Defending
+Total saves,8,1,ALL,Goalkeeping
+Goals prevented,0.71,0.03,ALL,Goalkeeping
+Big saves,2,0,ALL,Goalkeeping
+Punches,1,0,ALL,Goalkeeping
+Goal kicks,3,6,ALL,Goalkeeping
+Ball possession,60%,40%,1ST,Match overview
+Expected goals,0.04,1.22,1ST,Match overview
+Big chances,0,4,1ST,Match overview
+Total shots,3,7,1ST,Match overview
+Goalkeeper saves,2,0,1ST,Match overview
+Corner kicks,3,2,1ST,Match overview
+Passes,256,167,1ST,Match overview
+Tackles,10,10,1ST,Match overview
+Free kicks,9,6,1ST,Match overview
+Yellow cards,1,0,1ST,Match overview
+Total shots,3,7,1ST,Shots
+Shots on target,0,3,1ST,Shots
+Hit woodwork,0,0,1ST,Shots
+Shots off target,1,2,1ST,Shots
+Blocked shots,2,2,1ST,Shots
+Shots inside box,0,5,1ST,Shots
+Shots outside box,3,2,1ST,Shots
+Big chances scored,0,1,1ST,Attack
+Big chances missed,0,3,1ST,Attack
+Through balls,0,0,1ST,Attack
+Fouled in final third,0,1,1ST,Attack
+Offsides,1,1,1ST,Attack
+Accurate passes,213,130,1ST,Passes
+Throw-ins,10,8,1ST,Passes
+Final third entries,25,16,1ST,Passes
+Long balls,9/29 (31%),10/24 (42%),1ST,Passes
+Crosses,0/6 (0%),2/7 (29%),1ST,Passes
+Duels,47%,53%,1ST,Duels
+Dispossessed,4,6,1ST,Duels
+Ground duels,23/42 (55%),19/42 (45%),1ST,Duels
+Aerial duels,4/16 (25%),12/16 (75%),1ST,Duels
+Dribbles,3/9 (33%),3/8 (38%),1ST,Duels
+Tackles won,50%,70%,1ST,Defending
+Total tackles,10,10,1ST,Defending
+Interceptions,5,5,1ST,Defending
+Recoveries,32,28,1ST,Defending
+Clearances,13,12,1ST,Defending
+Total saves,2,0,1ST,Goalkeeping
+Goal kicks,1,3,1ST,Goalkeeping
+Ball possession,40%,60%,2ND,Match overview
+Expected goals,0.09,2.74,2ND,Match overview
+Big chances,0,6,2ND,Match overview
+Total shots,3,11,2ND,Match overview
+Goalkeeper saves,6,1,2ND,Match overview
+Corner kicks,2,4,2ND,Match overview
+Passes,175,269,2ND,Match overview
+Tackles,3,7,2ND,Match overview
+Free kicks,3,5,2ND,Match overview
+Yellow cards,1,0,2ND,Match overview
+Total shots,3,11,2ND,Shots
+Shots on target,1,9,2ND,Shots
+Hit woodwork,0,1,2ND,Shots
+Shots off target,1,1,2ND,Shots
+Blocked shots,1,1,2ND,Shots
+Shots inside box,2,10,2ND,Shots
+Shots outside box,1,1,2ND,Shots
+Big chances scored,0,2,2ND,Attack
+Big chances missed,0,4,2ND,Attack
+Through balls,0,2,2ND,Attack
+Fouled in final third,0,1,2ND,Attack
+Offsides,1,0,2ND,Attack
+Accurate passes,133,226,2ND,Passes
+Throw-ins,5,7,2ND,Passes
+Final third entries,18,31,2ND,Passes
+Long balls,9/30 (30%),9/25 (36%),2ND,Passes
+Crosses,1/5 (20%),3/8 (38%),2ND,Passes
+Duels,39%,61%,2ND,Duels
+Dispossessed,2,3,2ND,Duels
+Ground duels,10/29 (34%),19/29 (66%),2ND,Duels
+Aerial duels,8/17 (47%),9/17 (53%),2ND,Duels
+Dribbles,4/9 (44%),7/7 (100%),2ND,Duels
+Tackles won,67%,29%,2ND,Defending
+Total tackles,3,7,2ND,Defending
+Interceptions,8,4,2ND,Defending
+Recoveries,28,25,2ND,Defending
+Clearances,10,10,2ND,Defending
+Total saves,6,1,2ND,Goalkeeping
+Goal kicks,2,3,2ND,Goalkeeping
