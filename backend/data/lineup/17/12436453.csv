@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436453,Home,827679,Ezri Konsa,D,4,183,England,877564800,True,58,0,6.66,Unknown,Unknown
-12436453,Home,96538,Lucas Digne,D,12,178,France,743126400,False,64,38,7.6,Unknown,Unknown
-12436453,Home,923973,Amadou Onana,M,24,195,Belgium,997920000,False,44,8,5.56,Unknown,Unknown
-12436453,Home,250223,John McGinn,M,7,175,Scotland,782438400,False,2,12,6.91,Unknown,Unknown
-12436453,Home,974577,Jhon Durán,F,9,185,Colombia,1071273600,True,0,16,6.04,Unknown,Unknown
-12436453,Home,555386,Ollie Watkins,F,11,179,England,820281600,True,Unknown,Unknown,5.61,Unknown,Unknown
-12436453,Home,26025,Robin Olsen,G,25,198,Sweden,631756800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Home,303638,Tyrone Mings,D,5,195,England,731980800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Home,1152923,Kosta Nedeljković,D,21,184,Serbia,1134691200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Home,1089388,Lamare Bogarde,M,26,183,Netherlands,1073260800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,12,12,7.81,Unknown,Unknown
-12436453,Away,383560,Manuel Akanji,D,25,187,Switzerland,806112000,False,130,146,10,Unknown,Unknown
-12436453,Away,136710,Mateo Kovačić,M,8,178,Croatia,768182400,False,6,82,8.25,Unknown,Unknown
-12436453,Away,839956,Erling Haaland,F,9,194,Norway,964137600,True,4,8,5.72,Unknown,Unknown
-12436453,Away,44614,Kyle Walker,D,32,183,England,643852800,True,40,36,7.67,Unknown,Unknown
-12436453,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,0,2,7.29,Unknown,Unknown
-12436453,Away,716,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436453,Away,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Home,158263,Emiliano Martínez,G,23,195,Argentina,715392000,False,64,0,7.72,Unknown,Unknown
+12436453,Home,827679,Ezri Konsa,D,4,183,England,877564800,True,40,50,7.64,Unknown,Unknown
+12436453,Home,826204,Boubacar Kamara,M,44,184,France,943315200,False,12,0,8,Unknown,Unknown
+12436453,Home,923973,Amadou Onana,M,24,195,Belgium,997920000,True,58,0,6.47,Unknown,Unknown
+12436453,Home,250223,John McGinn,M,7,175,Scotland,782438400,True,16,16,7.35,Unknown,Unknown
+12436453,Home,331737,Youri Tielemans,M,8,177,Belgium,862963200,True,28,4,7.43,Unknown,Unknown
+12436453,Home,974577,Jhon Durán,F,9,185,Colombia,1071273600,False,24,20,7.22,Unknown,Unknown
+12436453,Home,555386,Ollie Watkins,F,11,179,England,820281600,False,Unknown,Unknown,7.37,Unknown,Unknown
+12436453,Home,303638,Tyrone Mings,D,5,195,England,731980800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Home,98435,Ross Barkley,M,6,188,England,755049600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,0,24,8.08,Unknown,Unknown
+12436453,Away,136710,Mateo Kovačić,M,8,178,Croatia,768182400,True,48,34,7.83,Unknown,Unknown
+12436453,Away,859765,Phil Foden,M,47,171,England,959472000,False,74,48,6.89,Unknown,Unknown
+12436453,Away,839956,Erling Haaland,F,9,194,Norway,964137600,False,18,10,6.34,Unknown,Unknown
+12436453,Away,44614,Kyle Walker,D,32,183,England,643852800,True,36,34,7.21,Unknown,Unknown
+12436453,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,0,4,6.65,Unknown,Unknown
+12436453,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,1402924,Jahmai Simpson-Pusey,D,4,184,England,1131062400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown

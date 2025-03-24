@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436961,14,Ended,1733250600,Ipswich Town,Crystal Palace,1,2,False,False,ipswich-town-crystal-palace
-12436966,14,Ended,1733253300,Leicester City,West Ham United,4,1,True,False,west-ham-united-leicester-city
-12436947,14,Ended,1733341500,Everton,Wolverhampton,5,1,True,True,everton-wolverhampton
-12436972,14,Ended,1733345100,Manchester City,Nottingham Forest,3,0,False,False,manchester-city-nottingham-forest
-12436978,14,Ended,1733342400,Newcastle United,Liverpool,3,3,True,False,liverpool-newcastle-united
-12436984,14,Ended,1733335200,Southampton,Chelsea,1,5,False,False,southampton-chelsea
-12436935,14,Ended,1733335200,Arsenal,Manchester United,3,0,True,True,arsenal-manchester-united
-12436942,14,Ended,1733346000,Aston Villa,Brentford,4,2,False,False,brentford-aston-villa
-12436955,14,Ended,1733432400,Fulham,Brighton & Hove Albion,3,2,True,True,fulham-brighton-and-hove-albion
-13015216,14,Ended,1733438700,Bournemouth,Tottenham Hotspur,1,0,True,True,bournemouth-tottenham-hotspur
+12436961,14,Ended,1733248800,Ipswich Town,Crystal Palace,0,2,False,False,ipswich-town-crystal-palace
+12436966,14,Ended,1733265900,Leicester City,West Ham United,3,1,True,False,west-ham-united-leicester-city
+12436947,14,Ended,1733348700,Everton,Wolverhampton,4,1,True,False,everton-wolverhampton
+12436972,14,Ended,1733344200,Manchester City,Nottingham Forest,3,0,False,False,manchester-city-nottingham-forest
+12436978,14,Ended,1733344200,Newcastle United,Liverpool,3,4,False,True,liverpool-newcastle-united
+12436984,14,Ended,1733341500,Southampton,Chelsea,2,6,True,True,southampton-chelsea
+12436935,14,Ended,1733345100,Arsenal,Manchester United,2,1,False,True,arsenal-manchester-united
+12436942,14,Ended,1733348700,Aston Villa,Brentford,4,2,False,False,brentford-aston-villa
+12436955,14,Ended,1733432400,Fulham,Brighton & Hove Albion,4,2,False,False,fulham-brighton-and-hove-albion
+13015216,14,Ended,1733425200,Bournemouth,Tottenham Hotspur,2,1,False,False,bournemouth-tottenham-hotspur

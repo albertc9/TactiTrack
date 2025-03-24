@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436449,Home,859999,Lisandro Martínez,D,6,175,Argentina,885081600,False,30,14,5.76,Unknown,Unknown
-12436449,Home,1142175,Kobbie Mainoo,M,37,180,England,1113868800,False,88,20,6.98,Unknown,Unknown
-12436449,Home,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,True,0,50,7.09,Unknown,Unknown
-12436449,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,True,22,46,6.72,Unknown,Unknown
-12436449,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,30,34,8.06,Unknown,Unknown
-12436449,Home,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,True,18,16,6.88,Unknown,Unknown
-12436449,Home,814590,Marcus Rashford,M,9,184,England,878256000,True,8,10,6.3,Unknown,Unknown
-12436449,Home,836694,Mason Mount,M,7,181,England,915926400,False,8,8,7.03,Unknown,Unknown
-12436449,Home,825839,Tyrell Malacia,D,3,169,Netherlands,934848000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436449,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436449,Away,78152,Matz Sels,G,26,188,Belgium,699062400,False,0,8,6.66,Unknown,Unknown
-12436449,Away,836168,Nikola Milenković,D,31,195,Serbia,876614400,True,6,10,8.14,Unknown,Unknown
-12436449,Away,927356,Neco Williams,D,7,183,Wales,987120000,True,10,0,7.61,Unknown,Unknown
-12436449,Away,846252,Ryan Yates,M,22,190,England,880070400,True,22,2,7.34,Unknown,Unknown
-12436449,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,26,16,5.54,Unknown,Unknown
-12436449,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,True,48,4,5.91,Unknown,Unknown
-12436449,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,False,0,0,7.88,Unknown,Unknown
-12436449,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,False,4,0,7.58,Unknown,Unknown
-12436449,Away,358218,Harry Toffolo,D,15,183,England,808790400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436449,Away,161717,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Home,859999,Lisandro Martínez,D,6,175,Argentina,885081600,False,82,36,6.51,Unknown,Unknown
+12436449,Home,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,True,38,26,7.22,Unknown,Unknown
+12436449,Home,1142175,Kobbie Mainoo,M,37,180,England,1113868800,False,76,66,7.7,Unknown,Unknown
+12436449,Home,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,False,92,26,8.57,Unknown,Unknown
+12436449,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,True,58,56,8.81,Unknown,Unknown
+12436449,Home,149380,Harry Maguire,D,5,194,England,731289600,False,48,12,7.85,Unknown,Unknown
+12436449,Home,836694,Mason Mount,M,7,181,England,915926400,False,10,0,7.41,Unknown,Unknown
+12436449,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,18,10,5.88,Unknown,Unknown
+12436449,Home,815890,Altay Bayındır,G,1,198,Türkiye,892512000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Home,122951,Casemiro,M,18,185,Brazil,698803200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,True,46,14,6.99,Unknown,Unknown
+12436449,Away,927356,Neco Williams,D,7,183,Wales,987120000,False,4,8,6.25,Unknown,Unknown
+12436449,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,8,2,6.4,Unknown,Unknown
+12436449,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,52,0,6.56,Unknown,Unknown
+12436449,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,32,38,8.15,Unknown,Unknown
+12436449,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,True,4,0,6.63,Unknown,Unknown
+12436449,Away,985086,Morato,D,4,190,Brazil,993859200,False,2,0,7.22,Unknown,Unknown
+12436449,Away,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,False,0,Unknown,Unknown,Unknown,Unknown
+12436449,Away,161717,James Ward-Prowse,M,8,177,England,783648000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436449,Away,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown,Unknown,Unknown

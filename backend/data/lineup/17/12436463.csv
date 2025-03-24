@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436463,Home,576384,Kristoffer Ajer,D,20,196,Norway,892771200,False,30,2,7.61,Unknown,Unknown
-12436463,Home,958916,Nathan Collins,D,22,193,Ireland,988588800,True,108,78,10,Unknown,Unknown
-12436463,Home,137774,Ben Mee,D,16,180,England,622339200,True,34,38,6.96,Unknown,Unknown
-12436463,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,True,74,52,5.78,Unknown,Unknown
-12436463,Home,907072,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,90,120,5.96,Unknown,Unknown
-12436463,Home,805123,Yoane Wissa,F,11,176,DR Congo,841708800,True,14,30,6.67,Unknown,Unknown
-12436463,Home,1006387,Kevin Schade,F,7,183,Germany,1006819200,False,16,10,7,Unknown,Unknown
-12436463,Home,826057,Mads Roerslev,D,5,184,Denmark,930182400,True,24,12,7.25,Unknown,Unknown
+12436463,Home,171919,Mark Flekken,G,1,194,Netherlands,739929600,True,8,42,7.16,Unknown,Unknown
+12436463,Home,958916,Nathan Collins,D,22,193,Ireland,988588800,True,118,90,8,Unknown,Unknown
+12436463,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,True,24,60,4.84,Unknown,Unknown
+12436463,Home,135256,Christian Nørgaard,M,6,185,Denmark,763257600,True,16,84,9.26,Unknown,Unknown
+12436463,Home,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,True,12,50,7.93,Unknown,Unknown
+12436463,Home,907500,Edmond-Paris Maghoma,M,32,178,England,989280000,False,6,4,6.59,Unknown,Unknown
+12436463,Home,1005959,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436463,Home,1031258,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436463,Home,1410201,Jayden Meghoma,M,3,176,England,1151452800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436463,Away,1199282,Murillo,D,5,183,Brazil,1025740800,True,20,0,7.31,Unknown,Unknown
-12436463,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,False,24,26,6.31,Unknown,Unknown
-12436463,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,86,22,7.8,Unknown,Unknown
-12436463,Away,927356,Neco Williams,D,7,183,Wales,987120000,True,30,38,7,Unknown,Unknown
-12436463,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,16,6,7.4,Unknown,Unknown
-12436463,Away,846252,Ryan Yates,M,22,190,England,880070400,True,2,0,8.06,Unknown,Unknown
-12436463,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,0,0,6.65,Unknown,Unknown
+12436463,Home,1410201,Jayden Meghoma,M,3,176,England,1151452800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Home,1467880,Tony Yogane,F,30,178,England,1127520000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Away,78152,Matz Sels,G,26,188,Belgium,699062400,True,26,2,7.83,Unknown,Unknown
+12436463,Away,1199282,Murillo,D,5,183,Brazil,1025740800,True,10,6,7.9,Unknown,Unknown
+12436463,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,False,0,4,8.65,Unknown,Unknown
+12436463,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,26,14,7.25,Unknown,Unknown
+12436463,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,True,16,0,7.37,Unknown,Unknown
+12436463,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,0,2,7.16,Unknown,Unknown
 12436463,Away,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,0,Unknown,Unknown,Unknown,Unknown
-12436463,Away,294593,Álex Moreno,D,19,179,Spain,739497600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436463,Away,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Away,973738,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Away,294593,Álex Moreno,D,19,179,Spain,739497600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Away,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,False,Unknown,Unknown,Unknown,Unknown,Unknown
