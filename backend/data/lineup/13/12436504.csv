@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436504,Home,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,24,48,6.83,Unknown,Unknown
-12436504,Home,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,False,46,66,7.54,Unknown,Unknown
-12436504,Home,262911,Andrew Robertson,D,26,178,Scotland,763344000,False,36,32,7.75,Unknown,Unknown
-12436504,Home,869856,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,34,84,7.36,Unknown,Unknown
-12436504,Home,883537,Luis Díaz,F,7,178,Colombia,853113600,False,18,26,12,Unknown,Unknown
-12436504,Home,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,0,Unknown,5.58,Unknown,Unknown
-12436504,Home,955245,Harvey Elliott,M,19,170,England,1049414400,True,0,0,Unknown,Unknown,Unknown
-12436504,Home,927359,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Home,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,52,0,6.8,Unknown,Unknown
+12436504,Home,795064,Trent Alexander-Arnold,D,66,180,England,907718400,False,42,22,7.1,Unknown,Unknown
+12436504,Home,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,False,16,52,6.66,Unknown,Unknown
+12436504,Home,904897,Ryan Gravenberch,M,38,190,Netherlands,1021507200,True,2,4,6.72,Unknown,Unknown
+12436504,Home,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,True,56,48,7.3,Unknown,Unknown
+12436504,Home,883537,Luis Díaz,F,7,178,Colombia,853113600,False,14,24,0,Unknown,Unknown
+12436504,Home,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,0,Unknown,6.79,Unknown,Unknown
 12436504,Home,1008403,Harvey Davies,G,1,185,England,1062547200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436504,Home,143040,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436504,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,False,64,22,6.25,Unknown,Unknown
-12436504,Away,331209,Bernardo Silva,M,20,173,Portugal,776476800,False,134,132,6.9,Unknown,Unknown
-12436504,Away,1136731,Rico Lewis,D,82,170,England,1100995200,True,22,4,6.86,Unknown,Unknown
-12436504,Away,945122,Matheus Nunes,M,27,183,Portugal,904176000,False,14,22,6.69,Unknown,Unknown
-12436504,Away,839956,Erling Haaland,F,9,194,Norway,964137600,False,0,0,5.8,Unknown,Unknown
-12436504,Away,189061,Jack Grealish,M,10,180,England,810691200,False,2,12,7.61,Unknown,Unknown
-12436504,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,8,6,7.76,Unknown,Unknown
+12436504,Home,143040,Wataru Endo,M,3,178,Japan,729216000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Home,979118,Tyler Morton,M,80,178,England,1036022400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,2,48,6.32,Unknown,Unknown
+12436504,Away,383560,Manuel Akanji,D,25,187,Switzerland,806112000,True,52,10,6.25,Unknown,Unknown
+12436504,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,False,62,12,7.38,Unknown,Unknown
+12436504,Away,1136731,Rico Lewis,D,82,170,England,1100995200,True,16,28,5.79,Unknown,Unknown
+12436504,Away,945122,Matheus Nunes,M,27,183,Portugal,904176000,True,28,20,5.65,Unknown,Unknown
+12436504,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,8,6,7.6,Unknown,Unknown
+12436504,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,4,10,6.29,Unknown,Unknown
+12436504,Away,716,Scott Carson,G,33,188,England,494553600,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436504,Away,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436504,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436504,Away,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436457,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,10,30,6.98,Unknown,Unknown
-12436457,Home,115365,Lewis Dunk,D,5,190,England,690681600,False,178,88,7.09,Unknown,Unknown
-12436457,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,128,70,6.76,Unknown,Unknown
-12436457,Home,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,6,32,12,Unknown,Unknown
-12436457,Home,1036269,Yasin Ayari,M,26,172,Sweden,1065398400,True,60,6,6.88,Unknown,Unknown
-12436457,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,False,8,4,6.11,Unknown,Unknown
-12436457,Home,973556,Julio Enciso,M,9,173,Paraguay,1074729600,True,60,48,7.69,Unknown,Unknown
-12436457,Home,1198075,Brajan Gruda,F,8,174,Germany,1085961600,True,16,2,5.85,Unknown,Unknown
-12436457,Home,999231,Evan Ferguson,F,28,188,Ireland,1098144000,False,0,6,6.19,Unknown,Unknown
-12436457,Home,31867,Jason Steele,G,23,188,England,650937600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436457,Away,788134,Dean Henderson,G,1,188,England,858124800,False,14,16,6.79,Unknown,Unknown
-12436457,Away,870360,Daniel Muñoz,M,23,183,Colombia,833068800,True,4,34,7.43,Unknown,Unknown
-12436457,Away,988275,Tyrick Mitchell,M,3,174,England,936144000,True,16,24,6.38,Unknown,Unknown
-12436457,Away,845286,Ismaïla Sarr,F,23,185,Senegal,888364800,False,40,10,10,Unknown,Unknown
-12436457,Away,864921,Eberechi Eze,F,10,178,England,899078400,True,36,24,7.43,Unknown,Unknown
-12436457,Away,848276,Jean-Philippe Mateta,F,14,192,France,867456000,True,2,8,5.64,Unknown,Unknown
-12436457,Away,794338,Daichi Kamada,M,18,184,Japan,839203200,True,0,0,7.54,Unknown,Unknown
-12436457,Away,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436457,Away,833943,Matt Turner,G,30,190,USA,772416000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436457,Away,148710,Jeffrey Schlupp,M,15,178,Ghana,725068800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436457,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,0,44,7.91,Unknown,Unknown
+12436457,Home,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,182,48,6.6,Unknown,Unknown
+12436457,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,4,44,7.54,Unknown,Unknown
+12436457,Home,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,64,32,12,Unknown,Unknown
+12436457,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,4,12,6.31,Unknown,Unknown
+12436457,Home,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,10,6,5.62,Unknown,Unknown
+12436457,Home,1198075,Brajan Gruda,F,8,174,Germany,1085961600,True,8,8,7.42,Unknown,Unknown
+12436457,Home,999231,Evan Ferguson,F,28,188,Ireland,1098144000,False,0,2,5.31,Unknown,Unknown
+12436457,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,False,14,0,Unknown,Unknown,Unknown
+12436457,Home,886242,Jakub Moder,M,7,191,Poland,923443200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436457,Away,788134,Dean Henderson,G,1,188,England,858124800,False,20,26,7.86,Unknown,Unknown
+12436457,Away,826134,Trevoh Chalobah,D,23,190,England,931132800,False,34,0,8.91,Unknown,Unknown
+12436457,Away,870360,Daniel Muñoz,M,23,183,Colombia,833068800,True,34,10,6.55,Unknown,Unknown
+12436457,Away,193554,Will Hughes,M,19,185,England,798076800,False,14,0,5.68,Unknown,Unknown
+12436457,Away,355796,Jefferson Lerma,M,8,179,Colombia,783043200,False,32,12,6.33,Unknown,Unknown
+12436457,Away,988275,Tyrick Mitchell,M,3,174,England,936144000,False,40,6,8.86,Unknown,Unknown
+12436457,Away,845286,Ismaïla Sarr,F,23,185,Senegal,888364800,False,38,0,8.07,Unknown,Unknown
+12436457,Away,848276,Jean-Philippe Mateta,F,14,192,France,867456000,False,14,4,6.46,Unknown,Unknown
+12436457,Away,858194,Edward Nketiah,F,9,175,England,928022400,False,4,10,5.85,Unknown,Unknown
+12436457,Away,43215,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,6.02,Unknown,Unknown

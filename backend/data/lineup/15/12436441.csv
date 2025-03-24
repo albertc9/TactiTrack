@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436441,Home,19314,Fraser Forster,G,20,201,England,574560000,False,4,32,5.64,Unknown,Unknown
-12436441,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,True,4,0,6.25,Unknown,Unknown
-12436441,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,36,24,6.52,Unknown,Unknown
-12436441,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,2,0,6.46,Unknown,Unknown
-12436441,Home,361420,Dominic Solanke,F,19,186,England,874195200,False,6,20,7.59,Unknown,Unknown
-12436441,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,True,36,2,8.09,Unknown,Unknown
-12436441,Home,232306,Timo Werner,F,16,180,Germany,826070400,False,14,8,8,Unknown,Unknown
-12436441,Home,356398,James Maddison,M,10,175,England,848707200,False,8,4,7.05,Unknown,Unknown
+12436441,Home,19314,Fraser Forster,G,20,201,England,574560000,True,26,4,7.8,Unknown,Unknown
+12436441,Home,913654,Pedro Porro,D,23,173,Spain,937180800,True,20,0,8,Unknown,Unknown
+12436441,Home,829932,Cristian Romero,D,17,185,Argentina,893635200,False,2,4,6.23,Unknown,Unknown
+12436441,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,True,2,16,5.65,Unknown,Unknown
+12436441,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,38,46,8.54,Unknown,Unknown
+12436441,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,True,54,30,6.92,Unknown,Unknown
+12436441,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,24,18,0,Unknown,Unknown
+12436441,Home,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,True,12,0,7.28,Unknown,Unknown
+12436441,Home,356398,James Maddison,M,10,175,England,848707200,False,4,0,6.66,Unknown,Unknown
 12436441,Home,945798,Djed Spence,D,24,184,England,965779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436441,Home,858195,Sergio Reguilón,D,3,178,Spain,850694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436441,Away,987650,Moisés Caicedo,M,25,178,Ecuador,1004659200,False,40,26,5.85,Unknown,Unknown
-12436441,Away,996911,Levi Colwill,D,6,187,England,1046217600,False,100,44,7.71,Unknown,Unknown
-12436441,Away,879349,Pedro Neto,F,7,172,Portugal,952560000,True,6,24,7.8,Unknown,Unknown
-12436441,Away,982780,Cole Palmer,M,80,188,England,1020643200,False,2,48,8.59,Unknown,Unknown
-12436441,Away,851100,Jadon Sancho,M,19,180,England,953942400,False,36,72,9.23,Unknown,Unknown
-12436441,Away,1085381,Nicolas Jackson,F,15,186,Senegal,992995200,True,0,8,7.24,Unknown,Unknown
-12436441,Away,996958,Malo Gusto,D,27,179,France,1053302400,True,44,20,5.82,Unknown,Unknown
-12436441,Away,851671,João Félix,F,79,181,Portugal,942192000,True,Unknown,Unknown,5.37,Unknown,Unknown
-12436441,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436441,Away,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436441,Away,996911,Levi Colwill,D,6,187,England,1046217600,True,6,66,7.46,Unknown,Unknown
+12436441,Away,794939,Marc Cucurella,D,3,175,Spain,901065600,True,52,20,4.73,Unknown,Unknown
+12436441,Away,879349,Pedro Neto,F,7,172,Portugal,952560000,False,30,20,7.62,Unknown,Unknown
+12436441,Away,982780,Cole Palmer,M,80,185,England,1020643200,False,58,42,10,Unknown,Unknown
+12436441,Away,996958,Malo Gusto,D,27,179,France,1053302400,True,28,58,7.54,Unknown,Unknown
+12436441,Away,966547,Noni Madueke,M,11,182,England,1015718400,True,2,2,7.63,Unknown,Unknown
+12436441,Away,851671,João Félix,F,79,181,Portugal,942192000,False,Unknown,Unknown,5.68,Unknown,Unknown
+12436441,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436441,Away,827243,Axel Disasi,D,3,190,France,889574400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436441,Away,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,Unknown,Unknown,Unknown,Unknown,Unknown
