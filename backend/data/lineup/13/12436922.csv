@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436922,Home,252821,Nélson Semedo,M,22,177,Portugal,753408000,False,14,10,6.29,Unknown,Unknown
-12436922,Home,307284,Mario Lemina,M,99,184,Gabon,746841600,True,46,22,6.22,Unknown,Unknown
-12436922,Home,973418,Toti Gomes,D,24,187,Portugal,916444800,True,28,96,5.45,Unknown,Unknown
-12436922,Home,1035996,André,M,7,176,Brazil,995241600,False,44,78,8.15,Unknown,Unknown
-12436922,Home,845273,Jean-Ricner Bellegarde,M,27,170,France,898905600,False,42,8,6.27,Unknown,Unknown
-12436922,Home,280979,Gonçalo Guedes,F,29,179,Portugal,849225600,True,14,6,7.71,Unknown,Unknown
-12436922,Home,786186,Hee-Chan Hwang,F,11,177,South Korea,822614400,True,4,0,6.7,Unknown,Unknown
-12436922,Home,98427,Sam Johnstone,G,31,193,England,733017600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436922,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436922,Home,138573,Pablo Sarabia,F,21,176,Spain,705542400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436922,Away,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,14,18,5.38,Unknown,Unknown
-12436922,Away,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,10,14,6.52,Unknown,Unknown
-12436922,Away,830659,Marcos Senesi,D,5,184,Argentina,863222400,False,20,32,7.8,Unknown,Unknown
-12436922,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,True,6,4,8.01,Unknown,Unknown
-12436922,Away,800419,Tyler Adams,M,12,175,USA,918950400,False,40,38,7.44,Unknown,Unknown
-12436922,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,22,2,9.17,Unknown,Unknown
-12436922,Away,998490,Evanilson,F,9,181,Brazil,939168000,True,18,20,8.38,Unknown,Unknown
-12436922,Away,548660,Philip Billing,M,15,193,Denmark,834451200,False,4,4,5.84,Unknown,Unknown
+12436922,Home,252821,Nélson Semedo,M,22,177,Portugal,753408000,True,56,54,5.64,Unknown,Unknown
+12436922,Home,307284,Mario Lemina,M,99,184,Gabon,746841600,True,36,20,6.5,Unknown,Unknown
+12436922,Home,1035996,André,M,7,176,Brazil,995241600,True,52,16,7.1,Unknown,Unknown
+12436922,Home,1015267,João Gomes,M,8,176,Brazil,981936000,False,94,40,5.38,Unknown,Unknown
+12436922,Home,886363,Matheus Cunha,F,10,184,Brazil,927763200,False,22,16,7.44,Unknown,Unknown
+12436922,Home,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,2,8,6.02,Unknown,Unknown
+12436922,Home,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,True,26,14,6.83,Unknown,Unknown
+12436922,Home,50027,Craig Dawson,D,15,188,England,641952000,True,2,46,5.78,Unknown,Unknown
+12436922,Home,98427,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436922,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436922,Away,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,True,60,14,5.22,Unknown,Unknown
+12436922,Away,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,True,32,2,6.3,Unknown,Unknown
+12436922,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,False,86,6,6.41,Unknown,Unknown
+12436922,Away,855731,David Brooks,F,7,173,Wales,868320000,False,14,2,6.96,Unknown,Unknown
+12436922,Away,895576,Marcus Tavernier,M,16,178,England,922060800,False,52,48,6.13,Unknown,Unknown
+12436922,Away,998490,Evanilson,F,9,181,Brazil,939168000,True,12,20,8.51,Unknown,Unknown
+12436922,Away,548660,Philip Billing,M,15,193,Denmark,834451200,True,0,6,6.34,Unknown,Unknown
+12436922,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,False,8,10,6.7,Unknown,Unknown
 12436922,Away,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436922,Away,1156586,James Hill,D,23,184,England,1010620800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436922,Away,1156586,James Hill,D,23,184,England,1010620800,False,Unknown,Unknown,Unknown,Unknown,Unknown

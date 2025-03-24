@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436578,Home,823085,Kyle Walker-Peters,D,2,173,England,860889600,True,58,46,5.38,Unknown,Unknown
-12436578,Home,976025,Armel Bella-Kotchap,D,37,190,Germany,1008028800,True,42,42,7.54,Unknown,Unknown
-12436578,Home,980637,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,68,152,5.86,Unknown,Unknown
-12436578,Home,1048916,Lesley Ugochukwu,M,26,188,France,1080259200,False,56,74,4,Unknown,Unknown
-12436578,Home,1174472,Tyler Dibling,M,33,178,England,1140134400,False,70,2,7.96,Unknown,Unknown
-12436578,Home,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,True,10,26,6.8,Unknown,Unknown
-12436578,Home,1019442,Kamaldeen Sulemana,F,20,174,Ghana,1013731200,False,20,6,6.12,Unknown,Unknown
-12436578,Home,993451,Cameron Archer,F,19,181,England,1007856000,True,0,4,6.18,Unknown,Unknown
-12436578,Home,45502,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436578,Home,1009920,Welington,D,34,170,Brazil,982540800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436578,Away,973418,Toti Gomes,D,24,187,Portugal,916444800,False,76,50,7.16,Unknown,Unknown
-12436578,Away,1015267,João Gomes,M,8,176,Brazil,981936000,False,44,72,8.54,Unknown,Unknown
-12436578,Away,1035996,André,M,7,176,Brazil,995241600,True,28,28,6.06,Unknown,Unknown
-12436578,Away,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,60,16,6.16,Unknown,Unknown
-12436578,Away,138573,Pablo Sarabia,F,21,176,Spain,705542400,True,16,4,5.45,Unknown,Unknown
-12436578,Away,280979,Gonçalo Guedes,F,29,179,Portugal,849225600,False,10,0,5.37,Unknown,Unknown
-12436578,Away,846308,Santiago Bueno,D,4,189,Uruguay,910569600,False,Unknown,Unknown,5.34,Unknown,Unknown
-12436578,Away,932628,Tommy Doyle,M,20,172,England,1003276800,False,0,0,Unknown,Unknown,Unknown
-12436578,Away,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436578,Home,839410,Aaron Ramsdale,G,30,191,England,895104000,True,46,14,0,Unknown,Unknown
+12436578,Home,980637,Taylor Harwood-Bellis,D,6,185,England,1012348800,True,116,112,6.06,Unknown,Unknown
+12436578,Home,905347,Yukinari Sugawara,D,16,179,Japan,962150400,True,18,44,5.58,Unknown,Unknown
+12436578,Home,1048916,Lesley Ugochukwu,M,26,188,France,1080259200,True,6,14,2,Unknown,Unknown
+12436578,Home,328701,Ryan Manning,D,3,172,Ireland,834710400,True,12,36,7.08,Unknown,Unknown
+12436578,Home,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,False,0,20,5.82,Unknown,Unknown
+12436578,Home,879810,Flynn Downes,M,4,172,England,916790400,False,6,14,8.03,Unknown,Unknown
+12436578,Home,134361,Jack Stephens,D,5,185,England,759628800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436578,Home,45502,Alex McCarthy,G,1,193,England,628646400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436578,Home,944200,Nathan Wood,D,15,188,England,1022803200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436578,Away,252669,José Sá,G,1,192,Portugal,727228800,False,18,0,2,Unknown,Unknown
+12436578,Away,143047,Matt Doherty,D,2,182,Ireland,695520000,True,10,32,4,Unknown,Unknown
+12436578,Away,973418,Toti Gomes,D,24,187,Portugal,916444800,True,10,24,7.38,Unknown,Unknown
+12436578,Away,1015267,João Gomes,M,8,176,Brazil,981936000,True,80,50,9,Unknown,Unknown
+12436578,Away,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,34,6,6.52,Unknown,Unknown
+12436578,Away,894733,Marshall Munetsi,M,5,187,Zimbabwe,835401600,False,6,6,6.96,Unknown,Unknown
+12436578,Away,138573,Pablo Sarabia,F,21,176,Spain,705542400,True,18,6,7.52,Unknown,Unknown
+12436578,Away,846308,Santiago Bueno,D,4,189,Uruguay,910569600,False,Unknown,Unknown,6.01,Unknown,Unknown
+12436578,Away,101367,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436578,Away,1069486,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown,Unknown,Unknown

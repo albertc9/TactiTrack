@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436470,Home,149380,Harry Maguire,D,5,194,England,731289600,False,64,74,5.33,Unknown,Unknown
-12436470,Home,859999,Lisandro Martínez,D,6,175,Argentina,885081600,True,64,82,6.06,Unknown,Unknown
-12436470,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,True,12,8,6.81,Unknown,Unknown
-12436470,Home,1142175,Kobbie Mainoo,M,37,180,England,1113868800,True,14,24,10,Unknown,Unknown
-12436470,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,16,2,5.71,Unknown,Unknown
-12436470,Home,1153315,Leny Yoro,D,15,190,France,1131840000,False,40,12,5.71,Unknown,Unknown
-12436470,Home,815890,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Home,122951,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,149380,Harry Maguire,D,5,194,England,731289600,False,32,18,6.94,Unknown,Unknown
+12436470,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,True,40,52,7.79,Unknown,Unknown
+12436470,Home,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,False,30,24,2,Unknown,Unknown
+12436470,Home,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,38,12,7.14,Unknown,Unknown
+12436470,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,22,20,7.94,Unknown,Unknown
+12436470,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,10,4,7.92,Unknown,Unknown
+12436470,Home,815890,Altay Bayındır,G,1,198,Türkiye,892512000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Home,30144,Jonny Evans,D,35,188,Northern Ireland,568166400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436470,Home,1084356,Toby Collyer,M,43,180,England,1073088000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436470,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Away,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,True,10,18,7.08,Unknown,Unknown
-12436470,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,28,22,7.88,Unknown,Unknown
-12436470,Away,934354,Antoine Semenyo,M,24,178,Ghana,947203200,True,6,28,8.77,Unknown,Unknown
-12436470,Away,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,28,16,6.19,Unknown,Unknown
-12436470,Away,548188,Lewis Cook,M,4,175,England,854928000,True,12,0,6.48,Unknown,Unknown
-12436470,Away,548660,Philip Billing,M,15,193,Denmark,834451200,False,16,4,5.68,Unknown,Unknown
-12436470,Away,1156586,James Hill,D,23,184,England,1010620800,False,6,2,Unknown,Unknown,Unknown
-12436470,Away,855731,David Brooks,F,7,173,Wales,868320000,True,0,2,Unknown,Unknown,Unknown
-12436470,Away,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436470,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,54,20,8.44,Unknown,Unknown
+12436470,Away,44566,Adam Smith,D,15,180,England,672883200,False,6,8,5.77,Unknown,Unknown
+12436470,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,True,30,26,8.44,Unknown,Unknown
+12436470,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,False,40,64,7.86,Unknown,Unknown
+12436470,Away,336655,Enes Ünal,F,26,185,Türkiye,863222400,True,0,0,6.44,Unknown,Unknown
+12436470,Away,1156586,James Hill,D,23,184,England,1010620800,False,4,4,Unknown,Unknown,Unknown
+12436470,Away,855731,David Brooks,F,7,173,Wales,868320000,False,2,2,Unknown,Unknown,Unknown
+12436470,Away,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436470,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
