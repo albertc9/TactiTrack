@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437029,Home,1136731,Rico Lewis,D,82,170,England,1100995200,True,80,32,7.49,Unknown,Unknown
-12437029,Home,1194333,Abdukodir Khusanov,D,45,186,Uzbekistan,1078012800,True,2,60,5.5,Unknown,Unknown
-12437029,Home,45853,İlkay Gündoğan,M,19,180,Germany,656726400,False,62,32,7.08,Unknown,Unknown
-12437029,Home,1046795,Savinho,M,26,176,Brazil,1081555200,False,6,6,2,Unknown,Unknown
-12437029,Home,873554,Omar Marmoush,F,7,183,Egypt,918345600,True,30,20,9.46,Unknown,Unknown
-12437029,Home,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,50,10,6.28,Unknown,Unknown
-12437029,Home,839956,Erling Haaland,F,9,194,Norway,964137600,False,10,0,6.09,Unknown,Unknown
-12437029,Home,716,Scott Carson,G,33,188,England,494553600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437029,Home,189061,Jack Grealish,M,10,180,England,810691200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437029,Home,1194333,Abdukodir Khusanov,D,45,186,Uzbekistan,1078012800,False,6,42,5.87,Unknown,Unknown
+12437029,Home,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,36,18,8.05,Unknown,Unknown
+12437029,Home,45853,İlkay Gündoğan,M,19,180,Germany,656726400,True,12,54,6.61,Unknown,Unknown
+12437029,Home,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,22,24,6.93,Unknown,Unknown
+12437029,Home,839956,Erling Haaland,F,9,194,Norway,964137600,True,8,0,6.77,Unknown,Unknown
+12437029,Home,331209,Bernardo Silva,M,20,173,Portugal,776476800,True,6,12,7.9,Unknown,Unknown
+12437029,Home,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,0,2,6.74,Unknown,Unknown
+12437029,Home,1485300,Vitor Reis,D,22,186,Brazil,1137024000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437029,Home,945122,Matheus Nunes,M,27,183,Portugal,904176000,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12437029,Home,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437029,Away,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,20,8,5.79,Unknown,Unknown
-12437029,Away,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,True,14,22,7.47,Unknown,Unknown
-12437029,Away,216308,Adam Webster,D,4,191,England,789177600,True,4,22,7.56,Unknown,Unknown
-12437029,Away,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,28,4,7.04,Unknown,Unknown
-12437029,Away,1065588,Diego Gómez,M,25,185,Paraguay,1048723200,True,22,34,6.71,Unknown,Unknown
-12437029,Away,936849,Kaoru Mitoma,M,22,178,Japan,864086400,False,12,14,6.14,Unknown,Unknown
-12437029,Away,1198075,Brajan Gruda,F,8,174,Germany,1085961600,False,0,0,6.57,Unknown,Unknown
-12437029,Away,1005800,Carl Rushworth,G,39,191,England,994032000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437029,Away,998928,Eiran Joe Cashin,D,16,184,Ireland,1005264000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437029,Away,1565348,Joe Knight,M,57,Unknown,England,1127260800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437029,Away,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,0,20,5.59,Unknown,Unknown
+12437029,Away,1142315,Jack Hinshelwood,D,41,182,England,1113177600,True,10,18,7.18,Unknown,Unknown
+12437029,Away,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,True,22,14,7.35,Unknown,Unknown
+12437029,Away,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,50,20,6.83,Unknown,Unknown
+12437029,Away,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,14,8,5.15,Unknown,Unknown
+12437029,Away,946695,Georginio Rutter,M,14,182,France,1019260800,False,4,10,5.86,Unknown,Unknown
+12437029,Away,975079,João Pedro,F,9,188,Brazil,1001462400,False,32,4,7.25,Unknown,Unknown
+12437029,Away,33902,Danny Welbeck,F,18,185,England,659577600,False,0,Unknown,6.52,Unknown,Unknown
+12437029,Away,998928,Eiran Joe Cashin,D,16,184,Ireland,1005264000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437029,Away,1394957,Jacob Slater,D,53,180,Ireland,1096934400,True,Unknown,Unknown,Unknown,Unknown,Unknown

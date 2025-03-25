@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436935,Home,856714,Declan Rice,M,41,188,England,916272000,False,4,32,6,Unknown,Unknown
-12436935,Home,934235,Bukayo Saka,F,7,178,England,999648000,True,6,22,8.82,Unknown,Unknown
-12436935,Home,836705,Kai Havertz,F,29,193,Germany,929059200,False,10,14,5.29,Unknown,Unknown
-12436935,Home,592010,Mikel Merino,M,23,188,Spain,835401600,True,2,12,5.92,Unknown,Unknown
-12436935,Home,132874,Jorginho,M,20,180,Italy,693187200,True,6,6,Unknown,Unknown,Unknown
-12436935,Home,366592,Kieran Tierney,D,3,178,Scotland,865468800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436935,Home,1445799,Ayden Heaven,D,26,189,England,1158883200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436935,Home,941168,William Saliba,D,2,193,France,985392000,False,78,104,7.93,Unknown,Unknown
+12436935,Home,976037,Jakub Kiwior,D,15,189,Poland,950572800,True,46,28,10,Unknown,Unknown
+12436935,Home,547410,Martin Ødegaard,M,8,178,Norway,913852800,True,56,16,8.84,Unknown,Unknown
+12436935,Home,856714,Declan Rice,M,41,188,England,916272000,True,42,58,10,Unknown,Unknown
+12436935,Home,934235,Bukayo Saka,F,7,178,England,999648000,False,20,4,7.4,Unknown,Unknown
+12436935,Home,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,2,8,6.47,Unknown,Unknown
+12436935,Home,592010,Mikel Merino,M,23,188,Spain,835401600,True,4,4,6.79,Unknown,Unknown
+12436935,Home,84844,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436935,Home,1401702,Ethan Nwaneri,F,53,176,England,1174435200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436935,Home,138534,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436935,Home,794839,Gabriel Jesus,F,9,175,Brazil,860025600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436935,Away,787498,André Onana,G,24,190,Cameroon,828403200,True,80,24,8.14,Unknown,Unknown
-12436935,Away,149380,Harry Maguire,D,5,194,England,731289600,False,90,46,6,Unknown,Unknown
-12436935,Away,825839,Tyrell Malacia,D,3,169,Netherlands,934848000,True,8,0,7.53,Unknown,Unknown
-12436935,Away,836694,Mason Mount,M,7,181,England,915926400,True,4,14,7.48,Unknown,Unknown
-12436935,Away,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,20,10,8.18,Unknown,Unknown
-12436935,Away,1153315,Leny Yoro,D,15,190,France,1131840000,False,20,8,6.76,Unknown,Unknown
-12436935,Away,814590,Marcus Rashford,M,9,184,England,878256000,True,18,8,6.73,Unknown,Unknown
-12436935,Away,815890,Altay Bayındır,G,1,198,Türkiye,892512000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436935,Away,1899546,Godwill Kukonki,D,5,196,England,1202256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436935,Away,105734,Christian Eriksen,M,14,182,Denmark,698025600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436935,Away,846425,Manuel Ugarte,M,25,182,Uruguay,986947200,True,28,42,8.27,Unknown,Unknown
+12436935,Away,825839,Tyrell Malacia,D,3,169,Netherlands,934848000,False,2,34,5.46,Unknown,Unknown
+12436935,Away,836694,Mason Mount,M,7,181,England,915926400,False,2,16,6.74,Unknown,Unknown
+12436935,Away,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,20,22,7.23,Unknown,Unknown
+12436935,Away,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,16,0,6.33,Unknown,Unknown
+12436935,Away,1153315,Leny Yoro,D,15,190,France,1131840000,True,4,8,7.07,Unknown,Unknown
+12436935,Away,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,2,0,5.98,Unknown,Unknown
+12436935,Away,958380,Antony,F,7,172,Brazil,951350400,True,2,4,6.43,Unknown,Unknown
+12436935,Away,1899546,Godwill Kukonki,D,5,196,England,1202256000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436935,Away,122951,Casemiro,M,18,185,Brazil,698803200,False,Unknown,Unknown,Unknown,Unknown,Unknown

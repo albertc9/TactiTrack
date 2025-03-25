@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-13015216,Home,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,6,16,8.86,Unknown,Unknown
-13015216,Home,44566,Adam Smith,D,15,180,England,672883200,True,0,2,4,Unknown,Unknown
-13015216,Home,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,True,26,28,7.68,Unknown,Unknown
-13015216,Home,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,4,14,6.7,Unknown,Unknown
-13015216,Home,800419,Tyler Adams,M,12,175,USA,918950400,False,36,0,5.99,Unknown,Unknown
-13015216,Home,934354,Antoine Semenyo,M,24,178,Ghana,947203200,False,4,32,7.54,Unknown,Unknown
-13015216,Home,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,True,12,2,7.77,Unknown,Unknown
-13015216,Home,548188,Lewis Cook,M,4,175,England,854928000,False,8,6,7.5,Unknown,Unknown
-13015216,Home,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-13015216,Home,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-13015216,Away,19314,Fraser Forster,G,20,201,England,574560000,False,4,38,8.91,Unknown,Unknown
-13015216,Away,1142335,Archie Gray,D,14,187,England,1142121600,False,70,38,7.98,Unknown,Unknown
-13015216,Away,997103,Radu Drăguşin,D,6,191,Romania,1012694400,False,82,4,6.06,Unknown,Unknown
-13015216,Away,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,32,32,6.92,Unknown,Unknown
-13015216,Away,844842,Yves Bissouma,M,8,181,Mali,841363200,True,4,38,7.73,Unknown,Unknown
-13015216,Away,356398,James Maddison,M,10,175,England,848707200,True,84,28,6.34,Unknown,Unknown
-13015216,Away,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,True,62,16,0,Unknown,Unknown
-13015216,Away,913654,Pedro Porro,D,23,173,Spain,937180800,True,10,8,6.15,Unknown,Unknown
-13015216,Away,859896,Brandon Austin,G,40,188,England,915753600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-13015216,Away,1403190,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13015216,Home,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,26,28,7.56,Unknown,Unknown
+13015216,Home,1176744,Dean Huijsen,D,2,195,Spain,1113436800,False,42,8,8.54,Unknown,Unknown
+13015216,Home,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,True,26,2,8.51,Unknown,Unknown
+13015216,Home,800419,Tyler Adams,M,12,175,USA,918950400,True,24,16,6.83,Unknown,Unknown
+13015216,Home,322391,Ryan Christie,M,10,178,Scotland,793411200,False,28,20,2,Unknown,Unknown
+13015216,Home,934354,Antoine Semenyo,M,24,178,Ghana,947203200,True,6,18,5.77,Unknown,Unknown
+13015216,Home,851596,Justin Kluivert,M,19,171,Netherlands,925862400,False,2,8,6.92,Unknown,Unknown
+13015216,Home,998490,Evanilson,F,9,181,Brazil,939168000,True,10,2,7.38,Unknown,Unknown
+13015216,Home,548660,Philip Billing,M,15,193,Denmark,834451200,True,0,2,7.99,Unknown,Unknown
+13015216,Home,943645,Max Aarons,D,19,178,England,946944000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13015216,Away,19314,Fraser Forster,G,20,201,England,574560000,True,42,46,9.67,Unknown,Unknown
+13015216,Away,997103,Radu Drăguşin,D,6,191,Romania,1012694400,True,90,10,7.44,Unknown,Unknown
+13015216,Away,94758,Ben Davies,D,33,181,Wales,735609600,False,44,14,7.91,Unknown,Unknown
+13015216,Away,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,10,48,6.08,Unknown,Unknown
+13015216,Away,844842,Yves Bissouma,M,8,181,Mali,841363200,False,104,50,6.32,Unknown,Unknown
+13015216,Away,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,False,72,56,4,Unknown,Unknown
+13015216,Away,361420,Dominic Solanke,F,19,186,England,874195200,True,14,0,0,Unknown,Unknown
+13015216,Away,1391251,Lucas Bergvall,M,15,186,Sweden,1138838400,True,4,4,6.04,Unknown,Unknown
+13015216,Away,232306,Timo Werner,F,16,180,Germany,826070400,True,0,0,5.61,Unknown,Unknown
+13015216,Away,1391825,Will Lankshear,F,19,189,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown

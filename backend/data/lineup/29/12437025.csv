@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437025,Home,796143,Alex Palmer,G,31,190,England,839635200,False,2,22,5.17,Unknown,Unknown
-12437025,Home,893478,Luke Woolfenden,D,6,193,England,908928000,True,98,22,6.27,Unknown,Unknown
-12437025,Home,857671,Jens Cajuste,M,12,188,Sweden,934243200,False,0,54,6.57,Unknown,Unknown
-12437025,Home,1014461,Jaden Philogene-Bidace,M,29,181,England,1013126400,False,16,14,5.94,Unknown,Unknown
-12437025,Home,973556,Julio Enciso,M,9,173,Paraguay,1074729600,True,28,0,7.15,Unknown,Unknown
-12437025,Home,911710,Nathan Broadhead,M,33,178,Wales,891734400,False,0,8,5.62,Unknown,Unknown
-12437025,Home,856669,Jack Taylor,M,14,185,Ireland,898560000,False,2,2,5.93,Unknown,Unknown
-12437025,Home,198038,Christian Walton,G,28,196,England,815875200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437025,Home,990821,Jacob Greaves,D,24,193,England,968716800,False,60,2,6.55,Unknown,Unknown
+12437025,Home,786028,Kalvin Phillips,M,8,177,England,817862400,False,48,6,7.05,Unknown,Unknown
+12437025,Home,857671,Jens Cajuste,M,12,188,Sweden,934243200,True,10,50,8.25,Unknown,Unknown
+12437025,Home,1014461,Jaden Philogene-Bidace,M,29,181,England,1013126400,False,6,6,6.2,Unknown,Unknown
+12437025,Home,358084,Cameron Burgess,D,15,194,Australia,814233600,False,12,18,7.19,Unknown,Unknown
+12437025,Home,839712,George Hirst,F,27,191,Scotland,919036800,False,0,2,6.81,Unknown,Unknown
+12437025,Home,911710,Nathan Broadhead,M,33,178,Wales,891734400,True,10,0,6.35,Unknown,Unknown
+12437025,Home,856669,Jack Taylor,M,14,185,Ireland,898560000,False,8,2,5.51,Unknown,Unknown
 12437025,Home,914412,Ben Johnson,D,18,182,England,948672000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437025,Home,197982,Conor Townsend,D,22,168,England,731203200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437025,Away,78152,Matz Sels,G,26,188,Belgium,699062400,False,8,6,5.72,Unknown,Unknown
-12437025,Away,927356,Neco Williams,D,7,183,Wales,987120000,False,24,46,7.32,Unknown,Unknown
-12437025,Away,994546,Elliot Anderson,M,8,175,England,1036540800,True,42,22,7.5,Unknown,Unknown
-12437025,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,2,20,6.04,Unknown,Unknown
-12437025,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,True,26,26,6.59,Unknown,Unknown
-12437025,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,True,14,6,0,Unknown,Unknown
-12437025,Away,1064039,Danilo,M,28,177,Brazil,988502400,False,2,2,Unknown,Unknown,Unknown
-12437025,Away,16620,Wayne Hennessey,G,13,198,Wales,538444800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437025,Home,108515,Sam Morsy,M,5,175,Egypt,684460800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437025,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,False,36,38,5.41,Unknown,Unknown
+12437025,Away,927356,Neco Williams,D,7,183,Wales,987120000,True,44,18,8.01,Unknown,Unknown
+12437025,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,44,10,6.38,Unknown,Unknown
+12437025,Away,994546,Elliot Anderson,M,8,175,England,1036540800,False,68,26,6.54,Unknown,Unknown
+12437025,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,14,40,7.8,Unknown,Unknown
+12437025,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,2,2,7.26,Unknown,Unknown
+12437025,Away,1064039,Danilo,M,28,177,Brazil,988502400,True,12,12,Unknown,Unknown,Unknown
+12437025,Away,294593,Álex Moreno,D,19,179,Spain,739497600,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12437025,Away,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437025,Away,843754,Ibrahim Sangaré,M,6,191,Côte d'Ivoire,881020800,True,Unknown,Unknown,Unknown,Unknown,Unknown

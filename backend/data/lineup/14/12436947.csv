@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436947,Home,138530,Jordan Pickford,G,1,185,England,762998400,True,14,18,7.22,Unknown,Unknown
-12436947,Home,10589,Ashley Young,D,18,180,England,489715200,True,56,18,9.09,Unknown,Unknown
-12436947,Home,979563,Jarrad Branthwaite,D,32,195,England,1025136000,True,54,18,8.82,Unknown,Unknown
-12436947,Home,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,True,22,22,6.67,Unknown,Unknown
-12436947,Home,829570,Jack Harrison,M,11,175,England,848448000,True,0,0,5.52,Unknown,Unknown
-12436947,Home,996985,Armando Broja,F,22,191,Albania,1000080000,True,2,2,6.68,Unknown,Unknown
-12436947,Home,1627560,Harrison Armstrong,M,28,185,England,1169164800,True,0,0,Unknown,Unknown,Unknown
-12436947,Home,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436947,Home,76632,Séamus Coleman,D,23,177,Ireland,592531200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436947,Home,987489,Beto,F,14,194,Guinea-Bissau,886204800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436947,Away,252669,José Sá,G,1,192,Portugal,727228800,False,40,22,5.34,Unknown,Unknown
-12436947,Away,307284,Mario Lemina,M,99,184,Gabon,746841600,False,36,6,7.18,Unknown,Unknown
-12436947,Away,1035996,André,M,7,176,Brazil,995241600,False,112,2,7.29,Unknown,Unknown
-12436947,Away,1015267,João Gomes,M,8,176,Brazil,981936000,False,48,70,6.53,Unknown,Unknown
-12436947,Away,886363,Matheus Cunha,F,10,184,Brazil,927763200,False,40,12,7.22,Unknown,Unknown
-12436947,Away,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,True,2,8,5.02,Unknown,Unknown
-12436947,Away,786186,Hee-Chan Hwang,F,11,177,South Korea,822614400,False,22,16,7.72,Unknown,Unknown
-12436947,Away,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,False,10,8,5.52,Unknown,Unknown
-12436947,Away,101367,Daniel Bentley,G,25,188,England,742521600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436947,Away,98427,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436947,Home,10589,Ashley Young,D,18,180,England,489715200,True,54,16,7.68,Unknown,Unknown
+12436947,Home,145188,James Tarkowski,D,6,185,England,722131200,True,18,16,9.18,Unknown,Unknown
+12436947,Home,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,72,10,5.66,Unknown,Unknown
+12436947,Home,793988,Orel Mangala,M,8,178,Belgium,890179200,False,14,18,6.96,Unknown,Unknown
+12436947,Home,935543,Dwight McNeil,M,7,183,England,943228800,True,36,28,6.9,Unknown,Unknown
+12436947,Home,829570,Jack Harrison,M,11,175,England,848448000,True,0,0,7.05,Unknown,Unknown
+12436947,Home,996985,Armando Broja,F,22,191,Albania,1000080000,False,2,2,7.28,Unknown,Unknown
+12436947,Home,930666,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436947,Home,998253,Jake O'Brien,D,15,197,Ireland,989884800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436947,Home,987489,Beto,F,14,194,Guinea-Bissau,886204800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436947,Away,252669,José Sá,G,1,192,Portugal,727228800,False,38,18,4.51,Unknown,Unknown
+12436947,Away,50027,Craig Dawson,D,15,188,England,641952000,True,26,64,6.01,Unknown,Unknown
+12436947,Away,846308,Santiago Bueno,D,4,189,Uruguay,910569600,False,28,14,5.99,Unknown,Unknown
+12436947,Away,1035996,André,M,7,176,Brazil,995241600,True,126,10,6.81,Unknown,Unknown
+12436947,Away,1015267,João Gomes,M,8,176,Brazil,981936000,False,100,30,6.05,Unknown,Unknown
+12436947,Away,931278,Rayan Aït Nouri,M,3,179,Algeria,991785600,False,26,38,6.56,Unknown,Unknown
+12436947,Away,876599,Jørgen Strand Larsen,F,9,193,Norway,949795200,True,10,8,5.03,Unknown,Unknown
+12436947,Away,973418,Toti Gomes,D,24,187,Portugal,916444800,False,2,8,7.51,Unknown,Unknown
+12436947,Away,98427,Sam Johnstone,G,31,193,England,733017600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436947,Away,1069486,Carlos Forbs,F,26,169,Portugal,1079654400,True,Unknown,Unknown,Unknown,Unknown,Unknown
