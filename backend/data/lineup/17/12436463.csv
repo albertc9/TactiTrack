@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436463,Home,171919,Mark Flekken,G,1,194,Netherlands,739929600,True,12,18,8.52,Unknown,Unknown
-12436463,Home,958916,Nathan Collins,D,22,193,Ireland,988588800,True,60,104,2,Unknown,Unknown
-12436463,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,False,38,74,5.36,Unknown,Unknown
-12436463,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,False,24,70,7.08,Unknown,Unknown
-12436463,Home,135256,Christian Nørgaard,M,6,185,Denmark,763257600,False,60,126,9.26,Unknown,Unknown
-12436463,Home,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,True,18,58,7.42,Unknown,Unknown
-12436463,Home,826057,Mads Roerslev,D,5,184,Denmark,930182400,True,22,18,6.36,Unknown,Unknown
-12436463,Home,907500,Edmond-Paris Maghoma,M,32,178,England,989280000,True,16,16,5.57,Unknown,Unknown
-12436463,Home,1518589,Yunus Konak,M,26,181,Türkiye,1136851200,False,0,Unknown,Unknown,Unknown,Unknown
-12436463,Home,1005959,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436463,Away,78152,Matz Sels,G,26,188,Belgium,699062400,True,6,14,6.67,Unknown,Unknown
-12436463,Away,985086,Morato,D,4,190,Brazil,993859200,True,4,2,6.37,Unknown,Unknown
-12436463,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,False,14,8,7.74,Unknown,Unknown
-12436463,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,24,6,5.74,Unknown,Unknown
-12436463,Away,50480,Chris Wood,F,11,191,New Zealand,692064000,True,18,10,7.07,Unknown,Unknown
-12436463,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,False,6,6,5.46,Unknown,Unknown
-12436463,Away,846252,Ryan Yates,M,22,190,England,880070400,False,2,0,6.12,Unknown,Unknown
-12436463,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,False,2,4,5.76,Unknown,Unknown
+12436463,Home,576384,Kristoffer Ajer,D,20,196,Norway,892771200,False,14,22,6.8,Unknown,Unknown
+12436463,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,False,10,18,6.07,Unknown,Unknown
+12436463,Home,135256,Christian Nørgaard,M,6,185,Denmark,763257600,True,90,128,8.79,Unknown,Unknown
+12436463,Home,927083,Bryan Mbeumo,F,19,173,Cameroon,933984000,False,58,16,8.15,Unknown,Unknown
+12436463,Home,805123,Yoane Wissa,F,11,176,DR Congo,841708800,True,18,32,6.41,Unknown,Unknown
+12436463,Home,1006387,Kevin Schade,F,7,183,Germany,1006819200,False,16,12,5.66,Unknown,Unknown
+12436463,Home,907500,Edmond-Paris Maghoma,M,32,178,England,989280000,False,4,20,7.45,Unknown,Unknown
+12436463,Home,1005959,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Home,1185061,Kim Ji-Soo,D,36,192,South Korea,1103846400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Home,1031258,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436463,Away,78152,Matz Sels,G,26,188,Belgium,699062400,False,20,16,6.38,Unknown,Unknown
+12436463,Away,1199282,Murillo,D,5,183,Brazil,1025740800,True,0,22,8.12,Unknown,Unknown
+12436463,Away,985086,Morato,D,4,190,Brazil,993859200,False,8,2,6.26,Unknown,Unknown
+12436463,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,88,22,7.92,Unknown,Unknown
+12436463,Away,994546,Elliot Anderson,M,8,175,England,1036540800,True,28,44,7.21,Unknown,Unknown
+12436463,Away,927356,Neco Williams,D,7,183,Wales,987120000,True,22,2,8.24,Unknown,Unknown
+12436463,Away,979232,Anthony Elanga,M,21,178,Sweden,1019865600,False,12,6,8.09,Unknown,Unknown
+12436463,Away,1011895,Jota Silva,F,20,179,Portugal,933465600,True,6,2,6.79,Unknown,Unknown
 12436463,Away,358218,Harry Toffolo,D,15,183,England,808790400,True,0,0,Unknown,Unknown,Unknown
-12436463,Away,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,False,0,Unknown,Unknown,Unknown,Unknown
+12436463,Away,161717,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown

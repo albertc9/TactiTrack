@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436444,Home,856640,Mads Hermansen,G,30,187,Denmark,963273600,True,82,62,7.98,Unknown,Unknown
-12436444,Home,827681,James Justin,D,2,183,England,888192000,False,8,34,6.31,Unknown,Unknown
-12436444,Home,1092409,Victor Kristiansen,D,16,181,Denmark,1039996800,False,8,8,5.86,Unknown,Unknown
-12436444,Home,1065134,Kasey McAteer,M,35,177,Ireland,1006387200,False,18,22,7.44,Unknown,Unknown
-12436444,Home,173827,Jamie Vardy,F,9,178,England,537321600,True,10,12,6.78,Unknown,Unknown
-12436444,Home,859901,Oliver Skipp,M,22,175,England,969062400,False,28,18,7.14,Unknown,Unknown
-12436444,Home,865057,Patson Daka,F,20,185,Zambia,907891200,False,4,2,5.43,Unknown,Unknown
-12436444,Home,197428,Danny Ward,G,1,191,Wales,740707200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436444,Home,967722,Caleb Okoli,D,5,191,Italy,994982400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436444,Home,833057,Hamza Choudhury,M,24,178,Bangladesh,875664000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436444,Away,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,24,18,7,Unknown,Unknown
-12436444,Away,914691,Tariq Lamptey,D,2,165,Ghana,970272000,True,10,16,6.56,Unknown,Unknown
-12436444,Away,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,True,74,48,7.25,Unknown,Unknown
-12436444,Away,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,True,6,6,9.04,Unknown,Unknown
-12436444,Away,975079,João Pedro,F,9,188,Brazil,1001462400,True,16,10,7.63,Unknown,Unknown
-12436444,Away,936849,Kaoru Mitoma,M,22,178,Japan,864086400,True,16,22,5.4,Unknown,Unknown
-12436444,Away,999231,Evan Ferguson,F,28,188,Ireland,1098144000,False,4,6,7.84,Unknown,Unknown
-12436444,Away,891829,Matt O'Riley,M,33,187,Denmark,974764800,False,10,6,7.58,Unknown,Unknown
-12436444,Away,31867,Jason Steele,G,23,188,England,650937600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436444,Away,886242,Jakub Moder,M,7,191,Poland,923443200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436444,Home,856640,Mads Hermansen,G,30,187,Denmark,963273600,True,74,16,7.72,Unknown,Unknown
+12436444,Home,98449,Conor Coady,D,4,184,England,730598400,True,88,102,6.67,Unknown,Unknown
+12436444,Home,120538,Jannik Vestergaard,D,23,199,Denmark,712800000,True,30,78,7.33,Unknown,Unknown
+12436444,Home,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,False,34,38,5.5,Unknown,Unknown
+12436444,Home,1065134,Kasey McAteer,M,35,177,Ireland,1006387200,False,6,16,5.17,Unknown,Unknown
+12436444,Home,173827,Jamie Vardy,F,9,178,England,537321600,True,18,8,7.45,Unknown,Unknown
+12436444,Home,605338,Stephy Mavididi,M,10,182,England,896572800,False,0,14,7.34,Unknown,Unknown
+12436444,Home,361696,Wout Faes,D,3,185,Belgium,891561600,False,4,18,6.32,Unknown,Unknown
+12436444,Home,865057,Patson Daka,F,20,185,Zambia,907891200,False,2,2,6.84,Unknown,Unknown
+12436444,Home,967722,Caleb Okoli,D,5,191,Italy,994982400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436444,Away,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,True,0,24,7.68,Unknown,Unknown
+12436444,Away,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,82,100,6.11,Unknown,Unknown
+12436444,Away,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,22,8,6.99,Unknown,Unknown
+12436444,Away,946695,Georginio Rutter,M,14,182,France,1019260800,True,30,14,6.84,Unknown,Unknown
+12436444,Away,975079,João Pedro,F,9,188,Brazil,1001462400,False,0,24,6.24,Unknown,Unknown
+12436444,Away,33902,Danny Welbeck,F,18,185,England,659577600,False,8,4,5.61,Unknown,Unknown
+12436444,Away,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,0,Unknown,6.7,Unknown,Unknown
+12436444,Away,842513,Igor Júlio,D,3,185,Brazil,886809600,True,2,0,4.69,Unknown,Unknown
+12436444,Away,31867,Jason Steele,G,23,188,England,650937600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436444,Away,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,True,Unknown,Unknown,Unknown,Unknown,Unknown

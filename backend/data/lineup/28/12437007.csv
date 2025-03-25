@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437007,Home,78152,Matz Sels,G,26,188,Belgium,699062400,True,8,6,6.6,Unknown,Unknown
-12437007,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,False,20,8,7.83,Unknown,Unknown
-12437007,Home,1199282,Murillo,D,5,183,Brazil,1025740800,False,24,30,6.96,Unknown,Unknown
-12437007,Home,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,False,18,4,7.86,Unknown,Unknown
-12437007,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,36,20,8.89,Unknown,Unknown
-12437007,Home,846252,Ryan Yates,M,22,190,England,880070400,True,0,0,5.47,Unknown,Unknown
-12437007,Home,843754,Ibrahim Sangaré,M,6,191,Côte d'Ivoire,881020800,True,0,0,6.68,Unknown,Unknown
-12437007,Home,294593,Álex Moreno,D,19,179,Spain,739497600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437007,Home,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437007,Home,1011895,Jota Silva,F,20,179,Portugal,933465600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437007,Away,945122,Matheus Nunes,M,27,183,Portugal,904176000,True,52,28,5.44,Unknown,Unknown
-12437007,Away,1194333,Abdukodir Khusanov,D,45,186,Uzbekistan,1078012800,True,130,124,7.96,Unknown,Unknown
-12437007,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,78,76,8.67,Unknown,Unknown
-12437007,Away,839956,Erling Haaland,F,9,194,Norway,964137600,False,4,8,8,Unknown,Unknown
-12437007,Away,1136731,Rico Lewis,D,82,170,England,1100995200,False,30,28,7.08,Unknown,Unknown
-12437007,Away,136710,Mateo Kovačić,M,8,178,Croatia,768182400,True,18,26,5.31,Unknown,Unknown
-12437007,Away,873554,Omar Marmoush,F,7,183,Egypt,918345600,False,18,0,7.47,Unknown,Unknown
-12437007,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437007,Away,1485300,Vitor Reis,D,22,186,Brazil,1137024000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437007,Away,189061,Jack Grealish,M,10,180,England,810691200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437007,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,True,8,12,2,Unknown,Unknown
+12437007,Home,927356,Neco Williams,D,7,183,Wales,987120000,False,40,28,6.54,Unknown,Unknown
+12437007,Home,994546,Elliot Anderson,M,8,175,England,1036540800,True,0,26,7.26,Unknown,Unknown
+12437007,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,True,30,8,7.24,Unknown,Unknown
+12437007,Home,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,8,34,8.14,Unknown,Unknown
+12437007,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,True,20,2,6.51,Unknown,Unknown
+12437007,Home,50480,Chris Wood,F,11,191,New Zealand,692064000,True,12,12,5.84,Unknown,Unknown
+12437007,Home,846252,Ryan Yates,M,22,190,England,880070400,False,0,0,7.38,Unknown,Unknown
+12437007,Home,843754,Ibrahim Sangaré,M,6,191,Côte d'Ivoire,881020800,True,2,2,5.53,Unknown,Unknown
+12437007,Home,1064039,Danilo,M,28,177,Brazil,988502400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437007,Away,254491,Ederson,G,31,188,Brazil,745545600,False,12,4,7.1,Unknown,Unknown
+12437007,Away,1194333,Abdukodir Khusanov,D,45,186,Uzbekistan,1078012800,True,6,36,7.18,Unknown,Unknown
+12437007,Away,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,18,18,7.16,Unknown,Unknown
+12437007,Away,954056,Nico González,M,14,186,Spain,1010016000,False,12,52,8.05,Unknown,Unknown
+12437007,Away,859765,Phil Foden,M,47,171,England,959472000,False,8,22,7.69,Unknown,Unknown
+12437007,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,False,54,76,6.25,Unknown,Unknown
+12437007,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,2,24,8.21,Unknown,Unknown
+12437007,Away,873554,Omar Marmoush,F,7,183,Egypt,918345600,True,8,4,6.59,Unknown,Unknown
+12437007,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437007,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,False,Unknown,Unknown,Unknown,Unknown,Unknown

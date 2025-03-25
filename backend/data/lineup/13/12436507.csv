@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436507,Home,19314,Fraser Forster,G,20,201,England,574560000,True,14,12,7.15,Unknown,Unknown
-12436507,Home,913654,Pedro Porro,D,23,173,Spain,937180800,False,44,30,6.49,Unknown,Unknown
-12436507,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,96,18,6.3,Unknown,Unknown
-12436507,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,True,56,34,6.94,Unknown,Unknown
-12436507,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,28,20,6.75,Unknown,Unknown
-12436507,Home,1391825,Will Lankshear,F,19,189,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,True,44,0,6.02,Unknown,Unknown
+12436507,Home,94758,Ben Davies,D,33,181,Wales,735609600,True,100,102,6.53,Unknown,Unknown
+12436507,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,False,58,0,6.66,Unknown,Unknown
+12436507,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,48,4,10,Unknown,Unknown
+12436507,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,84,98,6.46,Unknown,Unknown
+12436507,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,34,4,8.02,Unknown,Unknown
+12436507,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,True,4,10,5.75,Unknown,Unknown
+12436507,Home,1391825,Will Lankshear,F,19,189,England,1113955200,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436507,Home,859896,Brandon Austin,G,40,188,England,915753600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Home,858195,Sergio Reguilón,D,3,178,Spain,850694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Home,1403190,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436507,Home,1471591,Luca Williams-Barnett,M,10,175,England,1208563200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Away,103335,Bernd Leno,G,1,190,Germany,699667200,False,30,26,6.9,Unknown,Unknown
-12436507,Away,825719,Issa Diop,D,31,194,France,852768000,False,56,0,7.19,Unknown,Unknown
-12436507,Away,861972,Calvin Bassey,D,3,185,Nigeria,946598400,True,12,72,7.25,Unknown,Unknown
-12436507,Away,803174,Antonee Robinson,D,33,183,USA,870998400,True,92,76,7.54,Unknown,Unknown
-12436507,Away,355528,Harry Wilson,M,8,173,Wales,858988800,False,28,20,6,Unknown,Unknown
-12436507,Away,1015256,Rodrigo Muniz,F,9,184,Brazil,988934400,False,6,0,5.66,Unknown,Unknown
-12436507,Away,329417,Timothy Castagne,D,21,185,Belgium,818121600,True,0,0,6.35,Unknown,Unknown
-12436507,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,False,4,0,6.08,Unknown,Unknown
-12436507,Away,860764,Steven Benda,G,23,192,Germany,907200000,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436507,Away,1546231,Joshua King,D,24,172,England,1167782400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Away,103335,Bernd Leno,G,1,190,Germany,699667200,True,26,22,8.33,Unknown,Unknown
+12436507,Away,825719,Issa Diop,D,31,194,France,852768000,True,62,58,7.45,Unknown,Unknown
+12436507,Away,803174,Antonee Robinson,D,33,183,USA,870998400,True,74,54,8.31,Unknown,Unknown
+12436507,Away,371222,Saša Lukić,M,20,183,Serbia,839894400,False,8,28,7.69,Unknown,Unknown
+12436507,Away,793167,Sander Berge,M,16,195,Norway,887414400,True,38,6,6.27,Unknown,Unknown
+12436507,Away,867445,Emile Smith Rowe,M,32,182,England,964742400,True,4,42,8,Unknown,Unknown
+12436507,Away,355528,Harry Wilson,M,8,173,Wales,858988800,False,26,6,6.18,Unknown,Unknown
+12436507,Away,836698,Ryan Sessegnon,M,30,178,England,958608000,False,4,0,6.34,Unknown,Unknown
+12436507,Away,1546231,Joshua King,D,24,172,England,1167782400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436507,Away,286165,Adama Traoré,F,11,178,Spain,822528000,True,Unknown,Unknown,Unknown,Unknown,Unknown

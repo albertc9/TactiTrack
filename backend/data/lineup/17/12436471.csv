@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436471,Home,945798,Djed Spence,D,24,184,England,965779200,False,50,44,5.59,Unknown,Unknown
-12436471,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,False,42,18,5.98,Unknown,Unknown
-12436471,Home,356398,James Maddison,M,10,175,England,848707200,False,2,20,6.92,Unknown,Unknown
-12436471,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,False,42,26,5.67,Unknown,Unknown
-12436471,Home,361420,Dominic Solanke,F,19,186,England,874195200,False,6,8,6.3,Unknown,Unknown
-12436471,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,True,4,0,8.33,Unknown,Unknown
-12436471,Home,232306,Timo Werner,F,16,180,Germany,826070400,True,2,2,6.19,Unknown,Unknown
+12436471,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,False,128,46,6.44,Unknown,Unknown
+12436471,Home,1142335,Archie Gray,D,14,187,England,1142121600,True,98,96,6.81,Unknown,Unknown
+12436471,Home,945798,Djed Spence,D,24,184,England,965779200,False,64,50,6.92,Unknown,Unknown
+12436471,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,54,10,6.67,Unknown,Unknown
+12436471,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,True,40,94,6.8,Unknown,Unknown
+12436471,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,True,12,4,7.98,Unknown,Unknown
+12436471,Home,859896,Brandon Austin,G,40,188,England,915753600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Home,858195,Sergio Reguilón,D,3,178,Spain,850694400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436471,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436471,Home,1403190,Callum Olusesi,M,64,175,England,1173571200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436471,Home,1391825,Will Lankshear,F,19,189,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436471,Away,795064,Trent Alexander-Arnold,D,66,180,England,907718400,False,94,22,8,Unknown,Unknown
-12436471,Away,318927,Joe Gomez,D,2,188,England,864345600,True,46,44,6.43,Unknown,Unknown
-12436471,Away,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,True,60,34,5.82,Unknown,Unknown
-12436471,Away,883537,Luis Díaz,F,7,178,Colombia,853113600,False,2,28,8.92,Unknown,Unknown
-12436471,Away,606164,Diogo Jota,F,20,178,Portugal,849657600,True,10,2,8.28,Unknown,Unknown
-12436471,Away,955245,Harvey Elliott,M,19,170,England,1049414400,False,4,0,5.53,Unknown,Unknown
-12436471,Away,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,0,0,6.32,Unknown,Unknown
+12436471,Home,1391825,Will Lankshear,F,19,189,England,1113955200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Away,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,True,122,10,7.31,Unknown,Unknown
+12436471,Away,869856,Dominik Szoboszlai,M,8,187,Hungary,972432000,False,18,40,9.14,Unknown,Unknown
+12436471,Away,883537,Luis Díaz,F,7,178,Colombia,853113600,True,18,38,8.56,Unknown,Unknown
+12436471,Away,927353,Curtis Jones,M,17,185,England,980812800,True,10,12,6.47,Unknown,Unknown
+12436471,Away,606164,Diogo Jota,F,20,178,Portugal,849657600,False,12,0,6.17,Unknown,Unknown
+12436471,Away,955245,Harvey Elliott,M,19,170,England,1049414400,True,4,10,6.42,Unknown,Unknown
+12436471,Away,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,0,0,6.84,Unknown,Unknown
 12436471,Away,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436471,Away,786259,Konstantinos Tsimikas,D,21,178,Greece,831859200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436471,Away,143040,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Away,1003339,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Away,1445945,Trey Nyoni,M,8,180,England,1183161600,False,Unknown,Unknown,Unknown,Unknown,Unknown

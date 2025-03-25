@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437005,Home,787498,André Onana,G,24,190,Cameroon,828403200,True,46,16,6.71,Unknown,Unknown
-12437005,Home,803031,Matthijs de Ligt,D,4,188,Netherlands,934416000,True,0,18,6.97,Unknown,Unknown
-12437005,Home,143334,Victor Lindelöf,D,2,187,Sweden,774403200,True,34,24,7.06,Unknown,Unknown
-12437005,Home,1153315,Leny Yoro,D,15,190,France,1131840000,True,8,32,6.16,Unknown,Unknown
-12437005,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,2,58,8.34,Unknown,Unknown
-12437005,Home,843200,Diogo Dalot,D,20,184,Portugal,921715200,True,12,20,7.16,Unknown,Unknown
-12437005,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,28,14,7.13,Unknown,Unknown
-12437005,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,4,26,5.94,Unknown,Unknown
-12437005,Home,1005664,Dermot Mee,G,45,183,Northern Ireland,1037750400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Home,1533758,Jack Moorhouse,M,64,184,Ireland,1133222400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Away,581310,David Raya,G,22,183,Spain,811123200,False,26,24,6.57,Unknown,Unknown
-12437005,Away,941168,William Saliba,D,2,193,France,985392000,True,128,84,7,Unknown,Unknown
-12437005,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,20,36,6.11,Unknown,Unknown
-12437005,Away,856714,Declan Rice,M,41,188,England,916272000,False,94,100,8.59,Unknown,Unknown
-12437005,Away,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,True,22,20,5.58,Unknown,Unknown
-12437005,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,2,2,5.81,Unknown,Unknown
-12437005,Away,366592,Kieran Tierney,D,3,178,Scotland,865468800,False,4,2,7.61,Unknown,Unknown
-12437005,Away,84844,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Away,846036,Ben White,D,4,186,England,876268800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Away,132874,Jorginho,M,20,180,Italy,693187200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,22,2,6.58,Unknown,Unknown
+12437005,Home,1153315,Leny Yoro,D,15,190,France,1131840000,False,32,32,7.19,Unknown,Unknown
+12437005,Home,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,32,0,6.38,Unknown,Unknown
+12437005,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,True,14,44,7.96,Unknown,Unknown
+12437005,Home,122951,Casemiro,M,18,185,Brazil,698803200,False,2,4,6,Unknown,Unknown
+12437005,Home,1445799,Ayden Heaven,D,26,189,England,1158883200,True,10,6,5.68,Unknown,Unknown
+12437005,Home,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,False,6,2,7.47,Unknown,Unknown
+12437005,Home,1394261,Elyh Harrison,G,50,Unknown,England,1140307200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Home,1005664,Dermot Mee,G,45,183,Northern Ireland,1037750400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Home,1402726,Jack Fletcher,M,57,180,England,1174262400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Away,941168,William Saliba,D,2,193,France,985392000,True,26,106,7.82,Unknown,Unknown
+12437005,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,6,32,6.16,Unknown,Unknown
+12437005,Away,547410,Martin Ødegaard,M,8,178,Norway,913852800,True,38,62,7.18,Unknown,Unknown
+12437005,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,True,36,98,7.58,Unknown,Unknown
+12437005,Away,1401702,Ethan Nwaneri,F,53,176,England,1174435200,False,32,6,7.4,Unknown,Unknown
+12437005,Away,592010,Mikel Merino,M,23,188,Spain,835401600,True,30,28,7.25,Unknown,Unknown
+12437005,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,False,6,4,7.5,Unknown,Unknown
+12437005,Away,287643,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Away,132874,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Away,138534,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown

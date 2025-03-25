@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436447,Home,927356,Neco Williams,D,7,183,Wales,987120000,False,34,16,8.28,Unknown,Unknown
-12436447,Home,846252,Ryan Yates,M,22,190,England,880070400,True,40,4,8.42,Unknown,Unknown
-12436447,Home,994546,Elliot Anderson,M,8,175,England,1036540800,False,60,66,8.1,Unknown,Unknown
-12436447,Home,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,90,8,9.62,Unknown,Unknown
-12436447,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,88,60,2,Unknown,Unknown
-12436447,Home,50480,Chris Wood,F,11,191,New Zealand,692064000,False,22,2,6.85,Unknown,Unknown
-12436447,Home,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,False,0,0,Unknown,Unknown,Unknown
-12436447,Home,161717,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,True,30,4,6.37,Unknown,Unknown
+12436447,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,True,0,20,7,Unknown,Unknown
+12436447,Home,1199282,Murillo,D,5,183,Brazil,1025740800,True,38,2,7.47,Unknown,Unknown
+12436447,Home,846252,Ryan Yates,M,22,190,England,880070400,True,70,60,6.76,Unknown,Unknown
+12436447,Home,994546,Elliot Anderson,M,8,175,England,1036540800,True,44,40,6.8,Unknown,Unknown
+12436447,Home,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,10,42,7.92,Unknown,Unknown
+12436447,Home,985086,Morato,D,4,190,Brazil,993859200,True,6,2,7.65,Unknown,Unknown
+12436447,Home,973738,Carlos Miguel,G,33,204,Brazil,907891200,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436447,Home,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436447,Home,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436447,Away,604232,Diego Carlos,D,33,185,Brazil,732153600,True,4,44,5.57,Unknown,Unknown
-12436447,Away,96538,Lucas Digne,D,12,178,France,743126400,False,38,28,7.11,Unknown,Unknown
-12436447,Away,826204,Boubacar Kamara,M,44,184,France,943315200,False,62,90,7.26,Unknown,Unknown
-12436447,Away,948261,Morgan Rogers,M,27,187,England,1027641600,False,48,8,6.89,Unknown,Unknown
-12436447,Away,974577,Jhon Durán,F,9,185,Colombia,1071273600,False,18,2,7.61,Unknown,Unknown
-12436447,Away,976263,Ian Maatsen,D,22,178,Netherlands,1015718400,True,4,0,6.11,Unknown,Unknown
-12436447,Away,26025,Robin Olsen,G,25,198,Sweden,631756800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436447,Away,1009362,Oliwier Zych,G,48,193,Poland,1088380800,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436447,Away,1152923,Kosta Nedeljković,D,21,184,Serbia,1134691200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436447,Away,783126,Emiliano Buendía,M,16,170,Argentina,851472000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Away,827679,Ezri Konsa,D,4,183,England,877564800,False,24,56,2,Unknown,Unknown
+12436447,Away,864169,Pau Torres,D,14,192,Spain,853372800,True,16,110,7.23,Unknown,Unknown
+12436447,Away,96538,Lucas Digne,D,12,178,France,743126400,False,2,40,6.6,Unknown,Unknown
+12436447,Away,826204,Boubacar Kamara,M,44,184,France,943315200,True,70,0,7.05,Unknown,Unknown
+12436447,Away,331737,Youri Tielemans,M,8,177,Belgium,862963200,True,28,26,4,Unknown,Unknown
+12436447,Away,948261,Morgan Rogers,M,27,187,England,1027641600,False,48,4,6.73,Unknown,Unknown
+12436447,Away,923973,Amadou Onana,M,24,195,Belgium,997920000,False,18,16,7.32,Unknown,Unknown
+12436447,Away,555386,Ollie Watkins,F,11,179,England,820281600,True,14,0,7.51,Unknown,Unknown
+12436447,Away,976263,Ian Maatsen,D,22,178,Netherlands,1015718400,True,4,2,6.17,Unknown,Unknown
+12436447,Away,26025,Robin Olsen,G,25,198,Sweden,631756800,True,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436994,Home,171919,Mark Flekken,G,1,194,Netherlands,739929600,True,20,26,10,Unknown,Unknown
-12436994,Home,855864,Ethan Pinnock,D,5,194,Jamaica,738633600,False,40,6,5.81,Unknown,Unknown
-12436994,Home,135256,Christian Nørgaard,M,6,185,Denmark,763257600,True,92,104,6.39,Unknown,Unknown
-12436994,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,False,44,20,7.88,Unknown,Unknown
-12436994,Home,907072,Mikkel Damsgaard,M,24,180,Denmark,962582400,False,10,60,8.21,Unknown,Unknown
-12436994,Home,1006387,Kevin Schade,F,7,183,Germany,1006819200,True,30,10,7.87,Unknown,Unknown
+12436994,Home,576384,Kristoffer Ajer,D,20,196,Norway,892771200,False,8,8,6.47,Unknown,Unknown
+12436994,Home,972421,Keane Lewis-Potter,F,23,170,England,982800000,False,74,6,7,Unknown,Unknown
+12436994,Home,814873,Vitaly Janelt,M,27,184,Germany,894758400,True,82,18,5.62,Unknown,Unknown
+12436994,Home,1006387,Kevin Schade,F,7,183,Germany,1006819200,False,6,26,6.12,Unknown,Unknown
+12436994,Home,805123,Yoane Wissa,F,11,176,DR Congo,841708800,False,12,12,7.53,Unknown,Unknown
+12436994,Home,799251,Mathias Jensen,M,8,180,Denmark,820454400,False,4,20,6,Unknown,Unknown
 12436994,Home,1185061,Kim Ji-Soo,D,36,192,South Korea,1103846400,True,0,0,Unknown,Unknown,Unknown
-12436994,Home,137774,Ben Mee,D,16,180,England,622339200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436994,Home,1470532,Benjamin Fredrick,D,44,169,Nigeria,1117238400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Home,1005959,Hákon Rafn Valdimarsson,G,12,195,Iceland,1002931200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Home,1031258,Yehor Yarmolyuk,M,18,180,Ukraine,1078099200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436994,Home,907500,Edmond-Paris Maghoma,M,32,178,England,989280000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436994,Away,827243,Axel Disasi,D,3,190,France,889574400,False,40,30,6.55,Unknown,Unknown
-12436994,Away,827679,Ezri Konsa,D,4,183,England,877564800,True,72,6,4,Unknown,Unknown
-12436994,Away,96538,Lucas Digne,D,12,178,France,743126400,False,46,24,2,Unknown,Unknown
-12436994,Away,331737,Youri Tielemans,M,8,177,Belgium,862963200,True,18,14,9.39,Unknown,Unknown
-12436994,Away,948261,Morgan Rogers,M,27,187,England,1027641600,True,26,16,6.16,Unknown,Unknown
-12436994,Away,833956,Matty Cash,D,2,185,Poland,870912000,True,14,6,6.93,Unknown,Unknown
-12436994,Away,814590,Marcus Rashford,M,9,184,England,878256000,True,2,4,6.25,Unknown,Unknown
-12436994,Away,1009362,Oliwier Zych,G,48,193,Poland,1088380800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436994,Away,864169,Pau Torres,D,14,192,Spain,853372800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,827243,Axel Disasi,D,3,190,France,889574400,False,18,4,7.46,Unknown,Unknown
+12436994,Away,827679,Ezri Konsa,D,4,183,England,877564800,False,66,68,12,Unknown,Unknown
+12436994,Away,250223,John McGinn,M,7,175,Scotland,782438400,True,22,0,6.93,Unknown,Unknown
+12436994,Away,331737,Youri Tielemans,M,8,177,Belgium,862963200,False,62,26,7.69,Unknown,Unknown
+12436994,Away,948261,Morgan Rogers,M,27,187,England,1027641600,True,32,20,6.29,Unknown,Unknown
+12436994,Away,555386,Ollie Watkins,F,11,179,England,820281600,False,18,8,5.83,Unknown,Unknown
+12436994,Away,833956,Matty Cash,D,2,185,Poland,870912000,True,12,0,6.59,Unknown,Unknown
+12436994,Away,803039,Donyell Malen,F,17,176,Netherlands,916704000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436994,Away,1009362,Oliwier Zych,G,48,193,Poland,1088380800,False,Unknown,Unknown,Unknown,Unknown,Unknown
 12436994,Away,976263,Ian Maatsen,D,22,178,Netherlands,1015718400,True,Unknown,Unknown,Unknown,Unknown,Unknown
