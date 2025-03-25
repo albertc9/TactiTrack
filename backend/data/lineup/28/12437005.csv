@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12437005,Home,787498,André Onana,G,24,190,Cameroon,828403200,False,22,2,6.58,Unknown,Unknown
-12437005,Home,1153315,Leny Yoro,D,15,190,France,1131840000,False,32,32,7.19,Unknown,Unknown
-12437005,Home,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,32,0,6.38,Unknown,Unknown
-12437005,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,True,14,44,7.96,Unknown,Unknown
-12437005,Home,122951,Casemiro,M,18,185,Brazil,698803200,False,2,4,6,Unknown,Unknown
-12437005,Home,1445799,Ayden Heaven,D,26,189,England,1158883200,True,10,6,5.68,Unknown,Unknown
-12437005,Home,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,False,6,2,7.47,Unknown,Unknown
-12437005,Home,1394261,Elyh Harrison,G,50,Unknown,England,1140307200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Home,1005664,Dermot Mee,G,45,183,Northern Ireland,1037750400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Home,1402726,Jack Fletcher,M,57,180,England,1174262400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Away,941168,William Saliba,D,2,193,France,985392000,True,26,106,7.82,Unknown,Unknown
-12437005,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,6,32,6.16,Unknown,Unknown
-12437005,Away,547410,Martin Ødegaard,M,8,178,Norway,913852800,True,38,62,7.18,Unknown,Unknown
-12437005,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,True,36,98,7.58,Unknown,Unknown
-12437005,Away,1401702,Ethan Nwaneri,F,53,176,England,1174435200,False,32,6,7.4,Unknown,Unknown
-12437005,Away,592010,Mikel Merino,M,23,188,Spain,835401600,True,30,28,7.25,Unknown,Unknown
-12437005,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,False,6,4,7.5,Unknown,Unknown
-12437005,Away,287643,Oleksandr Zinchenko,D,17,175,Ukraine,850608000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Away,132874,Jorginho,M,20,180,Italy,693187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12437005,Away,138534,Raheem Sterling,F,30,170,England,786844800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Home,803031,Matthijs de Ligt,D,4,188,Netherlands,934416000,True,34,16,7.29,Unknown,Unknown
+12437005,Home,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,False,16,8,8.1,Unknown,Unknown
+12437005,Home,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,10,44,8.56,Unknown,Unknown
+12437005,Home,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,True,16,28,7.76,Unknown,Unknown
+12437005,Home,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,42,10,5.38,Unknown,Unknown
+12437005,Home,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,False,16,0,6.27,Unknown,Unknown
+12437005,Home,1445799,Ayden Heaven,D,26,189,England,1158883200,True,10,2,7.4,Unknown,Unknown
+12437005,Home,1084356,Toby Collyer,M,43,180,England,1073088000,False,4,6,6.53,Unknown,Unknown
+12437005,Home,1394261,Elyh Harrison,G,50,Unknown,England,1140307200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Home,1533758,Jack Moorhouse,M,64,184,Ireland,1133222400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Away,581310,David Raya,G,22,183,Spain,811123200,True,24,26,7.96,Unknown,Unknown
+12437005,Away,941168,William Saliba,D,2,193,France,985392000,False,118,24,7.74,Unknown,Unknown
+12437005,Away,869792,Gabriel Magalhães,D,6,190,Brazil,882489600,False,84,52,7.56,Unknown,Unknown
+12437005,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,36,34,6.8,Unknown,Unknown
+12437005,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,True,116,104,6.93,Unknown,Unknown
+12437005,Away,856714,Declan Rice,M,41,188,England,916272000,False,108,90,8.45,Unknown,Unknown
+12437005,Away,1401702,Ethan Nwaneri,F,53,176,England,1174435200,False,36,26,5.29,Unknown,Unknown
+12437005,Away,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,False,10,6,8.11,Unknown,Unknown
+12437005,Away,846036,Ben White,D,4,186,England,876268800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437005,Away,132874,Jorginho,M,20,180,Italy,693187200,False,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436503,Home,78152,Matz Sels,G,26,188,Belgium,699062400,True,12,6,6.71,Unknown,Unknown
-12436503,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,False,4,32,7.67,Unknown,Unknown
-12436503,Home,927356,Neco Williams,D,7,183,Wales,987120000,False,52,0,7.36,Unknown,Unknown
-12436503,Home,1011895,Jota Silva,F,20,179,Portugal,933465600,True,22,8,6.92,Unknown,Unknown
-12436503,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,24,38,6.09,Unknown,Unknown
-12436503,Home,50480,Chris Wood,F,11,191,New Zealand,692064000,False,4,4,4,Unknown,Unknown
-12436503,Home,294593,Álex Moreno,D,19,179,Spain,739497600,True,2,0,7.69,Unknown,Unknown
-12436503,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,True,0,4,5.73,Unknown,Unknown
-12436503,Home,973738,Carlos Miguel,G,33,204,Brazil,907891200,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436503,Home,358218,Harry Toffolo,D,15,183,England,808790400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436503,Away,888971,Arijanet Murić,G,1,198,Kosovo,910396800,False,46,8,8.38,Unknown,Unknown
-12436503,Away,358084,Cameron Burgess,D,15,194,Australia,814233600,True,34,46,6.48,Unknown,Unknown
-12436503,Away,1090963,Omari Hutchinson,M,20,174,England,1067385600,True,18,2,6.29,Unknown,Unknown
-12436503,Away,784625,Conor Chaplin,M,10,170,England,856051200,True,38,16,7.54,Unknown,Unknown
-12436503,Away,354782,Sammie Szmodics,M,23,168,Ireland,811900800,True,14,4,6.94,Unknown,Unknown
-12436503,Away,997087,Liam Delap,F,19,186,England,1044662400,True,8,8,6.08,Unknown,Unknown
-12436503,Away,921005,Jack Clarke,M,47,181,England,974937600,True,10,0,7.07,Unknown,Unknown
+12436503,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,False,44,42,6.9,Unknown,Unknown
+12436503,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,True,32,2,6.97,Unknown,Unknown
+12436503,Home,1199282,Murillo,D,5,183,Brazil,1025740800,False,78,20,8.02,Unknown,Unknown
+12436503,Home,927356,Neco Williams,D,7,183,Wales,987120000,False,16,6,7.32,Unknown,Unknown
+12436503,Home,865912,Morgan Gibbs-White,M,10,171,England,948931200,True,44,2,8.78,Unknown,Unknown
+12436503,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,True,44,16,8.07,Unknown,Unknown
+12436503,Home,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,8,2,5.63,Unknown,Unknown
+12436503,Home,294593,Álex Moreno,D,19,179,Spain,739497600,True,0,2,5.28,Unknown,Unknown
+12436503,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,False,0,0,5.92,Unknown,Unknown
+12436503,Home,161717,James Ward-Prowse,M,8,177,England,783648000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436503,Away,817979,Axel Tuanzebe,D,40,185,DR Congo,879465600,True,26,4,6.57,Unknown,Unknown
+12436503,Away,358084,Cameron Burgess,D,15,194,Australia,814233600,True,24,48,6.27,Unknown,Unknown
+12436503,Away,963493,Leif Davis,D,3,182,England,946598400,False,50,38,5.95,Unknown,Unknown
+12436503,Away,108515,Sam Morsy,M,5,175,Egypt,684460800,True,8,54,6.84,Unknown,Unknown
+12436503,Away,1090963,Omari Hutchinson,M,20,174,England,1067385600,False,32,14,7.02,Unknown,Unknown
+12436503,Away,354782,Sammie Szmodics,M,23,168,Ireland,811900800,False,10,6,5.82,Unknown,Unknown
+12436503,Away,856669,Jack Taylor,M,14,185,Ireland,898560000,False,18,8,6.78,Unknown,Unknown
 12436503,Away,198038,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436503,Away,197982,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436503,Away,1010010,Ali Al-Hamadi,F,9,187,Iraq,1014940800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436503,Away,204300,Massimo Luongo,M,25,174,Australia,717379200,False,Unknown,Unknown,Unknown,Unknown,Unknown

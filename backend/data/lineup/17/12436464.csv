@@ -1,21 +1,21 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436464,Home,931844,Chris Richards,D,26,188,USA,954201600,True,18,14,6.52,Unknown,Unknown
-12436464,Home,879674,Maxence Lacroix,D,5,192,France,954979200,True,16,84,6.88,Unknown,Unknown
-12436464,Home,43215,Nathaniel Clyne,D,17,175,England,670809600,True,4,8,7.3,Unknown,Unknown
-12436464,Home,193554,Will Hughes,M,19,185,England,798076800,True,56,8,7.34,Unknown,Unknown
-12436464,Home,845286,Ismaïla Sarr,F,23,185,Senegal,888364800,False,16,24,8.4,Unknown,Unknown
-12436464,Home,858194,Edward Nketiah,F,9,175,England,928022400,True,20,8,6.45,Unknown,Unknown
-12436464,Home,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,False,18,6,7.14,Unknown,Unknown
-12436464,Home,833943,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Home,826134,Trevoh Chalobah,D,23,190,England,931132800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436464,Home,931844,Chris Richards,D,26,188,USA,954201600,False,46,28,6.63,Unknown,Unknown
+12436464,Home,879674,Maxence Lacroix,D,5,192,France,954979200,True,94,8,6.89,Unknown,Unknown
+12436464,Home,877994,Marc Guéhi,D,5,182,England,963446400,False,118,80,6.84,Unknown,Unknown
+12436464,Home,43215,Nathaniel Clyne,D,17,175,England,670809600,True,2,28,7.26,Unknown,Unknown
+12436464,Home,988275,Tyrick Mitchell,M,3,174,England,936144000,False,36,4,6.55,Unknown,Unknown
+12436464,Home,848276,Jean-Philippe Mateta,F,14,192,France,867456000,True,10,8,4,Unknown,Unknown
+12436464,Home,906047,Cheick Doucouré,M,28,181,Mali,947289600,True,10,2,5.2,Unknown,Unknown
+12436464,Home,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,False,2,8,6.03,Unknown,Unknown
+12436464,Home,39183,Joel Ward,D,2,188,England,625622400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436464,Home,1799984,Asher Agbinone,F,28,Unknown,England,1127865600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Away,581310,David Raya,G,22,183,Spain,811123200,False,76,38,7.84,Unknown,Unknown
-12436464,Away,958959,Jurriën Timber,D,12,179,Netherlands,992736000,True,36,0,7.78,Unknown,Unknown
-12436464,Away,941168,William Saliba,D,2,193,France,985392000,True,50,182,5.14,Unknown,Unknown
-12436464,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,True,34,54,7.83,Unknown,Unknown
-12436464,Away,934235,Bukayo Saka,F,7,178,England,999648000,False,0,2,5.56,Unknown,Unknown
-12436464,Away,794839,Gabriel Jesus,F,9,175,Brazil,860025600,True,12,2,6.85,Unknown,Unknown
-12436464,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,16,6,7.48,Unknown,Unknown
+12436464,Away,941168,William Saliba,D,2,193,France,985392000,False,140,186,5.4,Unknown,Unknown
+12436464,Away,1423711,Myles Lewis-Skelly,M,49,178,England,1159228800,False,34,8,5.62,Unknown,Unknown
+12436464,Away,316148,Thomas Partey,M,5,185,Ghana,739929600,False,70,52,6.93,Unknown,Unknown
+12436464,Away,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,False,26,10,6.35,Unknown,Unknown
+12436464,Away,135666,Leandro Trossard,F,19,172,Belgium,786499200,False,42,10,6.14,Unknown,Unknown
+12436464,Away,957602,Riccardo Calafiori,D,33,188,Italy,1021766400,True,32,18,7.44,Unknown,Unknown
+12436464,Away,856714,Declan Rice,M,41,188,England,916272000,True,16,2,7.14,Unknown,Unknown
+12436464,Away,1401702,Ethan Nwaneri,F,53,176,England,1174435200,True,2,0,7.24,Unknown,Unknown
 12436464,Away,84844,Neto,G,32,190,Brazil,616809600,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Away,366592,Kieran Tierney,D,3,178,Scotland,865468800,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436464,Away,976037,Jakub Kiwior,D,15,189,Poland,950572800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436464,Away,132874,Jorginho,M,20,180,Italy,693187200,False,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436453,17,Ended,1734788700,Aston Villa,Manchester City,3,1,True,False,aston-villa-manchester-city
-12436463,17,Ended,1734800400,Brentford,Nottingham Forest,1,2,True,False,brentford-nottingham-forest
-12436467,17,Ended,1734792300,Ipswich Town,Newcastle United,0,5,True,False,newcastle-united-ipswich-town
-12436478,17,Ended,1734787800,West Ham United,Brighton & Hove Albion,1,2,True,True,west-ham-united-brighton-and-hove-albion
-12436464,17,Ended,1734801300,Crystal Palace,Arsenal,1,5,True,False,arsenal-crystal-palace
-12436466,17,Ended,1734880500,Everton,Chelsea,0,1,False,True,everton-chelsea
-12436468,17,Ended,1734878700,Fulham,Southampton,0,0,False,False,southampton-fulham
-12436469,17,Ended,1734876900,Leicester City,Wolverhampton,1,4,True,False,leicester-city-wolverhampton
-12436470,17,Ended,1734885000,Manchester United,Bournemouth,0,4,False,True,bournemouth-manchester-united
-12436471,17,Ended,1734893100,Tottenham Hotspur,Liverpool,4,7,False,True,liverpool-tottenham-hotspur
+12436453,17,Ended,1734790500,Aston Villa,Manchester City,3,2,False,False,aston-villa-manchester-city
+12436463,17,Ended,1734786000,Brentford,Nottingham Forest,0,2,True,True,brentford-nottingham-forest
+12436467,17,Ended,1734785100,Ipswich Town,Newcastle United,0,4,True,False,newcastle-united-ipswich-town
+12436478,17,Ended,1734784200,West Ham United,Brighton & Hove Albion,1,2,False,True,west-ham-united-brighton-and-hove-albion
+12436464,17,Ended,1734807600,Crystal Palace,Arsenal,1,5,False,False,arsenal-crystal-palace
+12436466,17,Ended,1734876900,Everton,Chelsea,1,1,False,True,everton-chelsea
+12436468,17,Ended,1734883200,Fulham,Southampton,1,1,True,True,southampton-fulham
+12436469,17,Ended,1734879600,Leicester City,Wolverhampton,0,3,False,False,leicester-city-wolverhampton
+12436470,17,Ended,1734884100,Manchester United,Bournemouth,0,3,False,True,bournemouth-manchester-united
+12436471,17,Ended,1734891300,Tottenham Hotspur,Liverpool,3,6,True,True,liverpool-tottenham-hotspur
