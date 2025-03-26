@@ -1,12 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436596,31,Not started,1743851700,Everton,Arsenal,N/A,N/A,False,N/A,everton-arsenal
-12436595,31,Not started,1743864300,Crystal Palace,Brighton & Hove Albion,N/A,N/A,True,N/A,brighton-and-hove-albion-crystal-palace
-12436601,31,Not started,1743854400,Ipswich Town,Wolverhampton,N/A,N/A,False,N/A,ipswich-town-wolverhampton
-12436603,31,Postponed,1743867000,Leicester City,Newcastle United,N/A,N/A,True,N/A,newcastle-united-leicester-city
-12436604,31,Not started,1743867000,West Ham United,Bournemouth,N/A,N/A,False,N/A,bournemouth-west-ham-united
-12436597,31,Not started,1743864300,Aston Villa,Nottingham Forest,N/A,N/A,True,N/A,aston-villa-nottingham-forest
-12436589,31,Not started,1743936300,Brentford,Chelsea,N/A,N/A,True,N/A,brentford-chelsea
-12436598,31,Not started,1743950700,Fulham,Liverpool,N/A,N/A,True,N/A,liverpool-fulham
-12436606,31,Not started,1743948900,Tottenham Hotspur,Southampton,N/A,N/A,True,N/A,southampton-tottenham-hotspur
-12436602,31,Not started,1743951600,Manchester United,Manchester City,N/A,N/A,True,N/A,manchester-united-manchester-city
-13560219,31,Not started,1744048800,Leicester City,Newcastle United,N/A,N/A,True,N/A,newcastle-united-leicester-city
+12436596,31,Not started,1743852600,Everton,Arsenal,N/A,N/A,False,N/A,everton-arsenal
+12436595,31,Not started,1743861600,Crystal Palace,Brighton & Hove Albion,N/A,N/A,False,N/A,brighton-and-hove-albion-crystal-palace
+12436601,31,Not started,1743861600,Ipswich Town,Wolverhampton,N/A,N/A,False,N/A,ipswich-town-wolverhampton
+12436604,31,Not started,1743861600,West Ham United,Bournemouth,N/A,N/A,False,N/A,bournemouth-west-ham-united
+12436597,31,Not started,1743870600,Aston Villa,Nottingham Forest,N/A,N/A,False,N/A,aston-villa-nottingham-forest
+12436589,31,Not started,1743944400,Brentford,Chelsea,N/A,N/A,False,N/A,brentford-chelsea
+12436598,31,Not started,1743944400,Fulham,Liverpool,N/A,N/A,False,N/A,liverpool-fulham
+12436606,31,Not started,1743944400,Tottenham Hotspur,Southampton,N/A,N/A,False,N/A,southampton-tottenham-hotspur
+12436602,31,Not started,1743953400,Manchester United,Manchester City,N/A,N/A,False,N/A,manchester-united-manchester-city
+13560219,31,Not started,1744052400,Leicester City,Newcastle United,N/A,N/A,False,N/A,newcastle-united-leicester-city

@@ -1,21 +1,41 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
-12436978,Home,162653,Nick Pope,G,22,198,England,703641600,False,24,10,6.7,Unknown,Unknown
-12436978,Home,101882,Fabian Schär,D,5,186,Switzerland,693187200,False,8,52,6.25,Unknown,Unknown
-12436978,Home,1136730,Lewis Hall,D,20,179,England,1094601600,False,2,52,5.77,Unknown,Unknown
-12436978,Home,866469,Bruno Guimarães,M,39,182,Brazil,879638400,False,20,24,8.12,Unknown,Unknown
-12436978,Home,372336,Jacob Murphy,F,23,176,England,793584000,False,0,8,5.5,Unknown,Unknown
-12436978,Home,855647,Harvey Barnes,M,11,181,England,881625600,True,2,2,7.4,Unknown,Unknown
-12436978,Home,866191,Sean Longstaff,M,36,187,England,878169600,True,0,0,7.2,Unknown,Unknown
-12436978,Home,113956,Callum Wilson,F,9,180,England,699148800,True,Unknown,Unknown,5.53,Unknown,Unknown
-12436978,Home,42209,Martin Dúbravka,G,1,190,Slovakia,600825600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Home,162653,Nick Pope,G,22,198,England,703641600,False,13,7,6.6,Unknown,Unknown
+12436978,Home,980634,Valentino Livramento,D,21,181,England,1037059200,False,39,34,6.3,Unknown,Unknown
+12436978,Home,101882,Fabian Schär,D,5,186,Switzerland,693187200,False,53,40,7.2,Unknown,Unknown
+12436978,Home,99090,Dan Burn,D,33,201,England,705369600,False,34,28,6.5,Unknown,Unknown
+12436978,Home,1136730,Lewis Hall,D,20,179,England,1094601600,False,40,31,7.1,Unknown,Unknown
+12436978,Home,892673,Sandro Tonali,M,8,181,Italy,957744000,False,40,33,6.7,Unknown,Unknown
+12436978,Home,866469,Bruno Guimarães,M,39,182,Brazil,879638400,False,26,22,7.6,Unknown,Unknown
+12436978,Home,560128,Joelinton,M,7,186,Brazil,839980800,False,35,31,7,Unknown,Unknown
+12436978,Home,372336,Jacob Murphy,F,23,176,England,793584000,False,11,7,6.4,Unknown,Unknown
+12436978,Home,823941,Alexander Isak,F,14,193,Sweden,937872000,False,25,19,8.3,Unknown,Unknown
+12436978,Home,914902,Anthony Gordon,F,10,183,England,982972800,False,26,19,8.1,Unknown,Unknown
+12436978,Home,855647,Harvey Barnes,M,11,181,England,881625600,True,6,5,6.4,Unknown,Unknown
+12436978,Home,866191,Sean Longstaff,M,36,187,England,878169600,True,2,1,6.4,Unknown,Unknown
+12436978,Home,113956,Callum Wilson,F,9,180,England,699148800,True,Unknown,Unknown,6.6,Unknown,Unknown
+12436978,Home,888550,Joe Willock,M,28,186,England,935107200,True,Unknown,Unknown,6.6,Unknown,Unknown
+12436978,Home,42209,Martin Dúbravka,G,1,190,Slovakia,600825600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Home,865167,Lloyd Kelly,D,6,191,England,907200000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Home,368134,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436978,Home,333373,Miguel Almirón,M,10,174,Paraguay,760838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436978,Away,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,70,2,2,Unknown,Unknown
-12436978,Away,1003339,Jarell Quansah,D,78,190,England,1043798400,False,54,68,4,Unknown,Unknown
-12436978,Away,262911,Andrew Robertson,D,26,178,Scotland,763344000,False,94,12,7.44,Unknown,Unknown
-12436978,Away,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,True,58,18,8.95,Unknown,Unknown
-12436978,Away,869856,Dominik Szoboszlai,M,8,187,Hungary,972432000,True,24,2,5.58,Unknown,Unknown
+12436978,Home,1122603,William Osula,F,18,186,Denmark,1059955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Away,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,36,27,6,Unknown,Unknown
+12436978,Away,1003339,Jarell Quansah,D,78,190,England,1043798400,False,52,45,7,Unknown,Unknown
+12436978,Away,318927,Joe Gomez,D,2,188,England,864345600,False,53,48,6.2,Unknown,Unknown
+12436978,Away,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,False,59,53,6.6,Unknown,Unknown
+12436978,Away,262911,Andrew Robertson,D,26,178,Scotland,763344000,False,67,61,6.5,Unknown,Unknown
+12436978,Away,904897,Ryan Gravenberch,M,38,190,Netherlands,1021507200,False,53,47,6.4,Unknown,Unknown
+12436978,Away,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,False,42,39,7.5,Unknown,Unknown
+12436978,Away,159665,Mohamed Salah,M,11,175,Egypt,708566400,False,28,20,9.1,Unknown,Unknown
+12436978,Away,927353,Curtis Jones,M,17,185,England,980812800,False,57,55,7.5,Unknown,Unknown
+12436978,Away,862967,Cody Gakpo,F,18,193,Netherlands,926035200,False,15,10,6.7,Unknown,Unknown
+12436978,Away,924871,Darwin Núñez,F,9,188,Uruguay,930182400,False,12,8,6,Unknown,Unknown
+12436978,Away,795064,Trent Alexander-Arnold,D,66,180,England,907718400,True,16,14,7.6,Unknown,Unknown
+12436978,Away,869856,Dominik Szoboszlai,M,8,187,Hungary,972432000,True,15,15,6.3,Unknown,Unknown
+12436978,Away,883537,Luis Díaz,F,7,178,Colombia,853113600,True,9,8,6.5,Unknown,Unknown
 12436978,Away,927359,Vítězslav Jaroš,G,56,190,Czechia,995846400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Away,1550811,Amara Nallo,D,5,186,England,1163808000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436978,Away,143040,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown,Unknown,Unknown
-12436978,Away,955245,Harvey Elliott,M,19,170,England,1049414400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436978,Away,979118,Tyler Morton,M,80,178,England,1036022400,False,Unknown,Unknown,Unknown,Unknown,Unknown
-12436978,Away,1445945,Trey Nyoni,M,8,180,England,1183161600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Away,955245,Harvey Elliott,M,19,170,England,1049414400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Away,979118,Tyler Morton,M,80,178,England,1036022400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436978,Away,1445945,Trey Nyoni,M,8,180,England,1183161600,True,Unknown,Unknown,Unknown,Unknown,Unknown
