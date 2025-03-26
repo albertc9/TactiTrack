@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436465,Home,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,35,24,7.2,Unknown,Unknown
 12436465,Home,44566,Adam Smith,D,15,180,England,672883200,False,26,20,6.5,Unknown,Unknown
 12436465,Home,1023567,Illia Zabarnyi,D,27,189,Ukraine,1030838400,False,53,41,7,Unknown,Unknown
@@ -37,5 +38,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436465,Away,96531,Alphonse Aréola,G,23,195,France,730771200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436465,Away,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436465,Away,845464,Andy Irving,M,39,186,Scotland,958176000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436465,Home,1176744,Dean Huijsen,D,2,195,Spain,1113436800,True,64,10,6.17,Unknown,Unknown
+12436465,Home,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,True,28,38,4,Unknown,Unknown
+12436465,Home,322391,Ryan Christie,M,10,178,Scotland,793411200,False,16,44,9.22,Unknown,Unknown
+12436465,Home,851596,Justin Kluivert,M,19,171,Netherlands,925862400,True,40,8,7.34,Unknown,Unknown
+12436465,Home,998490,Evanilson,F,9,181,Brazil,939168000,False,18,8,6.62,Unknown,Unknown
+12436465,Home,800419,Tyler Adams,M,12,175,USA,918950400,True,6,10,0,Unknown,Unknown
+12436465,Home,548660,Philip Billing,M,15,193,Denmark,834451200,True,4,6,4,Unknown,Unknown
+12436465,Home,856720,Mark Travers,G,32,191,Ireland,926985600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436465,Home,1156586,James Hill,D,23,184,England,1010620800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436465,Home,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436465,Away,15479,Łukasz Fabiański,G,1,190,Poland,482630400,False,62,20,9.43,Unknown,Unknown
+12436465,Away,138024,Vladimír Coufal,D,5,179,Czechia,714441600,False,44,20,8.18,Unknown,Unknown
+12436465,Away,894474,Max Kilman,D,26,192,England,864345600,True,2,4,7.25,Unknown,Unknown
+12436465,Away,863653,Aaron Wan-Bissaka,D,29,183,England,880502400,True,64,50,7.67,Unknown,Unknown
+12436465,Away,905163,Mohammed Kudus,M,14,176,Ghana,965174400,False,42,16,7.32,Unknown,Unknown
+12436465,Away,1150952,Oliver Scarles,M,57,180,England,1134345600,False,2,0,7.16,Unknown,Unknown
+12436465,Away,1142343,Kaelan Casey,D,6,185,England,1098921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436465,Away,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436465,Away,1414991,Lewis Orford,M,8,182,England,1140220800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436465,Away,130181,Danny Ings,F,18,178,England,711849600,True,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436466,Home,138530,Jordan Pickford,G,1,185,England,762998400,False,37,17,7.4,Unknown,Unknown
 12436466,Home,10589,Ashley Young,D,18,180,England,489715200,False,12,10,6.8,Unknown,Unknown
 12436466,Home,145188,James Tarkowski,D,6,185,England,722131200,False,16,12,7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436466,Away,1403061,Tyrique George,M,32,181,England,1139011200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436466,Away,851671,João Félix,F,79,181,Portugal,942192000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436466,Away,1414933,Marc Guiu,F,38,187,Spain,1136332800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436466,Home,145188,James Tarkowski,D,6,185,England,722131200,True,20,0,6,Unknown,Unknown
+12436466,Home,793988,Orel Mangala,M,8,178,Belgium,890179200,False,6,2,7.4,Unknown,Unknown
+12436466,Home,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,36,34,6.57,Unknown,Unknown
+12436466,Home,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,False,8,20,5.86,Unknown,Unknown
+12436466,Home,914309,Iliman Ndiaye,F,10,180,Senegal,952300800,True,8,10,6.56,Unknown,Unknown
+12436466,Home,76632,Séamus Coleman,D,23,177,Ireland,592531200,True,2,0,5.72,Unknown,Unknown
+12436466,Home,987489,Beto,F,14,194,Guinea-Bissau,886204800,True,0,0,5.23,Unknown,Unknown
+12436466,Home,930666,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Home,998253,Jake O'Brien,D,15,197,Ireland,989884800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Home,1145627,Youssef Chermiti,F,17,192,Portugal,1085356800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,100,146,6.57,Unknown,Unknown
+12436466,Away,996958,Malo Gusto,D,27,179,France,1053302400,True,28,90,5.59,Unknown,Unknown
+12436466,Away,879349,Pedro Neto,F,7,172,Portugal,952560000,False,2,26,5.91,Unknown,Unknown
+12436466,Away,982780,Cole Palmer,M,80,185,England,1020643200,False,34,26,6,Unknown,Unknown
+12436466,Away,1085381,Nicolas Jackson,F,15,186,Senegal,992995200,False,22,20,6.39,Unknown,Unknown
+12436466,Away,966547,Noni Madueke,M,11,182,England,1015718400,False,10,2,6.76,Unknown,Unknown
+12436466,Away,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,1403050,Josh Acheampong,D,34,185,England,1146787200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,851671,João Félix,F,79,181,Portugal,942192000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436466,Away,1414933,Marc Guiu,F,38,187,Spain,1136332800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

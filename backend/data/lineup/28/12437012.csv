@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12437012,Home,252669,José Sá,G,1,192,Portugal,727228800,False,25,20,7.1,Unknown,Unknown
 12437012,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,False,81,71,7,Unknown,Unknown
 12437012,Home,1013842,Emmanuel Agbadou,D,12,192,Côte d'Ivoire,866505600,False,91,80,7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12437012,Away,76632,Séamus Coleman,D,23,177,Ireland,592531200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437012,Away,110846,Michael Keane,D,5,188,England,726710400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437012,Away,1145627,Youssef Chermiti,F,17,192,Portugal,1085356800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12437012,Home,252669,José Sá,G,1,192,Portugal,727228800,False,40,8,6.38,Unknown,Unknown
+12437012,Home,143047,Matt Doherty,D,2,182,Ireland,695520000,False,14,24,10,Unknown,Unknown
+12437012,Home,1013842,Emmanuel Agbadou,D,12,192,Côte d'Ivoire,866505600,False,166,52,6,Unknown,Unknown
+12437012,Home,973418,Toti Gomes,D,24,187,Portugal,916444800,False,114,30,8.04,Unknown,Unknown
+12437012,Home,252821,Nélson Semedo,M,22,177,Portugal,753408000,True,50,26,6.6,Unknown,Unknown
+12437012,Home,1035996,André,M,7,176,Brazil,995241600,True,70,120,7.12,Unknown,Unknown
+12437012,Home,846308,Santiago Bueno,D,4,189,Uruguay,910569600,True,2,0,Unknown,Unknown,Unknown
+12437012,Home,98427,Sam Johnstone,G,31,193,England,733017600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437012,Home,1597270,Pedro Lima,D,37,174,Brazil,1151712000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437012,Home,1006073,Rodrigo Gomes,M,19,171,Portugal,1057536000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437012,Away,998253,Jake O'Brien,D,15,197,Ireland,989884800,True,24,20,6.55,Unknown,Unknown
+12437012,Away,145188,James Tarkowski,D,6,185,England,722131200,False,64,38,6.67,Unknown,Unknown
+12437012,Away,106337,Idrissa Gueye,M,27,174,Senegal,622771200,False,28,44,8.16,Unknown,Unknown
+12437012,Away,927361,James Garner,M,37,182,England,984441600,True,32,10,6.36,Unknown,Unknown
+12437012,Away,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,False,10,2,6.41,Unknown,Unknown
+12437012,Away,96535,Abdoulaye Doucouré,M,16,182,Mali,725846400,False,6,12,6.95,Unknown,Unknown
+12437012,Away,829570,Jack Harrison,M,11,175,England,848448000,False,30,6,7.27,Unknown,Unknown
+12437012,Away,1017392,Carlos Alcaraz,M,24,183,Argentina,1038614400,False,12,0,6.51,Unknown,Unknown
+12437012,Away,10589,Ashley Young,D,18,180,England,489715200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437012,Away,13918,Asmir Begović,G,31,198,Bosnia & Herzegovina,551145600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

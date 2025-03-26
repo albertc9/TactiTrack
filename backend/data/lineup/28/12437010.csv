@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12437010,Home,96531,Alphonse Aréola,G,23,195,France,730771200,False,33,17,7.1,Unknown,Unknown
 12437010,Home,945217,Jean-Clair Todibo,D,25,189,France,946512000,False,31,26,6.8,Unknown,Unknown
 12437010,Home,894474,Max Kilman,D,26,192,England,864345600,False,53,48,6.8,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12437010,Away,1400650,Lewis Miley,M,67,188,England,1146441600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437010,Away,1122603,William Osula,F,18,186,Denmark,1059955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437010,Away,1511675,Sean Neave,F,78,Unknown,England,1180224000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12437010,Home,43443,Aaron Cresswell,D,3,170,England,629683200,True,58,48,5.44,Unknown,Unknown
+12437010,Home,863653,Aaron Wan-Bissaka,D,29,183,England,880502400,True,36,68,8.13,Unknown,Unknown
+12437010,Home,161717,James Ward-Prowse,M,8,177,England,783648000,True,106,82,6.49,Unknown,Unknown
+12437010,Home,847151,Edson Álvarez,M,19,185,Mexico,877651200,False,10,30,10,Unknown,Unknown
+12437010,Home,1150952,Oliver Scarles,M,57,180,England,1134345600,True,66,74,0,Unknown,Unknown
+12437010,Home,552884,Jarrod Bowen,M,20,174,England,851040000,False,4,20,7.1,Unknown,Unknown
+12437010,Home,905163,Mohammed Kudus,M,14,176,Ghana,965174400,False,6,28,6.47,Unknown,Unknown
+12437010,Home,832427,Carlos Soler,M,4,180,Spain,852163200,False,16,18,7.49,Unknown,Unknown
+12437010,Home,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437010,Home,609752,Guido Rodríguez,M,24,185,Argentina,766108800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437010,Away,69256,Kieran Trippier,D,2,174,England,653702400,False,94,46,6.74,Unknown,Unknown
+12437010,Away,892673,Sandro Tonali,M,8,181,Italy,957744000,True,68,32,8.58,Unknown,Unknown
+12437010,Away,560128,Joelinton,M,7,186,Brazil,839980800,True,30,0,5.6,Unknown,Unknown
+12437010,Away,823941,Alexander Isak,F,14,193,Sweden,937872000,False,8,12,6.97,Unknown,Unknown
+12437010,Away,855647,Harvey Barnes,M,11,181,England,881625600,False,10,34,7.83,Unknown,Unknown
+12437010,Away,113956,Callum Wilson,F,9,180,England,699148800,False,0,6,6.38,Unknown,Unknown
+12437010,Away,368134,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437010,Away,150396,Emil Krafth,D,17,184,Sweden,775785600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437010,Away,1400650,Lewis Miley,M,67,188,England,1146441600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437010,Away,1511675,Sean Neave,F,78,Unknown,England,1180224000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

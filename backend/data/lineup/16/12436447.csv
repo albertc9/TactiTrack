@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436447,Home,78152,Matz Sels,G,26,188,Belgium,699062400,False,14,12,6.9,Unknown,Unknown
 12436447,Home,800417,Ola Aina,D,34,182,Nigeria,844732800,False,40,35,6.7,Unknown,Unknown
 12436447,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,False,36,34,7.7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436447,Away,1152923,Kosta Nedeljković,D,21,184,Serbia,1134691200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436447,Away,1089388,Lamare Bogarde,M,26,183,Netherlands,1073260800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436447,Away,783126,Emiliano Buendía,M,16,170,Argentina,851472000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436447,Home,78152,Matz Sels,G,26,188,Belgium,699062400,False,14,4,7.64,Unknown,Unknown
+12436447,Home,836168,Nikola Milenković,D,31,195,Serbia,876614400,False,60,38,7.55,Unknown,Unknown
+12436447,Home,927356,Neco Williams,D,7,183,Wales,987120000,True,10,38,6.18,Unknown,Unknown
+12436447,Home,867442,Callum Hudson-Odoi,M,14,177,England,973555200,True,14,52,4,Unknown,Unknown
+12436447,Home,985086,Morato,D,4,190,Brazil,993859200,True,6,12,6.11,Unknown,Unknown
+12436447,Home,979232,Anthony Elanga,M,21,178,Sweden,1019865600,True,2,2,6.66,Unknown,Unknown
+12436447,Home,139310,Willy Boly,D,30,195,Côte d'Ivoire,665539200,False,0,0,Unknown,Unknown,Unknown
+12436447,Home,973738,Carlos Miguel,G,33,204,Brazil,907891200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Home,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Home,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Away,827679,Ezri Konsa,D,4,183,England,877564800,False,64,32,12,Unknown,Unknown
+12436447,Away,604232,Diego Carlos,D,33,185,Brazil,732153600,True,54,136,6.33,Unknown,Unknown
+12436447,Away,826204,Boubacar Kamara,M,44,184,France,943315200,False,114,48,6.75,Unknown,Unknown
+12436447,Away,331737,Youri Tielemans,M,8,177,Belgium,862963200,False,16,12,6,Unknown,Unknown
+12436447,Away,948261,Morgan Rogers,M,27,187,England,1027641600,True,6,0,5.94,Unknown,Unknown
+12436447,Away,98435,Ross Barkley,M,6,188,England,755049600,False,8,18,5.6,Unknown,Unknown
+12436447,Away,26025,Robin Olsen,G,25,198,Sweden,631756800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Away,1009362,Oliwier Zych,G,48,193,Poland,1088380800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Away,1152923,Kosta Nedeljković,D,21,184,Serbia,1134691200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436447,Away,783126,Emiliano Buendía,M,16,170,Argentina,851472000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436986,Home,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,False,35,31,7.2,Unknown,Unknown
 12436986,Home,996958,Malo Gusto,D,27,179,France,1053302400,False,68,61,6.9,Unknown,Unknown
 12436986,Home,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,76,66,7.7,Unknown,Unknown
@@ -36,6 +37,26 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436986,Away,993451,Cameron Archer,F,19,181,England,1007856000,True,4,3,6.5,Unknown,Unknown
 12436986,Away,1009920,Welington,D,34,170,Brazil,982540800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436986,Away,45502,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436986,Home,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,False,32,32,6.24,Unknown,Unknown
+12436986,Home,996958,Malo Gusto,D,27,179,France,1053302400,True,8,120,7.49,Unknown,Unknown
+12436986,Home,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,74,58,9.18,Unknown,Unknown
+12436986,Home,996911,Levi Colwill,D,6,187,England,1046217600,False,128,84,8.07,Unknown,Unknown
+12436986,Home,794939,Marc Cucurella,D,3,175,Spain,901065600,True,12,16,9.37,Unknown,Unknown
+12436986,Home,982780,Cole Palmer,M,80,185,England,1020643200,False,54,38,7.38,Unknown,Unknown
+12436986,Home,1403061,Tyrique George,M,32,181,England,1139011200,True,6,8,7.63,Unknown,Unknown
+12436986,Home,1426224,Mathis Amougou,M,39,177,France,1137456000,True,0,2,6.56,Unknown,Unknown
+12436986,Home,885908,Reece James,D,24,180,England,944611200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436986,Home,1196791,Ishé Samuels-Smith,D,5,186,England,1149465600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436986,Away,839410,Aaron Ramsdale,G,30,191,England,895104000,True,50,4,7.9,Unknown,Unknown
+12436986,Away,905347,Yukinari Sugawara,D,16,179,Japan,962150400,False,44,30,5.22,Unknown,Unknown
+12436986,Away,818073,Joe Aribo,M,7,183,Nigeria,837907200,False,82,24,5.42,Unknown,Unknown
+12436986,Away,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,True,58,22,5.84,Unknown,Unknown
+12436986,Away,879810,Flynn Downes,M,4,172,England,916790400,False,6,50,5.39,Unknown,Unknown
+12436986,Away,328701,Ryan Manning,D,3,172,Ireland,834710400,False,24,8,5.75,Unknown,Unknown
+12436986,Away,993451,Cameron Archer,F,19,181,England,1007856000,False,2,4,6.06,Unknown,Unknown
+12436986,Away,1009920,Welington,D,34,170,Brazil,982540800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436986,Away,134361,Jack Stephens,D,5,185,England,759628800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436986,Away,944200,Nathan Wood,D,15,188,England,1022803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436986,Away,1000263,Albert Grønbæk,M,29,176,Denmark,990576000,True,Unknown,Unknown,Unknown,Unknown,Unknown

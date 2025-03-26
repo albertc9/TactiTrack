@@ -1,4 +1,5 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
+<<<<<<< HEAD
 12436596,31,Not started,1743852600,Everton,Arsenal,N/A,N/A,False,N/A,everton-arsenal
 12436595,31,Not started,1743861600,Crystal Palace,Brighton & Hove Albion,N/A,N/A,False,N/A,brighton-and-hove-albion-crystal-palace
 12436601,31,Not started,1743861600,Ipswich Town,Wolverhampton,N/A,N/A,False,N/A,ipswich-town-wolverhampton
@@ -9,3 +10,15 @@ Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,
 12436606,31,Not started,1743944400,Tottenham Hotspur,Southampton,N/A,N/A,False,N/A,southampton-tottenham-hotspur
 12436602,31,Not started,1743953400,Manchester United,Manchester City,N/A,N/A,False,N/A,manchester-united-manchester-city
 13560219,31,Not started,1744052400,Leicester City,Newcastle United,N/A,N/A,False,N/A,newcastle-united-leicester-city
+=======
+12436596,31,Not started,1743849000,Everton,Arsenal,N/A,N/A,False,N/A,everton-arsenal
+12436595,31,Not started,1743853500,Crystal Palace,Brighton & Hove Albion,N/A,N/A,True,N/A,brighton-and-hove-albion-crystal-palace
+12436601,31,Not started,1743864300,Ipswich Town,Wolverhampton,N/A,N/A,True,N/A,ipswich-town-wolverhampton
+12436604,31,Not started,1743858900,West Ham United,Bournemouth,N/A,N/A,False,N/A,bournemouth-west-ham-united
+12436597,31,Not started,1743874200,Aston Villa,Nottingham Forest,N/A,N/A,True,N/A,aston-villa-nottingham-forest
+12436589,31,Not started,1743937200,Brentford,Chelsea,N/A,N/A,True,N/A,brentford-chelsea
+12436598,31,Not started,1743947100,Fulham,Liverpool,N/A,N/A,True,N/A,liverpool-fulham
+12436606,31,Not started,1743941700,Tottenham Hotspur,Southampton,N/A,N/A,True,N/A,southampton-tottenham-hotspur
+12436602,31,Not started,1743948000,Manchester United,Manchester City,N/A,N/A,True,N/A,manchester-united-manchester-city
+13560219,31,Not started,1744046100,Leicester City,Newcastle United,N/A,N/A,True,N/A,newcastle-united-leicester-city
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

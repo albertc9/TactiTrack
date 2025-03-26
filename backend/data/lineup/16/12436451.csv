@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436451,Home,254491,Ederson,G,31,188,Brazil,745545600,False,35,28,6.8,Unknown,Unknown
 12436451,Home,44614,Kyle Walker,D,32,183,England,643852800,False,72,55,6.3,Unknown,Unknown
 12436451,Home,318941,Rúben Dias,D,3,188,Portugal,863568000,False,51,50,6.7,Unknown,Unknown
@@ -36,6 +37,26 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436451,Away,1153315,Leny Yoro,D,15,190,France,1131840000,True,4,4,6.6,Unknown,Unknown
 12436451,Away,143334,Victor Lindelöf,D,2,187,Sweden,774403200,True,2,2,Unknown,Unknown,Unknown
 12436451,Away,815890,Altay Bayındır,G,1,198,Türkiye,892512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436451,Home,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,72,68,8.85,Unknown,Unknown
+12436451,Home,331209,Bernardo Silva,M,20,173,Portugal,776476800,False,4,12,7.92,Unknown,Unknown
+12436451,Home,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,56,32,7.72,Unknown,Unknown
+12436451,Home,859765,Phil Foden,M,47,171,England,959472000,False,64,44,7.21,Unknown,Unknown
+12436451,Home,839956,Erling Haaland,F,9,194,Norway,964137600,False,0,0,7.72,Unknown,Unknown
+12436451,Home,136710,Mateo Kovačić,M,8,178,Croatia,768182400,False,38,36,7.88,Unknown,Unknown
+12436451,Home,189061,Jack Grealish,M,10,180,England,810691200,True,8,0,6.17,Unknown,Unknown
+12436451,Home,152077,John Stones,D,5,188,England,770083200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436451,Home,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436451,Home,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436451,Away,859999,Lisandro Martínez,D,6,175,Argentina,885081600,False,48,8,9.18,Unknown,Unknown
+12436451,Away,847030,Noussair Mazraoui,D,3,183,Morocco,879465600,True,24,72,5.73,Unknown,Unknown
+12436451,Away,288205,Bruno Fernandes,M,8,179,Portugal,778982400,False,58,40,8.34,Unknown,Unknown
+12436451,Away,843200,Diogo Dalot,D,20,184,Portugal,921715200,False,32,6,7.21,Unknown,Unknown
+12436451,Away,836694,Mason Mount,M,7,181,England,915926400,False,0,6,5.3,Unknown,Unknown
+12436451,Away,917007,Joshua Zirkzee,F,11,193,Netherlands,990489600,True,0,0,7.08,Unknown,Unknown
+12436451,Away,143334,Victor Lindelöf,D,2,187,Sweden,774403200,False,0,2,Unknown,Unknown,Unknown
+12436451,Away,815890,Altay Bayındır,G,1,198,Türkiye,892512000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436451,Away,825839,Tyrell Malacia,D,3,169,Netherlands,934848000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436451,Away,122951,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436451,Away,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown,Unknown,Unknown

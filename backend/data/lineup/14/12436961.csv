@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436961,Home,888971,Arijanet Murić,G,1,198,Kosovo,910396800,False,45,39,7.2,Unknown,Unknown
 12436961,Home,993439,Harry Clarke,D,18,178,England,983491200,False,64,58,7.4,Unknown,Unknown
 12436961,Home,856719,Dara O'Shea,D,26,188,Ireland,920505600,False,85,74,7.1,Unknown,Unknown
@@ -38,4 +39,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436961,Away,39183,Joel Ward,D,2,188,England,625622400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436961,Away,43215,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436961,Away,1465401,Caleb Kporha,D,58,Unknown,England,1152921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436961,Home,888971,Arijanet Murić,G,1,198,Kosovo,910396800,False,0,16,8.46,Unknown,Unknown
+12436961,Home,993439,Harry Clarke,D,18,178,England,983491200,True,30,102,6.74,Unknown,Unknown
+12436961,Home,990821,Jacob Greaves,D,24,193,England,968716800,False,154,80,6.36,Unknown,Unknown
+12436961,Home,963493,Leif Davis,D,3,182,England,946598400,True,32,40,8.28,Unknown,Unknown
+12436961,Home,857671,Jens Cajuste,M,12,188,Sweden,934243200,False,26,30,5.99,Unknown,Unknown
+12436961,Home,921005,Jack Clarke,M,47,181,England,974937600,False,0,12,6.2,Unknown,Unknown
+12436961,Home,784625,Conor Chaplin,M,10,170,England,856051200,True,6,12,7.5,Unknown,Unknown
+12436961,Home,198038,Christian Walton,G,28,196,England,815875200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436961,Home,197982,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436961,Home,786028,Kalvin Phillips,M,8,177,England,817862400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436961,Away,788134,Dean Henderson,G,1,188,England,858124800,True,20,12,7.38,Unknown,Unknown
+12436961,Away,826134,Trevoh Chalobah,D,23,190,England,931132800,True,28,22,6.35,Unknown,Unknown
+12436961,Away,877994,Marc Guéhi,D,5,182,England,963446400,True,68,26,8.8,Unknown,Unknown
+12436961,Away,870360,Daniel Muñoz,M,23,183,Colombia,833068800,False,54,4,7.4,Unknown,Unknown
+12436961,Away,988275,Tyrick Mitchell,M,3,174,England,936144000,True,46,20,8.57,Unknown,Unknown
+12436961,Away,864921,Eberechi Eze,F,10,178,England,899078400,False,54,6,6.27,Unknown,Unknown
+12436961,Away,355796,Jefferson Lerma,M,8,179,Colombia,783043200,False,40,38,6.34,Unknown,Unknown
+12436961,Away,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,False,6,4,6.67,Unknown,Unknown
+12436961,Away,858194,Edward Nketiah,F,9,175,England,928022400,False,0,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436961,Away,148710,Jeffrey Schlupp,M,15,178,Ghana,725068800,True,Unknown,Unknown,Unknown,Unknown,Unknown

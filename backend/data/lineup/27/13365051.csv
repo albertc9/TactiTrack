@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 13365051,Home,96531,Alphonse Aréola,G,23,195,France,730771200,False,26,17,6.9,Unknown,Unknown
 13365051,Home,945217,Jean-Clair Todibo,D,25,189,France,946512000,False,71,65,6.6,Unknown,Unknown
 13365051,Home,894474,Max Kilman,D,26,192,England,864345600,False,82,79,7.2,Unknown,Unknown
@@ -38,4 +39,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 13365051,Away,967722,Caleb Okoli,D,5,191,Italy,994982400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 13365051,Away,98449,Conor Coady,D,4,184,England,730598400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 13365051,Away,859901,Oliver Skipp,M,22,175,England,969062400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+13365051,Home,96531,Alphonse Aréola,G,23,195,France,730771200,True,26,6,7.91,Unknown,Unknown
+13365051,Home,161717,James Ward-Prowse,M,8,177,England,783648000,False,138,36,8.42,Unknown,Unknown
+13365051,Home,847151,Edson Álvarez,M,19,185,Mexico,877651200,False,2,4,6.88,Unknown,Unknown
+13365051,Home,552884,Jarrod Bowen,M,20,174,England,851040000,False,44,36,5.78,Unknown,Unknown
+13365051,Home,155997,Emerson Palmieri,D,33,176,Italy,775872000,False,24,10,7.54,Unknown,Unknown
+13365051,Home,829022,Konstantinos Mavropanos,D,15,194,Greece,881798400,False,12,4,7.21,Unknown,Unknown
+13365051,Home,832427,Carlos Soler,M,4,180,Spain,852163200,False,18,16,7.59,Unknown,Unknown
+13365051,Home,15479,Łukasz Fabiański,G,1,190,Poland,482630400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Home,609752,Guido Rodríguez,M,24,185,Argentina,766108800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Home,130181,Danny Ings,F,18,178,England,711849600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Away,856640,Mads Hermansen,G,30,187,Denmark,963273600,False,6,14,6.28,Unknown,Unknown
+13365051,Away,827681,James Justin,D,2,183,England,888192000,True,8,16,6.04,Unknown,Unknown
+13365051,Away,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,False,24,52,6.69,Unknown,Unknown
+13365051,Away,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,False,4,34,7.51,Unknown,Unknown
+13365051,Away,1126569,Bilal El Khannouss,M,11,180,Morocco,1084147200,False,102,40,6.74,Unknown,Unknown
+13365051,Away,545780,Harry Winks,M,8,178,England,823219200,True,16,46,7.47,Unknown,Unknown
+13365051,Away,997830,Jakub Stolarczyk,G,41,194,Poland,977184000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Away,98449,Conor Coady,D,4,184,England,730598400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+13365051,Away,859901,Oliver Skipp,M,22,175,England,969062400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 13365051,Away,103045,Jordan Ayew,F,18,182,Ghana,684547200,True,Unknown,Unknown,Unknown,Unknown,Unknown

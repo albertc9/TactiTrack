@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436467,Home,888971,Arijanet Murić,G,1,198,Kosovo,910396800,False,38,25,5.8,Unknown,Unknown
 12436467,Home,993439,Harry Clarke,D,18,178,England,983491200,False,39,28,5.7,Unknown,Unknown
 12436467,Home,856719,Dara O'Shea,D,26,188,Ireland,920505600,False,45,39,6.6,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436467,Away,865167,Lloyd Kelly,D,6,191,England,907200000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436467,Away,368134,Matt Targett,D,13,183,England,811382400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436467,Away,1122603,William Osula,F,18,186,Denmark,1059955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436467,Home,888971,Arijanet Murić,G,1,198,Kosovo,910396800,True,14,36,6.84,Unknown,Unknown
+12436467,Home,993439,Harry Clarke,D,18,178,England,983491200,False,58,18,5.26,Unknown,Unknown
+12436467,Home,856719,Dara O'Shea,D,26,188,Ireland,920505600,False,34,34,7.16,Unknown,Unknown
+12436467,Home,1090963,Omari Hutchinson,M,20,174,England,1067385600,False,10,18,8,Unknown,Unknown
+12436467,Home,354782,Sammie Szmodics,M,23,168,Ireland,811900800,False,24,28,5.12,Unknown,Unknown
+12436467,Home,786028,Kalvin Phillips,M,8,177,England,817862400,False,4,0,8.12,Unknown,Unknown
+12436467,Home,914412,Ben Johnson,D,18,182,England,948672000,False,2,2,7.65,Unknown,Unknown
+12436467,Home,911710,Nathan Broadhead,M,33,178,Wales,891734400,True,8,2,5.77,Unknown,Unknown
+12436467,Home,198038,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436467,Home,990821,Jacob Greaves,D,24,193,England,968716800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436467,Away,42209,Martin Dúbravka,G,1,190,Slovakia,600825600,False,52,40,4,Unknown,Unknown
+12436467,Away,101882,Fabian Schär,D,5,186,Switzerland,693187200,False,98,120,7.74,Unknown,Unknown
+12436467,Away,372336,Jacob Murphy,F,23,176,England,793584000,True,40,30,9.97,Unknown,Unknown
+12436467,Away,823941,Alexander Isak,F,14,193,Sweden,937872000,True,14,2,8.5,Unknown,Unknown
+12436467,Away,914902,Anthony Gordon,F,10,183,England,982972800,False,56,44,7.92,Unknown,Unknown
+12436467,Away,866191,Sean Longstaff,M,36,187,England,878169600,True,2,16,5.7,Unknown,Unknown
+12436467,Away,333373,Miguel Almirón,M,10,174,Paraguay,760838400,True,4,10,6.53,Unknown,Unknown
+12436467,Away,1400650,Lewis Miley,M,67,188,England,1146441600,False,12,10,6.04,Unknown,Unknown
+12436467,Away,138149,Odysseas Vlachodimos,G,19,191,Greece,767318400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436467,Away,1122603,William Osula,F,18,186,Denmark,1059955200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

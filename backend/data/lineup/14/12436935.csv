@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436935,Home,581310,David Raya,G,22,183,Spain,811123200,False,40,30,7.2,Unknown,Unknown
 12436935,Home,958959,Jurriën Timber,D,12,179,Netherlands,992736000,False,36,32,7.6,Unknown,Unknown
 12436935,Home,941168,William Saliba,D,2,193,France,985392000,False,71,67,7.7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436935,Away,1899546,Godwill Kukonki,D,5,196,England,1202256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436935,Away,122951,Casemiro,M,18,185,Brazil,698803200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436935,Away,105734,Christian Eriksen,M,14,182,Denmark,698025600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436935,Home,958959,Jurriën Timber,D,12,179,Netherlands,992736000,True,42,44,8.5,Unknown,Unknown
+12436935,Home,976037,Jakub Kiwior,D,15,189,Poland,950572800,True,84,36,0,Unknown,Unknown
+12436935,Home,547410,Martin Ødegaard,M,8,178,Norway,913852800,False,32,28,8.09,Unknown,Unknown
+12436935,Home,316148,Thomas Partey,M,5,185,Ghana,739929600,False,118,56,9.04,Unknown,Unknown
+12436935,Home,856714,Declan Rice,M,41,188,England,916272000,True,18,50,10,Unknown,Unknown
+12436935,Home,922573,Gabriel Martinelli,F,11,180,Brazil,992822400,True,6,8,6.22,Unknown,Unknown
+12436935,Home,135666,Leandro Trossard,F,19,172,Belgium,786499200,False,6,0,7.34,Unknown,Unknown
+12436935,Home,84844,Neto,G,32,190,Brazil,616809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436935,Home,366592,Kieran Tierney,D,3,178,Scotland,865468800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436935,Home,138534,Raheem Sterling,F,30,170,England,786844800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436935,Away,787498,André Onana,G,24,190,Cameroon,828403200,False,70,50,8.31,Unknown,Unknown
+12436935,Away,149380,Harry Maguire,D,5,194,England,731289600,False,26,78,2,Unknown,Unknown
+12436935,Away,843200,Diogo Dalot,D,20,184,Portugal,921715200,True,78,32,7.63,Unknown,Unknown
+12436935,Away,836694,Mason Mount,M,7,181,England,915926400,True,12,12,7.45,Unknown,Unknown
+12436935,Away,1135873,Alejandro Garnacho,M,17,180,Argentina,1088640000,False,22,14,7.9,Unknown,Unknown
+12436935,Away,1086417,Rasmus Højlund,F,9,191,Denmark,1044316800,True,16,4,7.52,Unknown,Unknown
+12436935,Away,971037,Amad Diallo,M,16,173,Côte d'Ivoire,1026345600,False,16,8,6.35,Unknown,Unknown
+12436935,Away,1153315,Leny Yoro,D,15,190,France,1131840000,False,22,12,6.76,Unknown,Unknown
+12436935,Away,958380,Antony,F,7,172,Brazil,951350400,False,6,0,6.86,Unknown,Unknown
+12436935,Away,815890,Altay Bayındır,G,1,198,Türkiye,892512000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

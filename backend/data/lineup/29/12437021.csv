@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12437021,Home,138530,Jordan Pickford,G,1,185,England,762998400,False,37,28,7.5,Unknown,Unknown
 12437021,Home,998253,Jake O'Brien,D,15,197,Ireland,989884800,False,46,39,7.7,Unknown,Unknown
 12437021,Home,145188,James Tarkowski,D,6,185,England,722131200,False,56,45,6.8,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12437021,Away,847151,Edson Álvarez,M,19,185,Mexico,877651200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437021,Away,1150952,Oliver Scarles,M,57,180,England,1134345600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437021,Away,130181,Danny Ings,F,18,178,England,711849600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12437021,Home,998253,Jake O'Brien,D,15,197,Ireland,989884800,False,20,66,6.83,Unknown,Unknown
+12437021,Home,145188,James Tarkowski,D,6,185,England,722131200,True,40,72,6.22,Unknown,Unknown
+12437021,Home,979563,Jarrad Branthwaite,D,32,195,England,1025136000,False,28,10,5.7,Unknown,Unknown
+12437021,Home,947929,Jesper Lindstrøm,M,29,182,Denmark,951782400,True,32,20,7.97,Unknown,Unknown
+12437021,Home,1145627,Youssef Chermiti,F,17,192,Portugal,1085356800,True,6,0,4,Unknown,Unknown
+12437021,Home,996985,Armando Broja,F,22,191,Albania,1000080000,False,2,4,7.4,Unknown,Unknown
+12437021,Home,930666,João Virgínia,G,12,191,Portugal,939513600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Home,1020141,Nathan Patterson,D,2,189,Scotland,1003190400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Home,10589,Ashley Young,D,18,180,England,489715200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Home,76632,Séamus Coleman,D,23,177,Ireland,592531200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Away,96531,Alphonse Aréola,G,23,195,France,730771200,True,38,4,6.16,Unknown,Unknown
+12437021,Away,829022,Konstantinos Mavropanos,D,15,194,Greece,881798400,False,4,56,8.2,Unknown,Unknown
+12437021,Away,894474,Max Kilman,D,26,192,England,864345600,False,8,34,5.87,Unknown,Unknown
+12437021,Away,839981,Lucas Paquetá,M,10,180,Brazil,872640000,False,40,16,6.55,Unknown,Unknown
+12437021,Away,161717,James Ward-Prowse,M,8,177,England,783648000,False,72,16,6.85,Unknown,Unknown
+12437021,Away,832427,Carlos Soler,M,4,180,Spain,852163200,True,2,0,6.25,Unknown,Unknown
+12437021,Away,609752,Guido Rodríguez,M,24,185,Argentina,766108800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Away,1464248,Luis Guilherme,M,17,175,Brazil,1139443200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Away,847151,Edson Álvarez,M,19,185,Mexico,877651200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437021,Away,1150952,Oliver Scarles,M,57,180,England,1134345600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436462,Home,888971,Arijanet Murić,G,1,198,Kosovo,910396800,False,29,18,6.7,Unknown,Unknown
 12436462,Home,914412,Ben Johnson,D,18,182,England,948672000,False,30,22,6.7,Unknown,Unknown
 12436462,Home,856719,Dara O'Shea,D,26,188,Ireland,920505600,False,47,27,6.9,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436462,Away,856720,Mark Travers,G,32,191,Ireland,926985600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436462,Away,943645,Max Aarons,D,19,178,England,946944000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436462,Away,1902493,Maxwell Kinsey-Wellings,D,48,185,England,1107302400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436462,Home,856719,Dara O'Shea,D,26,188,Ireland,920505600,False,80,8,5.77,Unknown,Unknown
+12436462,Home,358084,Cameron Burgess,D,15,194,Australia,814233600,False,30,10,7.88,Unknown,Unknown
+12436462,Home,784625,Conor Chaplin,M,10,170,England,856051200,True,24,52,7.64,Unknown,Unknown
+12436462,Home,997087,Liam Delap,F,19,186,England,1044662400,True,0,2,7.17,Unknown,Unknown
+12436462,Home,1010010,Ali Al-Hamadi,F,9,187,Iraq,1014940800,False,4,0,5.62,Unknown,Unknown
+12436462,Home,857671,Jens Cajuste,M,12,188,Sweden,934243200,False,0,Unknown,Unknown,Unknown,Unknown
+12436462,Home,993439,Harry Clarke,D,18,178,England,983491200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436462,Home,197982,Conor Townsend,D,22,168,England,731203200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436462,Home,786028,Kalvin Phillips,M,8,177,England,817862400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436462,Home,911710,Nathan Broadhead,M,33,178,Wales,891734400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436462,Away,44566,Adam Smith,D,15,180,England,672883200,True,20,22,7.15,Unknown,Unknown
+12436462,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,48,48,7.56,Unknown,Unknown
+12436462,Away,548188,Lewis Cook,M,4,175,England,854928000,False,56,6,7.5,Unknown,Unknown
+12436462,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,True,0,10,5.98,Unknown,Unknown
+12436462,Away,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,False,18,14,7.81,Unknown,Unknown
+12436462,Away,336655,Enes Ünal,F,26,185,Türkiye,863222400,False,8,10,8.65,Unknown,Unknown
+12436462,Away,548660,Philip Billing,M,15,193,Denmark,834451200,False,2,14,7.14,Unknown,Unknown
+12436462,Away,855731,David Brooks,F,7,173,Wales,868320000,True,12,0,5.32,Unknown,Unknown
+12436462,Away,991001,Will Dennis,G,40,188,England,963187200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436462,Away,943645,Max Aarons,D,19,178,England,946944000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

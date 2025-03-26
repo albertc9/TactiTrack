@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436998,Home,920546,Robert Sánchez,G,1,197,Spain,879811200,False,13,9,7.1,Unknown,Unknown
 12436998,Home,923894,Wesley Fofana,D,29,186,France,977011200,False,59,56,7,Unknown,Unknown
 12436998,Home,352668,Tosin Adarabioyo,D,4,196,England,875059200,False,68,60,7.1,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436998,Away,967722,Caleb Okoli,D,5,191,Italy,994982400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436998,Away,989894,Woyo Coulibaly,D,25,188,France,927158400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436998,Away,103045,Jordan Ayew,F,18,182,Ghana,684547200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436998,Home,352668,Tosin Adarabioyo,D,4,196,England,875059200,True,124,72,5.87,Unknown,Unknown
+12436998,Home,794939,Marc Cucurella,D,3,175,Spain,901065600,True,40,42,7.46,Unknown,Unknown
+12436998,Home,974505,Enzo Fernández,M,8,177,Argentina,979689600,False,128,80,7.09,Unknown,Unknown
+12436998,Home,851100,Jadon Sancho,M,19,180,England,953942400,True,8,12,7.31,Unknown,Unknown
+12436998,Home,982780,Cole Palmer,M,80,185,England,1020643200,False,54,42,7.72,Unknown,Unknown
+12436998,Home,1403061,Tyrique George,M,32,181,England,1139011200,False,2,4,6.93,Unknown,Unknown
+12436998,Home,1403050,Josh Acheampong,D,34,185,England,1146787200,False,2,0,7.52,Unknown,Unknown
+12436998,Home,962053,Filip Jørgensen,G,12,190,Denmark,1018915200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436998,Home,904827,Benoît Badiashile,D,5,194,France,985564800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436998,Home,861970,Kiernan Dewsbury-Hall,M,22,178,England,905040000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436998,Away,787885,Wilfred Ndidi,M,6,186,Nigeria,850694400,False,40,58,6.96,Unknown,Unknown
+12436998,Away,887581,Boubakary Soumaré,M,24,188,France,920073600,True,52,30,6.24,Unknown,Unknown
+12436998,Away,1092409,Victor Kristiansen,D,16,181,Denmark,1039996800,False,0,0,5.95,Unknown,Unknown
+12436998,Away,865057,Patson Daka,F,20,185,Zambia,907891200,True,14,12,5.97,Unknown,Unknown
+12436998,Away,173827,Jamie Vardy,F,9,178,England,537321600,True,20,0,7.54,Unknown,Unknown
+12436998,Away,545780,Harry Winks,M,8,178,England,823219200,True,8,8,6.77,Unknown,Unknown
+12436998,Away,151499,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,False,0,2,7.14,Unknown,Unknown
+12436998,Away,605338,Stephy Mavididi,M,10,182,England,896572800,True,10,0,7.31,Unknown,Unknown
+12436998,Away,997830,Jakub Stolarczyk,G,41,194,Poland,977184000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436998,Away,967722,Caleb Okoli,D,5,191,Italy,994982400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

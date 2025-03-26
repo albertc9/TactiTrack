@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436502,Home,788134,Dean Henderson,G,1,188,England,858124800,False,28,17,6.3,Unknown,Unknown
 12436502,Home,826134,Trevoh Chalobah,D,23,190,England,931132800,False,48,40,7.2,Unknown,Unknown
 12436502,Home,879674,Maxence Lacroix,D,5,192,France,954979200,False,46,38,7.4,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436502,Away,333373,Miguel Almirón,M,10,174,Paraguay,760838400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436502,Away,1122603,William Osula,F,18,186,Denmark,1059955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436502,Away,372336,Jacob Murphy,F,23,176,England,793584000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436502,Home,826134,Trevoh Chalobah,D,23,190,England,931132800,True,62,48,7.93,Unknown,Unknown
+12436502,Home,877994,Marc Guéhi,D,5,182,England,963446400,False,22,46,7.67,Unknown,Unknown
+12436502,Home,193554,Will Hughes,M,19,185,England,798076800,False,38,22,10,Unknown,Unknown
+12436502,Home,355796,Jefferson Lerma,M,8,179,Colombia,783043200,False,40,74,8.16,Unknown,Unknown
+12436502,Home,845286,Ismaïla Sarr,F,23,185,Senegal,888364800,True,30,28,7.15,Unknown,Unknown
+12436502,Home,848276,Jean-Philippe Mateta,F,14,192,France,867456000,False,2,2,6.18,Unknown,Unknown
+12436502,Home,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,True,0,10,6.74,Unknown,Unknown
+12436502,Home,858194,Edward Nketiah,F,9,175,England,928022400,True,4,0,7.99,Unknown,Unknown
+12436502,Home,931844,Chris Richards,D,26,188,USA,954201600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436502,Home,906047,Cheick Doucouré,M,28,181,Mali,947289600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436502,Away,162653,Nick Pope,G,22,198,England,703641600,False,32,28,7.35,Unknown,Unknown
+12436502,Away,980634,Valentino Livramento,D,21,181,England,1037059200,False,16,48,2,Unknown,Unknown
+12436502,Away,99090,Dan Burn,D,33,201,England,705369600,False,64,46,7.2,Unknown,Unknown
+12436502,Away,1136730,Lewis Hall,D,20,179,England,1094601600,True,40,22,6.74,Unknown,Unknown
+12436502,Away,866469,Bruno Guimarães,M,39,182,Brazil,879638400,False,34,6,6.02,Unknown,Unknown
+12436502,Away,914902,Anthony Gordon,F,10,183,England,982972800,False,46,32,0,Unknown,Unknown
+12436502,Away,560128,Joelinton,M,7,186,Brazil,839980800,True,6,24,5.64,Unknown,Unknown
+12436502,Away,113956,Callum Wilson,F,9,180,England,699148800,False,2,2,5.89,Unknown,Unknown
+12436502,Away,865167,Lloyd Kelly,D,6,191,England,907200000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436502,Away,69256,Kieran Trippier,D,2,174,England,653702400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

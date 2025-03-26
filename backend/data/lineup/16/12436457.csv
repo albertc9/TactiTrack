@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436457,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,29,23,6.6,Unknown,Unknown
 12436457,Home,914691,Tariq Lamptey,D,2,165,Ghana,970272000,False,17,14,6.1,Unknown,Unknown
 12436457,Home,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,93,84,6.4,Unknown,Unknown
@@ -36,6 +37,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436457,Away,906047,Cheick Doucouré,M,28,181,Mali,947289600,True,2,1,6.4,Unknown,Unknown
 12436457,Away,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436457,Away,833943,Matt Turner,G,30,190,USA,772416000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436457,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,22,4,7.04,Unknown,Unknown
+12436457,Home,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,120,118,6.69,Unknown,Unknown
+12436457,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,False,44,110,7.73,Unknown,Unknown
+12436457,Home,1036269,Yasin Ayari,M,26,172,Sweden,1065398400,True,74,46,8.64,Unknown,Unknown
+12436457,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,False,16,2,7.14,Unknown,Unknown
+12436457,Home,975079,João Pedro,F,9,188,Brazil,1001462400,True,24,22,7.44,Unknown,Unknown
+12436457,Home,973556,Julio Enciso,M,9,173,Paraguay,1074729600,True,22,12,8.3,Unknown,Unknown
+12436457,Home,1110842,Simon Adingra,M,11,175,Côte d'Ivoire,1009843200,False,8,10,7.44,Unknown,Unknown
+12436457,Home,1198075,Brajan Gruda,F,8,174,Germany,1085961600,False,6,12,5.53,Unknown,Unknown
+12436457,Home,959628,Mats Wieffer,M,27,188,Netherlands,942710400,True,6,0,Unknown,Unknown,Unknown
+12436457,Away,877994,Marc Guéhi,D,5,182,England,963446400,True,20,6,5.1,Unknown,Unknown
+12436457,Away,870360,Daniel Muñoz,M,23,183,Colombia,833068800,False,24,22,6.35,Unknown,Unknown
+12436457,Away,355796,Jefferson Lerma,M,8,179,Colombia,783043200,False,8,32,6.63,Unknown,Unknown
+12436457,Away,988275,Tyrick Mitchell,M,3,174,England,936144000,True,40,8,6.83,Unknown,Unknown
+12436457,Away,43215,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,5.62,Unknown,Unknown
+12436457,Away,906047,Cheick Doucouré,M,28,181,Mali,947289600,True,2,0,7.04,Unknown,Unknown
+12436457,Away,833943,Matt Turner,G,30,190,USA,772416000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436457,Away,1465401,Caleb Kporha,D,58,Unknown,England,1152921600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436457,Away,148710,Jeffrey Schlupp,M,15,178,Ghana,725068800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436457,Away,1799984,Asher Agbinone,F,28,Unknown,England,1127865600,True,Unknown,Unknown,Unknown,Unknown,Unknown

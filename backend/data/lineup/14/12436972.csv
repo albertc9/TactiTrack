@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436972,Home,125274,Stefan Ortega,G,18,186,Germany,721008000,False,40,34,7.5,Unknown,Unknown
 12436972,Home,383560,Manuel Akanji,D,25,187,Switzerland,806112000,False,19,15,6.9,Unknown,Unknown
 12436972,Home,318941,Rúben Dias,D,3,188,Portugal,863568000,False,90,85,7.2,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436972,Away,927356,Neco Williams,D,7,183,Wales,987120000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436972,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436972,Away,161717,James Ward-Prowse,M,8,177,England,783648000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436972,Home,125274,Stefan Ortega,G,18,186,Germany,721008000,True,72,44,6.41,Unknown,Unknown
+12436972,Home,383560,Manuel Akanji,D,25,187,Switzerland,806112000,False,36,4,7.62,Unknown,Unknown
+12436972,Home,149663,Nathan Aké,D,6,180,Netherlands,793065600,True,90,0,6.26,Unknown,Unknown
+12436972,Home,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,False,30,18,6.57,Unknown,Unknown
+12436972,Home,331209,Bernardo Silva,M,20,173,Portugal,776476800,False,10,46,14,Unknown,Unknown
+12436972,Home,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,False,30,72,10,Unknown,Unknown
+12436972,Home,1046795,Savinho,M,26,176,Brazil,1081555200,False,6,6,Unknown,Unknown,Unknown
+12436972,Home,1003334,James McAtee,M,87,180,England,1034899200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436972,Home,254491,Ederson,G,31,188,Brazil,745545600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436972,Home,1402922,Jacob Wright,M,16,178,England,1127260800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436972,Away,800417,Ola Aina,D,34,182,Nigeria,844732800,True,18,18,5.32,Unknown,Unknown
+12436972,Away,1199282,Murillo,D,5,183,Brazil,1025740800,False,30,12,5.67,Unknown,Unknown
+12436972,Away,294593,Álex Moreno,D,19,179,Spain,739497600,False,26,6,8.15,Unknown,Unknown
+12436972,Away,871765,Nicolás Domínguez,M,16,179,Argentina,898992000,True,76,32,5.79,Unknown,Unknown
+12436972,Away,865912,Morgan Gibbs-White,M,10,171,England,948931200,False,58,26,2,Unknown,Unknown
+12436972,Away,985086,Morato,D,4,190,Brazil,993859200,False,30,24,5.9,Unknown,Unknown
+12436972,Away,359664,Taiwo Awoniyi,F,9,183,Nigeria,871344000,True,0,2,7.06,Unknown,Unknown
+12436972,Away,994546,Elliot Anderson,M,8,175,England,1036540800,True,26,8,10,Unknown,Unknown
+12436972,Away,1015733,Ramón Sosa,F,24,178,Paraguay,936057600,False,Unknown,Unknown,6.86,Unknown,Unknown
+12436972,Away,867442,Callum Hudson-Odoi,M,14,177,England,973555200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

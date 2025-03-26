@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436468,Home,103335,Bernd Leno,G,1,190,Germany,699667200,False,29,27,7.1,Unknown,Unknown
 12436468,Home,329417,Timothy Castagne,D,21,185,Belgium,818121600,False,49,40,7.3,Unknown,Unknown
 12436468,Home,825719,Issa Diop,D,31,194,France,852768000,False,56,51,6.8,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436468,Away,17054,Adam Lallana,M,10,172,England,579225600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436468,Away,138261,Ryan Fraser,M,24,163,Scotland,762048000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436468,Away,1019442,Kamaldeen Sulemana,F,20,174,Ghana,1013731200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436468,Home,329417,Timothy Castagne,D,21,185,Belgium,818121600,True,40,26,6.14,Unknown,Unknown
+12436468,Home,825719,Issa Diop,D,31,194,France,852768000,False,92,0,6.24,Unknown,Unknown
+12436468,Home,861972,Calvin Bassey,D,3,185,Nigeria,946598400,True,4,116,7.81,Unknown,Unknown
+12436468,Home,803174,Antonee Robinson,D,33,183,USA,870998400,False,80,74,7.07,Unknown,Unknown
+12436468,Home,793167,Sander Berge,M,16,195,Norway,887414400,True,24,10,7.21,Unknown,Unknown
+12436468,Home,355528,Harry Wilson,M,8,173,Wales,858988800,True,32,24,7.63,Unknown,Unknown
+12436468,Home,1546231,Joshua King,D,24,172,England,1167782400,True,34,42,6.96,Unknown,Unknown
+12436468,Home,192442,Raúl Jiménez,F,7,189,Mexico,673401600,False,12,14,6.77,Unknown,Unknown
+12436468,Home,286165,Adama Traoré,F,11,178,Spain,822528000,False,4,12,6.74,Unknown,Unknown
+12436468,Home,362682,Joachim Andersen,D,5,190,Denmark,833500800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436468,Away,839410,Aaron Ramsdale,G,30,191,England,895104000,True,10,10,7.28,Unknown,Unknown
+12436468,Away,286085,Jan Bednarek,D,35,189,Poland,829267200,False,54,40,7.63,Unknown,Unknown
+12436468,Away,944200,Nathan Wood,D,15,188,England,1022803200,False,112,12,8.46,Unknown,Unknown
+12436468,Away,905347,Yukinari Sugawara,D,16,179,Japan,962150400,True,0,4,6.91,Unknown,Unknown
+12436468,Away,879810,Flynn Downes,M,4,172,England,916790400,True,12,48,8.25,Unknown,Unknown
+12436468,Away,818073,Joe Aribo,M,7,183,Nigeria,837907200,False,18,14,8.08,Unknown,Unknown
+12436468,Away,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,True,36,12,10,Unknown,Unknown
+12436468,Away,361352,Adam Armstrong,F,32,172,England,855532800,False,0,16,6.31,Unknown,Unknown
+12436468,Away,45502,Alex McCarthy,G,1,193,England,628646400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436468,Away,17054,Adam Lallana,M,10,172,England,579225600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

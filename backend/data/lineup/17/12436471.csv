@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436471,Home,19314,Fraser Forster,G,20,201,England,574560000,False,27,22,6.8,Unknown,Unknown
 12436471,Home,913654,Pedro Porro,D,23,173,Spain,937180800,False,61,49,6.1,Unknown,Unknown
 12436471,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,False,78,65,5.7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436471,Away,1003339,Jarell Quansah,D,78,190,England,1043798400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436471,Away,143040,Wataru Endo,M,3,178,Japan,729216000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436471,Away,1445945,Trey Nyoni,M,8,180,England,1183161600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436471,Home,997103,Radu Drăguşin,D,6,191,Romania,1012694400,False,132,82,6.8,Unknown,Unknown
+12436471,Home,1002711,Pape Matar Sarr,M,29,185,Senegal,1031961600,True,26,26,6.32,Unknown,Unknown
+12436471,Home,844842,Yves Bissouma,M,8,181,Mali,841363200,False,124,64,7.39,Unknown,Unknown
+12436471,Home,928124,Dejan Kulusevski,M,21,186,Sweden,956620800,False,10,16,8,Unknown,Unknown
+12436471,Home,356398,James Maddison,M,10,175,England,848707200,True,44,14,7.16,Unknown,Unknown
+12436471,Home,111505,Heung-min Son,F,7,184,South Korea,710553600,True,38,26,5.24,Unknown,Unknown
+12436471,Home,361420,Dominic Solanke,F,19,186,England,874195200,False,22,12,6.17,Unknown,Unknown
+12436471,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Home,1177610,Alfie Dorrington,D,26,192,England,1113955200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Home,1403190,Callum Olusesi,M,64,175,England,1173571200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Away,795064,Trent Alexander-Arnold,D,66,180,England,907718400,True,4,18,14,Unknown,Unknown
+12436471,Away,151545,Virgil van Dijk,D,4,193,Netherlands,678931200,False,2,68,7.98,Unknown,Unknown
+12436471,Away,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,False,48,6,7.4,Unknown,Unknown
+12436471,Away,862967,Cody Gakpo,F,18,193,Netherlands,926035200,True,18,24,7.47,Unknown,Unknown
+12436471,Away,927353,Curtis Jones,M,17,185,England,980812800,True,18,6,5.6,Unknown,Unknown
+12436471,Away,606164,Diogo Jota,F,20,178,Portugal,849657600,True,16,6,7.88,Unknown,Unknown
+12436471,Away,955245,Harvey Elliott,M,19,170,England,1049414400,False,8,10,6.34,Unknown,Unknown
+12436471,Away,924871,Darwin Núñez,F,9,188,Uruguay,930182400,False,2,0,7.84,Unknown,Unknown
+12436471,Away,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436471,Away,786259,Konstantinos Tsimikas,D,21,178,Greece,831859200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

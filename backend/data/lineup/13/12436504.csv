@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436504,Home,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,False,40,25,6.9,Unknown,Unknown
 12436504,Home,795064,Trent Alexander-Arnold,D,66,180,England,907718400,False,39,30,7.1,Unknown,Unknown
 12436504,Home,318927,Joe Gomez,D,2,188,England,864345600,False,76,67,7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436504,Away,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436504,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436504,Away,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436504,Home,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,26,30,7.74,Unknown,Unknown
+12436504,Home,795064,Trent Alexander-Arnold,D,66,180,England,907718400,True,36,30,5.89,Unknown,Unknown
+12436504,Home,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,True,28,24,8.75,Unknown,Unknown
+12436504,Home,159665,Mohamed Salah,M,11,175,Egypt,708566400,True,12,16,6.51,Unknown,Unknown
+12436504,Home,862967,Cody Gakpo,F,18,193,Netherlands,926035200,True,2,16,7.95,Unknown,Unknown
+12436504,Home,924871,Darwin Núñez,F,9,188,Uruguay,930182400,True,0,Unknown,7.26,Unknown,Unknown
+12436504,Home,955245,Harvey Elliott,M,19,170,England,1049414400,False,0,0,Unknown,Unknown,Unknown
+12436504,Home,927359,Vítězslav Jaroš,G,56,190,Czechia,995846400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Home,1008403,Harvey Davies,G,1,185,England,1062547200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Home,979118,Tyler Morton,M,80,178,England,1036022400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,True,48,2,7.96,Unknown,Unknown
+12436504,Away,318941,Rúben Dias,D,3,188,Portugal,863568000,True,62,48,6.35,Unknown,Unknown
+12436504,Away,383560,Manuel Akanji,D,25,187,Switzerland,806112000,True,8,120,7.53,Unknown,Unknown
+12436504,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,True,0,24,6.43,Unknown,Unknown
+12436504,Away,331209,Bernardo Silva,M,20,173,Portugal,776476800,False,138,4,8.33,Unknown,Unknown
+12436504,Away,839956,Erling Haaland,F,9,194,Norway,964137600,True,10,8,6.88,Unknown,Unknown
+12436504,Away,934386,Jérémy Doku,F,11,173,Belgium,1022457600,True,24,16,6.01,Unknown,Unknown
+12436504,Away,189061,Jack Grealish,M,10,180,England,810691200,True,0,0,6.68,Unknown,Unknown
+12436504,Away,964994,Joško Gvardiol,D,24,186,Croatia,1011744000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436504,Away,1003334,James McAtee,M,87,180,England,1034899200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

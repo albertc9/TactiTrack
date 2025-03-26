@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12437003,Home,243609,Alisson,G,1,191,Brazil,717984000,False,31,27,6.7,Unknown,Unknown
 12437003,Home,795064,Trent Alexander-Arnold,D,66,180,England,907718400,False,93,82,8,Unknown,Unknown
 12437003,Home,826215,Ibrahima Konaté,D,5,195,France,927590400,False,85,81,7,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12437003,Away,45502,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437003,Away,1009920,Welington,D,34,170,Brazil,982540800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437003,Away,134361,Jack Stephens,D,5,185,England,759628800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12437003,Home,243609,Alisson,G,1,191,Brazil,717984000,True,12,42,6.33,Unknown,Unknown
+12437003,Home,795064,Trent Alexander-Arnold,D,66,180,England,907718400,False,52,94,2,Unknown,Unknown
+12437003,Home,786259,Konstantinos Tsimikas,D,21,178,Greece,831859200,False,28,44,8.51,Unknown,Unknown
+12437003,Home,924871,Darwin Núñez,F,9,188,Uruguay,930182400,False,20,6,6.95,Unknown,Unknown
+12437003,Home,883537,Luis Díaz,F,7,178,Colombia,853113600,False,38,78,14,Unknown,Unknown
+12437003,Home,895324,Alexis Mac Allister,M,10,176,Argentina,914457600,False,36,44,8,Unknown,Unknown
+12437003,Home,955245,Harvey Elliott,M,19,170,England,1049414400,True,60,40,5.94,Unknown,Unknown
+12437003,Home,606164,Diogo Jota,F,20,178,Portugal,849657600,False,6,6,6.28,Unknown,Unknown
+12437003,Home,1003339,Jarell Quansah,D,78,190,England,1043798400,False,2,2,6.45,Unknown,Unknown
+12437003,Home,827362,Caoimhin Kelleher,G,62,188,Ireland,911779200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437003,Away,823085,Kyle Walker-Peters,D,2,173,England,860889600,False,22,34,5.53,Unknown,Unknown
+12437003,Away,980637,Taylor Harwood-Bellis,D,6,185,England,1012348800,False,46,24,6.44,Unknown,Unknown
+12437003,Away,328701,Ryan Manning,D,3,172,Ireland,834710400,True,10,8,6.3,Unknown,Unknown
+12437003,Away,1048916,Lesley Ugochukwu,M,26,188,France,1080259200,True,10,34,5.54,Unknown,Unknown
+12437003,Away,970435,Will Smallbone,M,8,173,Ireland,951091200,True,8,38,0,Unknown,Unknown
+12437003,Away,1142562,Mateus Fernandes,M,18,178,Portugal,1089417600,False,32,32,6.11,Unknown,Unknown
+12437003,Away,1019442,Kamaldeen Sulemana,F,20,174,Ghana,1013731200,False,12,4,6.95,Unknown,Unknown
+12437003,Away,17054,Adam Lallana,M,10,172,England,579225600,True,24,4,6.64,Unknown,Unknown
+12437003,Away,45502,Alex McCarthy,G,1,193,England,628646400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437003,Away,1009920,Welington,D,34,170,Brazil,982540800,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436453,Home,158263,Emiliano Martínez,G,23,195,Argentina,715392000,False,39,33,7.7,Unknown,Unknown
 12436453,Home,833956,Matty Cash,D,2,185,Poland,870912000,False,25,21,6.3,Unknown,Unknown
 12436453,Home,827679,Ezri Konsa,D,4,183,England,877564800,False,46,42,6.4,Unknown,Unknown
@@ -12,6 +13,14 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436453,Home,974577,Jhon Durán,F,9,185,Colombia,1071273600,False,20,15,7.3,Unknown,Unknown
 12436453,Home,555386,Ollie Watkins,F,11,179,England,820281600,True,Unknown,Unknown,6.7,Unknown,Unknown
 12436453,Home,783126,Emiliano Buendía,M,16,170,Argentina,851472000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436453,Home,833956,Matty Cash,D,2,185,Poland,870912000,False,6,36,5.92,Unknown,Unknown
+12436453,Home,864169,Pau Torres,D,14,192,Spain,853372800,True,100,84,7.64,Unknown,Unknown
+12436453,Home,96538,Lucas Digne,D,12,178,France,743126400,True,0,46,5.66,Unknown,Unknown
+12436453,Home,250223,John McGinn,M,7,175,Scotland,782438400,False,24,18,6.83,Unknown,Unknown
+12436453,Home,974577,Jhon Durán,F,9,185,Colombia,1071273600,True,22,4,7.26,Unknown,Unknown
+12436453,Home,783126,Emiliano Buendía,M,16,170,Argentina,851472000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436453,Home,26025,Robin Olsen,G,25,198,Sweden,631756800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436453,Home,303638,Tyrone Mings,D,5,195,England,731980800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436453,Home,1152923,Kosta Nedeljković,D,21,184,Serbia,1134691200,True,Unknown,Unknown,Unknown,Unknown,Unknown
@@ -19,6 +28,7 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436453,Home,1089388,Lamare Bogarde,M,26,183,Netherlands,1073260800,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436453,Home,98435,Ross Barkley,M,6,188,England,755049600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436453,Home,808590,Leon Bailey,M,31,178,Jamaica,871084800,True,Unknown,Unknown,Unknown,Unknown,Unknown
+<<<<<<< HEAD
 12436453,Away,125274,Stefan Ortega,G,18,186,Germany,721008000,False,26,23,7.1,Unknown,Unknown
 12436453,Away,1136731,Rico Lewis,D,82,170,England,1100995200,False,66,60,6.9,Unknown,Unknown
 12436453,Away,383560,Manuel Akanji,D,25,187,Switzerland,806112000,False,79,74,7,Unknown,Unknown
@@ -39,3 +49,15 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436453,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436453,Away,1003334,James McAtee,M,87,180,England,1034899200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436453,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436453,Away,1136731,Rico Lewis,D,82,170,England,1100995200,True,48,70,7.06,Unknown,Unknown
+12436453,Away,45853,İlkay Gündoğan,M,19,180,Germany,656726400,True,8,0,8.01,Unknown,Unknown
+12436453,Away,136710,Mateo Kovačić,M,8,178,Croatia,768182400,False,120,104,5.66,Unknown,Unknown
+12436453,Away,859765,Phil Foden,M,47,171,England,959472000,True,6,8,6.8,Unknown,Unknown
+12436453,Away,189061,Jack Grealish,M,10,180,England,810691200,True,66,26,7.26,Unknown,Unknown
+12436453,Away,839956,Erling Haaland,F,9,194,Norway,964137600,True,10,14,5.88,Unknown,Unknown
+12436453,Away,149663,Nathan Aké,D,6,180,Netherlands,793065600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,70996,Kevin De Bruyne,M,17,181,Belgium,678067200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,1003334,James McAtee,M,87,180,England,1034899200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436453,Away,1142703,Nico O'Reilly,M,75,193,England,1111363200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8

@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436970,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,39,20,7.1,Unknown,Unknown
 12436970,Home,914691,Tariq Lamptey,D,2,165,Ghana,970272000,False,26,22,7.2,Unknown,Unknown
 12436970,Home,962012,Jan Paul van Hecke,D,29,189,Netherlands,960422400,False,52,35,6.9,Unknown,Unknown
@@ -38,4 +39,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436970,Away,1201520,Julio Soler,D,20,175,Argentina,1108512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436970,Away,1190712,Matai Akinmboni,D,45,191,USA,1161043200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436970,Away,2007889,Ben Winterburn,M,47,Unknown,England,1094256000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12436970,Home,994363,Bart Verbruggen,G,1,193,Netherlands,1029628800,False,22,32,6.54,Unknown,Unknown
+12436970,Home,914691,Tariq Lamptey,D,2,165,Ghana,970272000,False,42,42,6.11,Unknown,Unknown
+12436970,Home,805465,Pervis Estupiñán,D,30,175,Ecuador,885340800,True,4,22,6.83,Unknown,Unknown
+12436970,Home,1199043,Carlos Baleba,M,20,179,Cameroon,1073088000,False,56,48,5.36,Unknown,Unknown
+12436970,Home,1400106,Yankuba Minteh,F,17,180,Gambia,1090454400,True,12,2,7.25,Unknown,Unknown
+12436970,Home,936849,Kaoru Mitoma,M,22,178,Japan,864086400,False,20,16,4.72,Unknown,Unknown
+12436970,Home,975079,João Pedro,F,9,188,Brazil,1001462400,False,2,6,8.49,Unknown,Unknown
+12436970,Home,1036269,Yasin Ayari,M,26,172,Sweden,1065398400,True,6,8,5.42,Unknown,Unknown
+12436970,Home,33902,Danny Welbeck,F,18,185,England,659577600,False,6,4,7.24,Unknown,Unknown
+12436970,Home,301288,Solly March,M,7,180,England,774662400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Away,232422,Kepa Arrizabalaga,G,13,188,Spain,781142400,False,62,36,6.59,Unknown,Unknown
+12436970,Away,1176744,Dean Huijsen,D,2,195,Spain,1113436800,True,8,34,6.21,Unknown,Unknown
+12436970,Away,800419,Tyler Adams,M,12,175,USA,918950400,False,18,92,7.73,Unknown,Unknown
+12436970,Away,1106451,Dango Ouattara,F,11,177,Burkina Faso,1013385600,False,6,16,7.29,Unknown,Unknown
+12436970,Away,1104986,Alex Scott,M,8,178,England,1061596800,True,52,4,5.61,Unknown,Unknown
+12436970,Away,895576,Marcus Tavernier,M,16,178,England,922060800,True,14,14,4,Unknown,Unknown
+12436970,Away,836070,Luis Sinisterra,F,17,176,Colombia,929577600,False,4,2,6.11,Unknown,Unknown
+12436970,Away,991001,Will Dennis,G,40,188,England,963187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436970,Away,1201520,Julio Soler,D,20,175,Argentina,1108512000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436970,Away,1096136,Daniel Jebbison,F,21,190,Canada,1057881600,True,Unknown,Unknown,Unknown,Unknown,Unknown

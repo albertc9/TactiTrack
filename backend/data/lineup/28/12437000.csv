@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12437000,Home,788134,Dean Henderson,G,1,188,England,858124800,False,33,23,8.8,Unknown,Unknown
 12437000,Home,931844,Chris Richards,D,26,188,USA,954201600,False,45,40,7.8,Unknown,Unknown
 12437000,Home,879674,Maxence Lacroix,D,5,192,France,954979200,False,41,31,7.1,Unknown,Unknown
@@ -38,4 +39,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12437000,Away,198038,Christian Walton,G,28,196,England,815875200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437000,Away,358084,Cameron Burgess,D,15,194,Australia,814233600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437000,Away,197982,Conor Townsend,D,22,168,England,731203200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12437000,Home,879674,Maxence Lacroix,D,5,192,France,954979200,True,56,0,7.79,Unknown,Unknown
+12437000,Home,877994,Marc Guéhi,D,5,182,England,963446400,True,18,18,8.05,Unknown,Unknown
+12437000,Home,870360,Daniel Muñoz,M,23,183,Colombia,833068800,True,40,24,6.5,Unknown,Unknown
+12437000,Home,1109771,Adam Wharton,M,20,182,England,1076025600,True,86,20,8.39,Unknown,Unknown
+12437000,Home,864921,Eberechi Eze,F,10,178,England,899078400,True,42,0,7.65,Unknown,Unknown
+12437000,Home,858194,Edward Nketiah,F,9,175,England,928022400,True,14,14,7.5,Unknown,Unknown
+12437000,Home,1084311,Justin Devenny,M,55,184,Northern Ireland,1065830400,True,2,Unknown,Unknown,Unknown,Unknown
+12437000,Home,1438837,Romain Esse,M,21,178,England,1115942400,False,0,Unknown,Unknown,Unknown,Unknown
+12437000,Home,833943,Matt Turner,G,30,190,USA,772416000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Home,43215,Nathaniel Clyne,D,17,175,England,670809600,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437000,Away,796143,Alex Palmer,G,31,190,England,839635200,False,32,8,8.32,Unknown,Unknown
+12437000,Away,990821,Jacob Greaves,D,24,193,England,968716800,True,66,24,6.49,Unknown,Unknown
+12437000,Away,786028,Kalvin Phillips,M,8,177,England,817862400,False,68,62,0,Unknown,Unknown
+12437000,Away,857671,Jens Cajuste,M,12,188,Sweden,934243200,True,8,24,6.3,Unknown,Unknown
+12437000,Away,973556,Julio Enciso,M,9,173,Paraguay,1074729600,False,40,6,6.2,Unknown,Unknown
+12437000,Away,921005,Jack Clarke,M,47,181,England,974937600,False,20,6,2,Unknown,Unknown
+12437000,Away,911710,Nathan Broadhead,M,33,178,Wales,891734400,False,2,0,6.06,Unknown,Unknown
+12437000,Away,856669,Jack Taylor,M,14,185,Ireland,898560000,True,8,6,6.34,Unknown,Unknown
+12437000,Away,839712,George Hirst,F,27,191,Scotland,919036800,False,4,0,7.79,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12437000,Away,108515,Sam Morsy,M,5,175,Egypt,684460800,True,Unknown,Unknown,Unknown,Unknown,Unknown

@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12436460,Home,42209,Martin Dúbravka,G,1,190,Slovakia,600825600,False,28,26,7.2,Unknown,Unknown
 12436460,Home,980634,Valentino Livramento,D,21,181,England,1037059200,False,24,20,6.6,Unknown,Unknown
 12436460,Home,101882,Fabian Schär,D,5,186,Switzerland,693187200,False,77,63,6.9,Unknown,Unknown
@@ -35,6 +36,26 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12436460,Away,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,True,3,3,6,Unknown,Unknown
 12436460,Away,865057,Patson Daka,F,20,185,Zambia,907891200,True,3,Unknown,6.6,Unknown,Unknown
 12436460,Away,151499,Bobby Decordova-Reid,M,14,170,Jamaica,728611200,True,3,3,6.5,Unknown,Unknown
+=======
+12436460,Home,101882,Fabian Schär,D,5,186,Switzerland,693187200,True,52,104,6.62,Unknown,Unknown
+12436460,Home,99090,Dan Burn,D,33,201,England,705369600,False,8,112,6.59,Unknown,Unknown
+12436460,Home,892673,Sandro Tonali,M,8,181,Italy,957744000,False,14,26,7.05,Unknown,Unknown
+12436460,Home,560128,Joelinton,M,7,186,Brazil,839980800,False,36,14,9.03,Unknown,Unknown
+12436460,Home,823941,Alexander Isak,F,14,193,Sweden,937872000,False,16,8,6,Unknown,Unknown
+12436460,Home,914902,Anthony Gordon,F,10,183,England,982972800,False,64,50,14,Unknown,Unknown
+12436460,Home,866191,Sean Longstaff,M,36,187,England,878169600,True,6,8,7.59,Unknown,Unknown
+12436460,Home,855647,Harvey Barnes,M,11,181,England,881625600,False,20,2,7.34,Unknown,Unknown
+12436460,Home,138149,Odysseas Vlachodimos,G,19,191,Greece,767318400,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12436460,Home,865167,Lloyd Kelly,D,6,191,England,907200000,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12436460,Away,98449,Conor Coady,D,4,184,England,730598400,True,78,60,6.11,Unknown,Unknown
+12436460,Away,120538,Jannik Vestergaard,D,23,199,Denmark,712800000,True,100,94,7.09,Unknown,Unknown
+12436460,Away,1092409,Victor Kristiansen,D,16,181,Denmark,1039996800,True,0,40,6.85,Unknown,Unknown
+12436460,Away,859901,Oliver Skipp,M,22,175,England,969062400,True,102,82,6.72,Unknown,Unknown
+12436460,Away,833057,Hamza Choudhury,M,24,178,Bangladesh,875664000,True,58,48,7.09,Unknown,Unknown
+12436460,Away,1126569,Bilal El Khannouss,M,11,180,Morocco,1084147200,True,22,32,7.13,Unknown,Unknown
+12436460,Away,967722,Caleb Okoli,D,5,191,Italy,994982400,True,24,8,6.43,Unknown,Unknown
+12436460,Away,1117025,Facundo Buonanotte,M,40,174,Argentina,1103760000,True,0,4,4,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
 12436460,Away,361696,Wout Faes,D,3,185,Belgium,891561600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436460,Away,991584,Luke Thomas,D,33,178,England,992131200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12436460,Away,1171411,Henry Cartwright,M,6,177,England,1102723200,True,Unknown,Unknown,Unknown,Unknown,Unknown

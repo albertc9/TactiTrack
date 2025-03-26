@@ -1,4 +1,5 @@
 Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date of Birth,Substitute,Total Pass,Accurate Pass,Rating,AverageX,AverageY
+<<<<<<< HEAD
 12437009,Home,553606,Guglielmo Vicario,G,1,194,Italy,844646400,False,35,25,7.9,Unknown,Unknown
 12437009,Home,913654,Pedro Porro,D,23,173,Spain,937180800,False,49,32,6.9,Unknown,Unknown
 12437009,Home,829932,Cristian Romero,D,17,185,Argentina,893635200,False,50,37,6.5,Unknown,Unknown
@@ -39,3 +40,25 @@ Match ID,Team,Player ID,Player Name,Position,Jersey Number,Height,Country,Date o
 12437009,Away,1190712,Matai Akinmboni,D,45,191,USA,1161043200,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437009,Away,1096136,Daniel Jebbison,F,21,190,Canada,1057881600,True,Unknown,Unknown,Unknown,Unknown,Unknown
 12437009,Away,1403063,Zain Silcott-Duberry,F,43,177,England,1120867200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+=======
+12437009,Home,913654,Pedro Porro,D,23,173,Spain,937180800,True,88,18,7.25,Unknown,Unknown
+12437009,Home,829932,Cristian Romero,D,17,185,Argentina,893635200,True,6,42,6.24,Unknown,Unknown
+12437009,Home,945798,Djed Spence,D,24,184,England,965779200,True,50,10,7.37,Unknown,Unknown
+12437009,Home,791190,Rodrigo Bentancur,M,30,187,Uruguay,867196800,True,32,18,5.68,Unknown,Unknown
+12437009,Home,1085180,Brennan Johnson,F,22,186,Wales,990576000,False,36,20,6.56,Unknown,Unknown
+12437009,Home,356398,James Maddison,M,10,175,England,848707200,False,0,8,5.58,Unknown,Unknown
+12437009,Home,983572,Destiny Udogie,D,13,186,Italy,1038441600,False,10,2,6.66,Unknown,Unknown
+12437009,Home,1142335,Archie Gray,D,14,187,England,1142121600,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Home,1048888,Mathys Tel,F,11,183,France,1114560000,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Home,998772,Dane Scarlett,F,44,180,England,1080086400,False,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Away,1156586,James Hill,D,23,184,England,1010620800,True,22,50,5.61,Unknown,Unknown
+12437009,Away,1097425,Miloš Kerkez,D,3,180,Hungary,1068163200,False,50,20,8.8,Unknown,Unknown
+12437009,Away,322391,Ryan Christie,M,10,178,Scotland,793411200,False,58,34,7.99,Unknown,Unknown
+12437009,Away,851596,Justin Kluivert,M,19,171,Netherlands,925862400,True,10,8,6.64,Unknown,Unknown
+12437009,Away,934354,Antoine Semenyo,M,24,178,Ghana,947203200,True,32,8,5.37,Unknown,Unknown
+12437009,Away,998490,Evanilson,F,9,181,Brazil,939168000,False,0,14,8.42,Unknown,Unknown
+12437009,Away,855731,David Brooks,F,7,173,Wales,868320000,False,0,0,7.19,Unknown,Unknown
+12437009,Away,836070,Luis Sinisterra,F,17,176,Colombia,929577600,False,6,0,Unknown,Unknown,Unknown
+12437009,Away,991001,Will Dennis,G,40,188,England,963187200,True,Unknown,Unknown,Unknown,Unknown,Unknown
+12437009,Away,1403063,Zain Silcott-Duberry,F,43,177,England,1120867200,False,Unknown,Unknown,Unknown,Unknown,Unknown
+>>>>>>> 97f114b2a7d3e35e96ee4279088e86bef223cce8
