@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436961,14,Ended,1733251500,Ipswich Town,Crystal Palace,0,2,False,False,ipswich-town-crystal-palace
-12436966,14,Ended,1733261400,Leicester City,West Ham United,3,2,True,True,west-ham-united-leicester-city
-12436947,14,Ended,1733346000,Everton,Wolverhampton,5,0,False,False,everton-wolverhampton
-12436972,14,Ended,1733340600,Manchester City,Nottingham Forest,4,0,True,True,manchester-city-nottingham-forest
-12436978,14,Ended,1733346000,Newcastle United,Liverpool,4,4,True,True,liverpool-newcastle-united
+12436961,14,Ended,1733258700,Ipswich Town,Crystal Palace,0,1,False,False,ipswich-town-crystal-palace
+12436966,14,Ended,1733253300,Leicester City,West Ham United,4,2,True,True,west-ham-united-leicester-city
+12436947,14,Ended,1733337900,Everton,Wolverhampton,4,1,True,True,everton-wolverhampton
+12436972,14,Ended,1733336100,Manchester City,Nottingham Forest,3,1,True,True,manchester-city-nottingham-forest
+12436978,14,Ended,1733332500,Newcastle United,Liverpool,4,4,False,True,liverpool-newcastle-united
 12436984,14,Ended,1733346900,Southampton,Chelsea,1,5,True,True,southampton-chelsea
-12436935,14,Ended,1733345100,Arsenal,Manchester United,3,0,True,False,arsenal-manchester-united
-12436942,14,Ended,1733341500,Aston Villa,Brentford,4,1,True,True,brentford-aston-villa
-12436955,14,Ended,1733423400,Fulham,Brighton & Hove Albion,3,1,False,False,fulham-brighton-and-hove-albion
-13015216,14,Ended,1733423400,Bournemouth,Tottenham Hotspur,2,0,True,False,bournemouth-tottenham-hotspur
+12436935,14,Ended,1733343300,Arsenal,Manchester United,2,0,True,False,arsenal-manchester-united
+12436942,14,Ended,1733342400,Aston Villa,Brentford,4,1,True,True,brentford-aston-villa
+12436955,14,Ended,1733432400,Fulham,Brighton & Hove Albion,3,2,False,True,fulham-brighton-and-hove-albion
+13015216,14,Ended,1733430600,Bournemouth,Tottenham Hotspur,2,0,True,True,bournemouth-tottenham-hotspur

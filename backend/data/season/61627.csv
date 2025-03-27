@@ -1,21 +1,21 @@
 Position,Team,Matches,Wins,Draws,Losses,Goals For,Goals Against,Goal Difference,Points,Promotion
 1,Liverpool,29,21,4,1,69,27,+42,70,Champions League
-2,Arsenal,29,16,16,3,53,24,+29,58,Champions League
-3,Nottingham Forest,29,16,8,7,49,35,+14,54,Champions League
-4,Chelsea,29,14,0,8,53,37,+16,49,Champions League
+2,Arsenal,29,16,10,3,53,24,+29,58,Champions League
+3,Nottingham Forest,29,16,4,7,49,35,+14,54,Champions League
+4,Chelsea,29,14,8,8,53,37,+16,49,Champions League
 5,Manchester City,29,14,4,9,55,40,+15,48,UEFA Europa League
-6,Newcastle United,28,14,0,9,47,38,+9,47,None
-7,Brighton & Hove Albion,29,12,6,6,48,42,+6,47,None
-8,Fulham,29,12,0,8,43,38,+5,45,None
+6,Newcastle United,28,14,2,9,47,38,+9,47,None
+7,Brighton & Hove Albion,29,12,10,6,48,42,+6,47,None
+8,Fulham,29,12,8,8,43,38,+5,45,None
 9,Aston Villa,29,12,12,8,41,45,-4,45,None
-10,Bournemouth,29,12,0,9,48,36,+12,44,None
-11,Brentford,29,12,6,12,50,45,+5,41,None
-12,Crystal Palace,28,10,12,9,36,33,+3,39,None
-13,Manchester United,29,10,4,12,37,40,-3,37,None
-14,Tottenham Hotspur,29,10,2,15,55,43,+12,34,None
-15,Everton,29,7,18,9,32,36,-4,34,None
+10,Bournemouth,29,12,12,9,48,36,+12,44,None
+11,Brentford,29,12,4,12,50,45,+5,41,None
+12,Crystal Palace,28,10,10,9,36,33,+3,39,None
+13,Manchester United,29,10,2,12,37,40,-3,37,None
+14,Tottenham Hotspur,29,10,6,15,55,43,+12,34,None
+15,Everton,29,7,16,9,32,36,-4,34,None
 16,West Ham United,29,9,4,13,33,49,-16,34,None
-17,Wolverhampton,29,7,0,17,40,58,-18,26,None
-18,Ipswich Town,29,3,4,18,28,62,-34,17,Relegation
-19,Leicester City,29,4,6,20,25,65,-40,17,Relegation
-20,Southampton,29,2,4,24,21,70,-49,9,Relegation
+17,Wolverhampton,29,7,8,17,40,58,-18,26,None
+18,Ipswich Town,29,3,8,18,28,62,-34,17,Relegation
+19,Leicester City,29,4,8,20,25,65,-40,17,Relegation
+20,Southampton,29,2,2,24,21,70,-49,9,Relegation
