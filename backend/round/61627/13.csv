@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436501,13,Ended,1732913100,Brighton & Hove Albion,Southampton,2,1,True,True,southampton-brighton-and-hove-albion
-12436500,13,Ended,1732971600,Brentford,Leicester City,5,1,False,False,brentford-leicester-city
-12436502,13,Ended,1732979700,Crystal Palace,Newcastle United,1,2,True,True,newcastle-united-crystal-palace
-12436503,13,Ended,1732978800,Nottingham Forest,Ipswich Town,1,1,False,False,ipswich-town-nottingham-forest
-12436922,13,Ended,1732983300,Wolverhampton,Bournemouth,2,4,False,True,bournemouth-wolverhampton
-12436914,13,Ended,1732979700,West Ham United,Arsenal,2,6,False,True,arsenal-west-ham-united
-12436498,13,Ended,1733058000,Chelsea,Aston Villa,3,0,True,True,aston-villa-chelsea
-12436505,13,Ended,1733067900,Manchester United,Everton,5,0,False,True,everton-manchester-united
-12436507,13,Ended,1733058900,Tottenham Hotspur,Fulham,1,1,False,False,fulham-tottenham-hotspur
-12436504,13,Ended,1733072400,Liverpool,Manchester City,2,0,True,True,liverpool-manchester-city
+12436501,13,Ended,1732903200,Brighton & Hove Albion,Southampton,2,2,True,False,southampton-brighton-and-hove-albion
+12436500,13,Ended,1732974300,Brentford,Leicester City,4,2,False,True,brentford-leicester-city
+12436502,13,Ended,1732986900,Crystal Palace,Newcastle United,2,2,True,True,newcastle-united-crystal-palace
+12436503,13,Ended,1732970700,Nottingham Forest,Ipswich Town,2,1,True,True,ipswich-town-nottingham-forest
+12436922,13,Ended,1732987800,Wolverhampton,Bournemouth,2,4,True,True,bournemouth-wolverhampton
+12436914,13,Ended,1732995000,West Ham United,Arsenal,2,5,True,True,arsenal-west-ham-united
+12436498,13,Ended,1733050800,Chelsea,Aston Villa,4,1,True,False,aston-villa-chelsea
+12436505,13,Ended,1733067000,Manchester United,Everton,4,1,True,True,everton-manchester-united
+12436507,13,Ended,1733054400,Tottenham Hotspur,Fulham,2,1,False,True,fulham-tottenham-hotspur
+12436504,13,Ended,1733063400,Liverpool,Manchester City,3,1,True,True,liverpool-manchester-city
