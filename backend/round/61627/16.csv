@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436438,16,Ended,1734189300,Arsenal,Everton,1,1,True,True,everton-arsenal
-12436446,16,Ended,1734180300,Liverpool,Fulham,2,3,False,True,liverpool-fulham
-12436460,16,Ended,1734187500,Newcastle United,Leicester City,4,1,False,True,newcastle-united-leicester-city
-12436456,16,Ended,1734183900,Wolverhampton,Ipswich Town,2,2,False,True,ipswich-town-wolverhampton
-12436447,16,Ended,1734194700,Nottingham Forest,Aston Villa,2,2,False,False,aston-villa-nottingham-forest
-12436457,16,Ended,1734275700,Brighton & Hove Albion,Crystal Palace,1,4,False,True,brighton-and-hove-albion-crystal-palace
-12436451,16,Ended,1734283800,Manchester City,Manchester United,1,2,False,False,manchester-united-manchester-city
-12436461,16,Ended,1734291000,Chelsea,Brentford,2,1,True,True,brentford-chelsea
-12436458,16,Ended,1734283800,Southampton,Tottenham Hotspur,0,5,False,False,southampton-tottenham-hotspur
-12436465,16,Ended,1734385500,Bournemouth,West Ham United,1,1,True,False,bournemouth-west-ham-united
+12436438,16,Ended,1734186600,Arsenal,Everton,1,0,True,True,everton-arsenal
+12436446,16,Ended,1734179400,Liverpool,Fulham,2,2,False,False,liverpool-fulham
+12436460,16,Ended,1734195600,Newcastle United,Leicester City,4,0,True,False,newcastle-united-leicester-city
+12436456,16,Ended,1734194700,Wolverhampton,Ipswich Town,1,2,False,False,ipswich-town-wolverhampton
+12436447,16,Ended,1734203700,Nottingham Forest,Aston Villa,2,1,True,False,aston-villa-nottingham-forest
+12436457,16,Ended,1734268500,Brighton & Hove Albion,Crystal Palace,1,3,False,False,brighton-and-hove-albion-crystal-palace
+12436451,16,Ended,1734283800,Manchester City,Manchester United,2,2,False,True,manchester-united-manchester-city
+12436461,16,Ended,1734291900,Chelsea,Brentford,2,1,True,False,brentford-chelsea
+12436458,16,Ended,1734286500,Southampton,Tottenham Hotspur,0,6,False,True,southampton-tottenham-hotspur
+12436465,16,Ended,1734372900,Bournemouth,West Ham United,2,2,True,True,bournemouth-west-ham-united
