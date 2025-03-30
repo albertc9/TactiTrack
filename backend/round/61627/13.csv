@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436501,13,Ended,1732904100,Brighton & Hove Albion,Southampton,2,2,True,False,southampton-brighton-and-hove-albion
-12436500,13,Ended,1732969800,Brentford,Leicester City,4,1,False,False,brentford-leicester-city
-12436502,13,Ended,1732985100,Crystal Palace,Newcastle United,2,1,False,True,newcastle-united-crystal-palace
-12436503,13,Ended,1732978800,Nottingham Forest,Ipswich Town,1,1,True,True,ipswich-town-nottingham-forest
-12436922,13,Ended,1732980600,Wolverhampton,Bournemouth,2,5,True,True,bournemouth-wolverhampton
-12436914,13,Ended,1732993200,West Ham United,Arsenal,2,5,False,True,arsenal-west-ham-united
-12436498,13,Ended,1733067900,Chelsea,Aston Villa,4,0,True,True,aston-villa-chelsea
-12436505,13,Ended,1733065200,Manchester United,Everton,4,0,True,False,everton-manchester-united
-12436507,13,Ended,1733067000,Tottenham Hotspur,Fulham,1,2,True,False,fulham-tottenham-hotspur
-12436504,13,Ended,1733069700,Liverpool,Manchester City,3,1,False,False,liverpool-manchester-city
+12436501,13,Ended,1732910400,Brighton & Hove Albion,Southampton,1,1,False,False,southampton-brighton-and-hove-albion
+12436500,13,Ended,1732969800,Brentford,Leicester City,5,1,False,False,brentford-leicester-city
+12436502,13,Ended,1732974300,Crystal Palace,Newcastle United,1,1,False,False,newcastle-united-crystal-palace
+12436503,13,Ended,1732969800,Nottingham Forest,Ipswich Town,2,0,True,True,ipswich-town-nottingham-forest
+12436922,13,Ended,1732972500,Wolverhampton,Bournemouth,3,4,False,True,bournemouth-wolverhampton
+12436914,13,Ended,1732994100,West Ham United,Arsenal,2,6,True,False,arsenal-west-ham-united
+12436498,13,Ended,1733066100,Chelsea,Aston Villa,4,1,False,False,aston-villa-chelsea
+12436505,13,Ended,1733056200,Manchester United,Everton,4,1,False,True,everton-manchester-united
+12436507,13,Ended,1733064300,Tottenham Hotspur,Fulham,1,2,True,False,fulham-tottenham-hotspur
+12436504,13,Ended,1733064300,Liverpool,Manchester City,2,1,True,True,liverpool-manchester-city
