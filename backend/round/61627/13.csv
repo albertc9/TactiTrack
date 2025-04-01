@@ -1,11 +1,11 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436501,13,Ended,1732903200,Brighton & Hove Albion,Southampton,2,2,True,True,southampton-brighton-and-hove-albion
-12436500,13,Ended,1732972500,Brentford,Leicester City,5,2,True,False,brentford-leicester-city
-12436502,13,Ended,1732969800,Crystal Palace,Newcastle United,1,2,False,True,newcastle-united-crystal-palace
-12436503,13,Ended,1732984200,Nottingham Forest,Ipswich Town,2,1,True,True,ipswich-town-nottingham-forest
-12436922,13,Ended,1732979700,Wolverhampton,Bournemouth,3,5,True,False,bournemouth-wolverhampton
-12436914,13,Ended,1732988700,West Ham United,Arsenal,2,5,True,True,arsenal-west-ham-united
-12436498,13,Ended,1733063400,Chelsea,Aston Villa,4,0,False,False,aston-villa-chelsea
-12436505,13,Ended,1733067900,Manchester United,Everton,5,1,True,False,everton-manchester-united
-12436507,13,Ended,1733056200,Tottenham Hotspur,Fulham,2,2,True,True,fulham-tottenham-hotspur
-12436504,13,Ended,1733076000,Liverpool,Manchester City,2,1,False,True,liverpool-manchester-city
+12436501,13,Ended,1732917600,Brighton & Hove Albion,Southampton,1,2,False,False,southampton-brighton-and-hove-albion
+12436500,13,Ended,1732973400,Brentford,Leicester City,5,2,False,True,brentford-leicester-city
+12436502,13,Ended,1732986000,Crystal Palace,Newcastle United,1,1,True,True,newcastle-united-crystal-palace
+12436503,13,Ended,1732973400,Nottingham Forest,Ipswich Town,2,0,False,False,ipswich-town-nottingham-forest
+12436922,13,Ended,1732971600,Wolverhampton,Bournemouth,2,5,False,False,bournemouth-wolverhampton
+12436914,13,Ended,1732986900,West Ham United,Arsenal,3,6,False,True,arsenal-west-ham-united
+12436498,13,Ended,1733061600,Chelsea,Aston Villa,3,0,True,False,aston-villa-chelsea
+12436505,13,Ended,1733063400,Manchester United,Everton,4,0,False,True,everton-manchester-united
+12436507,13,Ended,1733056200,Tottenham Hotspur,Fulham,2,2,False,False,fulham-tottenham-hotspur
+12436504,13,Ended,1733074200,Liverpool,Manchester City,2,0,True,False,liverpool-manchester-city

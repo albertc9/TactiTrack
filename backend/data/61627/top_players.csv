@@ -1,51 +1,51 @@
 Player,Team,Position,Rating,Appearances,User Count
-Mohamed Salah,Liverpool,M,7.85,16,391542
-Cole Palmer,Chelsea,M,8.82,18,265371
-Matheus Cunha,Wolverhampton,F,8.94,50,12926
-Bruno Fernandes,Manchester United,M,9.09,56,185464
-Bryan Mbeumo,Brentford,F,8.27,54,16197
-Mark Flekken,Brentford,G,6.67,18,2072
-Alexander Isak,Newcastle United,F,8.48,42,39693
-Heung-min Son,Tottenham Hotspur,F,8.56,4,143827
-Declan Rice,Arsenal,M,7.59,46,47601
-Phil Foden,Manchester City,M,8.21,18,227031
-Youri Tielemans,Aston Villa,M,6.46,20,8838
-Joško Gvardiol,Manchester City,D,8.75,28,56616
-Trent Alexander-Arnold,Liverpool,D,8.49,32,109259
-Enzo Fernández,Chelsea,M,5.88,30,119974
-Erling Haaland,Manchester City,F,6.09,42,484995
-Mikkel Damsgaard,Brentford,M,6.32,48,3153
-Mateo Kovačić,Manchester City,M,6.0,26,39361
-Alex Iwobi,Fulham,M,6.39,46,5373
-Martin Ødegaard,Arsenal,M,5.9,2,92990
-Dean Huijsen,Bournemouth,D,7.67,2,6696
-Morgan Gibbs-White,Nottingham Forest,M,7.89,44,4832
-James Tarkowski,Everton,D,8.18,44,1723
-Lewis Hall,Newcastle United,D,5.95,20,4447
-Gabriel Magalhães,Arsenal,D,7.53,20,29565
-Virgil van Dijk,Liverpool,D,6.56,56,108948
-Eberechi Eze,Crystal Palace,F,8.23,2,10669
-Justin Kluivert,Bournemouth,M,5.92,18,6517
-Bruno Guimarães,Newcastle United,M,5.94,28,35013
-Murillo,Nottingham Forest,D,7.4,24,8023
-Pedro Porro,Tottenham Hotspur,D,6.01,28,9182
-Moisés Caicedo,Chelsea,M,7.63,14,45179
-Antonee Robinson,Fulham,D,6.32,10,3428
-Alexis Mac Allister,Liverpool,M,7.72,6,73278
-Dominik Szoboszlai,Liverpool,M,6.85,44,61519
-Jordan Pickford,Everton,G,8.51,52,6286
-Nathan Collins,Brentford,D,8.51,46,1258
-Callum Hudson-Odoi,Nottingham Forest,M,7.2,6,11125
-Kepa Arrizabalaga,Bournemouth,G,6.56,8,29525
-João Pedro,Brighton & Hove Albion,F,7.09,4,14343
-Antoine Semenyo,Bournemouth,M,8.23,44,6704
-Jarrod Bowen,West Ham United,M,8.58,10,8776
-Luis Díaz,Liverpool,F,6.06,50,105706
-Anthony Gordon,Newcastle United,F,6.19,18,12182
-Thomas Partey,Arsenal,M,6.46,42,52362
-Matz Sels,Nottingham Forest,G,6.03,38,1879
-Marc Guéhi,Crystal Palace,D,6.24,52,3915
-Yoane Wissa,Brentford,F,7.37,48,15023
-Ibrahima Konaté,Liverpool,D,6.36,24,22400
-Nikola Milenković,Nottingham Forest,D,6.06,24,5077
-Bernardo Silva,Manchester City,M,8.1,20,87819
+Mohamed Salah,Liverpool,M,8.23,52,391542
+Cole Palmer,Chelsea,M,6.83,0,265371
+Matheus Cunha,Wolverhampton,F,7.67,44,12926
+Bruno Fernandes,Manchester United,M,7.73,46,185464
+Bryan Mbeumo,Brentford,F,7.01,14,16197
+Mark Flekken,Brentford,G,6.64,42,2072
+Alexander Isak,Newcastle United,F,6.09,24,39693
+Heung-min Son,Tottenham Hotspur,F,6.8,42,143827
+Declan Rice,Arsenal,M,8.65,32,47601
+Phil Foden,Manchester City,M,6.86,26,227031
+Youri Tielemans,Aston Villa,M,8.36,2,8838
+Joško Gvardiol,Manchester City,D,6.6,50,56616
+Trent Alexander-Arnold,Liverpool,D,8.69,10,109259
+Enzo Fernández,Chelsea,M,7.23,4,119974
+Erling Haaland,Manchester City,F,7.33,10,484995
+Mikkel Damsgaard,Brentford,M,6.1,22,3153
+Mateo Kovačić,Manchester City,M,5.86,18,39361
+Alex Iwobi,Fulham,M,6.36,6,5373
+Martin Ødegaard,Arsenal,M,7.12,30,92990
+Dean Huijsen,Bournemouth,D,8.67,44,6696
+Morgan Gibbs-White,Nottingham Forest,M,7.26,16,4832
+James Tarkowski,Everton,D,8.36,52,1723
+Lewis Hall,Newcastle United,D,8.53,44,4447
+Gabriel Magalhães,Arsenal,D,6.07,52,29565
+Virgil van Dijk,Liverpool,D,8.26,24,108948
+Eberechi Eze,Crystal Palace,F,6.25,28,10669
+Justin Kluivert,Bournemouth,M,7.53,54,6517
+Bruno Guimarães,Newcastle United,M,7.11,12,35013
+Murillo,Nottingham Forest,D,8.56,38,8023
+Pedro Porro,Tottenham Hotspur,D,6.32,12,9182
+Moisés Caicedo,Chelsea,M,7.41,56,45179
+Antonee Robinson,Fulham,D,8.61,34,3428
+Alexis Mac Allister,Liverpool,M,7.25,26,73278
+Dominik Szoboszlai,Liverpool,M,5.87,38,61519
+Jordan Pickford,Everton,G,6.88,18,6286
+Nathan Collins,Brentford,D,6.75,30,1258
+Callum Hudson-Odoi,Nottingham Forest,M,5.98,24,11125
+Kepa Arrizabalaga,Bournemouth,G,6.78,36,29525
+João Pedro,Brighton & Hove Albion,F,7.82,14,14343
+Antoine Semenyo,Bournemouth,M,6.08,30,6704
+Jarrod Bowen,West Ham United,M,6.07,0,8776
+Luis Díaz,Liverpool,F,6.97,54,105706
+Anthony Gordon,Newcastle United,F,8.1,6,12182
+Thomas Partey,Arsenal,M,5.96,52,52362
+Matz Sels,Nottingham Forest,G,7.69,34,1879
+Marc Guéhi,Crystal Palace,D,7.35,2,3915
+Yoane Wissa,Brentford,F,8.39,40,15023
+Ibrahima Konaté,Liverpool,D,7.82,42,22400
+Nikola Milenković,Nottingham Forest,D,8.14,8,5077
+Bernardo Silva,Manchester City,M,6.48,34,87819
