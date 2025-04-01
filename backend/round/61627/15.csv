@@ -1,12 +1,12 @@
 Match ID,Round,Status,Start Timestamp,Home Team,Away Team,Home Score,Away Score,Final Result Only,Has XG Data,Slug
-12436452,15,Postponed,1733567400,Everton,Liverpool,N/A,N/A,True,False,everton-liverpool
-12436990,15,Ended,1733584500,Aston Villa,Southampton,2,1,True,False,southampton-aston-villa
-12436450,15,Ended,1733581800,Brentford,Newcastle United,5,3,False,True,brentford-newcastle-united
-12436445,15,Ended,1733583600,Crystal Palace,Manchester City,3,3,True,True,manchester-city-crystal-palace
-12436449,15,Ended,1733588100,Manchester United,Nottingham Forest,2,3,True,True,manchester-united-nottingham-forest
-12436459,15,Ended,1733671800,Fulham,Arsenal,2,2,False,True,fulham-arsenal
-12436462,15,Ended,1733659200,Ipswich Town,Bournemouth,2,2,False,False,bournemouth-ipswich-town
-12436444,15,Ended,1733674500,Leicester City,Brighton & Hove Albion,2,2,False,True,leicester-city-brighton-and-hove-albion
-12436441,15,Ended,1733666400,Tottenham Hotspur,Chelsea,4,4,True,False,chelsea-tottenham-hotspur
-12436454,15,Ended,1733782500,West Ham United,Wolverhampton,3,1,False,True,west-ham-united-wolverhampton
-13344418,15,Ended,1739391300,Everton,Liverpool,2,3,True,True,everton-liverpool
+12436452,15,Postponed,1733566500,Everton,Liverpool,N/A,N/A,False,False,everton-liverpool
+12436990,15,Ended,1733582700,Aston Villa,Southampton,1,0,True,True,southampton-aston-villa
+12436450,15,Ended,1733590800,Brentford,Newcastle United,4,2,False,False,brentford-newcastle-united
+12436445,15,Ended,1733585400,Crystal Palace,Manchester City,3,3,False,True,manchester-city-crystal-palace
+12436449,15,Ended,1733585400,Manchester United,Nottingham Forest,2,4,True,False,manchester-united-nottingham-forest
+12436459,15,Ended,1733659200,Fulham,Arsenal,1,2,False,True,fulham-arsenal
+12436462,15,Ended,1733660100,Ipswich Town,Bournemouth,1,2,False,False,bournemouth-ipswich-town
+12436444,15,Ended,1733675400,Leicester City,Brighton & Hove Albion,2,3,True,False,leicester-city-brighton-and-hove-albion
+12436441,15,Ended,1733681700,Tottenham Hotspur,Chelsea,4,5,False,False,chelsea-tottenham-hotspur
+12436454,15,Ended,1733771700,West Ham United,Wolverhampton,2,1,False,True,west-ham-united-wolverhampton
+13344418,15,Ended,1739386800,Everton,Liverpool,3,2,True,False,everton-liverpool
